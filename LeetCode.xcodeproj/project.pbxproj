@@ -16,6 +16,8 @@
 		ADC46DB028A922C7003B926E /* NumberOfStepsRoReduceANumberToZero.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC46DAF28A922C7003B926E /* NumberOfStepsRoReduceANumberToZero.swift */; };
 		ADD5D3F328A3120A00BD5BCC /* RansomNote.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD5D3E628A3114600BD5BCC /* RansomNote.swift */; };
 		ADD5D3F528A3147200BD5BCC /* PalindromeLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD5D3F428A3147200BD5BCC /* PalindromeLinkedList.swift */; };
+		ADF9806A28AC0309004BB6EC /* RunningSumOf1dArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF9806928AC0309004BB6EC /* RunningSumOf1dArray.swift */; };
+		ADF9806C28AC03CF004BB6EC /* FindPivotIndex.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF9806B28AC03CF004BB6EC /* FindPivotIndex.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +31,8 @@
 		ADD5D3E628A3114600BD5BCC /* RansomNote.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RansomNote.swift; sourceTree = "<group>"; };
 		ADD5D3EC28A3120600BD5BCC /* testLeetcode.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testLeetcode.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		ADD5D3F428A3147200BD5BCC /* PalindromeLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalindromeLinkedList.swift; sourceTree = "<group>"; };
+		ADF9806928AC0309004BB6EC /* RunningSumOf1dArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RunningSumOf1dArray.swift; sourceTree = "<group>"; };
+		ADF9806B28AC03CF004BB6EC /* FindPivotIndex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindPivotIndex.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +82,8 @@
 				AD4BDEB028A7E03200E61565 /* TheKWeakestRowsInAMatrix.swift */,
 				ADC46DAF28A922C7003B926E /* NumberOfStepsRoReduceANumberToZero.swift */,
 				AD2A46D828AA9C9E009C45A8 /* RichestCustomerWealth.swift */,
+				ADF9806928AC0309004BB6EC /* RunningSumOf1dArray.swift */,
+				ADF9806B28AC03CF004BB6EC /* FindPivotIndex.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -151,10 +157,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				AD4BDEAC28A7DE3200E61565 /* MiddleOfTheLinkedList.swift in Sources */,
+				ADF9806C28AC03CF004BB6EC /* FindPivotIndex.swift in Sources */,
 				ADD5D3F328A3120A00BD5BCC /* RansomNote.swift in Sources */,
 				AD4BDEA828A7DAB300E61565 /* RomanToInteger.swift in Sources */,
 				ADD5D3F528A3147200BD5BCC /* PalindromeLinkedList.swift in Sources */,
 				AD4BDEB128A7E03200E61565 /* TheKWeakestRowsInAMatrix.swift in Sources */,
+				ADF9806A28AC0309004BB6EC /* RunningSumOf1dArray.swift in Sources */,
 				AD2A46D928AA9C9E009C45A8 /* RichestCustomerWealth.swift in Sources */,
 				AD4BDEAA28A7DDA700E61565 /* FizzBuzz.swift in Sources */,
 				ADC46DB028A922C7003B926E /* NumberOfStepsRoReduceANumberToZero.swift in Sources */,
