@@ -21,6 +21,8 @@
 		ADC5B13928AD5A00002FED4E /* IsSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC5B13828AD5A00002FED4E /* IsSubsequence.swift */; };
 		ADD5D3F328A3120A00BD5BCC /* RansomNote.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD5D3E628A3114600BD5BCC /* RansomNote.swift */; };
 		ADD5D3F528A3147200BD5BCC /* PalindromeLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD5D3F428A3147200BD5BCC /* PalindromeLinkedList.swift */; };
+		ADE175DC28B117420022F308 /* BestTimeToBuyAndSellStock.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE175DB28B117420022F308 /* BestTimeToBuyAndSellStock.swift */; };
+		ADE175DE28B1262A0022F308 /* LongestPalindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE175DD28B1262A0022F308 /* LongestPalindrome.swift */; };
 		ADF9806A28AC0309004BB6EC /* RunningSumOf1dArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF9806928AC0309004BB6EC /* RunningSumOf1dArray.swift */; };
 		ADF9806C28AC03CF004BB6EC /* FindPivotIndex.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF9806B28AC03CF004BB6EC /* FindPivotIndex.swift */; };
 /* End PBXBuildFile section */
@@ -41,6 +43,8 @@
 		ADD5D3E628A3114600BD5BCC /* RansomNote.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RansomNote.swift; sourceTree = "<group>"; };
 		ADD5D3EC28A3120600BD5BCC /* testLeetcode.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testLeetcode.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		ADD5D3F428A3147200BD5BCC /* PalindromeLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalindromeLinkedList.swift; sourceTree = "<group>"; };
+		ADE175DB28B117420022F308 /* BestTimeToBuyAndSellStock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BestTimeToBuyAndSellStock.swift; sourceTree = "<group>"; };
+		ADE175DD28B1262A0022F308 /* LongestPalindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestPalindrome.swift; sourceTree = "<group>"; };
 		ADF9806928AC0309004BB6EC /* RunningSumOf1dArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RunningSumOf1dArray.swift; sourceTree = "<group>"; };
 		ADF9806B28AC03CF004BB6EC /* FindPivotIndex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindPivotIndex.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -88,6 +92,8 @@
 				ADD5D3F428A3147200BD5BCC /* PalindromeLinkedList.swift */,
 				AD4BDEA728A7DAB300E61565 /* RomanToInteger.swift */,
 				AD4BDEA928A7DDA700E61565 /* FizzBuzz.swift */,
+				ADE175DB28B117420022F308 /* BestTimeToBuyAndSellStock.swift */,
+				ADE175DD28B1262A0022F308 /* LongestPalindrome.swift */,
 				AD4BDEAB28A7DE3200E61565 /* MiddleOfTheLinkedList.swift */,
 				AD9B070628B049DF00ADFB43 /* LinkedListCycle2.swift */,
 				AD4BDEB028A7E03200E61565 /* TheKWeakestRowsInAMatrix.swift */,
@@ -175,6 +181,8 @@
 				AD4BDEAC28A7DE3200E61565 /* MiddleOfTheLinkedList.swift in Sources */,
 				ADF9806C28AC03CF004BB6EC /* FindPivotIndex.swift in Sources */,
 				ADD5D3F328A3120A00BD5BCC /* RansomNote.swift in Sources */,
+				ADE175DC28B117420022F308 /* BestTimeToBuyAndSellStock.swift in Sources */,
+				ADE175DE28B1262A0022F308 /* LongestPalindrome.swift in Sources */,
 				AD4BDEA828A7DAB300E61565 /* RomanToInteger.swift in Sources */,
 				ADD5D3F528A3147200BD5BCC /* PalindromeLinkedList.swift in Sources */,
 				AD9B070728B049DF00ADFB43 /* LinkedListCycle2.swift in Sources */,
