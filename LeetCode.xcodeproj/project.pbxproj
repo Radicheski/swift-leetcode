@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		AD00F44628B96F2600A77B9C /* MinCostClimbingStairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD00F44528B96F2600A77B9C /* MinCostClimbingStairs.swift */; };
 		AD00F44828B96FB900A77B9C /* UniquePaths.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD00F44728B96FB900A77B9C /* UniquePaths.swift */; };
+		AD1BBB5628BB832B000032DD /* TwoSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1BBB5528BB832B000032DD /* TwoSum.swift */; };
+		AD1BBB5828BB83CD000032DD /* BullsAndCows.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1BBB5728BB83CD000032DD /* BullsAndCows.swift */; };
 		AD2A46D928AA9C9E009C45A8 /* RichestCustomerWealth.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2A46D828AA9C9E009C45A8 /* RichestCustomerWealth.swift */; };
 		AD2FF7A528B506F90027AFB6 /* ValidateBinarySearchTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2FF7A428B506F90027AFB6 /* ValidateBinarySearchTree.swift */; };
 		AD2FF7A728B50D3F0027AFB6 /* LowestCommonAncestorOfABinarySearchTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2FF7A628B50D3F0027AFB6 /* LowestCommonAncestorOfABinarySearchTree.swift */; };
@@ -46,6 +48,8 @@
 /* Begin PBXFileReference section */
 		AD00F44528B96F2600A77B9C /* MinCostClimbingStairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinCostClimbingStairs.swift; sourceTree = "<group>"; };
 		AD00F44728B96FB900A77B9C /* UniquePaths.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniquePaths.swift; sourceTree = "<group>"; };
+		AD1BBB5528BB832B000032DD /* TwoSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSum.swift; sourceTree = "<group>"; };
+		AD1BBB5728BB83CD000032DD /* BullsAndCows.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BullsAndCows.swift; sourceTree = "<group>"; };
 		AD2A46D828AA9C9E009C45A8 /* RichestCustomerWealth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RichestCustomerWealth.swift; sourceTree = "<group>"; };
 		AD2FF7A428B506F90027AFB6 /* ValidateBinarySearchTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidateBinarySearchTree.swift; sourceTree = "<group>"; };
 		AD2FF7A628B50D3F0027AFB6 /* LowestCommonAncestorOfABinarySearchTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LowestCommonAncestorOfABinarySearchTree.swift; sourceTree = "<group>"; };
@@ -129,6 +133,8 @@
 				AD4BDEA928A7DDA700E61565 /* FizzBuzz.swift */,
 				ADE175DB28B117420022F308 /* BestTimeToBuyAndSellStock.swift */,
 				ADB53A3928BA4AB300C937F7 /* FindAllAnagramsInAString.swift */,
+				AD1BBB5528BB832B000032DD /* TwoSum.swift */,
+				AD1BBB5728BB83CD000032DD /* BullsAndCows.swift */,
 				AD00F44528B96F2600A77B9C /* MinCostClimbingStairs.swift */,
 				AD00F44728B96FB900A77B9C /* UniquePaths.swift */,
 				ADE175DD28B1262A0022F308 /* LongestPalindrome.swift */,
@@ -235,9 +241,11 @@
 				ADD5D3F328A3120A00BD5BCC /* RansomNote.swift in Sources */,
 				ADE175DC28B117420022F308 /* BestTimeToBuyAndSellStock.swift in Sources */,
 				ADE175DE28B1262A0022F308 /* LongestPalindrome.swift in Sources */,
+				AD1BBB5628BB832B000032DD /* TwoSum.swift in Sources */,
 				AD4BDEA828A7DAB300E61565 /* RomanToInteger.swift in Sources */,
 				ADB53A3A28BA4AB300C937F7 /* FindAllAnagramsInAString.swift in Sources */,
 				AD00F44628B96F2600A77B9C /* MinCostClimbingStairs.swift in Sources */,
+				AD1BBB5828BB83CD000032DD /* BullsAndCows.swift in Sources */,
 				AD5CBBE628B251A500495544 /* Node.swift in Sources */,
 				ADD5D3F528A3147200BD5BCC /* PalindromeLinkedList.swift in Sources */,
 				AD9B070728B049DF00ADFB43 /* LinkedListCycle2.swift in Sources */,
