@@ -21,14 +21,12 @@ class TwoSum: XCTestCase {
 
 private class Solution {
     func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
-        for (firstIndex, number) in nums.enumerated() {
-            
-            let otherNumber = target - number
-            if let secondIndex = nums.lastIndex(of: otherNumber),
-               firstIndex != secondIndex {
-                return [firstIndex, secondIndex]
+        for firstIndex in 0 ..< nums.count {
+            for secondIndex in firstIndex + 1 ..< nums.count {
+                if nums[firstIndex] + nums[secondIndex] == target {
+                    return [firstIndex, secondIndex]
+                }
             }
-            
         }
         
         return []
