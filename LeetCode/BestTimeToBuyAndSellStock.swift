@@ -20,26 +20,22 @@ class BestTimeToBuyAndSellStock: XCTestCase {
 
 private class Solution {
     func maxProfit(_ prices: [Int]) -> Int {
-        let prices = prices.enumerated().sorted { $0.element < $1.element }
-        let reversedPrices = prices.reversed()
-        var profit = 0
+        var buyPrice = 1000000 // Greater than maximum input value
+        var sellPrice = -1 // Lesser than minimum input value
+        
+        var result = 0
         
         for element in prices {
-            let buyPrice = element.element
-            
-            for reverseElement in reversedPrices {
-                if reverseElement.offset < element.offset {
-                    continue
-                } else if reverseElement.offset == element.offset {
-                    break
-                } else if reverseElement.offset > element.offset {
-                    let sellPrice = reverseElement.element
-                    profit = max(profit, sellPrice - buyPrice)
-                    break
-                }
+            if element < buyPrice {
+                buyPrice = element
+                sellPrice = -1
+            } else if element > sellPrice {
+                sellPrice = element
             }
+            
+            result = max(result, sellPrice - buyPrice)
         }
         
-        return profit
+        return result
     }
 }
