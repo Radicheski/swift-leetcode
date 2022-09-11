@@ -29,3 +29,25 @@ extension ListNode: Equatable {
     }
 
 }
+
+extension ListNode {
+    
+    public static func createTestCase(_ array: [Int], _ pos: Int) -> (head: ListNode?, cycle: ListNode?) {
+        var head, previous, current, cycle: ListNode?
+        
+        for index in 0..<array.count{
+            current = ListNode(array[index])
+            
+            if index == 0 { head = current }
+            if index == pos { cycle = current }
+            
+            previous?.next = current
+            previous = current
+        }
+        
+        current?.next = cycle
+        
+        return (head, cycle)
+    }
+    
+}

@@ -41,7 +41,7 @@ private class Solution {
             for index in nextIndex ..< nums1.count {
                 if (index >= m + count && nums1[index] == 0) || element < nums1[index] {
                     nums1.insert(element, at: index)
-                    nums1.popLast()
+                    let _ = nums1.popLast()
                     nextIndex = index + 1
                     break
                 }

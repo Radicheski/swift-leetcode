@@ -10,7 +10,7 @@ import XCTest
 class RemoveLinkedListElements: XCTestCase {
 
     func test() {
-        let solution = Solution()
+        
     }
 
 }

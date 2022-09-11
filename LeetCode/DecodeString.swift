@@ -35,7 +35,7 @@ private class Solution {
         var string = s
         string.removeLast()
         
-        var strings = string.split(separator: "[").map { String($0) }
+        let strings = string.split(separator: "[").map { String($0) }
         let count = Int(strings[0])
         
         return String(repeating: strings[1], count: count!)

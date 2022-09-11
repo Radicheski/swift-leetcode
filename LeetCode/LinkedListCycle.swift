@@ -12,9 +12,16 @@ class LinkedListCycle: XCTestCase {
     func test() {
         let solution = Solution()
         
-//        XCTAssertTrue(solution.hasCycle([3, 2, 0, -4]))
-//        XCTAssertTrue(solution.hasCycle([1, 2]))
-//        XCTAssertTrue(solution.hasCycle([1]))
+        var input: ListNode?
+        
+        input = ListNode.createTestCase([3, 2, 0, -4], 1).head
+        XCTAssertTrue(solution.hasCycle(input))
+        
+        input = ListNode.createTestCase([1, 2], 0).head
+        XCTAssertTrue(solution.hasCycle(input))
+        
+        input = ListNode.createTestCase([1], -1).head
+        XCTAssertFalse(solution.hasCycle(input))
     }
 
 }
