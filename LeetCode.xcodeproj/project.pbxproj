@@ -68,6 +68,7 @@
 		ADEE310728B7A6BE00448525 /* ClimbingStairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEE310628B7A6BE00448525 /* ClimbingStairs.swift */; };
 		ADF58E1028C622D7000E08DB /* FirstUniqueCharacterInAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF58E0F28C622D7000E08DB /* FirstUniqueCharacterInAString.swift */; };
 		ADF58E1228C6236D000E08DB /* ValidAnagram.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF58E1128C6236D000E08DB /* ValidAnagram.swift */; };
+		ADF5BF6F28CF7A3F00668B2D /* ListNodeTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF5BF6E28CF7A3F00668B2D /* ListNodeTest.swift */; };
 		ADF865EF28C224C700885B7A /* IntersectionOfTwoArrays2.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF865EE28C224C700885B7A /* IntersectionOfTwoArrays2.swift */; };
 		ADF9806A28AC0309004BB6EC /* RunningSumOf1dArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF9806928AC0309004BB6EC /* RunningSumOf1dArray.swift */; };
 		ADF9806C28AC03CF004BB6EC /* FindPivotIndex.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF9806B28AC03CF004BB6EC /* FindPivotIndex.swift */; };
@@ -136,6 +137,7 @@
 		ADEE310628B7A6BE00448525 /* ClimbingStairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClimbingStairs.swift; sourceTree = "<group>"; };
 		ADF58E0F28C622D7000E08DB /* FirstUniqueCharacterInAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstUniqueCharacterInAString.swift; sourceTree = "<group>"; };
 		ADF58E1128C6236D000E08DB /* ValidAnagram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidAnagram.swift; sourceTree = "<group>"; };
+		ADF5BF6E28CF7A3F00668B2D /* ListNodeTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListNodeTest.swift; sourceTree = "<group>"; };
 		ADF865EE28C224C700885B7A /* IntersectionOfTwoArrays2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntersectionOfTwoArrays2.swift; sourceTree = "<group>"; };
 		ADF9806928AC0309004BB6EC /* RunningSumOf1dArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RunningSumOf1dArray.swift; sourceTree = "<group>"; };
 		ADF9806B28AC03CF004BB6EC /* FindPivotIndex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindPivotIndex.swift; sourceTree = "<group>"; };
@@ -156,6 +158,7 @@
 			isa = PBXGroup;
 			children = (
 				AD4BDEAE28A7DF2F00E61565 /* ListNode.swift */,
+				ADF5BF6E28CF7A3F00668B2D /* ListNodeTest.swift */,
 				AD5CBBE528B251A500495544 /* Node.swift */,
 				AD5CBBEB28B254A000495544 /* TreeNode.swift */,
 			);
@@ -345,6 +348,7 @@
 				ADD5D3F528A3147200BD5BCC /* PalindromeLinkedList.swift in Sources */,
 				ADEB5A6428CB7792004D8EAC /* BinaryTreePostorderTraversal.swift in Sources */,
 				ADD9772228C7BED80028FCB0 /* RemoveLinkedListElements.swift in Sources */,
+				ADF5BF6F28CF7A3F00668B2D /* ListNodeTest.swift in Sources */,
 				AD9B070728B049DF00ADFB43 /* LinkedListCycle2.swift in Sources */,
 				AD4BDEB128A7E03200E61565 /* TheKWeakestRowsInAMatrix.swift in Sources */,
 				ADF865EF28C224C700885B7A /* IntersectionOfTwoArrays2.swift in Sources */,

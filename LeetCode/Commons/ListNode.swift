@@ -50,4 +50,32 @@ extension ListNode {
         return (head, cycle)
     }
     
+    public static func isEqual(_ listA: ListNode?, _ listB: ListNode?) -> Bool {
+        guard listA != nil, listB != nil else { return listA == listB }
+        
+        var nodeA = listA
+        var nodeB = listB
+        
+        var arrayA = [ListNode?]()
+        var arrayB = [ListNode?]()
+        
+        while nodeA != nil && nodeB != nil {
+            if nodeA?.val != nodeB?.val { return false }
+            
+            if let cycleA = arrayA.firstIndex(where: { $0 === nodeA } ),
+               let cycleB = arrayB.firstIndex(where: { $0 === nodeB } ),
+               cycleA == cycleB {
+                return true
+            }
+            
+            arrayA.append(nodeA)
+            arrayB.append(nodeB)
+            
+            nodeA = nodeA?.next
+            nodeB = nodeB?.next
+        }
+        
+        return nodeA == nil && nodeB == nil
+    }
+    
 }
