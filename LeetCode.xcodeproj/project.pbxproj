@@ -16,6 +16,8 @@
 		AD2A46D928AA9C9E009C45A8 /* RichestCustomerWealth.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2A46D828AA9C9E009C45A8 /* RichestCustomerWealth.swift */; };
 		AD2FF7A528B506F90027AFB6 /* ValidateBinarySearchTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2FF7A428B506F90027AFB6 /* ValidateBinarySearchTree.swift */; };
 		AD2FF7A728B50D3F0027AFB6 /* LowestCommonAncestorOfABinarySearchTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2FF7A628B50D3F0027AFB6 /* LowestCommonAncestorOfABinarySearchTree.swift */; };
+		AD39B0C928CF4B05008FECE7 /* SearchInABinarySearchTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD39B0C828CF4B05008FECE7 /* SearchInABinarySearchTree.swift */; };
+		AD39B0CB28CF4B7B008FECE7 /* InsertIntoABinarySearchTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD39B0CA28CF4B7B008FECE7 /* InsertIntoABinarySearchTree.swift */; };
 		AD4BDEA828A7DAB300E61565 /* RomanToInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4BDEA728A7DAB300E61565 /* RomanToInteger.swift */; };
 		AD4BDEAA28A7DDA700E61565 /* FizzBuzz.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4BDEA928A7DDA700E61565 /* FizzBuzz.swift */; };
 		AD4BDEAC28A7DE3200E61565 /* MiddleOfTheLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4BDEAB28A7DE3200E61565 /* MiddleOfTheLinkedList.swift */; };
@@ -81,6 +83,8 @@
 		AD2A46D828AA9C9E009C45A8 /* RichestCustomerWealth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RichestCustomerWealth.swift; sourceTree = "<group>"; };
 		AD2FF7A428B506F90027AFB6 /* ValidateBinarySearchTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidateBinarySearchTree.swift; sourceTree = "<group>"; };
 		AD2FF7A628B50D3F0027AFB6 /* LowestCommonAncestorOfABinarySearchTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LowestCommonAncestorOfABinarySearchTree.swift; sourceTree = "<group>"; };
+		AD39B0C828CF4B05008FECE7 /* SearchInABinarySearchTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchInABinarySearchTree.swift; sourceTree = "<group>"; };
+		AD39B0CA28CF4B7B008FECE7 /* InsertIntoABinarySearchTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsertIntoABinarySearchTree.swift; sourceTree = "<group>"; };
 		AD4BDEA728A7DAB300E61565 /* RomanToInteger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RomanToInteger.swift; sourceTree = "<group>"; };
 		AD4BDEA928A7DDA700E61565 /* FizzBuzz.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FizzBuzz.swift; sourceTree = "<group>"; };
 		AD4BDEAB28A7DE3200E61565 /* MiddleOfTheLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MiddleOfTheLinkedList.swift; sourceTree = "<group>"; };
@@ -197,6 +201,7 @@
 				AD4BDEA928A7DDA700E61565 /* FizzBuzz.swift */,
 				AD820F5828B6529700BA068E /* FloodFill.swift */,
 				AD844B0E28CA20F4008E1AEF /* ImplementQueueUsingStacks.swift */,
+				AD39B0CA28CF4B7B008FECE7 /* InsertIntoABinarySearchTree.swift */,
 				ADF865EE28C224C700885B7A /* IntersectionOfTwoArrays2.swift */,
 				AD7DC46328CE023F00631E4A /* InvertBinaryTree.swift */,
 				ADC5B13628AD5102002FED4E /* IsomorphicStrings.swift */,
@@ -228,6 +233,7 @@
 				AD4BDEA728A7DAB300E61565 /* RomanToInteger.swift */,
 				ADF9806928AC0309004BB6EC /* RunningSumOf1dArray.swift */,
 				AD90565428C4C71600886275 /* SearchA2DMatrix.swift */,
+				AD39B0C828CF4B05008FECE7 /* SearchInABinarySearchTree.swift */,
 				ADA4798C28CCCFF900C23FF0 /* SymmetricTree.swift */,
 				AD4BDEB028A7E03200E61565 /* TheKWeakestRowsInAMatrix.swift */,
 				AD0AC56C28BE38C100D4608C /* TopKFrequentWords.swift */,
@@ -314,6 +320,7 @@
 				AD88EE2528AF13C3007E3D7C /* ReverseLinkedList.swift in Sources */,
 				ADA4798D28CCCFF900C23FF0 /* SymmetricTree.swift in Sources */,
 				AD90565528C4C71600886275 /* SearchA2DMatrix.swift in Sources */,
+				AD39B0CB28CF4B7B008FECE7 /* InsertIntoABinarySearchTree.swift in Sources */,
 				AD4BDEAC28A7DE3200E61565 /* MiddleOfTheLinkedList.swift in Sources */,
 				ADEE310728B7A6BE00448525 /* ClimbingStairs.swift in Sources */,
 				AD00F44828B96FB900A77B9C /* UniquePaths.swift in Sources */,
@@ -355,6 +362,7 @@
 				AD4BDEAA28A7DDA700E61565 /* FizzBuzz.swift in Sources */,
 				ADDCF94928BCD57200E7CA46 /* BackspaceStringCompare.swift in Sources */,
 				ADC5B13728AD5102002FED4E /* IsomorphicStrings.swift in Sources */,
+				AD39B0C928CF4B05008FECE7 /* SearchInABinarySearchTree.swift in Sources */,
 				AD5CBBEC28B254A000495544 /* TreeNode.swift in Sources */,
 				ADC46DB028A922C7003B926E /* NumberOfStepsRoReduceANumberToZero.swift in Sources */,
 				AD7DC46628CE02A600631E4A /* PathSum.swift in Sources */,
