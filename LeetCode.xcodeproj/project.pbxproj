@@ -73,6 +73,7 @@
 		ADF865EF28C224C700885B7A /* IntersectionOfTwoArrays2.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF865EE28C224C700885B7A /* IntersectionOfTwoArrays2.swift */; };
 		ADF9806A28AC0309004BB6EC /* RunningSumOf1dArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF9806928AC0309004BB6EC /* RunningSumOf1dArray.swift */; };
 		ADF9806C28AC03CF004BB6EC /* FindPivotIndex.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF9806B28AC03CF004BB6EC /* FindPivotIndex.swift */; };
+		ADFE121528D1EA470063013C /* SearchInsertPosition.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADFE121428D1EA470063013C /* SearchInsertPosition.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -143,6 +144,7 @@
 		ADF865EE28C224C700885B7A /* IntersectionOfTwoArrays2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntersectionOfTwoArrays2.swift; sourceTree = "<group>"; };
 		ADF9806928AC0309004BB6EC /* RunningSumOf1dArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RunningSumOf1dArray.swift; sourceTree = "<group>"; };
 		ADF9806B28AC03CF004BB6EC /* FindPivotIndex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindPivotIndex.swift; sourceTree = "<group>"; };
+		ADFE121428D1EA470063013C /* SearchInsertPosition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchInsertPosition.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -239,6 +241,7 @@
 				ADF9806928AC0309004BB6EC /* RunningSumOf1dArray.swift */,
 				AD90565428C4C71600886275 /* SearchA2DMatrix.swift */,
 				AD39B0C828CF4B05008FECE7 /* SearchInABinarySearchTree.swift */,
+				ADFE121428D1EA470063013C /* SearchInsertPosition.swift */,
 				ADA4798C28CCCFF900C23FF0 /* SymmetricTree.swift */,
 				AD4BDEB028A7E03200E61565 /* TheKWeakestRowsInAMatrix.swift */,
 				AD0AC56C28BE38C100D4608C /* TopKFrequentWords.swift */,
@@ -281,7 +284,7 @@
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1340;
-				LastUpgradeCheck = 1340;
+				LastUpgradeCheck = 1400;
 				TargetAttributes = {
 					ADD5D3EB28A3120600BD5BCC = {
 						CreatedOnToolsVersion = 13.4.1;
@@ -380,6 +383,7 @@
 				ADBEEB6A28BF84F90069B4BB /* MaximumSubarray.swift in Sources */,
 				AD820F5928B6529700BA068E /* FloodFill.swift in Sources */,
 				AD0AC56B28BE385B00D4608C /* LastStoneWeight.swift in Sources */,
+				ADFE121528D1EA470063013C /* SearchInsertPosition.swift in Sources */,
 				AD967DDD28C36B3D005408E7 /* PascalsTriangle.swift in Sources */,
 				ADD9772028C7BD520028FCB0 /* LinkedListCycle.swift in Sources */,
 				AD844B0D28CA209C008E1AEF /* ValidParentheses.swift in Sources */,
@@ -426,6 +430,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
@@ -486,6 +491,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -511,6 +517,7 @@
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = S85L3BQN65;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
@@ -526,6 +533,7 @@
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = S85L3BQN65;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
