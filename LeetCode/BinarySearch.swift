@@ -8,11 +8,14 @@
 import XCTest
 
 class BinarySearch: XCTestCase {
+    
+    private let solution = Solution()
 
-    func test() {
-        let solution = Solution()
-        
+    func testExampleA() {
         XCTAssertEqual(solution.search([-1, 0, 3, 5, 9, 12], 9), 4)
+    }
+    
+    func testExampleB() {
         XCTAssertEqual(solution.search([-1, 0, 3, 5, 9, 12], 2), -1)
     }
 

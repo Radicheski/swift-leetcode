@@ -8,9 +8,17 @@
 import XCTest
 
 class MaximumDepthOfBinaryTree: XCTestCase {
-
-    func test() {
-        
+    
+    private let solution = Solution()
+    
+    func testExampleA() {
+        let root = TreeNode.parseTree(from: [3, 9, 20, nil, nil, 15, 7])
+        XCTAssertEqual(solution.maxDepth(root), 3)
+    }
+    
+    func testExampleB() {
+        let root = TreeNode.parseTree(from: [1, nil, 2])
+        XCTAssertEqual(solution.maxDepth(root), 2)
     }
 
 }

@@ -8,9 +8,28 @@
 import XCTest
 
 class InvertBinaryTree: XCTestCase {
-
-    func test() {
-        
+    
+    private let solution = Solution()
+    
+    func testExampleA() {
+        let root = TreeNode.parseTree(from: [4, 2, 7, 1, 3, 6, 9])
+        let output = solution.invertTree(root)
+        let expectedOutput = TreeNode.parseTree(from: [4, 7, 2, 9, 6, 3, 1])
+        XCTAssertTrue(TreeNode.isEqual(output, expectedOutput))
+    }
+    
+    func testExampleB() {
+        let root = TreeNode.parseTree(from: [2, 1, 3])
+        let output = solution.invertTree(root)
+        let expectedOutput = TreeNode.parseTree(from: [2, 3, 1])
+        XCTAssertTrue(TreeNode.isEqual(output, expectedOutput))
+    }
+    
+    func testExampleC() {
+        let root = TreeNode.parseTree(from: [])
+        let output = solution.invertTree(root)
+        let expectedOutput = TreeNode.parseTree(from: [])
+        XCTAssertTrue(TreeNode.isEqual(output, expectedOutput))
     }
 
 }

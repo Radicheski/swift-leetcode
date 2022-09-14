@@ -8,13 +8,15 @@
 import XCTest
 
 class FirstBadVersion: XCTestCase {
-
-    func test() {
-        let solution = Solution()
-        
+    
+    private let solution = Solution()
+    
+    func testExampleA() {
         solution.badVersion = 4
         XCTAssertEqual(solution.firstBadVersion(5), solution.badVersion)
-        
+    }
+    
+    func testExampleB() {
         solution.badVersion = 1
         XCTAssertEqual(solution.firstBadVersion(1), solution.badVersion)
     }

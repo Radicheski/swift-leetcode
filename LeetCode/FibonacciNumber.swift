@@ -8,15 +8,19 @@
 import XCTest
 
 class FibonacciNumber: XCTestCase {
-
-    func test() {
-        let solution = Solution()
-        
+    
+    private let solution = Solution()
+    
+    func testExampleA() {
         XCTAssertEqual(solution.fib(2), 1)
+    }
+    
+    func testExampleB() {
         XCTAssertEqual(solution.fib(3), 2)
+    }
+    
+    func testExampleC() {
         XCTAssertEqual(solution.fib(4), 3)
-        
-        XCTAssertEqual(solution.fib(30), 832040)
     }
 
 }

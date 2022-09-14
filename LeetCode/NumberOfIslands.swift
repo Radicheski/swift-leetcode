@@ -8,21 +8,21 @@
 import XCTest
 
 class NumberOfIslands: XCTestCase {
+    
+    private let solution = Solution()
 
-    func test() {
-        let solution = Solution()
-        
-        var input: [[Character]]
-        
-        input = [
+    func testExampleA() {
+        let input: [[Character]] = [
             ["1","1","1","1","0"],
             ["1","1","0","1","0"],
             ["1","1","0","0","0"],
             ["0","0","0","0","0"]
           ]
         XCTAssertEqual(solution.numIslands(input), 1)
-        
-        input = [
+    }
+    
+    func testExampleB() {
+        let input: [[Character]] = [
             ["1","1","0","0","0"],
             ["1","1","0","0","0"],
             ["0","0","1","0","0"],

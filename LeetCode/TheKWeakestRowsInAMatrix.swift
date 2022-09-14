@@ -8,24 +8,24 @@
 import XCTest
 
 class TheKWeakestRowsInAMatrix: XCTestCase {
-
-    func test() {
-        let solution = Solution()
-        var mat: [[Int]]
-
-        mat = [[1,1,0,0,0],
+    
+    private let solution = Solution()
+    
+    func testExampleA() {
+        let mat = [[1,1,0,0,0],
                [1,1,1,1,0],
                [1,0,0,0,0],
                [1,1,0,0,0],
                [1,1,1,1,1]]
         XCTAssertEqual([2, 0, 3], solution.kWeakestRows(mat, 3))
-
-        mat = [[1,0,0,0],
+    }
+    
+    func testExampleB() {
+        let mat = [[1,0,0,0],
                [1,1,1,1],
                [1,0,0,0],
                [1,0,0,0]]
         XCTAssertEqual([0, 2], solution.kWeakestRows(mat, 2))
-
     }
 
 }

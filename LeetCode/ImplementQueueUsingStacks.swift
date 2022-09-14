@@ -9,7 +9,23 @@ import XCTest
 
 class ImplementQueueUsingStacks: XCTestCase {
 
-    func test() {
+    func testExampleA() {
+        let operations = ["MyQueue", "push", "push", "peek", "pop", "empty"]
+        let arguments = [[], [1], [2], [], [], []]
+        let output: [Any?] = [nil, nil, nil, 1, 1, false]
+        
+        var queue: MyQueue?
+        
+        for index in 0 ..< operations.count {
+            switch operations[index] {
+            case "MyQueue": queue = MyQueue()
+            case "push": queue?.push(arguments[index].first!)
+            case "peek": XCTAssertEqual(queue?.peek(), output[index] as? Int)
+            case "pop": XCTAssertEqual(queue?.pop(), output[index] as? Int)
+            case "empty": XCTAssertEqual(queue?.empty(), output[index] as? Bool)
+            default: XCTFail()
+            }
+        }
         
     }
 
@@ -39,12 +55,3 @@ private class MyQueue {
         return queue.isEmpty
     }
 }
-
-/**
- * Your MyQueue object will be instantiated and called as such:
- * let obj = MyQueue()
- * obj.push(x)
- * let ret_2: Int = obj.pop()
- * let ret_3: Int = obj.peek()
- * let ret_4: Bool = obj.empty()
- */

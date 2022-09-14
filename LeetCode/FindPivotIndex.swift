@@ -8,12 +8,18 @@
 import XCTest
 
 class FindPivotIndex: XCTestCase {
-
-    func test() {
-        let solution = Solution()
-
+    
+    private let solution = Solution()
+    
+    func testExampleA() {
         XCTAssertEqual(3, solution.pivotIndex([1, 7, 3, 6, 5, 6]))
+    }
+    
+    func testExampleB() {
         XCTAssertEqual(-1, solution.pivotIndex([1 ,2, 3]))
+    }
+    
+    func testExampleC() {
         XCTAssertEqual(0, solution.pivotIndex([2, 1, -1]))
     }
 

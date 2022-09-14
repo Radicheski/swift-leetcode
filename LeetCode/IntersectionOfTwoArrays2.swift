@@ -8,11 +8,14 @@
 import XCTest
 
 class IntersectionOfTwoArrays2: XCTestCase {
-
-    func test() {
-        let solution = Solution()
-        
+    
+    private let solution = Solution()
+    
+    func testExampleA() {
         XCTAssertEqual(solution.intersect([1, 2, 2, 1], [2, 2]), [2, 2])
+    }
+    
+    func testExampleB() {
         XCTAssertEqual(solution.intersect([4, 9, 5], [9, 4, 9, 8, 4]), [4, 9])
     }
 

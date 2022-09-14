@@ -8,11 +8,14 @@
 import XCTest
 
 class ValidAnagram: XCTestCase {
-
-    func test() {
-        let solution = Solution()
-        
+    
+    private let solution = Solution()
+    
+    func testExampleA() {
         XCTAssertTrue(solution.isAnagram("anagram", "nagaram"))
+    }
+    
+    func testExampleB() {
         XCTAssertFalse(solution.isAnagram("rat", "car"))
     }
 

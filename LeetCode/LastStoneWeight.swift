@@ -8,11 +8,14 @@
 import XCTest
 
 class LastStoneWeight: XCTestCase {
-
-    func test() {
-        let solution = Solution()
-        
+    
+    private let solution = Solution()
+    
+    func testExampleA() {
         XCTAssertEqual(solution.lastStoneWeight([2, 7, 4, 1, 8, 1]), 1)
+    }
+    
+    func testExampleB() {
         XCTAssertEqual(solution.lastStoneWeight([1]), 1)
     }
 

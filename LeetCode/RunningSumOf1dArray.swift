@@ -8,12 +8,18 @@
 import XCTest
 
 class RunningSumOf1dArray: XCTestCase {
-
-    func test() {
-        let solution = Solution()
-
+    
+    private let solution = Solution()
+    
+    func testExampleA() {
         XCTAssertEqual([1, 3, 6, 10], solution.runningSum([1, 2, 3, 4]))
+    }
+    
+    func testExampleB() {
         XCTAssertEqual([1, 2, 3, 4, 5], solution.runningSum([1, 1, 1, 1, 1]))
+    }
+    
+    func testExampleC() {
         XCTAssertEqual([3, 4, 6, 16, 17], solution.runningSum([3, 1, 2, 10, 1]))
     }
 

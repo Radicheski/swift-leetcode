@@ -8,25 +8,26 @@
 import XCTest
 
 class MergeSortedArray: XCTestCase {
-
-    func test() {
-        let solution = Solution()
-        
-        var input1: [Int]
-        var input2: [Int]
-        
-        input1 = [1, 2, 3, 0, 0, 0]
-        input2 = [2, 5, 6]
+    
+    private let solution = Solution()
+    
+    func testExampleA() {
+        var input1 = [1, 2, 3, 0, 0, 0]
+        let input2 = [2, 5, 6]
         solution.merge(&input1, 3, input2, 3)
         XCTAssertEqual(input1, [1, 2, 2, 3, 5, 6])
-        
-        input1 = [1]
-        input2 = []
+    }
+    
+    func testExampleB() {
+        var input1 = [1]
+        let input2 = [Int]()
         solution.merge(&input1, 1, input2, 0)
         XCTAssertEqual(input1, [1])
-        
-        input1 = [0]
-        input2 = [1]
+    }
+    
+    func testExampleC() {
+        var input1 = [0]
+        let input2 = [1]
         solution.merge(&input1, 0, input2, 1)
         XCTAssertEqual(input1, [1])
     }

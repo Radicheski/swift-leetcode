@@ -8,12 +8,18 @@
 import XCTest
 
 class FirstUniqueCharacterInAString: XCTestCase {
-
-    func test() {
-        let solution = Solution()
-        
+    
+    private let solution = Solution()
+    
+    func testExampleA() {
         XCTAssertEqual(solution.firstUniqChar("leetcode"), 0)
+    }
+    
+    func testExampleB() {
         XCTAssertEqual(solution.firstUniqChar("loveleetcode"), 2)
+    }
+    
+    func testExampleC() {
         XCTAssertEqual(solution.firstUniqChar("aabb"), -1)
     }
 

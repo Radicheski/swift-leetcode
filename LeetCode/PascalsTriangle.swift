@@ -8,14 +8,17 @@
 import XCTest
 
 class PascalsTriangle: XCTestCase {
-
-    func test() {
-        let solution = Solution()
-        
+    
+    private let solution = Solution()
+    
+    func testExampleA() {
         XCTAssertEqual(solution.generate(5), [[1], [1, 1], [1, 2, 1], [1, 3, 3, 1], [1, 4, 6, 4, 1]])
-        XCTAssertEqual(solution.generate(1), [[1]])
     }
 
+    func testExampleB() {
+        XCTAssertEqual(solution.generate(1), [[1]])
+    }
+    
 }
 
 private class Solution {

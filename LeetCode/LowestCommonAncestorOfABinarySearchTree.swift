@@ -9,10 +9,24 @@ import XCTest
 
 class LowestCommonAncestorOfABinarySearchTree: XCTestCase {
     
-    func test() {
-        //        XCTAssertEqual(root = [6,2,8,0,4,7,9,null,null,3,5], p = 2, q = 8, 6)
-        //        XCTAssertEqual(root = [6,2,8,0,4,7,9,null,null,3,5], p = 2, q = 4, 2)
-        //        XCTAssertEqual(root = [2,1], p = 2, q = 1, 2)
+    private let solution = Solution()
+
+    func testExampleA() {
+        let root = TreeNode.parseTree(from: [6, 2, 8, 0, 4, 7, 9, nil, nil, 3, 5])
+        let output = solution.lowestCommonAncestor(root, root?.left, root?.right)
+        XCTAssertTrue(TreeNode.isEqual(root, output))
+    }
+    
+    func testExampleB() {
+        let root = TreeNode.parseTree(from: [6, 2, 8, 0, 4, 7, 9, nil, nil, 3, 5])
+        let output = solution.lowestCommonAncestor(root, root?.left, root?.left?.right)
+        XCTAssertTrue(TreeNode.isEqual(root?.left, output))
+    }
+    
+    func testExampleC() {
+        let root = TreeNode.parseTree(from: [2, 1])
+        let output = solution.lowestCommonAncestor(root, root, root?.left)
+        XCTAssertTrue(TreeNode.isEqual(root, output))
     }
     
 }

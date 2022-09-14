@@ -8,20 +8,19 @@
 import XCTest
 
 class MiddleOfTheLinkedList: XCTestCase {
-
-    func test() {
-        let solution = Solution()
-        var head: ListNode?
-        var target: ListNode?
-
-        head = ListNode.createLinkedList([1, 2, 3, 4, 5])
-        target = ListNode.createLinkedList([3, 4, 5])
+    
+    private let solution = Solution()
+    
+    func testExampleA() {
+        let head = ListNode.createLinkedList([1, 2, 3, 4, 5])
+        let target = ListNode.createLinkedList([3, 4, 5])
         XCTAssertEqual(target, solution.middleNode(head))
-
-        head = ListNode.createLinkedList([1, 2, 3, 4, 5, 6])
-        target = ListNode.createLinkedList([4, 5, 6])
+    }
+    
+    func testExampleB() {
+        let head = ListNode.createLinkedList([1, 2, 3, 4, 5, 6])
+        let target = ListNode.createLinkedList([4, 5, 6])
         XCTAssertEqual(target, solution.middleNode(head))
-
     }
 
 }

@@ -8,12 +8,18 @@
 import XCTest
 
 class BackspaceStringCompare: XCTestCase {
+    
+    private let solution = Solution()
 
-    func test() {
-        let solution = Solution()
-        
+    func testExampleA() {
         XCTAssertTrue(solution.backspaceCompare("ab#c", "ad#c"))
+    }
+    
+    func testExampleB() {
         XCTAssertTrue(solution.backspaceCompare("ab##", "c#d#"))
+    }
+    
+    func testExampleC() {
         XCTAssertFalse(solution.backspaceCompare("a#c", "b"))
     }
 

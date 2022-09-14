@@ -8,9 +8,22 @@
 import XCTest
 
 class PathSum: XCTestCase {
-
-    func test() {
-        
+    
+    private let solution = Solution()
+    
+    func testExampleA() {
+        let root = TreeNode.parseTree(from: [5, 4, 8, 11, nil, 13, 4, 7, 2, nil, nil, nil, 1])
+        XCTAssertTrue(solution.hasPathSum(root, 22))
+    }
+    
+    func testExampleB() {
+        let root = TreeNode.parseTree(from: [1, 2, 3])
+        XCTAssertFalse(solution.hasPathSum(root, 5))
+    }
+    
+    func testExampleC() {
+        let root = TreeNode.parseTree(from: [])
+        XCTAssertFalse(solution.hasPathSum(root, 0))
     }
 
 }

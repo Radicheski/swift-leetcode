@@ -8,22 +8,24 @@
 import XCTest
 
 class ReverseLinkedList: XCTestCase {
-
-    func test() {
-        let solution = Solution()
-
-        var input, output: ListNode?
-
-        input = ListNode.createLinkedList([1, 2, 3, 4, 5])
-        output = ListNode.createLinkedList([5, 4, 3, 2, 1])
+    
+    private let solution = Solution()
+    
+    func testExampleA() {
+        let input = ListNode.createLinkedList([1, 2, 3, 4, 5])
+        let output = ListNode.createLinkedList([5, 4, 3, 2, 1])
         XCTAssertEqual(solution.reverseList(input), output)
-
-        input = ListNode.createLinkedList([1, 2])
-        output = ListNode.createLinkedList([2, 1])
+    }
+    
+    func testExampleB() {
+        let input = ListNode.createLinkedList([1, 2])
+        let output = ListNode.createLinkedList([2, 1])
         XCTAssertEqual(solution.reverseList(input), output)
-
-        input = ListNode.createLinkedList([])
-        output = ListNode.createLinkedList([])
+    }
+    
+    func tesExampleC() {
+        let input = ListNode.createLinkedList([])
+        let output = ListNode.createLinkedList([])
         XCTAssertEqual(solution.reverseList(input), output)
     }
 

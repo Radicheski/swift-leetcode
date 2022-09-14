@@ -11,12 +11,12 @@ class TwoSum4: XCTestCase {
     
     private let solution = Solution()
 
-    func testCaseA() {
+    func testExampleA() {
         let root = TreeNode.parseTree(from: [5, 3, 6, 2, 4, nil, 7])
         XCTAssertTrue(solution.findTarget(root, 9))
     }
     
-    func testCaseB() {
+    func testExampleB() {
         let root = TreeNode.parseTree(from: [5, 3, 6, 2, 4, nil, 7])
         XCTAssertFalse(solution.findTarget(root, 28))
     }

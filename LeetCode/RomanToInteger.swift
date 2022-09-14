@@ -8,12 +8,18 @@
 import XCTest
 
 class RomanToInteger: XCTestCase {
-
-    func test() {
-        let solution = Solution()
-
+    
+    private let solution = Solution()
+    
+    func testExampleA() {
         XCTAssertEqual(3, solution.romanToInt("III"))
+    }
+    
+    func testExampleB() {
         XCTAssertEqual(58, solution.romanToInt("LVIII"))
+    }
+    
+    func testExampleC() {
         XCTAssertEqual(1994, solution.romanToInt("MCMXCIV"))
     }
 

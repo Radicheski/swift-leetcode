@@ -8,10 +8,17 @@
 import XCTest
 
 class ValidateBinarySearchTree: XCTestCase {
-
-    func test() {
-//        XCTAssertTrue([2, 1, 3])
-//        XCTAssertFalse([5, 1, 4, nil, nil, 3, 6])
+    
+    private let solution = Solution()
+    
+    func testExampleA() {
+        let root = TreeNode.parseTree(from: [2, 1, 3])
+        XCTAssertTrue(solution.isValidBST(root))
+    }
+    
+    func testExampleB() {
+        let root = TreeNode.parseTree(from: [5, 1, 4, nil, nil, 3, 6])
+        XCTAssertFalse(solution.isValidBST(root))
     }
 
 }

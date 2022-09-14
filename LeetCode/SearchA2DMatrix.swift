@@ -8,13 +8,15 @@
 import XCTest
 
 class SearchA2DMatrix: XCTestCase {
-
-    func test() {
-        let solution = Solution()
-        
-        XCTAssertTrue(solution.searchMatrix([[1,3,5,7],[10,11,16,20],[23,30,34,60]], 3))
-        XCTAssertFalse(solution.searchMatrix([[1,3,5,7],[10,11,16,20],[23,30,34,60]], 13))
-        
+    
+    private let solution = Solution()
+    
+    func testExampleA() {
+        XCTAssertTrue(solution.searchMatrix([[1, 3, 5, 7], [10, 11, 16, 20], [23, 30, 34, 60]], 3))
+    }
+    
+    func testExampleB() {
+        XCTAssertFalse(solution.searchMatrix([[1, 3, 5, 7], [10, 11, 16, 20], [23, 30, 34, 60]], 13))
     }
 
 }

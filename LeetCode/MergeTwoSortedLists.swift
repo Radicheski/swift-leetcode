@@ -8,25 +8,27 @@
 import XCTest
 
 class MergeTwoSortedLists: XCTestCase {
-
-    func test() {
-        let solution = Solution()
-
-        var list1, list2, result: ListNode?
-
-        list1 = ListNode.createLinkedList([1, 2, 4])
-        list2 = ListNode.createLinkedList([1, 3, 4])
-        result = ListNode.createLinkedList([1, 1, 2, 3, 4, 4])
+    
+    private let solution = Solution()
+    
+    func testExampleA() {
+        let list1 = ListNode.createLinkedList([1, 2, 4])
+        let list2 = ListNode.createLinkedList([1, 3, 4])
+        let result = ListNode.createLinkedList([1, 1, 2, 3, 4, 4])
         XCTAssertEqual(solution.mergeTwoLists(list1, list2), result)
-
-        list1 = ListNode.createLinkedList([])
-        list2 = ListNode.createLinkedList([])
-        result = ListNode.createLinkedList([])
+    }
+    
+    func testExampleB() {
+        let list1 = ListNode.createLinkedList([])
+        let list2 = ListNode.createLinkedList([])
+        let result = ListNode.createLinkedList([])
         XCTAssertEqual(solution.mergeTwoLists(list1, list2), result)
-
-        list1 = ListNode.createLinkedList([])
-        list2 = ListNode.createLinkedList([0])
-        result = ListNode.createLinkedList([0])
+    }
+    
+    func testExampleC() {
+        let list1 = ListNode.createLinkedList([])
+        let list2 = ListNode.createLinkedList([0])
+        let result = ListNode.createLinkedList([0])
         XCTAssertEqual(solution.mergeTwoLists(list1, list2), result)
     }
 

@@ -8,12 +8,18 @@
 import XCTest
 
 class RansomNote: XCTestCase {
-
-    func test() {
-        let solution = Solution()
-
+    
+    private let solution = Solution()
+    
+    func testExampleA() {
         XCTAssertFalse(solution.canConstruct("a", "b"))
+    }
+    
+    func testExampleB() {
         XCTAssertFalse(solution.canConstruct("aa", "ab"))
+    }
+    
+    func testExampleC() {
         XCTAssertTrue(solution.canConstruct("aa", "aab"))
     }
 

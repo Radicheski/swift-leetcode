@@ -8,12 +8,18 @@
 import XCTest
 
 class ValidParentheses: XCTestCase {
-
-    func test() {
-        let solution = Solution()
-        
+    
+    private let solution = Solution()
+    
+    func testExampleA() {
         XCTAssertTrue(solution.isValid("()"))
+    }
+    
+    func testExampleB() {
         XCTAssertTrue(solution.isValid("()[]{}"))
+    }
+    
+    func testExampleC() {
         XCTAssertFalse(solution.isValid("(]"))
     }
 

@@ -1,6 +1,6 @@
 //
 //  FizzBuzz.swift
-//  https://leetcode.com/problems/fizz-buzz/submissions/
+//  https://leetcode.com/problems/fizz-buzz/
 //
 //  Created by Erik Radicheski da Silva on 09/08/22.
 //
@@ -8,12 +8,18 @@
 import XCTest
 
 class FizzBuzz: XCTestCase {
-
-    func test() {
-        let solution = Solution()
-
+    
+    private let solution = Solution()
+    
+    func testExampleA() {
         XCTAssertEqual(["1","2","Fizz"], solution.fizzBuzz(3))
+    }
+    
+    func testExampleB() {
         XCTAssertEqual(["1","2","Fizz","4","Buzz"], solution.fizzBuzz(5))
+    }
+    
+    func testExampleC() {
         XCTAssertEqual(["1","2","Fizz","4","Buzz","Fizz","7","8","Fizz","Buzz","11","Fizz","13","14","FizzBuzz"], solution.fizzBuzz(15))
     }
 

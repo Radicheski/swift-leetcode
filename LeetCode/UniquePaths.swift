@@ -8,11 +8,14 @@
 import XCTest
 
 class UniquePaths: XCTestCase {
-
-    func test() {
-        let solution = Solution()
-        
+    
+    private let solution = Solution()
+    
+    func testExampleA() {
         XCTAssertEqual(solution.uniquePaths(3, 7), 28)
+    }
+    
+    func testExampleB() {
         XCTAssertEqual(solution.uniquePaths(3, 2), 3)
     }
 

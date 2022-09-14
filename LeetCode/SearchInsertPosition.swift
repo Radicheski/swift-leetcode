@@ -11,7 +11,7 @@ final class SearchInsertPosition: XCTestCase {
 
     private let solution = Solution()
     
-    func testCaseA() {
+    func testExampleA() {
         let inputArray = [1, 3, 5, 6]
         let inputTarget = 5
         
@@ -20,7 +20,7 @@ final class SearchInsertPosition: XCTestCase {
         XCTAssertEqual(solution.searchInsert(inputArray, inputTarget), output)
     }
     
-    func testCaseB() {
+    func testExampleB() {
         let inputArray = [1, 3, 5, 6]
         let inputTarget = 2
         
@@ -29,7 +29,7 @@ final class SearchInsertPosition: XCTestCase {
         XCTAssertEqual(solution.searchInsert(inputArray, inputTarget), output)
     }
     
-    func testCaseC() {
+    func testExampleC() {
         let inputArray = [1, 3, 5, 6]
         let inputTarget = 7
         

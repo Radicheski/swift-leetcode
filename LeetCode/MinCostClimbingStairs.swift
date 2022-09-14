@@ -8,11 +8,14 @@
 import XCTest
 
 class MinCostClimbingStairs: XCTestCase {
-
-    func test() {
-        let solution = Solution()
-        
+    
+    private let solution = Solution()
+    
+    func testExampleA() {
         XCTAssertEqual(solution.minCostClimbingStairs([10, 15, 20]), 15)
+    }
+    
+    func testExampleB() {
         XCTAssertEqual(solution.minCostClimbingStairs([1, 100, 1, 1, 1, 100, 1, 1, 100, 1]), 6)
     }
 

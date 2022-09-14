@@ -8,12 +8,18 @@
 import XCTest
 
 class DecodeString: XCTestCase {
-
-    func test() {
-        let solution = Solution()
-        
+    
+    private let solution = Solution()
+    
+    func testExampleA() {
         XCTAssertEqual(solution.decodeString("3[a]2[bc]"), "aaabcbc")
+    }
+    
+    func testExampleB() {
         XCTAssertEqual(solution.decodeString("3[a2[c]]"), "accaccacc")
+    }
+    
+    func testExampleC() {
         XCTAssertEqual(solution.decodeString("2[abc]3[cd]ef"), "abcabccdcdcdef")
     }
 

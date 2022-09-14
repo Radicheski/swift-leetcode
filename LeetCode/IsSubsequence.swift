@@ -8,11 +8,14 @@
 import XCTest
 
 class IsSubsequence: XCTestCase {
-
-    func test() {
-        let solution = Solution()
-
+    
+    private let solution = Solution()
+    
+    func testExampleA() {
         XCTAssertTrue(solution.isSubsequence("abc", "ahbgdc"))
+    }
+    
+    func testExampleB() {
         XCTAssertFalse(solution.isSubsequence("axc", "ahbgdc"))
     }
 

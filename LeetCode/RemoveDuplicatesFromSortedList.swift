@@ -8,9 +8,21 @@
 import XCTest
 
 class RemoveDuplicatesFromSortedList: XCTestCase {
+    
+    private let solution = Solution()
 
-    func test() {
-        
+    func testExampleA() {
+        let head = ListNode.createLinkedList([1, 1, 2])
+        let output = solution.deleteDuplicates(head)
+        let expectedOutput = ListNode.createLinkedList([1, 2])
+        XCTAssertTrue(ListNode.isEqual(output, expectedOutput))
+    }
+    
+    func testExampleB() {
+        let head = ListNode.createLinkedList([1, 1, 2, 3, 3])
+        let output = solution.deleteDuplicates(head)
+        let expectedOutput = ListNode.createLinkedList([1, 2, 3])
+        XCTAssertTrue(ListNode.isEqual(output, expectedOutput))
     }
 
 }

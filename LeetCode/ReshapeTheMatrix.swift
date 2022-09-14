@@ -8,11 +8,14 @@
 import XCTest
 
 class ReshapeTheMatrix: XCTestCase {
-
-    func test() {
-        let solution = Solution()
-        
+    
+    private let solution = Solution()
+    
+    func testExampleA() {
         XCTAssertEqual(solution.matrixReshape([[1, 2], [3, 4]], 1, 4), [[1, 2, 3, 4]])
+    }
+    
+    func testExampleB() {
         XCTAssertEqual(solution.matrixReshape([[1, 2], [3, 4]], 2, 4), [[1, 2], [3, 4]])
     }
 

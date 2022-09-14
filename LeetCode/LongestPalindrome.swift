@@ -8,11 +8,14 @@
 import XCTest
 
 class LongestPalindrome: XCTestCase {
-
-    func test() {
-        let solution = Solution()
-        
+    
+    private let solution = Solution()
+    
+    func testExampleA() {
         XCTAssertEqual(solution.longestPalindrome("abccccdd"), 7)
+    }
+    
+    func testExampleB() {
         XCTAssertEqual(solution.longestPalindrome("a"), 1)
     }
 

@@ -8,12 +8,18 @@
 import XCTest
 
 class IsomorphicStrings: XCTestCase {
+    
+    private let solution = Solution()
 
-    func test() {
-        let solution = Solution()
-
+    func testExampleA() {
         XCTAssertTrue(solution.isIsomorphic("egg", "add"))
+    }
+    
+    func testExampleB() {
         XCTAssertFalse(solution.isIsomorphic("foo", "bar"))
+    }
+    
+    func testExampleC() {
         XCTAssertTrue(solution.isIsomorphic("paper", "title"))
     }
 

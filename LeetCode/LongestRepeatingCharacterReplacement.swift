@@ -8,11 +8,14 @@
 import XCTest
 
 class LongestRepeatingCharacterReplacement: XCTestCase {
-
-    func test() {
-        let solution = Solution()
-        
+    
+    private let solution = Solution()
+    
+    func testExampleA() {
         XCTAssertEqual(solution.characterReplacement("ABAB", 2), 4)
+    }
+    
+    func testExampleB() {
         XCTAssertEqual(solution.characterReplacement("AABABBA", 1), 4)
     }
 

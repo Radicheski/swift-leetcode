@@ -8,19 +8,21 @@
 import XCTest
 
 class LinkedListCycle: XCTestCase {
-
-    func test() {
-        let solution = Solution()
-        
-        var input: ListNode?
-        
-        input = ListNode.createTestCase([3, 2, 0, -4], 1).head
+    
+    private let solution = Solution()
+    
+    func testExampleA() {
+        let input = ListNode.createTestCase([3, 2, 0, -4], 1).head
         XCTAssertTrue(solution.hasCycle(input))
-        
-        input = ListNode.createTestCase([1, 2], 0).head
+    }
+    
+    func testExampleB() {
+        let input = ListNode.createTestCase([1, 2], 0).head
         XCTAssertTrue(solution.hasCycle(input))
-        
-        input = ListNode.createTestCase([1], -1).head
+    }
+    
+    func testExampleC() {
+        let input = ListNode.createTestCase([1], -1).head
         XCTAssertFalse(solution.hasCycle(input))
     }
 

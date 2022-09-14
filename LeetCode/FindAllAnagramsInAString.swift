@@ -8,11 +8,14 @@
 import XCTest
 
 class FindAllAnagramsInAString: XCTestCase {
-
-    func test() {
-        let solution = Solution()
-        
+    
+    private let solution = Solution()
+    
+    func testExampleA() {
         XCTAssertEqual(solution.findAnagrams("cbaebabacd", "abc"), [0, 6])
+    }
+    
+    func testExampleB() {
         XCTAssertEqual(solution.findAnagrams("abab", "ab"), [0, 1, 2])
     }
 

@@ -8,14 +8,17 @@
 import XCTest
 
 class BullsAndCows: XCTestCase {
+    
+    private let solution = Solution()
 
-    func test() {
-        let solution = Solution()
-        
-        
+    func testExampleA() {
         XCTAssertEqual(solution.getHint("1807", "7810"), "1A3B")
+    }
+    
+    func testExampleB() {
         XCTAssertEqual(solution.getHint("1123", "0111"), "1A1B")
     }
+    
 }
 
 private class Solution {

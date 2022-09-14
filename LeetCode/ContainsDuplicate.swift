@@ -8,12 +8,18 @@
 import XCTest
 
 class ContainsDuplicate: XCTestCase {
-
-    func test() {
-        let solution = Solution()
-        
+    
+    private let solution = Solution()
+    
+    func testExampleA() {
         XCTAssertTrue(solution.containsDuplicate([1, 2, 3, 1]))
+    }
+    
+    func testExampleB() {
         XCTAssertFalse(solution.containsDuplicate([1, 2, 3, 4]))
+    }
+    
+    func testExampleC() {
         XCTAssertTrue(solution.containsDuplicate([1, 1, 1, 3, 3, 4, 3, 2, 4, 2]))
     }
     

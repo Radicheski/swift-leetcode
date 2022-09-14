@@ -8,9 +8,28 @@
 import XCTest
 
 class InsertIntoABinarySearchTree: XCTestCase {
-
-    func test() {
-        
+    
+    private let solution = Solution()
+    
+    func testExampleA() {
+        let root = TreeNode.parseTree(from: [4, 2, 7, 1, 3])
+        let output = solution.insertIntoBST(root, 5)
+        let expectedOutput = TreeNode.parseTree(from: [4, 2, 7, 1, 3, 5])
+        XCTAssertTrue(TreeNode.isEqual(output, expectedOutput))
+    }
+    
+    func testExampleB() {
+        let root = TreeNode.parseTree(from: [40, 20, 60, 10, 30, 50, 70])
+        let output = solution.insertIntoBST(root, 25)
+        let expectedOutput = TreeNode.parseTree(from: [40, 20, 60, 10, 30, 50, 70, nil, nil, 25])
+        XCTAssertTrue(TreeNode.isEqual(output, expectedOutput))
+    }
+    
+    func testExampleC() {
+        let root = TreeNode.parseTree(from: [4, 2, 7, 1, 3, nil, nil, nil, nil, nil, nil])
+        let output = solution.insertIntoBST(root, 5)
+        let expectedOutput = TreeNode.parseTree(from: [4, 2, 7, 1, 3, 5])
+        XCTAssertTrue(TreeNode.isEqual(output, expectedOutput))
     }
 
 }

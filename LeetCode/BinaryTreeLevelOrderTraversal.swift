@@ -8,18 +8,22 @@
 import XCTest
 
 class BinaryTreeLevelOrderTraversal: XCTestCase {
-
-    func test() {
-        /*
-         Input: root = [3,9,20,null,null,15,7]
-         Output: [[3],[9,20],[15,7]]
-         
-         Input: root = [1]
-         Output: [[1]]
-         
-         Input: root = []
-         Output: []
-         */
+    
+    private let solution = Solution()
+    
+    func testExampleA() {
+        let root = TreeNode.parseTree(from: [3, 9, 20, nil, nil, 15, 7])
+        XCTAssertEqual(solution.levelOrder(root), [[3], [9, 20], [15, 7]])
+    }
+    
+    func testExampleB() {
+        let root = TreeNode.parseTree(from: [1])
+        XCTAssertEqual(solution.levelOrder(root), [[1]])
+    }
+    
+    func testExampleC() {
+        let root = TreeNode.parseTree(from: [])
+        XCTAssertEqual(solution.levelOrder(root), [])
     }
 
 }

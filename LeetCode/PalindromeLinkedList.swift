@@ -8,17 +8,17 @@
 import XCTest
 
 class PalindromeLinkedList: XCTestCase {
-
-    func test() {
-        let solution = Solution()
-        var head: ListNode?
-
-        head = ListNode.createLinkedList([1, 2, 2, 1])
+    
+    private let solution = Solution()
+    
+    func testExampleA() {
+        let head = ListNode.createLinkedList([1, 2, 2, 1])
         XCTAssertTrue(solution.isPalindrome(head))
-
-        head = ListNode.createLinkedList([1, 2])
+    }
+    
+    func testExampleB() {
+        let head = ListNode.createLinkedList([1, 2])
         XCTAssertFalse(solution.isPalindrome(head))
-
     }
 
 }

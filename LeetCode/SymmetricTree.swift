@@ -8,9 +8,17 @@
 import XCTest
 
 class SymmetricTree: XCTestCase {
-
-    func test() {
-        
+    
+    private let solution = Solution()
+    
+    func testExampleA() {
+        let root = TreeNode.parseTree(from: [1, 2, 2, 3, 4, 4, 3])
+        XCTAssertTrue(solution.isSymmetric(root))
+    }
+    
+    func testExampleB() {
+        let root = TreeNode.parseTree(from: [1, 2, 2, nil, 3, nil, 3])
+        XCTAssertFalse(solution.isSymmetric(root))
     }
 
 }

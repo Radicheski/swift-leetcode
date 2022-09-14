@@ -8,18 +8,15 @@
 import XCTest
 
 class ClimbingStairs: XCTestCase {
-
-    func test() {
-        let solution = Solution()
-        
+    
+    private let solution = Solution()
+    
+    func testExampleA() {
         XCTAssertEqual(solution.climbStairs(2), 2)
+    }
+    
+    func testExampleB() {
         XCTAssertEqual(solution.climbStairs(3), 3)
-        
-        measure {
-//            XCTAssertEqual(solution.climbStairs(45), 1836311903)
-            XCTAssertEqual(solution.climbStairs(16), 1597)
-        }
-        
     }
 
 }

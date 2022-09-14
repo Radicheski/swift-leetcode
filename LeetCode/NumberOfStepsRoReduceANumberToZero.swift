@@ -8,12 +8,18 @@
 import XCTest
 
 class NumberOfStepsRoReduceANumberToZero: XCTestCase {
+    
+    private let solution = Solution()
 
-    func test() {
-        let solution = Solution()
-
+    func testExampleA() {
         XCTAssertEqual(solution.numberOfSteps(14), 6)
+    }
+    
+    func testExampleB() {
         XCTAssertEqual(solution.numberOfSteps(8), 4)
+    }
+    
+    func testExampleC() {
         XCTAssertEqual(solution.numberOfSteps(123), 12)
     }
 

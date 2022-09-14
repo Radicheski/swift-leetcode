@@ -8,9 +8,21 @@
 import XCTest
 
 class SearchInABinarySearchTree: XCTestCase {
+    
+    private let solution = Solution()
 
-    func test() {
-        
+    func testExampleA() {
+        let root = TreeNode.parseTree(from: [4, 2, 7, 1, 3])
+        let output = solution.searchBST(root, 2)
+        let expectedOutput = TreeNode.parseTree(from: [2, 1, 3])
+        XCTAssertTrue(TreeNode.isEqual(output, expectedOutput))
+    }
+    
+    func testExampleB() {
+        let root = TreeNode.parseTree(from: [4, 2, 7, 1, 3])
+        let output = solution.searchBST(root, 5)
+        let expectedOutput = TreeNode.parseTree(from: [])
+        XCTAssertTrue(TreeNode.isEqual(output, expectedOutput))
     }
 
 }

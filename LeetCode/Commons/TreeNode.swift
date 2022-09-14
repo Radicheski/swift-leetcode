@@ -43,7 +43,8 @@ extension TreeNode {
     }
     
     public static func isEqual(_ treeA: TreeNode?, _ treeB: TreeNode?) -> Bool {
-        return treeA?.val == treeB?.val && isEqual(treeA?.left, treeB?.left) && isEqual(treeA?.right, treeB?.right)
+        guard let treeA = treeA, let treeB = treeB else { return treeA == nil && treeB == nil }
+        return treeA.val == treeB.val && isEqual(treeA.left, treeB.left) && isEqual(treeA.right, treeB.right)
     }
 
 }

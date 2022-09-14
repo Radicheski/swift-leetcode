@@ -9,18 +9,17 @@ import XCTest
 
 class FloodFill: XCTestCase {
     
-    func test() {
-        let solution = Solution()
-        
-        var original: [[Int]]
-        var output: [[Int]]
-        
-        original = [[1,1,1],[1,1,0],[1,0,1]]
-        output = [[2,2,2],[2,2,0],[2,0,1]]
+    private let solution = Solution()
+    
+    func testExampleA() {
+        let original = [[1, 1, 1], [1, 1, 0], [1, 0, 1]]
+        let output = [[2, 2, 2], [2, 2, 0], [2, 0, 1]]
         XCTAssertEqual(solution.floodFill(original, 1, 1, 2), output)
-        
-        original = [[0,0,0],[0,0,0]]
-        output = [[0,0,0],[0,0,0]]
+    }
+    
+    func testExampleB() {
+        let original = [[0, 0, 0], [0, 0, 0]]
+        let output = [[0, 0, 0], [0, 0, 0]]
         XCTAssertEqual(solution.floodFill(original, 0, 0, 0), output)
     }
     

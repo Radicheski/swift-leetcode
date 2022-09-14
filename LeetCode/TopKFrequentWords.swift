@@ -8,11 +8,14 @@
 import XCTest
 
 class TopKFrequentWords: XCTestCase {
-
-    func test() {
-        let solution = Solution()
-        
+    
+    private let solution = Solution()
+    
+    func testExampleA() {
         XCTAssertEqual(solution.topKFrequent(["i","love","leetcode","i","love","coding"], 2), ["i","love"])
+    }
+    
+    func testExampleB() {
         XCTAssertEqual(solution.topKFrequent(["the","day","is","sunny","the","the","the","sunny","is","is"], 4), ["the","is","sunny","day"])
     }
 

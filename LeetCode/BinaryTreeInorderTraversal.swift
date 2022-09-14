@@ -8,9 +8,22 @@
 import XCTest
 
 class BinaryTreeInorderTraversal: XCTestCase {
+    
+    private let solution = Solution()
 
-    func test() {
-        
+    func testExampleA() {
+        let root = TreeNode.parseTree(from: [1, nil, 2, 3])
+        XCTAssertEqual(solution.inorderTraversal(root), [1, 3, 2])
+    }
+    
+    func testExampleB() {
+        let root = TreeNode.parseTree(from: [])
+        XCTAssertEqual(solution.inorderTraversal(root), [])
+    }
+    
+    func testExampleC() {
+        let root = TreeNode.parseTree(from: [1])
+        XCTAssertEqual(solution.inorderTraversal(root), [1])
     }
 
 }
