@@ -5,6 +5,12 @@
 public class Node {
     public var val: Int
     public var children: [Node]
+    
+    // MARK: Populating Next Right Pointers in Each Node definition
+    public var left: Node?
+    public var right: Node?
+    public var next: Node?
+    
     public init(_ val: Int) {
         self.val = val
         self.children = []
