@@ -17,6 +17,8 @@
 		AD2A46D928AA9C9E009C45A8 /* RichestCustomerWealth.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2A46D828AA9C9E009C45A8 /* RichestCustomerWealth.swift */; };
 		AD2FF7A528B506F90027AFB6 /* ValidateBinarySearchTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2FF7A428B506F90027AFB6 /* ValidateBinarySearchTree.swift */; };
 		AD2FF7A728B50D3F0027AFB6 /* LowestCommonAncestorOfABinarySearchTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2FF7A628B50D3F0027AFB6 /* LowestCommonAncestorOfABinarySearchTree.swift */; };
+		AD325C3F28E32A5A0039107E /* ReverseBits.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD325C3E28E32A5A0039107E /* ReverseBits.swift */; };
+		AD325C4128E32B230039107E /* SingleNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD325C4028E32B230039107E /* SingleNumber.swift */; };
 		AD361C4B28E1C883002962BB /* PowerOfTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD361C4A28E1C883002962BB /* PowerOfTwo.swift */; };
 		AD361C4D28E1C929002962BB /* NumberOfOneBits.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD361C4C28E1C929002962BB /* NumberOfOneBits.swift */; };
 		AD39B0C928CF4B05008FECE7 /* SearchInABinarySearchTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD39B0C828CF4B05008FECE7 /* SearchInABinarySearchTree.swift */; };
@@ -109,6 +111,8 @@
 		AD2A46D828AA9C9E009C45A8 /* RichestCustomerWealth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RichestCustomerWealth.swift; sourceTree = "<group>"; };
 		AD2FF7A428B506F90027AFB6 /* ValidateBinarySearchTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidateBinarySearchTree.swift; sourceTree = "<group>"; };
 		AD2FF7A628B50D3F0027AFB6 /* LowestCommonAncestorOfABinarySearchTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LowestCommonAncestorOfABinarySearchTree.swift; sourceTree = "<group>"; };
+		AD325C3E28E32A5A0039107E /* ReverseBits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseBits.swift; sourceTree = "<group>"; };
+		AD325C4028E32B230039107E /* SingleNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleNumber.swift; sourceTree = "<group>"; };
 		AD361C4A28E1C883002962BB /* PowerOfTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PowerOfTwo.swift; sourceTree = "<group>"; };
 		AD361C4C28E1C929002962BB /* NumberOfOneBits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfOneBits.swift; sourceTree = "<group>"; };
 		AD39B0C828CF4B05008FECE7 /* SearchInABinarySearchTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchInABinarySearchTree.swift; sourceTree = "<group>"; };
@@ -293,6 +297,7 @@
 				ADD9772128C7BED80028FCB0 /* RemoveLinkedListElements.swift */,
 				ADA94B8F28D7434D00D07819 /* RemoveNthNodeFromEndOfList.swift */,
 				AD967DDA28C36AC0005408E7 /* ReshapeTheMatrix.swift */,
+				AD325C3E28E32A5A0039107E /* ReverseBits.swift */,
 				AD88EE2428AF13C3007E3D7C /* ReverseLinkedList.swift */,
 				ADA08C5928D5E8E700B816C2 /* ReverseString.swift */,
 				ADA08C5B28D5E99600B816C2 /* ReverseWordsInAString3.swift */,
@@ -304,6 +309,7 @@
 				AD90565428C4C71600886275 /* SearchA2DMatrix.swift */,
 				AD39B0C828CF4B05008FECE7 /* SearchInABinarySearchTree.swift */,
 				ADFE121428D1EA470063013C /* SearchInsertPosition.swift */,
+				AD325C4028E32B230039107E /* SingleNumber.swift */,
 				AD3ED08128D34DD90080829A /* SquaresOfASortedArray.swift */,
 				ADA4798C28CCCFF900C23FF0 /* SymmetricTree.swift */,
 				AD4BDEB028A7E03200E61565 /* TheKWeakestRowsInAMatrix.swift */,
@@ -398,6 +404,7 @@
 				ADA4798D28CCCFF900C23FF0 /* SymmetricTree.swift in Sources */,
 				AD90565528C4C71600886275 /* SearchA2DMatrix.swift in Sources */,
 				AD39B0CB28CF4B7B008FECE7 /* InsertIntoABinarySearchTree.swift in Sources */,
+				AD325C3F28E32A5A0039107E /* ReverseBits.swift in Sources */,
 				AD4BDEAC28A7DE3200E61565 /* MiddleOfTheLinkedList.swift in Sources */,
 				ADEE310728B7A6BE00448525 /* ClimbingStairs.swift in Sources */,
 				AD00F44828B96FB900A77B9C /* UniquePaths.swift in Sources */,
@@ -436,6 +443,7 @@
 				ADF5BF6F28CF7A3F00668B2D /* ListNodeTest.swift in Sources */,
 				ADF0631928D490D000546CCC /* TwoSum2.swift in Sources */,
 				AD9B070728B049DF00ADFB43 /* LinkedListCycle2.swift in Sources */,
+				AD325C4128E32B230039107E /* SingleNumber.swift in Sources */,
 				AD4BDEB128A7E03200E61565 /* TheKWeakestRowsInAMatrix.swift in Sources */,
 				AD361C4B28E1C883002962BB /* PowerOfTwo.swift in Sources */,
 				ADF865EF28C224C700885B7A /* IntersectionOfTwoArrays2.swift in Sources */,
