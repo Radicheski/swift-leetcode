@@ -26,10 +26,10 @@ final class ThreeSum: XCTestCase {
     private func checkEquality(_ arrayA: [[Int]], _ arrayB: [[Int]]) -> Bool {
         guard arrayA.count == arrayB.count else { return false }
         
-        var sortedA = arrayA.map { $0.sorted() }
-        var sortedB = arrayB.map { $0.sorted() }
+        let sortedA = arrayA.map { $0.sorted() }
+        let sortedB = arrayB.map { $0.sorted() }
         
-        for i in 0 ..< sortedA.count {
+        for _ in 0 ..< sortedA.count {
             if sortedA.contains(where: sortedB.contains) {
                 continue
             } else {
@@ -38,7 +38,6 @@ final class ThreeSum: XCTestCase {
         }
         
         return true
-    }
     }
 
 }
