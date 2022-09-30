@@ -30,7 +30,7 @@ private class MyHashMap {
     
     func get(_ key: Int) -> Int {
         let index = getIndex(for: key)
-        if var node = array[index].first(where: { $0.key == key } ) {
+        if let node = array[index].first(where: { $0.key == key } ) {
             return node.value
         } else {
             return -1
