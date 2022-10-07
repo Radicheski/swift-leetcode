@@ -24,7 +24,6 @@ final class RepeatedDNASequences: XCTestCase {
         XCTAssertEqual(output.count, expectedOutput.count)
         XCTAssertEqual(Set(output), Set(expectedOutput))
     }
-    }
         
 }
 
