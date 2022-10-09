@@ -84,6 +84,8 @@
 		ADC5823C28DB2DBA006D9591 /* PopulatingNextRightPointersInEachNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC5823B28DB2DBA006D9591 /* PopulatingNextRightPointersInEachNode.swift */; };
 		ADC5B13728AD5102002FED4E /* IsomorphicStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC5B13628AD5102002FED4E /* IsomorphicStrings.swift */; };
 		ADC5B13928AD5A00002FED4E /* IsSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC5B13828AD5A00002FED4E /* IsSubsequence.swift */; };
+		ADCCEEC328F2F0D900B85A54 /* SwapNodesInPairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCCEEC228F2F0D900B85A54 /* SwapNodesInPairs.swift */; };
+		ADCCEEC528F2F18B00B85A54 /* DesignLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCCEEC428F2F18B00B85A54 /* DesignLinkedList.swift */; };
 		ADD1C41A28B3C83500E63642 /* BinarySearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD1C41928B3C83500E63642 /* BinarySearch.swift */; };
 		ADD1C41C28B3CA3F00E63642 /* FirstBadVersion.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD1C41B28B3CA3F00E63642 /* FirstBadVersion.swift */; };
 		ADD27D5528D0A150002F114F /* TwoSum4.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD27D5428D0A150002F114F /* TwoSum4.swift */; };
@@ -201,6 +203,8 @@
 		ADC5823B28DB2DBA006D9591 /* PopulatingNextRightPointersInEachNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopulatingNextRightPointersInEachNode.swift; sourceTree = "<group>"; };
 		ADC5B13628AD5102002FED4E /* IsomorphicStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IsomorphicStrings.swift; sourceTree = "<group>"; };
 		ADC5B13828AD5A00002FED4E /* IsSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IsSubsequence.swift; sourceTree = "<group>"; };
+		ADCCEEC228F2F0D900B85A54 /* SwapNodesInPairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwapNodesInPairs.swift; sourceTree = "<group>"; };
+		ADCCEEC428F2F18B00B85A54 /* DesignLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignLinkedList.swift; sourceTree = "<group>"; };
 		ADD1C41928B3C83500E63642 /* BinarySearch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinarySearch.swift; sourceTree = "<group>"; };
 		ADD1C41B28B3CA3F00E63642 /* FirstBadVersion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstBadVersion.swift; sourceTree = "<group>"; };
 		ADD27D5428D0A150002F114F /* TwoSum4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSum4.swift; sourceTree = "<group>"; };
@@ -299,6 +303,7 @@
 				ADBEEB6728BF847B0069B4BB /* ContainsDuplicate.swift */,
 				ADDCF94A28BCD5F400E7CA46 /* DecodeString.swift */,
 				ADEFCB5328E5B7E000F62033 /* DesignHashMap.swift */,
+				ADCCEEC428F2F18B00B85A54 /* DesignLinkedList.swift */,
 				ADEE310428B7A5B400448525 /* FibonacciNumber.swift */,
 				ADB53A3928BA4AB300C937F7 /* FindAllAnagramsInAString.swift */,
 				ADF9806B28AC03CF004BB6EC /* FindPivotIndex.swift */,
@@ -379,6 +384,7 @@
 				AD3ED08128D34DD90080829A /* SquaresOfASortedArray.swift */,
 				ADA4798C28CCCFF900C23FF0 /* SymmetricTree.swift */,
 				ADB40E5D28E9B2F800D51F9C /* SubarraySumEqualsK.swift */,
+				ADCCEEC228F2F0D900B85A54 /* SwapNodesInPairs.swift */,
 				AD4BDEB028A7E03200E61565 /* TheKWeakestRowsInAMatrix.swift */,
 				AD933EF128E46CAA00B1B2DA /* ThreeSum.swift */,
 				AD0AC56C28BE38C100D4608C /* TopKFrequentWords.swift */,
@@ -467,9 +473,11 @@
 			files = (
 				ADF9B02428EC4D82003975A6 /* PartitionLabels.swift in Sources */,
 				AD3ED08428D34EBD0080829A /* RotateArray.swift in Sources */,
+				ADCCEEC328F2F0D900B85A54 /* SwapNodesInPairs.swift in Sources */,
 				AD90565328C4C6A700886275 /* ValidSudoku.swift in Sources */,
 				AD844B0F28CA20F4008E1AEF /* ImplementQueueUsingStacks.swift in Sources */,
 				AD88EE2528AF13C3007E3D7C /* ReverseLinkedList.swift in Sources */,
+				ADCCEEC528F2F18B00B85A54 /* DesignLinkedList.swift in Sources */,
 				AD4DCBF928E70EE600A81C5F /* RotateImage.swift in Sources */,
 				ADD27D5528D0A150002F114F /* TwoSum4.swift in Sources */,
 				ADA4798D28CCCFF900C23FF0 /* SymmetricTree.swift in Sources */,
