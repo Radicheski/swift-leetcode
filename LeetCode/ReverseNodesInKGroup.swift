@@ -40,7 +40,7 @@ private class Solution {
             node = node?.next
         }
         
-        var lastGroupIndex = list.count / k
+        let lastGroupIndex = list.count / k
         
         for index in 0 ..< lastGroupIndex {
             var subrange = [ListNode?]()

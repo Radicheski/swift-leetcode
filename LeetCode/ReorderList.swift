@@ -39,7 +39,7 @@ private class Solution {
         }
         
         var index = 1
-        var lastIndex = list.endIndex
+        let lastIndex = list.endIndex
         
         while index < lastIndex {
             node = list.removeLast()
