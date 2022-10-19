@@ -53,6 +53,8 @@
 		AD820F5B28B65A1C00BA068E /* NumberOfIslands.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD820F5A28B65A1C00BA068E /* NumberOfIslands.swift */; };
 		AD844B0D28CA209C008E1AEF /* ValidParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD844B0C28CA209C008E1AEF /* ValidParentheses.swift */; };
 		AD844B0F28CA20F4008E1AEF /* ImplementQueueUsingStacks.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD844B0E28CA20F4008E1AEF /* ImplementQueueUsingStacks.swift */; };
+		AD86E25729001496007E2A8D /* FindFirstAndLastPositionOfElementInSortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD86E25629001496007E2A8D /* FindFirstAndLastPositionOfElementInSortedArray.swift */; };
+		AD86E2592900155E007E2A8D /* SearchInRotatedSortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD86E2582900155E007E2A8D /* SearchInRotatedSortedArray.swift */; };
 		AD88EE2328AEA91A007E3D7C /* MergeTwoSortedLists.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD88EE2228AEA91A007E3D7C /* MergeTwoSortedLists.swift */; };
 		AD88EE2528AF13C3007E3D7C /* ReverseLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD88EE2428AF13C3007E3D7C /* ReverseLinkedList.swift */; };
 		AD8C5AD028E074A000E821D7 /* HouseRobber.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8C5ACF28E074A000E821D7 /* HouseRobber.swift */; };
@@ -194,6 +196,8 @@
 		AD820F5A28B65A1C00BA068E /* NumberOfIslands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfIslands.swift; sourceTree = "<group>"; };
 		AD844B0C28CA209C008E1AEF /* ValidParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidParentheses.swift; sourceTree = "<group>"; };
 		AD844B0E28CA20F4008E1AEF /* ImplementQueueUsingStacks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImplementQueueUsingStacks.swift; sourceTree = "<group>"; };
+		AD86E25629001496007E2A8D /* FindFirstAndLastPositionOfElementInSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindFirstAndLastPositionOfElementInSortedArray.swift; sourceTree = "<group>"; };
+		AD86E2582900155E007E2A8D /* SearchInRotatedSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchInRotatedSortedArray.swift; sourceTree = "<group>"; };
 		AD88EE2228AEA91A007E3D7C /* MergeTwoSortedLists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeTwoSortedLists.swift; sourceTree = "<group>"; };
 		AD88EE2428AF13C3007E3D7C /* ReverseLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseLinkedList.swift; sourceTree = "<group>"; };
 		AD8C5ACF28E074A000E821D7 /* HouseRobber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HouseRobber.swift; sourceTree = "<group>"; };
@@ -356,6 +360,7 @@
 				ADCCEEC428F2F18B00B85A54 /* DesignLinkedList.swift */,
 				ADEE310428B7A5B400448525 /* FibonacciNumber.swift */,
 				ADB53A3928BA4AB300C937F7 /* FindAllAnagramsInAString.swift */,
+				AD86E25629001496007E2A8D /* FindFirstAndLastPositionOfElementInSortedArray.swift */,
 				ADF9806B28AC03CF004BB6EC /* FindPivotIndex.swift */,
 				ADD8E82E28FC3AA000EEBB3C /* FindTheTownJudge.swift */,
 				AD07CAFB28F5886700B2E73A /* FindTheWinnerOfTheCircularGame.swift */,
@@ -441,6 +446,7 @@
 				ADF9806928AC0309004BB6EC /* RunningSumOf1dArray.swift */,
 				AD90565428C4C71600886275 /* SearchA2DMatrix.swift */,
 				AD39B0C828CF4B05008FECE7 /* SearchInABinarySearchTree.swift */,
+				AD86E2582900155E007E2A8D /* SearchInRotatedSortedArray.swift */,
 				ADFE121428D1EA470063013C /* SearchInsertPosition.swift */,
 				ADB9AE8F28FAD463008FBC6A /* SerializeAndDeserializeBinaryTree.swift */,
 				AD325C4028E32B230039107E /* SingleNumber.swift */,
@@ -665,6 +671,7 @@
 				ADFE121528D1EA470063013C /* SearchInsertPosition.swift in Sources */,
 				AD967DDD28C36B3D005408E7 /* PascalsTriangle.swift in Sources */,
 				AD07CAFC28F5886700B2E73A /* FindTheWinnerOfTheCircularGame.swift in Sources */,
+				AD86E25729001496007E2A8D /* FindFirstAndLastPositionOfElementInSortedArray.swift in Sources */,
 				ADD9772028C7BD520028FCB0 /* LinkedListCycle.swift in Sources */,
 				AD844B0D28CA209C008E1AEF /* ValidParentheses.swift in Sources */,
 				ADD1C41C28B3CA3F00E63642 /* FirstBadVersion.swift in Sources */,
@@ -674,6 +681,7 @@
 				ADA580D228F043B20039F9BF /* AddTwoNumbers.swift in Sources */,
 				ADBC9C1528EDA96B00459081 /* MultiplyStrings.swift in Sources */,
 				AD4BDEAF28A7DF2F00E61565 /* ListNode.swift in Sources */,
+				AD86E2592900155E007E2A8D /* SearchInRotatedSortedArray.swift in Sources */,
 				ADA86E8528F440BE00A01BC2 /* ReverseNodesInKGroup.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
