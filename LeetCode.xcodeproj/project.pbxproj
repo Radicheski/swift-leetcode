@@ -43,6 +43,7 @@
 		AD4DCBF728E70C6300A81C5F /* PascalsTriangle2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4DCBF628E70C6300A81C5F /* PascalsTriangle2.swift */; };
 		AD4DCBF928E70EE600A81C5F /* RotateImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4DCBF828E70EE600A81C5F /* RotateImage.swift */; };
 		AD4DCBFB28E70FB900A81C5F /* SpiralMatrix2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4DCBFA28E70FB900A81C5F /* SpiralMatrix2.swift */; };
+		AD57491A2906A0A7008E89BE /* NumberOfProvinces.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5749192906A0A7008E89BE /* NumberOfProvinces.swift */; };
 		AD5CBBE628B251A500495544 /* Node.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5CBBE528B251A500495544 /* Node.swift */; };
 		AD5CBBE828B251D700495544 /* NaryTreePreorderTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5CBBE728B251D700495544 /* NaryTreePreorderTraversal.swift */; };
 		AD5CBBEA28B2547F00495544 /* BinaryTreeLevelOrderTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5CBBE928B2547F00495544 /* BinaryTreeLevelOrderTraversal.swift */; };
@@ -192,6 +193,7 @@
 		AD4DCBF628E70C6300A81C5F /* PascalsTriangle2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PascalsTriangle2.swift; sourceTree = "<group>"; };
 		AD4DCBF828E70EE600A81C5F /* RotateImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateImage.swift; sourceTree = "<group>"; };
 		AD4DCBFA28E70FB900A81C5F /* SpiralMatrix2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpiralMatrix2.swift; sourceTree = "<group>"; };
+		AD5749192906A0A7008E89BE /* NumberOfProvinces.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfProvinces.swift; sourceTree = "<group>"; };
 		AD5CBBE528B251A500495544 /* Node.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Node.swift; sourceTree = "<group>"; };
 		AD5CBBE728B251D700495544 /* NaryTreePreorderTraversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NaryTreePreorderTraversal.swift; sourceTree = "<group>"; };
 		AD5CBBE928B2547F00495544 /* BinaryTreeLevelOrderTraversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryTreeLevelOrderTraversal.swift; sourceTree = "<group>"; };
@@ -428,6 +430,7 @@
 				ADDC47DE28E861E40099DDC5 /* NonOverlappingIntervals.swift */,
 				AD820F5A28B65A1C00BA068E /* NumberOfIslands.swift */,
 				AD361C4C28E1C929002962BB /* NumberOfOneBits.swift */,
+				AD5749192906A0A7008E89BE /* NumberOfProvinces.swift */,
 				ADC46DAF28A922C7003B926E /* NumberOfStepsRoReduceANumberToZero.swift */,
 				ADD5D3F428A3147200BD5BCC /* PalindromeLinkedList.swift */,
 				ADF9B02328EC4D82003975A6 /* PartitionLabels.swift */,
@@ -607,6 +610,7 @@
 				AD75563328EEF0A3004B7039 /* LongestPalindromicSubstring.swift in Sources */,
 				ADADF18A28C8FF030021B192 /* RemoveDuplicatesFromSortedList.swift in Sources */,
 				AD2D4D342905619F00D3234A /* SubarrayProductLessThanK.swift in Sources */,
+				AD57491A2906A0A7008E89BE /* NumberOfProvinces.swift in Sources */,
 				ADC5823C28DB2DBA006D9591 /* PopulatingNextRightPointersInEachNode.swift in Sources */,
 				ADE1BD2528DC7C2A008ED566 /* ZeroOneMatrix.swift in Sources */,
 				ADEB5A6228CB7730004D8EAC /* BinaryTreeInorderTraversal.swift in Sources */,
