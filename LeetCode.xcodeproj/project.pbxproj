@@ -17,6 +17,9 @@
 		AD0AC56D28BE38C100D4608C /* TopKFrequentWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0AC56C28BE38C100D4608C /* TopKFrequentWords.swift */; };
 		AD1BBB5628BB832B000032DD /* TwoSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1BBB5528BB832B000032DD /* TwoSum.swift */; };
 		AD1BBB5828BB83CD000032DD /* BullsAndCows.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1BBB5728BB83CD000032DD /* BullsAndCows.swift */; };
+		AD1FCE0329095C0300A9B623 /* ShortestPathInBinaryMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1FCE0229095C0300A9B623 /* ShortestPathInBinaryMatrix.swift */; };
+		AD1FCE0529095CD800A9B623 /* SurroundedRegions.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1FCE0429095CD800A9B623 /* SurroundedRegions.swift */; };
+		AD1FCE0729095D9700A9B623 /* AllPathsFromSourceToTarget.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1FCE0629095D9700A9B623 /* AllPathsFromSourceToTarget.swift */; };
 		AD2A46D928AA9C9E009C45A8 /* RichestCustomerWealth.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2A46D828AA9C9E009C45A8 /* RichestCustomerWealth.swift */; };
 		AD2D4D342905619F00D3234A /* SubarrayProductLessThanK.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2D4D332905619F00D3234A /* SubarrayProductLessThanK.swift */; };
 		AD2D4D362905620C00D3234A /* MinimumSizeSubarraySum.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2D4D352905620C00D3234A /* MinimumSizeSubarraySum.swift */; };
@@ -169,6 +172,9 @@
 		AD0AC56C28BE38C100D4608C /* TopKFrequentWords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopKFrequentWords.swift; sourceTree = "<group>"; };
 		AD1BBB5528BB832B000032DD /* TwoSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSum.swift; sourceTree = "<group>"; };
 		AD1BBB5728BB83CD000032DD /* BullsAndCows.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BullsAndCows.swift; sourceTree = "<group>"; };
+		AD1FCE0229095C0300A9B623 /* ShortestPathInBinaryMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShortestPathInBinaryMatrix.swift; sourceTree = "<group>"; };
+		AD1FCE0429095CD800A9B623 /* SurroundedRegions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SurroundedRegions.swift; sourceTree = "<group>"; };
+		AD1FCE0629095D9700A9B623 /* AllPathsFromSourceToTarget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllPathsFromSourceToTarget.swift; sourceTree = "<group>"; };
 		AD2A46D828AA9C9E009C45A8 /* RichestCustomerWealth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RichestCustomerWealth.swift; sourceTree = "<group>"; };
 		AD2D4D332905619F00D3234A /* SubarrayProductLessThanK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubarrayProductLessThanK.swift; sourceTree = "<group>"; };
 		AD2D4D352905620C00D3234A /* MinimumSizeSubarraySum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumSizeSubarraySum.swift; sourceTree = "<group>"; };
@@ -355,6 +361,7 @@
 				AD4BDEAD28A7DF2100E61565 /* Commons */,
 				ADE4724D28EAFE7D00B5E8D1 /* AddStrings.swift */,
 				ADA580D128F043B20039F9BF /* AddTwoNumbers.swift */,
+				AD1FCE0629095D9700A9B623 /* AllPathsFromSourceToTarget.swift */,
 				ADDCF94828BCD57200E7CA46 /* BackspaceStringCompare.swift */,
 				ADE175DB28B117420022F308 /* BestTimeToBuyAndSellStock.swift */,
 				ADD1C41928B3C83500E63642 /* BinarySearch.swift */,
@@ -474,6 +481,7 @@
 				AD86E2582900155E007E2A8D /* SearchInRotatedSortedArray.swift */,
 				ADFE121428D1EA470063013C /* SearchInsertPosition.swift */,
 				ADB9AE8F28FAD463008FBC6A /* SerializeAndDeserializeBinaryTree.swift */,
+				AD1FCE0229095C0300A9B623 /* ShortestPathInBinaryMatrix.swift */,
 				AD325C4028E32B230039107E /* SingleNumber.swift */,
 				ADA485A928FEC716006C8FCF /* SortCharactersByFrequency.swift */,
 				ADEFCB4F28E5B6A500F62033 /* SortColors.swift */,
@@ -482,6 +490,7 @@
 				AD2D4D332905619F00D3234A /* SubarrayProductLessThanK.swift */,
 				ADB40E5D28E9B2F800D51F9C /* SubarraySumEqualsK.swift */,
 				AD6C46FB2908019A0011A77C /* SubtreeOfAnotherTree.swift */,
+				AD1FCE0429095CD800A9B623 /* SurroundedRegions.swift */,
 				ADCCEEC228F2F0D900B85A54 /* SwapNodesInPairs.swift */,
 				AD4BDEB028A7E03200E61565 /* TheKWeakestRowsInAMatrix.swift */,
 				AD933EF128E46CAA00B1B2DA /* ThreeSum.swift */,
@@ -608,6 +617,7 @@
 				ADD6AF4528D8833C00D74CFB /* PermutationInString.swift in Sources */,
 				ADB40E5C28E9B00B00D51F9C /* ProductOfArrayExceptSelf.swift in Sources */,
 				ADF9806C28AC03CF004BB6EC /* FindPivotIndex.swift in Sources */,
+				AD1FCE0729095D9700A9B623 /* AllPathsFromSourceToTarget.swift in Sources */,
 				ADF290F629016CF700A8AA6D /* FindMinimumInRotatedSortedArray.swift in Sources */,
 				AD5CBBE828B251D700495544 /* NaryTreePreorderTraversal.swift in Sources */,
 				AD6C46FC2908019A0011A77C /* SubtreeOfAnotherTree.swift in Sources */,
@@ -640,6 +650,7 @@
 				AD1BBB5828BB83CD000032DD /* BullsAndCows.swift in Sources */,
 				ADDC47DD28E85E7D0099DDC5 /* SearchA2DMatrix2.swift in Sources */,
 				ADE4724E28EAFE7D00B5E8D1 /* AddStrings.swift in Sources */,
+				AD1FCE0329095C0300A9B623 /* ShortestPathInBinaryMatrix.swift in Sources */,
 				AD5CBBE628B251A500495544 /* Node.swift in Sources */,
 				AD0AC56D28BE38C100D4608C /* TopKFrequentWords.swift in Sources */,
 				AD3ED08228D34DD90080829A /* SquaresOfASortedArray.swift in Sources */,
@@ -668,6 +679,7 @@
 				ADEB5A6028CB76F4004D8EAC /* BinaryTreePreorderTraversal.swift in Sources */,
 				AD820F5B28B65A1C00BA068E /* NumberOfIslands.swift in Sources */,
 				AD933EF228E46CAA00B1B2DA /* ThreeSum.swift in Sources */,
+				AD1FCE0529095CD800A9B623 /* SurroundedRegions.swift in Sources */,
 				ADF0631728D4902300546CCC /* MoveZeroes.swift in Sources */,
 				AD32C96128FD765D00305E77 /* TopKFrequentElements.swift in Sources */,
 				ADA08C5C28D5E99600B816C2 /* ReverseWordsInAString3.swift in Sources */,
