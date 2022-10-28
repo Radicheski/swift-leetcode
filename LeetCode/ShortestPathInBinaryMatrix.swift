@@ -44,7 +44,7 @@ private class Solution {
         
         var distance = 0
         while queue.isEmpty == false {
-            var currentQueue = queue
+            let currentQueue = queue
             queue.removeAll(keepingCapacity: true)
             
             for point in currentQueue {
