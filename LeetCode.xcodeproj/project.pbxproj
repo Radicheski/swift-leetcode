@@ -56,6 +56,8 @@
 		AD5CBBEC28B254A000495544 /* TreeNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5CBBEB28B254A000495544 /* TreeNode.swift */; };
 		AD6A0309290AACAB00988758 /* Subsets.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6A0308290AACAB00988758 /* Subsets.swift */; };
 		AD6A030B290AADB300988758 /* Subsets2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6A030A290AADB300988758 /* Subsets2.swift */; };
+		AD6BF880290EBE4F00C10525 /* HouseRobber2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6BF87F290EBE4F00C10525 /* HouseRobber2.swift */; };
+		AD6BF882290EBEF200C10525 /* JumpGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6BF881290EBEF200C10525 /* JumpGame.swift */; };
 		AD6C46FA290801150011A77C /* PopulatingNextRightPointersInEachNode2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6C46F9290801150011A77C /* PopulatingNextRightPointersInEachNode2.swift */; };
 		AD6C46FC2908019A0011A77C /* SubtreeOfAnotherTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6C46FB2908019A0011A77C /* SubtreeOfAnotherTree.swift */; };
 		AD75563128EEF013004B7039 /* RepeatedDNASequences.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD75563028EEF013004B7039 /* RepeatedDNASequences.swift */; };
@@ -219,6 +221,8 @@
 		AD5CBBEB28B254A000495544 /* TreeNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeNode.swift; sourceTree = "<group>"; };
 		AD6A0308290AACAB00988758 /* Subsets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Subsets.swift; sourceTree = "<group>"; };
 		AD6A030A290AADB300988758 /* Subsets2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Subsets2.swift; sourceTree = "<group>"; };
+		AD6BF87F290EBE4F00C10525 /* HouseRobber2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HouseRobber2.swift; sourceTree = "<group>"; };
+		AD6BF881290EBEF200C10525 /* JumpGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpGame.swift; sourceTree = "<group>"; };
 		AD6C46F9290801150011A77C /* PopulatingNextRightPointersInEachNode2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopulatingNextRightPointersInEachNode2.swift; sourceTree = "<group>"; };
 		AD6C46FB2908019A0011A77C /* SubtreeOfAnotherTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubtreeOfAnotherTree.swift; sourceTree = "<group>"; };
 		AD75563028EEF013004B7039 /* RepeatedDNASequences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepeatedDNASequences.swift; sourceTree = "<group>"; };
@@ -417,6 +421,7 @@
 				ADE79405290DA6D800D0D035 /* GenerateParentheses.swift */,
 				ADBC9C1628EDAA4E00459081 /* GroupAnagrams.swift */,
 				AD8C5ACF28E074A000E821D7 /* HouseRobber.swift */,
+				AD6BF87F290EBE4F00C10525 /* HouseRobber2.swift */,
 				AD844B0E28CA20F4008E1AEF /* ImplementQueueUsingStacks.swift */,
 				ADB40E5928E9AF3D00D51F9C /* IncreasingTripletSubsequence.swift */,
 				AD39B0CA28CF4B7B008FECE7 /* InsertIntoABinarySearchTree.swift */,
@@ -426,6 +431,7 @@
 				AD7DC46328CE023F00631E4A /* InvertBinaryTree.swift */,
 				ADC5B13628AD5102002FED4E /* IsomorphicStrings.swift */,
 				ADC5B13828AD5A00002FED4E /* IsSubsequence.swift */,
+				AD6BF881290EBEF200C10525 /* JumpGame.swift */,
 				ADA485AB28FEC828006C8FCF /* KClosestPointsToOrigin.swift */,
 				ADD8E83228FC3BD200EEBB3C /* KeysAndRooms.swift */,
 				AD32C95E28FD75C300305E77 /* KthLargestElementInAnArray.swift */,
@@ -644,6 +650,7 @@
 				ADD6AF4528D8833C00D74CFB /* PermutationInString.swift in Sources */,
 				ADB40E5C28E9B00B00D51F9C /* ProductOfArrayExceptSelf.swift in Sources */,
 				ADF9806C28AC03CF004BB6EC /* FindPivotIndex.swift in Sources */,
+				AD6BF882290EBEF200C10525 /* JumpGame.swift in Sources */,
 				AD1FCE0729095D9700A9B623 /* AllPathsFromSourceToTarget.swift in Sources */,
 				ADF290F629016CF700A8AA6D /* FindMinimumInRotatedSortedArray.swift in Sources */,
 				AD5CBBE828B251D700495544 /* NaryTreePreorderTraversal.swift in Sources */,
@@ -717,6 +724,7 @@
 				AD2A46D928AA9C9E009C45A8 /* RichestCustomerWealth.swift in Sources */,
 				ADF58E1028C622D7000E08DB /* FirstUniqueCharacterInAString.swift in Sources */,
 				AD31D256290BF75B0030D330 /* Permutations2.swift in Sources */,
+				AD6BF880290EBE4F00C10525 /* HouseRobber2.swift in Sources */,
 				AD7DC46428CE023F00631E4A /* InvertBinaryTree.swift in Sources */,
 				ADF58E1228C6236D000E08DB /* ValidAnagram.swift in Sources */,
 				ADB9AE8E28FAD19D008FBC6A /* LowestCommonAncestorOfABinaryTree.swift in Sources */,
