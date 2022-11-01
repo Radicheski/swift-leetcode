@@ -38,7 +38,7 @@ private class Solution {
             
             for j in 1 ... nums[i] {
                 guard i + j < nums.endIndex else { break }
-                var thisJump = jumps[i + j] + 1
+                let thisJump = jumps[i + j] + 1
                 minJumps = min(thisJump, minJumps)
             }
             
