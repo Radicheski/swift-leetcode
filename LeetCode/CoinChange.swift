@@ -32,7 +32,7 @@ private class Solution {
         var result = Array(repeating: Int.max, count: amount + 1)
         result[0] = 0
         
-        var coins = coins.sorted(by: <)
+        let coins = coins.sorted(by: <)
         
         for i in 1 ... amount {
             for coin in coins {
