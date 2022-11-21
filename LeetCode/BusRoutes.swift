@@ -39,17 +39,17 @@ private class Solution {
         
         for level in 1 ..< .max {
             guard queue.isEmpty == false else { break }
-            var size = queue.count
+            let size = queue.count
             
             for _ in 0 ..< size {
-                var node = queue.removeFirst()
+                let node = queue.removeFirst()
                 
                 for i in 0 ..< (map[node]?.count ?? 0) {
-                    if var route = map[node]?[i] {
+                    if let route = map[node]?[i] {
                         guard visited.contains(route) == false else { continue }
                         visited.insert(route)
                         for j in 0 ..< routes[route].count {
-                            var stop = routes[route][j]
+                            let stop = routes[route][j]
                             if stop == target { return level }
                             queue.append(stop)
                         }
