@@ -83,7 +83,7 @@ private class Trie {
     
     private func searchPrefix(_ word: String) -> TrieNode? {
         var node = root
-        var word = Array(word)
+        let word = Array(word)
         
         for character in word {
             if node?.containsKey(character) == true {
