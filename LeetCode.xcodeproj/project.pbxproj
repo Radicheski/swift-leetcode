@@ -190,6 +190,8 @@
 		ADF290F629016CF700A8AA6D /* FindMinimumInRotatedSortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF290F529016CF700A8AA6D /* FindMinimumInRotatedSortedArray.swift */; };
 		ADF290F829016FDF00A8AA6D /* FindPeakElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF290F729016FDF00A8AA6D /* FindPeakElement.swift */; };
 		ADF31932291141650038DE57 /* ArithmeticSlices.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF31931291141650038DE57 /* ArithmeticSlices.swift */; };
+		ADF4710A29326C18007A320F /* AsteroidCollision.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF4710929326C18007A320F /* AsteroidCollision.swift */; };
+		ADF4710C29326C9D007A320F /* BasicCalculator2.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF4710B29326C9D007A320F /* BasicCalculator2.swift */; };
 		ADF58E1028C622D7000E08DB /* FirstUniqueCharacterInAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF58E0F28C622D7000E08DB /* FirstUniqueCharacterInAString.swift */; };
 		ADF58E1228C6236D000E08DB /* ValidAnagram.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF58E1128C6236D000E08DB /* ValidAnagram.swift */; };
 		ADF5BF6F28CF7A3F00668B2D /* ListNodeTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF5BF6E28CF7A3F00668B2D /* ListNodeTest.swift */; };
@@ -391,6 +393,8 @@
 		ADF290F529016CF700A8AA6D /* FindMinimumInRotatedSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindMinimumInRotatedSortedArray.swift; sourceTree = "<group>"; };
 		ADF290F729016FDF00A8AA6D /* FindPeakElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindPeakElement.swift; sourceTree = "<group>"; };
 		ADF31931291141650038DE57 /* ArithmeticSlices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArithmeticSlices.swift; sourceTree = "<group>"; };
+		ADF4710929326C18007A320F /* AsteroidCollision.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsteroidCollision.swift; sourceTree = "<group>"; };
+		ADF4710B29326C9D007A320F /* BasicCalculator2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicCalculator2.swift; sourceTree = "<group>"; };
 		ADF58E0F28C622D7000E08DB /* FirstUniqueCharacterInAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstUniqueCharacterInAString.swift; sourceTree = "<group>"; };
 		ADF58E1128C6236D000E08DB /* ValidAnagram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidAnagram.swift; sourceTree = "<group>"; };
 		ADF5BF6E28CF7A3F00668B2D /* ListNodeTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListNodeTest.swift; sourceTree = "<group>"; };
@@ -453,7 +457,9 @@
 				ADA580D128F043B20039F9BF /* AddTwoNumbers.swift */,
 				AD1FCE0629095D9700A9B623 /* AllPathsFromSourceToTarget.swift */,
 				ADF31931291141650038DE57 /* ArithmeticSlices.swift */,
+				ADF4710929326C18007A320F /* AsteroidCollision.swift */,
 				ADDCF94828BCD57200E7CA46 /* BackspaceStringCompare.swift */,
+				ADF4710B29326C9D007A320F /* BasicCalculator2.swift */,
 				ADAA5A3929225FDC003EE31E /* BalancedBinaryTree.swift */,
 				ADE175DB28B117420022F308 /* BestTimeToBuyAndSellStock.swift */,
 				ADD1C41928B3C83500E63642 /* BinarySearch.swift */,
@@ -781,6 +787,7 @@
 				ADC5823C28DB2DBA006D9591 /* PopulatingNextRightPointersInEachNode.swift in Sources */,
 				ADE1BD2528DC7C2A008ED566 /* ZeroOneMatrix.swift in Sources */,
 				AD6A030B290AADB300988758 /* Subsets2.swift in Sources */,
+				ADF4710A29326C18007A320F /* AsteroidCollision.swift in Sources */,
 				ADEB5A6228CB7730004D8EAC /* BinaryTreeInorderTraversal.swift in Sources */,
 				ADE175DC28B117420022F308 /* BestTimeToBuyAndSellStock.swift in Sources */,
 				ADE175DE28B1262A0022F308 /* LongestPalindrome.swift in Sources */,
@@ -861,6 +868,7 @@
 				ADA173A029200D66006D0F09 /* OddEvenLinkedList.swift in Sources */,
 				AD4BDEAA28A7DDA700E61565 /* FizzBuzz.swift in Sources */,
 				ADA86E8728F4419B00A01BC2 /* ReorderList.swift in Sources */,
+				ADF4710C29326C9D007A320F /* BasicCalculator2.swift in Sources */,
 				AD4DCBF728E70C6300A81C5F /* PascalsTriangle2.swift in Sources */,
 				ADDCF94928BCD57200E7CA46 /* BackspaceStringCompare.swift in Sources */,
 				ADE1BD2728DC7CAF008ED566 /* RottingOranges.swift in Sources */,
