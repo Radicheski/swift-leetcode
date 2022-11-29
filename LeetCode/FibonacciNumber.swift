@@ -27,9 +27,18 @@ class FibonacciNumber: XCTestCase {
 
 private class Solution {
     func fib(_ n: Int) -> Int {
-        if n == 0 { return 0 }
-        if n == 1 { return 1 }
+        guard n > 1 else { return n }
         
-        return fib(n - 1) + fib(n - 2)
+        var previousResult = 0
+        var result = 1
+        
+        for _ in 2 ... n {
+            let sum = result + previousResult
+            previousResult = result
+            result = sum
+        }
+        
+        return result
     }
+    
 }

@@ -15,6 +15,7 @@
 		AD07CAFC28F5886700B2E73A /* FindTheWinnerOfTheCircularGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD07CAFB28F5886700B2E73A /* FindTheWinnerOfTheCircularGame.swift */; };
 		AD0AC56B28BE385B00D4608C /* LastStoneWeight.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0AC56A28BE385B00D4608C /* LastStoneWeight.swift */; };
 		AD0AC56D28BE38C100D4608C /* TopKFrequentWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0AC56C28BE38C100D4608C /* TopKFrequentWords.swift */; };
+		AD1AB3582936659A00BDF5A5 /* NthTribonacciNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1AB3572936659A00BDF5A5 /* NthTribonacciNumber.swift */; };
 		AD1BBB5628BB832B000032DD /* TwoSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1BBB5528BB832B000032DD /* TwoSum.swift */; };
 		AD1BBB5828BB83CD000032DD /* BullsAndCows.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1BBB5728BB83CD000032DD /* BullsAndCows.swift */; };
 		AD1FCE0329095C0300A9B623 /* ShortestPathInBinaryMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1FCE0229095C0300A9B623 /* ShortestPathInBinaryMatrix.swift */; };
@@ -218,6 +219,7 @@
 		AD07CAFB28F5886700B2E73A /* FindTheWinnerOfTheCircularGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheWinnerOfTheCircularGame.swift; sourceTree = "<group>"; };
 		AD0AC56A28BE385B00D4608C /* LastStoneWeight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LastStoneWeight.swift; sourceTree = "<group>"; };
 		AD0AC56C28BE38C100D4608C /* TopKFrequentWords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopKFrequentWords.swift; sourceTree = "<group>"; };
+		AD1AB3572936659A00BDF5A5 /* NthTribonacciNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NthTribonacciNumber.swift; sourceTree = "<group>"; };
 		AD1BBB5528BB832B000032DD /* TwoSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSum.swift; sourceTree = "<group>"; };
 		AD1BBB5728BB83CD000032DD /* BullsAndCows.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BullsAndCows.swift; sourceTree = "<group>"; };
 		AD1FCE0229095C0300A9B623 /* ShortestPathInBinaryMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShortestPathInBinaryMatrix.swift; sourceTree = "<group>"; };
@@ -566,6 +568,7 @@
 				ADBC9C1428EDA96B00459081 /* MultiplyStrings.swift */,
 				AD5CBBE728B251D700495544 /* NaryTreePreorderTraversal.swift */,
 				ADDC47DE28E861E40099DDC5 /* NonOverlappingIntervals.swift */,
+				AD1AB3572936659A00BDF5A5 /* NthTribonacciNumber.swift */,
 				AD820F5A28B65A1C00BA068E /* NumberOfIslands.swift */,
 				AD35997C2913DFBE0082AC68 /* NumberOfLongestIncreasingSubsequence.swift */,
 				AD361C4C28E1C929002962BB /* NumberOfOneBits.swift */,
@@ -898,6 +901,7 @@
 				ADF0EB91291A7E59000B73A4 /* HappyNumber.swift in Sources */,
 				ADA4798B28CCCEF800C23FF0 /* MaximumDepthOfBinaryTree.swift in Sources */,
 				ADBEEB6A28BF84F90069B4BB /* MaximumSubarray.swift in Sources */,
+				AD1AB3582936659A00BDF5A5 /* NthTribonacciNumber.swift in Sources */,
 				ADC5823A28DB2CA9006D9591 /* MergeTwoBinaryTrees.swift in Sources */,
 				AD820F5928B6529700BA068E /* FloodFill.swift in Sources */,
 				AD2F3732292F8B8B00F4F680 /* ImplementTriePrefixTree.swift in Sources */,
