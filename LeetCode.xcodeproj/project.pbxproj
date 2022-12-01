@@ -151,6 +151,7 @@
 		ADD5D3F528A3147200BD5BCC /* PalindromeLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD5D3F428A3147200BD5BCC /* PalindromeLinkedList.swift */; };
 		ADD6AF4328D882B500D74CFB /* LongestSubstringWithoutRepeatingCharacters.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD6AF4228D882B500D74CFB /* LongestSubstringWithoutRepeatingCharacters.swift */; };
 		ADD6AF4528D8833C00D74CFB /* PermutationInString.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD6AF4428D8833C00D74CFB /* PermutationInString.swift */; };
+		ADD71D4B2938C471005189E6 /* DeleteAndEarn.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD71D4A2938C471005189E6 /* DeleteAndEarn.swift */; };
 		ADD8E82F28FC3AA000EEBB3C /* FindTheTownJudge.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD8E82E28FC3AA000EEBB3C /* FindTheTownJudge.swift */; };
 		ADD8E83128FC3B3C00EEBB3C /* MinimumNumberOfVerticesToReachAllNodes.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD8E83028FC3B3C00EEBB3C /* MinimumNumberOfVerticesToReachAllNodes.swift */; };
 		ADD8E83328FC3BD200EEBB3C /* KeysAndRooms.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD8E83228FC3BD200EEBB3C /* KeysAndRooms.swift */; };
@@ -356,6 +357,7 @@
 		ADD5D3F428A3147200BD5BCC /* PalindromeLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalindromeLinkedList.swift; sourceTree = "<group>"; };
 		ADD6AF4228D882B500D74CFB /* LongestSubstringWithoutRepeatingCharacters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestSubstringWithoutRepeatingCharacters.swift; sourceTree = "<group>"; };
 		ADD6AF4428D8833C00D74CFB /* PermutationInString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PermutationInString.swift; sourceTree = "<group>"; };
+		ADD71D4A2938C471005189E6 /* DeleteAndEarn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeleteAndEarn.swift; sourceTree = "<group>"; };
 		ADD8E82E28FC3AA000EEBB3C /* FindTheTownJudge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheTownJudge.swift; sourceTree = "<group>"; };
 		ADD8E83028FC3B3C00EEBB3C /* MinimumNumberOfVerticesToReachAllNodes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberOfVerticesToReachAllNodes.swift; sourceTree = "<group>"; };
 		ADD8E83228FC3BD200EEBB3C /* KeysAndRooms.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeysAndRooms.swift; sourceTree = "<group>"; };
@@ -490,6 +492,7 @@
 				AD899FD42929136E001DD001 /* CourseSchedule2.swift */,
 				ADDCF94A28BCD5F400E7CA46 /* DecodeString.swift */,
 				AD862E3E2912919C008F93B1 /* DecodeWays.swift */,
+				ADD71D4A2938C471005189E6 /* DeleteAndEarn.swift */,
 				ADE2438728F835D900D3AB3F /* DeleteNodeInABST.swift */,
 				AD4C668329152EBF00C86C85 /* DeleteOperationForTwoStrings.swift */,
 				ADEFCB5328E5B7E000F62033 /* DesignHashMap.swift */,
@@ -768,6 +771,7 @@
 				ADC482D028DF217100EAE8CC /* LetterCasePermutation.swift in Sources */,
 				AD8C5AD028E074A000E821D7 /* HouseRobber.swift in Sources */,
 				AD9914AA28C0DBD500BCFDAB /* MergeSortedArray.swift in Sources */,
+				ADD71D4B2938C471005189E6 /* DeleteAndEarn.swift in Sources */,
 				ADD6AF4328D882B500D74CFB /* LongestSubstringWithoutRepeatingCharacters.swift in Sources */,
 				AD2D4D362905620C00D3234A /* MinimumSizeSubarraySum.swift in Sources */,
 				AD31D25A290BFA770030D330 /* CombinationSum2.swift in Sources */,
