@@ -78,6 +78,7 @@
 		AD844B0F28CA20F4008E1AEF /* ImplementQueueUsingStacks.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD844B0E28CA20F4008E1AEF /* ImplementQueueUsingStacks.swift */; };
 		AD84D9522923AC0B00891349 /* DiameterOfBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD84D9512923AC0B00891349 /* DiameterOfBinaryTree.swift */; };
 		AD84D9542923ACA900891349 /* PathSum3.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD84D9532923ACA900891349 /* PathSum3.swift */; };
+		AD852695293BA3ED0096B9D2 /* MaximumSumCircularSubarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD852694293BA3ED0096B9D2 /* MaximumSumCircularSubarray.swift */; };
 		AD862E3F2912919C008F93B1 /* DecodeWays.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD862E3E2912919C008F93B1 /* DecodeWays.swift */; };
 		AD862E4129129270008F93B1 /* WordBreak.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD862E4029129270008F93B1 /* WordBreak.swift */; };
 		AD86E25729001496007E2A8D /* FindFirstAndLastPositionOfElementInSortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD86E25629001496007E2A8D /* FindFirstAndLastPositionOfElementInSortedArray.swift */; };
@@ -283,6 +284,7 @@
 		AD844B0E28CA20F4008E1AEF /* ImplementQueueUsingStacks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImplementQueueUsingStacks.swift; sourceTree = "<group>"; };
 		AD84D9512923AC0B00891349 /* DiameterOfBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiameterOfBinaryTree.swift; sourceTree = "<group>"; };
 		AD84D9532923ACA900891349 /* PathSum3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathSum3.swift; sourceTree = "<group>"; };
+		AD852694293BA3ED0096B9D2 /* MaximumSumCircularSubarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumSumCircularSubarray.swift; sourceTree = "<group>"; };
 		AD862E3E2912919C008F93B1 /* DecodeWays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DecodeWays.swift; sourceTree = "<group>"; };
 		AD862E4029129270008F93B1 /* WordBreak.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordBreak.swift; sourceTree = "<group>"; };
 		AD86E25629001496007E2A8D /* FindFirstAndLastPositionOfElementInSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindFirstAndLastPositionOfElementInSortedArray.swift; sourceTree = "<group>"; };
@@ -554,6 +556,7 @@
 				ADA4798A28CCCEF800C23FF0 /* MaximumDepthOfBinaryTree.swift */,
 				ADF22B83292BA5AC00DF8FCA /* MaximumProductSubarray.swift */,
 				ADBEEB6928BF84F90069B4BB /* MaximumSubarray.swift */,
+				AD852694293BA3ED0096B9D2 /* MaximumSumCircularSubarray.swift */,
 				ADF0EB92291A7F31000B73A4 /* MaxPointsOnALine.swift */,
 				ADEFCB5128E5B74800F62033 /* MergeIntervals.swift */,
 				AD9914A928C0DBD500BCFDAB /* MergeSortedArray.swift */,
@@ -892,6 +895,7 @@
 				AD4C668429152EBF00C86C85 /* DeleteOperationForTwoStrings.swift in Sources */,
 				AD5CBBEC28B254A000495544 /* TreeNode.swift in Sources */,
 				ADC46DB028A922C7003B926E /* NumberOfStepsRoReduceANumberToZero.swift in Sources */,
+				AD852695293BA3ED0096B9D2 /* MaximumSumCircularSubarray.swift in Sources */,
 				AD7DC46628CE02A600631E4A /* PathSum.swift in Sources */,
 				AD88EE2328AEA91A007E3D7C /* MergeTwoSortedLists.swift in Sources */,
 				ADC482CE28DF20DA00EAE8CC /* Permutations.swift in Sources */,
