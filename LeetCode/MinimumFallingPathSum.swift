@@ -31,9 +31,9 @@ private class Solution {
             var nextResult: [Int] = Array(repeating: .max, count: rowValue.count)
             
             for (columnIndex, columnValue) in rowValue.enumerated() {
-                var left = columnIndex == 0 ? Int.max : result[columnIndex - 1]
-                var center = result[columnIndex]
-                var right = columnIndex + 1 >= rowValue.endIndex ? Int.max : result[columnIndex + 1]
+                let left = columnIndex == 0 ? Int.max : result[columnIndex - 1]
+                let center = result[columnIndex]
+                let right = columnIndex + 1 >= rowValue.endIndex ? Int.max : result[columnIndex + 1]
                 
                 nextResult[columnIndex] = min(left, center, right) + columnValue
             }

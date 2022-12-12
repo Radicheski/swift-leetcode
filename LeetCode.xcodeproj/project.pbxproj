@@ -71,6 +71,8 @@
 		AD6BF882290EBEF200C10525 /* JumpGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6BF881290EBEF200C10525 /* JumpGame.swift */; };
 		AD6C46FA290801150011A77C /* PopulatingNextRightPointersInEachNode2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6C46F9290801150011A77C /* PopulatingNextRightPointersInEachNode2.swift */; };
 		AD6C46FC2908019A0011A77C /* SubtreeOfAnotherTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6C46FB2908019A0011A77C /* SubtreeOfAnotherTree.swift */; };
+		AD6E215929474A8100D538ED /* MatrixBlockSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6E215829474A8100D538ED /* MatrixBlockSum.swift */; };
+		AD6E215B29474B3000D538ED /* RangeSumQuery2DImmutable.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6E215A29474B3000D538ED /* RangeSumQuery2DImmutable.swift */; };
 		AD75563128EEF013004B7039 /* RepeatedDNASequences.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD75563028EEF013004B7039 /* RepeatedDNASequences.swift */; };
 		AD75563328EEF0A3004B7039 /* LongestPalindromicSubstring.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD75563228EEF0A3004B7039 /* LongestPalindromicSubstring.swift */; };
 		AD7DC46428CE023F00631E4A /* InvertBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7DC46328CE023F00631E4A /* InvertBinaryTree.swift */; };
@@ -286,6 +288,8 @@
 		AD6BF881290EBEF200C10525 /* JumpGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpGame.swift; sourceTree = "<group>"; };
 		AD6C46F9290801150011A77C /* PopulatingNextRightPointersInEachNode2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopulatingNextRightPointersInEachNode2.swift; sourceTree = "<group>"; };
 		AD6C46FB2908019A0011A77C /* SubtreeOfAnotherTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubtreeOfAnotherTree.swift; sourceTree = "<group>"; };
+		AD6E215829474A8100D538ED /* MatrixBlockSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatrixBlockSum.swift; sourceTree = "<group>"; };
+		AD6E215A29474B3000D538ED /* RangeSumQuery2DImmutable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RangeSumQuery2DImmutable.swift; sourceTree = "<group>"; };
 		AD75563028EEF013004B7039 /* RepeatedDNASequences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepeatedDNASequences.swift; sourceTree = "<group>"; };
 		AD75563228EEF0A3004B7039 /* LongestPalindromicSubstring.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestPalindromicSubstring.swift; sourceTree = "<group>"; };
 		AD7DC46328CE023F00631E4A /* InvertBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InvertBinaryTree.swift; sourceTree = "<group>"; };
@@ -574,6 +578,7 @@
 				AD2FF7A628B50D3F0027AFB6 /* LowestCommonAncestorOfABinarySearchTree.swift */,
 				ADB9AE8D28FAD19D008FBC6A /* LowestCommonAncestorOfABinaryTree.swift */,
 				AD933EEF28E46C2300B1B2DA /* MajorityElement.swift */,
+				AD6E215829474A8100D538ED /* MatrixBlockSum.swift */,
 				AD45D00028D9DCD000544C0A /* MaxAreaOfIsland.swift */,
 				ADA4798A28CCCEF800C23FF0 /* MaximumDepthOfBinaryTree.swift */,
 				ADD1B03E293CC386006136E8 /* MaximumLengthOfSubarrayWithPositiveProduct.swift */,
@@ -621,6 +626,7 @@
 				AD6C46F9290801150011A77C /* PopulatingNextRightPointersInEachNode2.swift */,
 				AD361C4A28E1C883002962BB /* PowerOfTwo.swift */,
 				ADB40E5B28E9B00B00D51F9C /* ProductOfArrayExceptSelf.swift */,
+				AD6E215A29474B3000D538ED /* RangeSumQuery2DImmutable.swift */,
 				ADD5D3E628A3114600BD5BCC /* RansomNote.swift */,
 				ADADF18928C8FF030021B192 /* RemoveDuplicatesFromSortedList.swift */,
 				AD3C92F128F19F2600E90724 /* RemoveDuplicatesFromSortedList2.swift */,
@@ -806,6 +812,7 @@
 				ADD71D4B2938C471005189E6 /* DeleteAndEarn.swift in Sources */,
 				ADD6AF4328D882B500D74CFB /* LongestSubstringWithoutRepeatingCharacters.swift in Sources */,
 				AD2D4D362905620C00D3234A /* MinimumSizeSubarraySum.swift in Sources */,
+				AD6E215B29474B3000D538ED /* RangeSumQuery2DImmutable.swift in Sources */,
 				AD31D25A290BFA770030D330 /* CombinationSum2.swift in Sources */,
 				ADD6AF4528D8833C00D74CFB /* PermutationInString.swift in Sources */,
 				ADB40E5C28E9B00B00D51F9C /* ProductOfArrayExceptSelf.swift in Sources */,
@@ -946,6 +953,7 @@
 				ADC5823A28DB2CA9006D9591 /* MergeTwoBinaryTrees.swift in Sources */,
 				AD820F5928B6529700BA068E /* FloodFill.swift in Sources */,
 				AD2F3732292F8B8B00F4F680 /* ImplementTriePrefixTree.swift in Sources */,
+				AD6E215929474A8100D538ED /* MatrixBlockSum.swift in Sources */,
 				AD0AC56B28BE385B00D4608C /* LastStoneWeight.swift in Sources */,
 				ADD5A75528F984F900DAB4AF /* BinarySearchTreeIterator.swift in Sources */,
 				ADFE121528D1EA470063013C /* SearchInsertPosition.swift in Sources */,
