@@ -208,6 +208,7 @@
 		ADF22B84292BA5AC00DF8FCA /* MaximumProductSubarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF22B83292BA5AC00DF8FCA /* MaximumProductSubarray.swift */; };
 		ADF290F629016CF700A8AA6D /* FindMinimumInRotatedSortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF290F529016CF700A8AA6D /* FindMinimumInRotatedSortedArray.swift */; };
 		ADF290F829016FDF00A8AA6D /* FindPeakElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF290F729016FDF00A8AA6D /* FindPeakElement.swift */; };
+		ADF2C0B9294C964200557C7D /* WiggleSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF2C0B8294C964200557C7D /* WiggleSubsequence.swift */; };
 		ADF31932291141650038DE57 /* ArithmeticSlices.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF31931291141650038DE57 /* ArithmeticSlices.swift */; };
 		ADF4710A29326C18007A320F /* AsteroidCollision.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF4710929326C18007A320F /* AsteroidCollision.swift */; };
 		ADF4710C29326C9D007A320F /* BasicCalculator2.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF4710B29326C9D007A320F /* BasicCalculator2.swift */; };
@@ -430,6 +431,7 @@
 		ADF22B83292BA5AC00DF8FCA /* MaximumProductSubarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumProductSubarray.swift; sourceTree = "<group>"; };
 		ADF290F529016CF700A8AA6D /* FindMinimumInRotatedSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindMinimumInRotatedSortedArray.swift; sourceTree = "<group>"; };
 		ADF290F729016FDF00A8AA6D /* FindPeakElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindPeakElement.swift; sourceTree = "<group>"; };
+		ADF2C0B8294C964200557C7D /* WiggleSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WiggleSubsequence.swift; sourceTree = "<group>"; };
 		ADF31931291141650038DE57 /* ArithmeticSlices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArithmeticSlices.swift; sourceTree = "<group>"; };
 		ADF4710929326C18007A320F /* AsteroidCollision.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsteroidCollision.swift; sourceTree = "<group>"; };
 		ADF4710B29326C9D007A320F /* BasicCalculator2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicCalculator2.swift; sourceTree = "<group>"; };
@@ -701,6 +703,7 @@
 				AD844B0C28CA209C008E1AEF /* ValidParentheses.swift */,
 				AD90565228C4C6A600886275 /* ValidSudoku.swift */,
 				ADE650E7291BD2740038FDD1 /* WhereWillTheBallFall.swift */,
+				ADF2C0B8294C964200557C7D /* WiggleSubsequence.swift */,
 				AD862E4029129270008F93B1 /* WordBreak.swift */,
 				ADF9B02128EC4CF8003975A6 /* WordPattern.swift */,
 				ADE79407290DA7D700D0D035 /* WordSearch.swift */,
@@ -898,6 +901,7 @@
 				AD4BDEB128A7E03200E61565 /* TheKWeakestRowsInAMatrix.swift in Sources */,
 				ADE79408290DA7D700D0D035 /* WordSearch.swift in Sources */,
 				AD361C4B28E1C883002962BB /* PowerOfTwo.swift in Sources */,
+				ADF2C0B9294C964200557C7D /* WiggleSubsequence.swift in Sources */,
 				ADEFCB5228E5B74800F62033 /* MergeIntervals.swift in Sources */,
 				AD6A0309290AACAB00988758 /* Subsets.swift in Sources */,
 				AD35997B2913DD9F0082AC68 /* LongestIncreasingSubsequence.swift in Sources */,
