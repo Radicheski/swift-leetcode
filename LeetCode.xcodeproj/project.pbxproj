@@ -198,6 +198,8 @@
 		ADEC7FBE293E17D200BF0086 /* BestTimeToBuyAndSellStock2.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEC7FBD293E17D200BF0086 /* BestTimeToBuyAndSellStock2.swift */; };
 		ADEE310528B7A5B400448525 /* FibonacciNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEE310428B7A5B400448525 /* FibonacciNumber.swift */; };
 		ADEE310728B7A6BE00448525 /* ClimbingStairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEE310628B7A6BE00448525 /* ClimbingStairs.swift */; };
+		ADEFAB362950973500560F1D /* CombinationSum4.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEFAB352950973500560F1D /* CombinationSum4.swift */; };
+		ADEFAB38295097B000560F1D /* PerfectSquares.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEFAB37295097B000560F1D /* PerfectSquares.swift */; };
 		ADEFCB5028E5B6A500F62033 /* SortColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEFCB4F28E5B6A500F62033 /* SortColors.swift */; };
 		ADEFCB5228E5B74800F62033 /* MergeIntervals.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEFCB5128E5B74800F62033 /* MergeIntervals.swift */; };
 		ADEFCB5428E5B7E000F62033 /* DesignHashMap.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEFCB5328E5B7E000F62033 /* DesignHashMap.swift */; };
@@ -422,6 +424,8 @@
 		ADEC7FBD293E17D200BF0086 /* BestTimeToBuyAndSellStock2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BestTimeToBuyAndSellStock2.swift; sourceTree = "<group>"; };
 		ADEE310428B7A5B400448525 /* FibonacciNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FibonacciNumber.swift; sourceTree = "<group>"; };
 		ADEE310628B7A6BE00448525 /* ClimbingStairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClimbingStairs.swift; sourceTree = "<group>"; };
+		ADEFAB352950973500560F1D /* CombinationSum4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombinationSum4.swift; sourceTree = "<group>"; };
+		ADEFAB37295097B000560F1D /* PerfectSquares.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerfectSquares.swift; sourceTree = "<group>"; };
 		ADEFCB4F28E5B6A500F62033 /* SortColors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortColors.swift; sourceTree = "<group>"; };
 		ADEFCB5128E5B74800F62033 /* MergeIntervals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeIntervals.swift; sourceTree = "<group>"; };
 		ADEFCB5328E5B7E000F62033 /* DesignHashMap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignHashMap.swift; sourceTree = "<group>"; };
@@ -525,6 +529,7 @@
 				ADC482CB28DF202300EAE8CC /* Combinations.swift */,
 				AD31D257290BF9A10030D330 /* CombinationSum.swift */,
 				AD31D259290BFA770030D330 /* CombinationSum2.swift */,
+				ADEFAB352950973500560F1D /* CombinationSum4.swift */,
 				AD068C4B28DDC23400D4EB76 /* ConcatenationOfConsecutiveBinaryNumbers.swift */,
 				ADF9488128F6E189006630E0 /* ConstructBinaryTreeFromPreorderAndInorderTraversal.swift */,
 				AD8A1EEF29044C5C00ABA3F6 /* ContainerWithMostWater.swift */,
@@ -635,6 +640,7 @@
 				AD7DC46528CE02A600631E4A /* PathSum.swift */,
 				ADE2438528F8350400D3AB3F /* PathSum2.swift */,
 				AD84D9532923ACA900891349 /* PathSum3.swift */,
+				ADEFAB37295097B000560F1D /* PerfectSquares.swift */,
 				ADD6AF4428D8833C00D74CFB /* PermutationInString.swift */,
 				ADC482CD28DF20DA00EAE8CC /* Permutations.swift */,
 				AD31D255290BF75B0030D330 /* Permutations2.swift */,
@@ -839,6 +845,7 @@
 				AD6BF882290EBEF200C10525 /* JumpGame.swift in Sources */,
 				AD1FCE0729095D9700A9B623 /* AllPathsFromSourceToTarget.swift in Sources */,
 				ADF290F629016CF700A8AA6D /* FindMinimumInRotatedSortedArray.swift in Sources */,
+				ADEFAB38295097B000560F1D /* PerfectSquares.swift in Sources */,
 				AD5CBBE828B251D700495544 /* NaryTreePreorderTraversal.swift in Sources */,
 				AD6C46FC2908019A0011A77C /* SubtreeOfAnotherTree.swift in Sources */,
 				ADD5D3F328A3120A00BD5BCC /* RansomNote.swift in Sources */,
@@ -1001,6 +1008,7 @@
 				AD86E2592900155E007E2A8D /* SearchInRotatedSortedArray.swift in Sources */,
 				ADA86E8528F440BE00A01BC2 /* ReverseNodesInKGroup.swift in Sources */,
 				AD8733E32916D41A00E18F7B /* IntegerBreak.swift in Sources */,
+				ADEFAB362950973500560F1D /* CombinationSum4.swift in Sources */,
 				AD180B3629434F1F001F5866 /* UglyNumber2.swift in Sources */,
 				ADDF8A15293F68A700B0783F /* BestTimeToBuyAndSellStockWithCooldown.swift in Sources */,
 			);
