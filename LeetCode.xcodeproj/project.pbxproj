@@ -66,6 +66,8 @@
 		AD5CBBE828B251D700495544 /* NaryTreePreorderTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5CBBE728B251D700495544 /* NaryTreePreorderTraversal.swift */; };
 		AD5CBBEA28B2547F00495544 /* BinaryTreeLevelOrderTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5CBBE928B2547F00495544 /* BinaryTreeLevelOrderTraversal.swift */; };
 		AD5CBBEC28B254A000495544 /* TreeNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5CBBEB28B254A000495544 /* TreeNode.swift */; };
+		AD69BA112951D67B00986792 /* CountOddNumbersInAnIntervalRange.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD69BA102951D67B00986792 /* CountOddNumbersInAnIntervalRange.swift */; };
+		AD69BA132951D6EE00986792 /* AverageSalaryExcludingTheMinimumAndMaximumSalary.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD69BA122951D6EE00986792 /* AverageSalaryExcludingTheMinimumAndMaximumSalary.swift */; };
 		AD6A0309290AACAB00988758 /* Subsets.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6A0308290AACAB00988758 /* Subsets.swift */; };
 		AD6A030B290AADB300988758 /* Subsets2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6A030A290AADB300988758 /* Subsets2.swift */; };
 		AD6BF880290EBE4F00C10525 /* HouseRobber2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6BF87F290EBE4F00C10525 /* HouseRobber2.swift */; };
@@ -291,6 +293,8 @@
 		AD5CBBE728B251D700495544 /* NaryTreePreorderTraversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NaryTreePreorderTraversal.swift; sourceTree = "<group>"; };
 		AD5CBBE928B2547F00495544 /* BinaryTreeLevelOrderTraversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryTreeLevelOrderTraversal.swift; sourceTree = "<group>"; };
 		AD5CBBEB28B254A000495544 /* TreeNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeNode.swift; sourceTree = "<group>"; };
+		AD69BA102951D67B00986792 /* CountOddNumbersInAnIntervalRange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountOddNumbersInAnIntervalRange.swift; sourceTree = "<group>"; };
+		AD69BA122951D6EE00986792 /* AverageSalaryExcludingTheMinimumAndMaximumSalary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AverageSalaryExcludingTheMinimumAndMaximumSalary.swift; sourceTree = "<group>"; };
 		AD6A0308290AACAB00988758 /* Subsets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Subsets.swift; sourceTree = "<group>"; };
 		AD6A030A290AADB300988758 /* Subsets2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Subsets2.swift; sourceTree = "<group>"; };
 		AD6BF87F290EBE4F00C10525 /* HouseRobber2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HouseRobber2.swift; sourceTree = "<group>"; };
@@ -504,6 +508,7 @@
 				AD1FCE0629095D9700A9B623 /* AllPathsFromSourceToTarget.swift */,
 				ADF31931291141650038DE57 /* ArithmeticSlices.swift */,
 				ADF4710929326C18007A320F /* AsteroidCollision.swift */,
+				AD69BA122951D6EE00986792 /* AverageSalaryExcludingTheMinimumAndMaximumSalary.swift */,
 				ADDCF94828BCD57200E7CA46 /* BackspaceStringCompare.swift */,
 				ADF4710B29326C9D007A320F /* BasicCalculator2.swift */,
 				ADAA5A3929225FDC003EE31E /* BalancedBinaryTree.swift */,
@@ -535,6 +540,7 @@
 				AD8A1EEF29044C5C00ABA3F6 /* ContainerWithMostWater.swift */,
 				ADBEEB6728BF847B0069B4BB /* ContainsDuplicate.swift */,
 				ADF9487F28F6E07B006630E0 /* ConvertSortedArrayToBinarySearchTree.swift */,
+				AD69BA102951D67B00986792 /* CountOddNumbersInAnIntervalRange.swift */,
 				AD899FD42929136E001DD001 /* CourseSchedule2.swift */,
 				ADDCF94A28BCD5F400E7CA46 /* DecodeString.swift */,
 				AD862E3E2912919C008F93B1 /* DecodeWays.swift */,
@@ -798,6 +804,7 @@
 				AD88EE2528AF13C3007E3D7C /* ReverseLinkedList.swift in Sources */,
 				ADCCEEC528F2F18B00B85A54 /* DesignLinkedList.swift in Sources */,
 				ADEC7FBC293E176E00BF0086 /* BestSightseeingPair.swift in Sources */,
+				AD69BA112951D67B00986792 /* CountOddNumbersInAnIntervalRange.swift in Sources */,
 				AD4DCBF928E70EE600A81C5F /* RotateImage.swift in Sources */,
 				ADD27D5528D0A150002F114F /* TwoSum4.swift in Sources */,
 				ADE79404290DA55D00D0D035 /* LetterCombinationsOfAPhoneNumber.swift in Sources */,
@@ -1001,6 +1008,7 @@
 				ADDF8A17293F690800B0783F /* BestTimeToBuyAndSellStockWithTransactionFee.swift in Sources */,
 				ADB53A3C28BA4BB200C937F7 /* LongestRepeatingCharacterReplacement.swift in Sources */,
 				ADCBBD8429212779006787B4 /* TaskScheduler.swift in Sources */,
+				AD69BA132951D6EE00986792 /* AverageSalaryExcludingTheMinimumAndMaximumSalary.swift in Sources */,
 				AD5CBBEA28B2547F00495544 /* BinaryTreeLevelOrderTraversal.swift in Sources */,
 				ADA580D228F043B20039F9BF /* AddTwoNumbers.swift in Sources */,
 				ADBC9C1528EDA96B00459081 /* MultiplyStrings.swift in Sources */,
