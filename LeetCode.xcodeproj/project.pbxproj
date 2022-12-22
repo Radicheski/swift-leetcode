@@ -159,6 +159,8 @@
 		ADD1B03F293CC386006136E8 /* MaximumLengthOfSubarrayWithPositiveProduct.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD1B03E293CC386006136E8 /* MaximumLengthOfSubarrayWithPositiveProduct.swift */; };
 		ADD1C41A28B3C83500E63642 /* BinarySearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD1C41928B3C83500E63642 /* BinarySearch.swift */; };
 		ADD1C41C28B3CA3F00E63642 /* FirstBadVersion.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD1C41B28B3CA3F00E63642 /* FirstBadVersion.swift */; };
+		ADD26591295483C20097DD23 /* LargestPerimeterTriangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD26590295483C20097DD23 /* LargestPerimeterTriangle.swift */; };
+		ADD265932954849E0097DD23 /* FindNearestPointThatHasTheSameXOrYCoordinate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD265922954849E0097DD23 /* FindNearestPointThatHasTheSameXOrYCoordinate.swift */; };
 		ADD27D5528D0A150002F114F /* TwoSum4.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD27D5428D0A150002F114F /* TwoSum4.swift */; };
 		ADD5A75328F9845700DAB4AF /* KthSmallestElementInABST.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD5A75228F9845700DAB4AF /* KthSmallestElementInABST.swift */; };
 		ADD5A75528F984F900DAB4AF /* BinarySearchTreeIterator.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD5A75428F984F900DAB4AF /* BinarySearchTreeIterator.swift */; };
@@ -387,6 +389,8 @@
 		ADD1B03E293CC386006136E8 /* MaximumLengthOfSubarrayWithPositiveProduct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumLengthOfSubarrayWithPositiveProduct.swift; sourceTree = "<group>"; };
 		ADD1C41928B3C83500E63642 /* BinarySearch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinarySearch.swift; sourceTree = "<group>"; };
 		ADD1C41B28B3CA3F00E63642 /* FirstBadVersion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstBadVersion.swift; sourceTree = "<group>"; };
+		ADD26590295483C20097DD23 /* LargestPerimeterTriangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargestPerimeterTriangle.swift; sourceTree = "<group>"; };
+		ADD265922954849E0097DD23 /* FindNearestPointThatHasTheSameXOrYCoordinate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindNearestPointThatHasTheSameXOrYCoordinate.swift; sourceTree = "<group>"; };
 		ADD27D5428D0A150002F114F /* TwoSum4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSum4.swift; sourceTree = "<group>"; };
 		ADD5A75228F9845700DAB4AF /* KthSmallestElementInABST.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KthSmallestElementInABST.swift; sourceTree = "<group>"; };
 		ADD5A75428F984F900DAB4AF /* BinarySearchTreeIterator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinarySearchTreeIterator.swift; sourceTree = "<group>"; };
@@ -557,6 +561,7 @@
 				ADB53A3928BA4AB300C937F7 /* FindAllAnagramsInAString.swift */,
 				AD86E25629001496007E2A8D /* FindFirstAndLastPositionOfElementInSortedArray.swift */,
 				ADF290F529016CF700A8AA6D /* FindMinimumInRotatedSortedArray.swift */,
+				ADD265922954849E0097DD23 /* FindNearestPointThatHasTheSameXOrYCoordinate.swift */,
 				ADF290F729016FDF00A8AA6D /* FindPeakElement.swift */,
 				ADF9806B28AC03CF004BB6EC /* FindPivotIndex.swift */,
 				ADD8E82E28FC3AA000EEBB3C /* FindTheTownJudge.swift */,
@@ -588,6 +593,7 @@
 				ADD8E83228FC3BD200EEBB3C /* KeysAndRooms.swift */,
 				AD32C95E28FD75C300305E77 /* KthLargestElementInAnArray.swift */,
 				ADD5A75228F9845700DAB4AF /* KthSmallestElementInABST.swift */,
+				ADD26590295483C20097DD23 /* LargestPerimeterTriangle.swift */,
 				AD0AC56A28BE385B00D4608C /* LastStoneWeight.swift */,
 				ADC482CF28DF217100EAE8CC /* LetterCasePermutation.swift */,
 				ADE79403290DA55D00D0D035 /* LetterCombinationsOfAPhoneNumber.swift */,
@@ -832,6 +838,7 @@
 				ADEE310728B7A6BE00448525 /* ClimbingStairs.swift in Sources */,
 				ADBC9C1728EDAA4E00459081 /* GroupAnagrams.swift in Sources */,
 				AD00F44828B96FB900A77B9C /* UniquePaths.swift in Sources */,
+				ADD26591295483C20097DD23 /* LargestPerimeterTriangle.swift in Sources */,
 				ADEC59F9292E412F006B2532 /* SameTree.swift in Sources */,
 				AD3ADA13291D194800F54F51 /* LongestCommonPrefix.swift in Sources */,
 				AD31D258290BF9A10030D330 /* CombinationSum.swift in Sources */,
@@ -885,6 +892,7 @@
 				AD344F80294B427400DCAA09 /* LongestPalindromicSubsequence.swift in Sources */,
 				AD8C5AD228E0751A00E821D7 /* Triangle.swift in Sources */,
 				AD1BBB5628BB832B000032DD /* TwoSum.swift in Sources */,
+				ADD265932954849E0097DD23 /* FindNearestPointThatHasTheSameXOrYCoordinate.swift in Sources */,
 				ADF9B02228EC4CF8003975A6 /* WordPattern.swift in Sources */,
 				ADF9488028F6E07B006630E0 /* ConvertSortedArrayToBinarySearchTree.swift in Sources */,
 				AD4BDEA828A7DAB300E61565 /* RomanToInteger.swift in Sources */,
