@@ -236,6 +236,8 @@
 		ADF9B02228EC4CF8003975A6 /* WordPattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF9B02128EC4CF8003975A6 /* WordPattern.swift */; };
 		ADF9B02428EC4D82003975A6 /* PartitionLabels.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF9B02328EC4D82003975A6 /* PartitionLabels.swift */; };
 		ADFE121528D1EA470063013C /* SearchInsertPosition.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADFE121428D1EA470063013C /* SearchInsertPosition.swift */; };
+		ADFF1B07295715E100D55D2C /* NextGreaterElement1.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADFF1B06295715E100D55D2C /* NextGreaterElement1.swift */; };
+		ADFF1B092957165600D55D2C /* CheckIfItIsAStraightLine.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADFF1B082957165600D55D2C /* CheckIfItIsAStraightLine.swift */; };
 		ADFF7707290FE66500C26081 /* JumpGame2.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADFF7706290FE66500C26081 /* JumpGame2.swift */; };
 /* End PBXBuildFile section */
 
@@ -470,6 +472,8 @@
 		ADF9B02128EC4CF8003975A6 /* WordPattern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordPattern.swift; sourceTree = "<group>"; };
 		ADF9B02328EC4D82003975A6 /* PartitionLabels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartitionLabels.swift; sourceTree = "<group>"; };
 		ADFE121428D1EA470063013C /* SearchInsertPosition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchInsertPosition.swift; sourceTree = "<group>"; };
+		ADFF1B06295715E100D55D2C /* NextGreaterElement1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextGreaterElement1.swift; sourceTree = "<group>"; };
+		ADFF1B082957165600D55D2C /* CheckIfItIsAStraightLine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckIfItIsAStraightLine.swift; sourceTree = "<group>"; };
 		ADFF7706290FE66500C26081 /* JumpGame2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpGame2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -541,6 +545,7 @@
 				AD1BBB5728BB83CD000032DD /* BullsAndCows.swift */,
 				AD899FD6292913F9001DD001 /* BusRoutes.swift */,
 				AD2E2CEA2955CFF500C790D0 /* CanMakeArithmeticProgressionFromSequence.swift */,
+				ADFF1B082957165600D55D2C /* CheckIfItIsAStraightLine.swift */,
 				AD2E2CEC2955D08200C790D0 /* CheckIfOneStringSwapCanMakeStringsEqual.swift */,
 				ADEE310628B7A6BE00448525 /* ClimbingStairs.swift */,
 				AD8733E02916D3BC00E18F7B /* CoinChange.swift */,
@@ -645,6 +650,7 @@
 				ADF0631628D4902300546CCC /* MoveZeroes.swift */,
 				ADBC9C1428EDA96B00459081 /* MultiplyStrings.swift */,
 				AD5CBBE728B251D700495544 /* NaryTreePreorderTraversal.swift */,
+				ADFF1B06295715E100D55D2C /* NextGreaterElement1.swift */,
 				ADDC47DE28E861E40099DDC5 /* NonOverlappingIntervals.swift */,
 				AD1AB3572936659A00BDF5A5 /* NthTribonacciNumber.swift */,
 				AD820F5A28B65A1C00BA068E /* NumberOfIslands.swift */,
@@ -923,6 +929,7 @@
 				AD3ED08228D34DD90080829A /* SquaresOfASortedArray.swift in Sources */,
 				ADB40E5E28E9B2F800D51F9C /* SubarraySumEqualsK.swift in Sources */,
 				ADF9488228F6E189006630E0 /* ConstructBinaryTreeFromPreorderAndInorderTraversal.swift in Sources */,
+				ADFF1B092957165600D55D2C /* CheckIfItIsAStraightLine.swift in Sources */,
 				ADE650E6291BD1880038FDD1 /* SpiralMatrix.swift in Sources */,
 				ADD5D3F528A3147200BD5BCC /* PalindromeLinkedList.swift in Sources */,
 				ADF0EB93291A7F31000B73A4 /* MaxPointsOnALine.swift in Sources */,
@@ -979,6 +986,7 @@
 				AD967DDB28C36AC0005408E7 /* ReshapeTheMatrix.swift in Sources */,
 				ADB1E8182930DD23001D88CB /* InsertInterval.swift in Sources */,
 				AD862E3F2912919C008F93B1 /* DecodeWays.swift in Sources */,
+				ADFF1B07295715E100D55D2C /* NextGreaterElement1.swift in Sources */,
 				ADA173A029200D66006D0F09 /* OddEvenLinkedList.swift in Sources */,
 				AD4BDEAA28A7DDA700E61565 /* FizzBuzz.swift in Sources */,
 				ADA86E8728F4419B00A01BC2 /* ReorderList.swift in Sources */,
