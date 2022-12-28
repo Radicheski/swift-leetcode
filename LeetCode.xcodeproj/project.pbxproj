@@ -115,6 +115,9 @@
 		AD933EF228E46CAA00B1B2DA /* ThreeSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD933EF128E46CAA00B1B2DA /* ThreeSum.swift */; };
 		AD967DDB28C36AC0005408E7 /* ReshapeTheMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD967DDA28C36AC0005408E7 /* ReshapeTheMatrix.swift */; };
 		AD967DDD28C36B3D005408E7 /* PascalsTriangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD967DDC28C36B3D005408E7 /* PascalsTriangle.swift */; };
+		AD96A68B295C7B6E001F0AB6 /* ToLowerCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD96A68A295C7B6E001F0AB6 /* ToLowerCase.swift */; };
+		AD96A68D295C7C0C001F0AB6 /* DecryptStringFromAlphabetToIntegerMapping.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD96A68C295C7C0C001F0AB6 /* DecryptStringFromAlphabetToIntegerMapping.swift */; };
+		AD96A68F295C7C8D001F0AB6 /* VerifyingAnAlienDictionary.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD96A68E295C7C8D001F0AB6 /* VerifyingAnAlienDictionary.swift */; };
 		AD9914AA28C0DBD500BCFDAB /* MergeSortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9914A928C0DBD500BCFDAB /* MergeSortedArray.swift */; };
 		AD9A0D8A295B5CA0009B9BB5 /* MergeStringsAlternately.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9A0D89295B5CA0009B9BB5 /* MergeStringsAlternately.swift */; };
 		AD9A0D8C295B5D17009B9BB5 /* GoalParserInterpretation.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9A0D8B295B5D17009B9BB5 /* GoalParserInterpretation.swift */; };
@@ -355,6 +358,9 @@
 		AD933EF128E46CAA00B1B2DA /* ThreeSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreeSum.swift; sourceTree = "<group>"; };
 		AD967DDA28C36AC0005408E7 /* ReshapeTheMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReshapeTheMatrix.swift; sourceTree = "<group>"; };
 		AD967DDC28C36B3D005408E7 /* PascalsTriangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PascalsTriangle.swift; sourceTree = "<group>"; };
+		AD96A68A295C7B6E001F0AB6 /* ToLowerCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToLowerCase.swift; sourceTree = "<group>"; };
+		AD96A68C295C7C0C001F0AB6 /* DecryptStringFromAlphabetToIntegerMapping.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DecryptStringFromAlphabetToIntegerMapping.swift; sourceTree = "<group>"; };
+		AD96A68E295C7C8D001F0AB6 /* VerifyingAnAlienDictionary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerifyingAnAlienDictionary.swift; sourceTree = "<group>"; };
 		AD9914A928C0DBD500BCFDAB /* MergeSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeSortedArray.swift; sourceTree = "<group>"; };
 		AD9A0D89295B5CA0009B9BB5 /* MergeStringsAlternately.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeStringsAlternately.swift; sourceTree = "<group>"; };
 		AD9A0D8B295B5D17009B9BB5 /* GoalParserInterpretation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoalParserInterpretation.swift; sourceTree = "<group>"; };
@@ -573,6 +579,7 @@
 				AD899FD42929136E001DD001 /* CourseSchedule2.swift */,
 				ADDCF94A28BCD5F400E7CA46 /* DecodeString.swift */,
 				AD862E3E2912919C008F93B1 /* DecodeWays.swift */,
+				AD96A68C295C7C0C001F0AB6 /* DecryptStringFromAlphabetToIntegerMapping.swift */,
 				ADD71D4A2938C471005189E6 /* DeleteAndEarn.swift */,
 				ADE2438728F835D900D3AB3F /* DeleteNodeInABST.swift */,
 				AD4C668329152EBF00C86C85 /* DeleteOperationForTwoStrings.swift */,
@@ -741,6 +748,7 @@
 				AD4BDEB028A7E03200E61565 /* TheKWeakestRowsInAMatrix.swift */,
 				AD933EF128E46CAA00B1B2DA /* ThreeSum.swift */,
 				ADB7F327292CEE17005905FC /* ThreeSumClosest.swift */,
+				AD96A68A295C7B6E001F0AB6 /* ToLowerCase.swift */,
 				AD32C96028FD765D00305E77 /* TopKFrequentElements.swift */,
 				AD0AC56C28BE38C100D4608C /* TopKFrequentWords.swift */,
 				AD8C5AD128E0751A00E821D7 /* Triangle.swift */,
@@ -756,6 +764,7 @@
 				AD2FF7A428B506F90027AFB6 /* ValidateBinarySearchTree.swift */,
 				AD844B0C28CA209C008E1AEF /* ValidParentheses.swift */,
 				AD90565228C4C6A600886275 /* ValidSudoku.swift */,
+				AD96A68E295C7C8D001F0AB6 /* VerifyingAnAlienDictionary.swift */,
 				ADE650E7291BD2740038FDD1 /* WhereWillTheBallFall.swift */,
 				ADF2C0B8294C964200557C7D /* WiggleSubsequence.swift */,
 				AD862E4029129270008F93B1 /* WordBreak.swift */,
@@ -906,6 +915,7 @@
 				AD3306EC29191AF6005FE669 /* ShuffleAnArray.swift in Sources */,
 				ADFF7707290FE66500C26081 /* JumpGame2.swift in Sources */,
 				ADADF18A28C8FF030021B192 /* RemoveDuplicatesFromSortedList.swift in Sources */,
+				AD96A68F295C7C8D001F0AB6 /* VerifyingAnAlienDictionary.swift in Sources */,
 				AD2D4D342905619F00D3234A /* SubarrayProductLessThanK.swift in Sources */,
 				ADE4DF392933824900DF9FEB /* MostStonesRemovedWithSameRowOrColumn.swift in Sources */,
 				AD57491A2906A0A7008E89BE /* NumberOfProvinces.swift in Sources */,
@@ -924,6 +934,7 @@
 				AD068C4C28DDC23400D4EB76 /* ConcatenationOfConsecutiveBinaryNumbers.swift in Sources */,
 				AD344F80294B427400DCAA09 /* LongestPalindromicSubsequence.swift in Sources */,
 				AD8C5AD228E0751A00E821D7 /* Triangle.swift in Sources */,
+				AD96A68B295C7B6E001F0AB6 /* ToLowerCase.swift in Sources */,
 				AD1BBB5628BB832B000032DD /* TwoSum.swift in Sources */,
 				ADD265932954849E0097DD23 /* FindNearestPointThatHasTheSameXOrYCoordinate.swift in Sources */,
 				ADF9B02228EC4CF8003975A6 /* WordPattern.swift in Sources */,
@@ -1003,6 +1014,7 @@
 				AD2FF7A728B50D3F0027AFB6 /* LowestCommonAncestorOfABinarySearchTree.swift in Sources */,
 				AD967DDB28C36AC0005408E7 /* ReshapeTheMatrix.swift in Sources */,
 				ADB1E8182930DD23001D88CB /* InsertInterval.swift in Sources */,
+				AD96A68D295C7C0C001F0AB6 /* DecryptStringFromAlphabetToIntegerMapping.swift in Sources */,
 				AD862E3F2912919C008F93B1 /* DecodeWays.swift in Sources */,
 				ADFF1B07295715E100D55D2C /* NextGreaterElement1.swift in Sources */,
 				ADA173A029200D66006D0F09 /* OddEvenLinkedList.swift in Sources */,
