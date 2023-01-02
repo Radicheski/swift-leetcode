@@ -29,7 +29,7 @@ private class Solution {
         let haystack = Array(haystack)
         let needle = Array(needle)
         
-        var candidates = haystack.enumerated()
+        let candidates = haystack.enumerated()
             .compactMap { $0.element == needle[0] ? $0.offset : nil }
             .filter { $0 <= haystack.count - needle.count }
         
