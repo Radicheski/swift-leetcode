@@ -182,6 +182,8 @@
 		ADD26591295483C20097DD23 /* LargestPerimeterTriangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD26590295483C20097DD23 /* LargestPerimeterTriangle.swift */; };
 		ADD265932954849E0097DD23 /* FindNearestPointThatHasTheSameXOrYCoordinate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD265922954849E0097DD23 /* FindNearestPointThatHasTheSameXOrYCoordinate.swift */; };
 		ADD27D5528D0A150002F114F /* TwoSum4.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD27D5428D0A150002F114F /* TwoSum4.swift */; };
+		ADD2F0BE2964551F003B0038 /* EvaluateReversePolishNotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD2F0BD2964551F003B0038 /* EvaluateReversePolishNotation.swift */; };
+		ADD2F0C02964562C003B0038 /* PlusOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD2F0BF2964562C003B0038 /* PlusOne.swift */; };
 		ADD5A75328F9845700DAB4AF /* KthSmallestElementInABST.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD5A75228F9845700DAB4AF /* KthSmallestElementInABST.swift */; };
 		ADD5A75528F984F900DAB4AF /* BinarySearchTreeIterator.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD5A75428F984F900DAB4AF /* BinarySearchTreeIterator.swift */; };
 		ADD5D3F328A3120A00BD5BCC /* RansomNote.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD5D3E628A3114600BD5BCC /* RansomNote.swift */; };
@@ -434,6 +436,8 @@
 		ADD26590295483C20097DD23 /* LargestPerimeterTriangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargestPerimeterTriangle.swift; sourceTree = "<group>"; };
 		ADD265922954849E0097DD23 /* FindNearestPointThatHasTheSameXOrYCoordinate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindNearestPointThatHasTheSameXOrYCoordinate.swift; sourceTree = "<group>"; };
 		ADD27D5428D0A150002F114F /* TwoSum4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSum4.swift; sourceTree = "<group>"; };
+		ADD2F0BD2964551F003B0038 /* EvaluateReversePolishNotation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EvaluateReversePolishNotation.swift; sourceTree = "<group>"; };
+		ADD2F0BF2964562C003B0038 /* PlusOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlusOne.swift; sourceTree = "<group>"; };
 		ADD5A75228F9845700DAB4AF /* KthSmallestElementInABST.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KthSmallestElementInABST.swift; sourceTree = "<group>"; };
 		ADD5A75428F984F900DAB4AF /* BinarySearchTreeIterator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinarySearchTreeIterator.swift; sourceTree = "<group>"; };
 		ADD5D3E628A3114600BD5BCC /* RansomNote.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RansomNote.swift; sourceTree = "<group>"; };
@@ -608,6 +612,7 @@
 				AD32EB3E296301F70019636B /* DetectCapital.swift */,
 				AD84D9512923AC0B00891349 /* DiameterOfBinaryTree.swift */,
 				AD8733DE2916D30C00E18F7B /* EditDistance.swift */,
+				ADD2F0BD2964551F003B0038 /* EvaluateReversePolishNotation.swift */,
 				ADEE310428B7A5B400448525 /* FibonacciNumber.swift */,
 				ADB53A3928BA4AB300C937F7 /* FindAllAnagramsInAString.swift */,
 				AD86E25629001496007E2A8D /* FindFirstAndLastPositionOfElementInSortedArray.swift */,
@@ -716,6 +721,7 @@
 				ADD6AF4428D8833C00D74CFB /* PermutationInString.swift */,
 				ADC482CD28DF20DA00EAE8CC /* Permutations.swift */,
 				AD31D255290BF75B0030D330 /* Permutations2.swift */,
+				ADD2F0BF2964562C003B0038 /* PlusOne.swift */,
 				ADC5823B28DB2DBA006D9591 /* PopulatingNextRightPointersInEachNode.swift */,
 				AD6C46F9290801150011A77C /* PopulatingNextRightPointersInEachNode2.swift */,
 				AD361C4A28E1C883002962BB /* PowerOfTwo.swift */,
@@ -1020,6 +1026,7 @@
 				ADF9806A28AC0309004BB6EC /* RunningSumOf1dArray.swift in Sources */,
 				AD07CAFA28F587CE00B2E73A /* MinimumRemoveToMakeValidParentheses.swift in Sources */,
 				ADC5B13928AD5A00002FED4E /* IsSubsequence.swift in Sources */,
+				ADD2F0BE2964551F003B0038 /* EvaluateReversePolishNotation.swift in Sources */,
 				ADD1C41A28B3C83500E63642 /* BinarySearch.swift in Sources */,
 				ADA08C5A28D5E8E700B816C2 /* ReverseString.swift in Sources */,
 				AD180B3829434FBE001F5866 /* UniqueBinarySearchTrees.swift in Sources */,
@@ -1062,6 +1069,7 @@
 				ADE8B85A294F432200699CEB /* CoinChange2.swift in Sources */,
 				ADE1BD2728DC7CAF008ED566 /* RottingOranges.swift in Sources */,
 				ADB7F32A292CF06C005905FC /* MinimumWindowSubstring.swift in Sources */,
+				ADD2F0C02964562C003B0038 /* PlusOne.swift in Sources */,
 				ADE2438428F8347400D3AB3F /* BinaryTreeRightSideView.swift in Sources */,
 				ADC5B13728AD5102002FED4E /* IsomorphicStrings.swift in Sources */,
 				ADA485AC28FEC828006C8FCF /* KClosestPointsToOrigin.swift in Sources */,
