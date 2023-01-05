@@ -64,6 +64,7 @@
 		AD48DC9F2940B78E006F912B /* TrappingRainWater.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD48DC9E2940B78E006F912B /* TrappingRainWater.swift */; };
 		AD4B182D2966FE0600262815 /* AddBinary.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4B182C2966FE0600262815 /* AddBinary.swift */; };
 		AD4B182F2966FE7400262815 /* AddToArrayFormOfInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4B182E2966FE7400262815 /* AddToArrayFormOfInteger.swift */; };
+		AD4B1831296749B700262815 /* MinimumNumberOfArrowsToBurstBalloons.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4B1830296749B700262815 /* MinimumNumberOfArrowsToBurstBalloons.swift */; };
 		AD4BDEA828A7DAB300E61565 /* RomanToInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4BDEA728A7DAB300E61565 /* RomanToInteger.swift */; };
 		AD4BDEAA28A7DDA700E61565 /* FizzBuzz.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4BDEA928A7DDA700E61565 /* FizzBuzz.swift */; };
 		AD4BDEAC28A7DE3200E61565 /* MiddleOfTheLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4BDEAB28A7DE3200E61565 /* MiddleOfTheLinkedList.swift */; };
@@ -323,6 +324,7 @@
 		AD48DC9E2940B78E006F912B /* TrappingRainWater.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrappingRainWater.swift; sourceTree = "<group>"; };
 		AD4B182C2966FE0600262815 /* AddBinary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddBinary.swift; sourceTree = "<group>"; };
 		AD4B182E2966FE7400262815 /* AddToArrayFormOfInteger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddToArrayFormOfInteger.swift; sourceTree = "<group>"; };
+		AD4B1830296749B700262815 /* MinimumNumberOfArrowsToBurstBalloons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberOfArrowsToBurstBalloons.swift; sourceTree = "<group>"; };
 		AD4BDEA728A7DAB300E61565 /* RomanToInteger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RomanToInteger.swift; sourceTree = "<group>"; };
 		AD4BDEA928A7DDA700E61565 /* FizzBuzz.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FizzBuzz.swift; sourceTree = "<group>"; };
 		AD4BDEAB28A7DE3200E61565 /* MiddleOfTheLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MiddleOfTheLinkedList.swift; sourceTree = "<group>"; };
@@ -702,6 +704,7 @@
 				AD4BDEAB28A7DE3200E61565 /* MiddleOfTheLinkedList.swift */,
 				AD00F44528B96F2600A77B9C /* MinCostClimbingStairs.swift */,
 				ADBA3B9E2946224500F9F52F /* MinimumFallingPathSum.swift */,
+				AD4B1830296749B700262815 /* MinimumNumberOfArrowsToBurstBalloons.swift */,
 				ADD8E83028FC3B3C00EEBB3C /* MinimumNumberOfVerticesToReachAllNodes.swift */,
 				AD86268D2949F0E700027B1A /* MinimumPathSum.swift */,
 				AD07CAF928F587CE00B2E73A /* MinimumRemoveToMakeValidParentheses.swift */,
@@ -923,6 +926,7 @@
 				AD8A1EEE29044B8100ABA3F6 /* IntervalListIntersections.swift in Sources */,
 				AD4BDEAC28A7DE3200E61565 /* MiddleOfTheLinkedList.swift in Sources */,
 				AD4C668229152DFC00C86C85 /* LongestCommonSubsequence.swift in Sources */,
+				AD4B1831296749B700262815 /* MinimumNumberOfArrowsToBurstBalloons.swift in Sources */,
 				AD07CAF828F5877E00B2E73A /* MinStack.swift in Sources */,
 				ADE650E8291BD2740038FDD1 /* WhereWillTheBallFall.swift in Sources */,
 				ADEE310728B7A6BE00448525 /* ClimbingStairs.swift in Sources */,
