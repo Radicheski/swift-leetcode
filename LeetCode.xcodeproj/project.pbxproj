@@ -123,6 +123,7 @@
 		AD90565528C4C71600886275 /* SearchA2DMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD90565428C4C71600886275 /* SearchA2DMatrix.swift */; };
 		AD9147D92968525A007F9218 /* DailyTemperatures.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9147D82968525A007F9218 /* DailyTemperatures.swift */; };
 		AD9147DB2968530B007F9218 /* LengthOfLastWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9147DA2968530B007F9218 /* LengthOfLastWord.swift */; };
+		AD9147DD29685B47007F9218 /* MaximumIceCreamBars.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9147DC29685B47007F9218 /* MaximumIceCreamBars.swift */; };
 		AD933EF028E46C2300B1B2DA /* MajorityElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD933EEF28E46C2300B1B2DA /* MajorityElement.swift */; };
 		AD933EF228E46CAA00B1B2DA /* ThreeSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD933EF128E46CAA00B1B2DA /* ThreeSum.swift */; };
 		AD967DDB28C36AC0005408E7 /* ReshapeTheMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD967DDA28C36AC0005408E7 /* ReshapeTheMatrix.swift */; };
@@ -385,6 +386,7 @@
 		AD90565428C4C71600886275 /* SearchA2DMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchA2DMatrix.swift; sourceTree = "<group>"; };
 		AD9147D82968525A007F9218 /* DailyTemperatures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyTemperatures.swift; sourceTree = "<group>"; };
 		AD9147DA2968530B007F9218 /* LengthOfLastWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LengthOfLastWord.swift; sourceTree = "<group>"; };
+		AD9147DC29685B47007F9218 /* MaximumIceCreamBars.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumIceCreamBars.swift; sourceTree = "<group>"; };
 		AD933EEF28E46C2300B1B2DA /* MajorityElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MajorityElement.swift; sourceTree = "<group>"; };
 		AD933EF128E46CAA00B1B2DA /* ThreeSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreeSum.swift; sourceTree = "<group>"; };
 		AD967DDA28C36AC0005408E7 /* ReshapeTheMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReshapeTheMatrix.swift; sourceTree = "<group>"; };
@@ -697,6 +699,7 @@
 				AD45D00028D9DCD000544C0A /* MaxAreaOfIsland.swift */,
 				AD86268F2949F15700027B1A /* MaximalSquare.swift */,
 				ADA4798A28CCCEF800C23FF0 /* MaximumDepthOfBinaryTree.swift */,
+				AD9147DC29685B47007F9218 /* MaximumIceCreamBars.swift */,
 				ADD1B03E293CC386006136E8 /* MaximumLengthOfSubarrayWithPositiveProduct.swift */,
 				ADF22B83292BA5AC00DF8FCA /* MaximumProductSubarray.swift */,
 				ADBEEB6928BF84F90069B4BB /* MaximumSubarray.swift */,
@@ -903,6 +906,7 @@
 				ADF9B02428EC4D82003975A6 /* PartitionLabels.swift in Sources */,
 				AD1BA377295F19AF00A2A529 /* SortIntegersByTheNumberOf1Bits.swift in Sources */,
 				AD3ED08428D34EBD0080829A /* RotateArray.swift in Sources */,
+				AD9147DD29685B47007F9218 /* MaximumIceCreamBars.swift in Sources */,
 				ADCCEEC328F2F0D900B85A54 /* SwapNodesInPairs.swift in Sources */,
 				AD90565328C4C6A700886275 /* ValidSudoku.swift in Sources */,
 				AD844B0F28CA20F4008E1AEF /* ImplementQueueUsingStacks.swift in Sources */,
