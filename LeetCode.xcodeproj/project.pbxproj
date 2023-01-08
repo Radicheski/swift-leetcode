@@ -205,6 +205,7 @@
 		ADD8E82F28FC3AA000EEBB3C /* FindTheTownJudge.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD8E82E28FC3AA000EEBB3C /* FindTheTownJudge.swift */; };
 		ADD8E83128FC3B3C00EEBB3C /* MinimumNumberOfVerticesToReachAllNodes.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD8E83028FC3B3C00EEBB3C /* MinimumNumberOfVerticesToReachAllNodes.swift */; };
 		ADD8E83328FC3BD200EEBB3C /* KeysAndRooms.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD8E83228FC3BD200EEBB3C /* KeysAndRooms.swift */; };
+		ADD95B49296B15FD00A66DDF /* BestPokerHand.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD95B48296B15FD00A66DDF /* BestPokerHand.swift */; };
 		ADD9772028C7BD520028FCB0 /* LinkedListCycle.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD9771F28C7BD520028FCB0 /* LinkedListCycle.swift */; };
 		ADD9772228C7BED80028FCB0 /* RemoveLinkedListElements.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD9772128C7BED80028FCB0 /* RemoveLinkedListElements.swift */; };
 		ADDC47DD28E85E7D0099DDC5 /* SearchA2DMatrix2.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADDC47DC28E85E7D0099DDC5 /* SearchA2DMatrix2.swift */; };
@@ -471,6 +472,7 @@
 		ADD8E82E28FC3AA000EEBB3C /* FindTheTownJudge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheTownJudge.swift; sourceTree = "<group>"; };
 		ADD8E83028FC3B3C00EEBB3C /* MinimumNumberOfVerticesToReachAllNodes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberOfVerticesToReachAllNodes.swift; sourceTree = "<group>"; };
 		ADD8E83228FC3BD200EEBB3C /* KeysAndRooms.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeysAndRooms.swift; sourceTree = "<group>"; };
+		ADD95B48296B15FD00A66DDF /* BestPokerHand.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BestPokerHand.swift; sourceTree = "<group>"; };
 		ADD9771F28C7BD520028FCB0 /* LinkedListCycle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkedListCycle.swift; sourceTree = "<group>"; };
 		ADD9772128C7BED80028FCB0 /* RemoveLinkedListElements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveLinkedListElements.swift; sourceTree = "<group>"; };
 		ADDC47DC28E85E7D0099DDC5 /* SearchA2DMatrix2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchA2DMatrix2.swift; sourceTree = "<group>"; };
@@ -590,6 +592,7 @@
 				ADDCF94828BCD57200E7CA46 /* BackspaceStringCompare.swift */,
 				ADF4710B29326C9D007A320F /* BasicCalculator2.swift */,
 				ADAA5A3929225FDC003EE31E /* BalancedBinaryTree.swift */,
+				ADD95B48296B15FD00A66DDF /* BestPokerHand.swift */,
 				ADEC7FBB293E176E00BF0086 /* BestSightseeingPair.swift */,
 				ADE175DB28B117420022F308 /* BestTimeToBuyAndSellStock.swift */,
 				ADEC7FBD293E17D200BF0086 /* BestTimeToBuyAndSellStock2.swift */,
@@ -1053,6 +1056,7 @@
 				AD325C4128E32B230039107E /* SingleNumber.swift in Sources */,
 				AD48DC9F2940B78E006F912B /* TrappingRainWater.swift in Sources */,
 				ADB40E5A28E9AF3D00D51F9C /* IncreasingTripletSubsequence.swift in Sources */,
+				ADD95B49296B15FD00A66DDF /* BestPokerHand.swift in Sources */,
 				AD4BDEB128A7E03200E61565 /* TheKWeakestRowsInAMatrix.swift in Sources */,
 				ADE79408290DA7D700D0D035 /* WordSearch.swift in Sources */,
 				AD361C4B28E1C883002962BB /* PowerOfTwo.swift in Sources */,
