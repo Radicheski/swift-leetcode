@@ -17,6 +17,8 @@
 		AD07CAFC28F5886700B2E73A /* FindTheWinnerOfTheCircularGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD07CAFB28F5886700B2E73A /* FindTheWinnerOfTheCircularGame.swift */; };
 		AD0AC56B28BE385B00D4608C /* LastStoneWeight.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0AC56A28BE385B00D4608C /* LastStoneWeight.swift */; };
 		AD0AC56D28BE38C100D4608C /* TopKFrequentWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0AC56C28BE38C100D4608C /* TopKFrequentWords.swift */; };
+		AD16FA33296D8D88001E3E65 /* NextGreaterElement2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD16FA32296D8D88001E3E65 /* NextGreaterElement2.swift */; };
+		AD16FA35296D8E06001E3E65 /* NextGreaterElement3.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD16FA34296D8E06001E3E65 /* NextGreaterElement3.swift */; };
 		AD180B3629434F1F001F5866 /* UglyNumber2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD180B3529434F1F001F5866 /* UglyNumber2.swift */; };
 		AD180B3829434FBE001F5866 /* UniqueBinarySearchTrees.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD180B3729434FBE001F5866 /* UniqueBinarySearchTrees.swift */; };
 		AD1AB3582936659A00BDF5A5 /* NthTribonacciNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1AB3572936659A00BDF5A5 /* NthTribonacciNumber.swift */; };
@@ -285,6 +287,8 @@
 		AD07CAFB28F5886700B2E73A /* FindTheWinnerOfTheCircularGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheWinnerOfTheCircularGame.swift; sourceTree = "<group>"; };
 		AD0AC56A28BE385B00D4608C /* LastStoneWeight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LastStoneWeight.swift; sourceTree = "<group>"; };
 		AD0AC56C28BE38C100D4608C /* TopKFrequentWords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopKFrequentWords.swift; sourceTree = "<group>"; };
+		AD16FA32296D8D88001E3E65 /* NextGreaterElement2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextGreaterElement2.swift; sourceTree = "<group>"; };
+		AD16FA34296D8E06001E3E65 /* NextGreaterElement3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextGreaterElement3.swift; sourceTree = "<group>"; };
 		AD180B3529434F1F001F5866 /* UglyNumber2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UglyNumber2.swift; sourceTree = "<group>"; };
 		AD180B3729434FBE001F5866 /* UniqueBinarySearchTrees.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniqueBinarySearchTrees.swift; sourceTree = "<group>"; };
 		AD1AB3572936659A00BDF5A5 /* NthTribonacciNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NthTribonacciNumber.swift; sourceTree = "<group>"; };
@@ -742,6 +746,8 @@
 				AD015019296C3B9500C763CC /* NaryTreeLevelOrderTraversal.swift */,
 				AD5CBBE728B251D700495544 /* NaryTreePreorderTraversal.swift */,
 				ADFF1B06295715E100D55D2C /* NextGreaterElement1.swift */,
+				AD16FA32296D8D88001E3E65 /* NextGreaterElement2.swift */,
+				AD16FA34296D8E06001E3E65 /* NextGreaterElement3.swift */,
 				ADDC47DE28E861E40099DDC5 /* NonOverlappingIntervals.swift */,
 				AD1AB3572936659A00BDF5A5 /* NthTribonacciNumber.swift */,
 				AD820F5A28B65A1C00BA068E /* NumberOfIslands.swift */,
@@ -1008,6 +1014,7 @@
 				AD9A0D8C295B5D17009B9BB5 /* GoalParserInterpretation.swift in Sources */,
 				ADF4710A29326C18007A320F /* AsteroidCollision.swift in Sources */,
 				ADEB5A6228CB7730004D8EAC /* BinaryTreeInorderTraversal.swift in Sources */,
+				AD16FA35296D8E06001E3E65 /* NextGreaterElement3.swift in Sources */,
 				ADE175DC28B117420022F308 /* BestTimeToBuyAndSellStock.swift in Sources */,
 				ADE175DE28B1262A0022F308 /* LongestPalindrome.swift in Sources */,
 				AD35997D2913DFBE0082AC68 /* NumberOfLongestIncreasingSubsequence.swift in Sources */,
@@ -1163,6 +1170,7 @@
 				AD844B0D28CA209C008E1AEF /* ValidParentheses.swift in Sources */,
 				ADF31932291141650038DE57 /* ArithmeticSlices.swift in Sources */,
 				ADD1C41C28B3CA3F00E63642 /* FirstBadVersion.swift in Sources */,
+				AD16FA33296D8D88001E3E65 /* NextGreaterElement2.swift in Sources */,
 				AD862E4129129270008F93B1 /* WordBreak.swift in Sources */,
 				AD45D00128D9DCD000544C0A /* MaxAreaOfIsland.swift in Sources */,
 				AD3883EB2959C060005F0B28 /* MatrixDiagonalSum.swift in Sources */,
