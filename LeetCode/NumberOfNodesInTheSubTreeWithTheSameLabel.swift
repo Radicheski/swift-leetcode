@@ -57,7 +57,7 @@ private class Solution {
         for child in children {
             guard child != parent else { continue }
             
-            var childCounts = depthFirst(child, node, &adj, labels, &ans)
+            let childCounts = depthFirst(child, node, &adj, labels, &ans)
             
             childCounts.enumerated().forEach { nodeCounts[$0.offset] += $0.element }
         }
