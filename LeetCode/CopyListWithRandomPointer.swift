@@ -23,7 +23,7 @@ private class Solution {
         while originalList.count != newList.count {
             let originalNode = originalList.last!
             
-            var newNode = Node(originalNode.val)
+            let newNode = Node(originalNode.val)
             newList.last?.next = newNode
             
             newList.append(newNode)

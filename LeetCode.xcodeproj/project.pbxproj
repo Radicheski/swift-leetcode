@@ -134,6 +134,7 @@
 		AD933EF028E46C2300B1B2DA /* MajorityElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD933EEF28E46C2300B1B2DA /* MajorityElement.swift */; };
 		AD933EF228E46CAA00B1B2DA /* ThreeSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD933EF128E46CAA00B1B2DA /* ThreeSum.swift */; };
 		AD95D5152972D00E000EEFF6 /* CopyListWithRandomPointer.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD95D5142972D00E000EEFF6 /* CopyListWithRandomPointer.swift */; };
+		AD95D5172972D47F000EEFF6 /* LexicographicallySmallestEquivalentString.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD95D5162972D47F000EEFF6 /* LexicographicallySmallestEquivalentString.swift */; };
 		AD967DDB28C36AC0005408E7 /* ReshapeTheMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD967DDA28C36AC0005408E7 /* ReshapeTheMatrix.swift */; };
 		AD967DDD28C36B3D005408E7 /* PascalsTriangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD967DDC28C36B3D005408E7 /* PascalsTriangle.swift */; };
 		AD96A68B295C7B6E001F0AB6 /* ToLowerCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD96A68A295C7B6E001F0AB6 /* ToLowerCase.swift */; };
@@ -410,6 +411,7 @@
 		AD933EEF28E46C2300B1B2DA /* MajorityElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MajorityElement.swift; sourceTree = "<group>"; };
 		AD933EF128E46CAA00B1B2DA /* ThreeSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreeSum.swift; sourceTree = "<group>"; };
 		AD95D5142972D00E000EEFF6 /* CopyListWithRandomPointer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CopyListWithRandomPointer.swift; sourceTree = "<group>"; };
+		AD95D5162972D47F000EEFF6 /* LexicographicallySmallestEquivalentString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LexicographicallySmallestEquivalentString.swift; sourceTree = "<group>"; };
 		AD967DDA28C36AC0005408E7 /* ReshapeTheMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReshapeTheMatrix.swift; sourceTree = "<group>"; };
 		AD967DDC28C36B3D005408E7 /* PascalsTriangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PascalsTriangle.swift; sourceTree = "<group>"; };
 		AD96A68A295C7B6E001F0AB6 /* ToLowerCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToLowerCase.swift; sourceTree = "<group>"; };
@@ -710,6 +712,7 @@
 				AD9147DA2968530B007F9218 /* LengthOfLastWord.swift */,
 				ADC482CF28DF217100EAE8CC /* LetterCasePermutation.swift */,
 				ADE79403290DA55D00D0D035 /* LetterCombinationsOfAPhoneNumber.swift */,
+				AD95D5162972D47F000EEFF6 /* LexicographicallySmallestEquivalentString.swift */,
 				ADD9771F28C7BD520028FCB0 /* LinkedListCycle.swift */,
 				AD9B070628B049DF00ADFB43 /* LinkedListCycle2.swift */,
 				ADC8E5332965A2BD00D6351F /* LinkedListInBinaryTree.swift */,
@@ -1150,6 +1153,7 @@
 				ADE1BD2728DC7CAF008ED566 /* RottingOranges.swift in Sources */,
 				ADB7F32A292CF06C005905FC /* MinimumWindowSubstring.swift in Sources */,
 				ADD2F0C02964562C003B0038 /* PlusOne.swift in Sources */,
+				AD95D5172972D47F000EEFF6 /* LexicographicallySmallestEquivalentString.swift in Sources */,
 				ADD124A6296EE14400E05EAB /* TimeNeededToInformAllEmployees.swift in Sources */,
 				ADE2438428F8347400D3AB3F /* BinaryTreeRightSideView.swift in Sources */,
 				ADC5B13728AD5102002FED4E /* IsomorphicStrings.swift in Sources */,
