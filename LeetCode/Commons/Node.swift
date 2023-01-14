@@ -11,6 +11,9 @@ public class Node {
     public var right: Node?
     public var next: Node?
     
+    // MARK: Copy List with Random Pointer
+    public var random: Node?
+    
     public init(_ val: Int) {
         self.val = val
         self.children = []
