@@ -237,6 +237,7 @@
 		ADE2438628F8350400D3AB3F /* PathSum2.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE2438528F8350400D3AB3F /* PathSum2.swift */; };
 		ADE2438828F835D900D3AB3F /* DeleteNodeInABST.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE2438728F835D900D3AB3F /* DeleteNodeInABST.swift */; };
 		ADE4724E28EAFE7D00B5E8D1 /* AddStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE4724D28EAFE7D00B5E8D1 /* AddStrings.swift */; };
+		ADE4CBDA297812270039E5B3 /* FlattenNestedListIterator.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE4CBD9297812270039E5B3 /* FlattenNestedListIterator.swift */; };
 		ADE4DF392933824900DF9FEB /* MostStonesRemovedWithSameRowOrColumn.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE4DF382933824900DF9FEB /* MostStonesRemovedWithSameRowOrColumn.swift */; };
 		ADE650E6291BD1880038FDD1 /* SpiralMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE650E5291BD1880038FDD1 /* SpiralMatrix.swift */; };
 		ADE650E8291BD2740038FDD1 /* WhereWillTheBallFall.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE650E7291BD2740038FDD1 /* WhereWillTheBallFall.swift */; };
@@ -521,6 +522,7 @@
 		ADE2438528F8350400D3AB3F /* PathSum2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathSum2.swift; sourceTree = "<group>"; };
 		ADE2438728F835D900D3AB3F /* DeleteNodeInABST.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeleteNodeInABST.swift; sourceTree = "<group>"; };
 		ADE4724D28EAFE7D00B5E8D1 /* AddStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddStrings.swift; sourceTree = "<group>"; };
+		ADE4CBD9297812270039E5B3 /* FlattenNestedListIterator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlattenNestedListIterator.swift; sourceTree = "<group>"; };
 		ADE4DF382933824900DF9FEB /* MostStonesRemovedWithSameRowOrColumn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MostStonesRemovedWithSameRowOrColumn.swift; sourceTree = "<group>"; };
 		ADE650E5291BD1880038FDD1 /* SpiralMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpiralMatrix.swift; sourceTree = "<group>"; };
 		ADE650E7291BD2740038FDD1 /* WhereWillTheBallFall.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhereWillTheBallFall.swift; sourceTree = "<group>"; };
@@ -778,6 +780,7 @@
 				ADBC9C1428EDA96B00459081 /* MultiplyStrings.swift */,
 				AD015019296C3B9500C763CC /* NaryTreeLevelOrderTraversal.swift */,
 				AD5CBBE728B251D700495544 /* NaryTreePreorderTraversal.swift */,
+				ADE4CBD9297812270039E5B3 /* FlattenNestedListIterator.swift */,
 				ADFF1B06295715E100D55D2C /* NextGreaterElement1.swift */,
 				AD16FA32296D8D88001E3E65 /* NextGreaterElement2.swift */,
 				AD16FA34296D8E06001E3E65 /* NextGreaterElement3.swift */,
@@ -1213,6 +1216,7 @@
 				ADD5A75528F984F900DAB4AF /* BinarySearchTreeIterator.swift in Sources */,
 				ADFE121528D1EA470063013C /* SearchInsertPosition.swift in Sources */,
 				AD967DDD28C36B3D005408E7 /* PascalsTriangle.swift in Sources */,
+				ADE4CBDA297812270039E5B3 /* FlattenNestedListIterator.swift in Sources */,
 				AD84D9542923ACA900891349 /* PathSum3.swift in Sources */,
 				AD07CAFC28F5886700B2E73A /* FindTheWinnerOfTheCircularGame.swift in Sources */,
 				ADD2F0C229645ADB003B0038 /* DeleteColumnsToMakeSorted.swift in Sources */,
