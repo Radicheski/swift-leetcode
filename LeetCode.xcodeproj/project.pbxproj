@@ -215,6 +215,7 @@
 		ADD5D3F328A3120A00BD5BCC /* RansomNote.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD5D3E628A3114600BD5BCC /* RansomNote.swift */; };
 		ADD5D3F528A3147200BD5BCC /* PalindromeLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD5D3F428A3147200BD5BCC /* PalindromeLinkedList.swift */; };
 		ADD67EA529796DDA00402175 /* DesignAuthenticationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD67EA429796DDA00402175 /* DesignAuthenticationManager.swift */; };
+		ADD67EA7297972A100402175 /* SubarraySumsDivisibleByK.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD67EA6297972A100402175 /* SubarraySumsDivisibleByK.swift */; };
 		ADD6AF4328D882B500D74CFB /* LongestSubstringWithoutRepeatingCharacters.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD6AF4228D882B500D74CFB /* LongestSubstringWithoutRepeatingCharacters.swift */; };
 		ADD6AF4528D8833C00D74CFB /* PermutationInString.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD6AF4428D8833C00D74CFB /* PermutationInString.swift */; };
 		ADD71D4B2938C471005189E6 /* DeleteAndEarn.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD71D4A2938C471005189E6 /* DeleteAndEarn.swift */; };
@@ -501,6 +502,7 @@
 		ADD5D3EC28A3120600BD5BCC /* testLeetcode.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testLeetcode.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		ADD5D3F428A3147200BD5BCC /* PalindromeLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalindromeLinkedList.swift; sourceTree = "<group>"; };
 		ADD67EA429796DDA00402175 /* DesignAuthenticationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignAuthenticationManager.swift; sourceTree = "<group>"; };
+		ADD67EA6297972A100402175 /* SubarraySumsDivisibleByK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubarraySumsDivisibleByK.swift; sourceTree = "<group>"; };
 		ADD6AF4228D882B500D74CFB /* LongestSubstringWithoutRepeatingCharacters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestSubstringWithoutRepeatingCharacters.swift; sourceTree = "<group>"; };
 		ADD6AF4428D8833C00D74CFB /* PermutationInString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PermutationInString.swift; sourceTree = "<group>"; };
 		ADD71D4A2938C471005189E6 /* DeleteAndEarn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeleteAndEarn.swift; sourceTree = "<group>"; };
@@ -861,6 +863,7 @@
 				ADA4798C28CCCFF900C23FF0 /* SymmetricTree.swift */,
 				AD2D4D332905619F00D3234A /* SubarrayProductLessThanK.swift */,
 				ADB40E5D28E9B2F800D51F9C /* SubarraySumEqualsK.swift */,
+				ADD67EA6297972A100402175 /* SubarraySumsDivisibleByK.swift */,
 				AD6A0308290AACAB00988758 /* Subsets.swift */,
 				AD6A030A290AADB300988758 /* Subsets2.swift */,
 				ADADA528295324F700CBB58C /* SubtractTheProductAndSumOfDigitsOfAnInteger.swift */,
@@ -1154,6 +1157,7 @@
 				ADF58E1028C622D7000E08DB /* FirstUniqueCharacterInAString.swift in Sources */,
 				AD84D9522923AC0B00891349 /* DiameterOfBinaryTree.swift in Sources */,
 				AD31D256290BF75B0030D330 /* Permutations2.swift in Sources */,
+				ADD67EA7297972A100402175 /* SubarraySumsDivisibleByK.swift in Sources */,
 				ADF677AF2917E870007CB647 /* BitwiseANDOfNumbersRange.swift in Sources */,
 				AD32EB3F296301F70019636B /* DetectCapital.swift in Sources */,
 				AD6BF880290EBE4F00C10525 /* HouseRobber2.swift in Sources */,
