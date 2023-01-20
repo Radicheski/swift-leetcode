@@ -55,6 +55,7 @@
 		AD339A0D297ABCFF00E3856D /* InsertDeleteGetRandom.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD339A0C297ABCFF00E3856D /* InsertDeleteGetRandom.swift */; };
 		AD339A0F297ABD3F00E3856D /* DesignCircularQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD339A0E297ABD3F00E3856D /* DesignCircularQueue.swift */; };
 		AD339A11297ABD9F00E3856D /* MyCalendarI.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD339A10297ABD9F00E3856D /* MyCalendarI.swift */; };
+		AD339A13297AD0E000E3856D /* NonDecreasingSubsequences.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD339A12297AD0E000E3856D /* NonDecreasingSubsequences.swift */; };
 		AD344F80294B427400DCAA09 /* LongestPalindromicSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD344F7F294B427400DCAA09 /* LongestPalindromicSubsequence.swift */; };
 		AD35997B2913DD9F0082AC68 /* LongestIncreasingSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD35997A2913DD9F0082AC68 /* LongestIncreasingSubsequence.swift */; };
 		AD35997D2913DFBE0082AC68 /* NumberOfLongestIncreasingSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD35997C2913DFBE0082AC68 /* NumberOfLongestIncreasingSubsequence.swift */; };
@@ -344,6 +345,7 @@
 		AD339A0C297ABCFF00E3856D /* InsertDeleteGetRandom.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsertDeleteGetRandom.swift; sourceTree = "<group>"; };
 		AD339A0E297ABD3F00E3856D /* DesignCircularQueue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignCircularQueue.swift; sourceTree = "<group>"; };
 		AD339A10297ABD9F00E3856D /* MyCalendarI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCalendarI.swift; sourceTree = "<group>"; };
+		AD339A12297AD0E000E3856D /* NonDecreasingSubsequences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NonDecreasingSubsequences.swift; sourceTree = "<group>"; };
 		AD344F7F294B427400DCAA09 /* LongestPalindromicSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestPalindromicSubsequence.swift; sourceTree = "<group>"; };
 		AD35997A2913DD9F0082AC68 /* LongestIncreasingSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestIncreasingSubsequence.swift; sourceTree = "<group>"; };
 		AD35997C2913DFBE0082AC68 /* NumberOfLongestIncreasingSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfLongestIncreasingSubsequence.swift; sourceTree = "<group>"; };
@@ -798,6 +800,7 @@
 				ADFF1B06295715E100D55D2C /* NextGreaterElement1.swift */,
 				AD16FA32296D8D88001E3E65 /* NextGreaterElement2.swift */,
 				AD16FA34296D8E06001E3E65 /* NextGreaterElement3.swift */,
+				AD339A12297AD0E000E3856D /* NonDecreasingSubsequences.swift */,
 				ADDC47DE28E861E40099DDC5 /* NonOverlappingIntervals.swift */,
 				AD1AB3572936659A00BDF5A5 /* NthTribonacciNumber.swift */,
 				ADF243C8297456480006F2A4 /* NumberOfGoodPaths.swift */,
@@ -1213,6 +1216,7 @@
 				ADC46DB028A922C7003B926E /* NumberOfStepsRoReduceANumberToZero.swift in Sources */,
 				AD852695293BA3ED0096B9D2 /* MaximumSumCircularSubarray.swift in Sources */,
 				AD3F37282975669400082B5E /* RotateList.swift in Sources */,
+				AD339A13297AD0E000E3856D /* NonDecreasingSubsequences.swift in Sources */,
 				AD7DC46628CE02A600631E4A /* PathSum.swift in Sources */,
 				AD88EE2328AEA91A007E3D7C /* MergeTwoSortedLists.swift in Sources */,
 				ADC482CE28DF20DA00EAE8CC /* Permutations.swift in Sources */,
