@@ -52,6 +52,9 @@
 		AD32EB3D2962FBFD0019636B /* RepeatedSubstringPattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD32EB3C2962FBFD0019636B /* RepeatedSubstringPattern.swift */; };
 		AD32EB3F296301F70019636B /* DetectCapital.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD32EB3E296301F70019636B /* DetectCapital.swift */; };
 		AD3306EC29191AF6005FE669 /* ShuffleAnArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3306EB29191AF6005FE669 /* ShuffleAnArray.swift */; };
+		AD339A0D297ABCFF00E3856D /* InsertDeleteGetRandom.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD339A0C297ABCFF00E3856D /* InsertDeleteGetRandom.swift */; };
+		AD339A0F297ABD3F00E3856D /* DesignCircularQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD339A0E297ABD3F00E3856D /* DesignCircularQueue.swift */; };
+		AD339A11297ABD9F00E3856D /* MyCalendarI.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD339A10297ABD9F00E3856D /* MyCalendarI.swift */; };
 		AD344F80294B427400DCAA09 /* LongestPalindromicSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD344F7F294B427400DCAA09 /* LongestPalindromicSubsequence.swift */; };
 		AD35997B2913DD9F0082AC68 /* LongestIncreasingSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD35997A2913DD9F0082AC68 /* LongestIncreasingSubsequence.swift */; };
 		AD35997D2913DFBE0082AC68 /* NumberOfLongestIncreasingSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD35997C2913DFBE0082AC68 /* NumberOfLongestIncreasingSubsequence.swift */; };
@@ -338,6 +341,9 @@
 		AD32EB3C2962FBFD0019636B /* RepeatedSubstringPattern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepeatedSubstringPattern.swift; sourceTree = "<group>"; };
 		AD32EB3E296301F70019636B /* DetectCapital.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetectCapital.swift; sourceTree = "<group>"; };
 		AD3306EB29191AF6005FE669 /* ShuffleAnArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShuffleAnArray.swift; sourceTree = "<group>"; };
+		AD339A0C297ABCFF00E3856D /* InsertDeleteGetRandom.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsertDeleteGetRandom.swift; sourceTree = "<group>"; };
+		AD339A0E297ABD3F00E3856D /* DesignCircularQueue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignCircularQueue.swift; sourceTree = "<group>"; };
+		AD339A10297ABD9F00E3856D /* MyCalendarI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCalendarI.swift; sourceTree = "<group>"; };
 		AD344F7F294B427400DCAA09 /* LongestPalindromicSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestPalindromicSubsequence.swift; sourceTree = "<group>"; };
 		AD35997A2913DD9F0082AC68 /* LongestIncreasingSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestIncreasingSubsequence.swift; sourceTree = "<group>"; };
 		AD35997C2913DFBE0082AC68 /* NumberOfLongestIncreasingSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfLongestIncreasingSubsequence.swift; sourceTree = "<group>"; };
@@ -679,6 +685,7 @@
 				ADE2438728F835D900D3AB3F /* DeleteNodeInABST.swift */,
 				AD4C668329152EBF00C86C85 /* DeleteOperationForTwoStrings.swift */,
 				ADD67EA429796DDA00402175 /* DesignAuthenticationManager.swift */,
+				AD339A0E297ABD3F00E3856D /* DesignCircularQueue.swift */,
 				ADEFCB5328E5B7E000F62033 /* DesignHashMap.swift */,
 				ADCCEEC428F2F18B00B85A54 /* DesignLinkedList.swift */,
 				ADB0D9FE2960587A0016CA62 /* DesignParkingSystem.swift */,
@@ -713,6 +720,7 @@
 				AD844B0E28CA20F4008E1AEF /* ImplementQueueUsingStacks.swift */,
 				AD2F3731292F8B8B00F4F680 /* ImplementTriePrefixTree.swift */,
 				ADB40E5928E9AF3D00D51F9C /* IncreasingTripletSubsequence.swift */,
+				AD339A0C297ABCFF00E3856D /* InsertDeleteGetRandom.swift */,
 				ADB1E8172930DD23001D88CB /* InsertInterval.swift */,
 				AD39B0CA28CF4B7B008FECE7 /* InsertIntoABinarySearchTree.swift */,
 				AD8733E22916D41A00E18F7B /* IntegerBreak.swift */,
@@ -783,6 +791,7 @@
 				ADE4DF382933824900DF9FEB /* MostStonesRemovedWithSameRowOrColumn.swift */,
 				ADF0631628D4902300546CCC /* MoveZeroes.swift */,
 				ADBC9C1428EDA96B00459081 /* MultiplyStrings.swift */,
+				AD339A10297ABD9F00E3856D /* MyCalendarI.swift */,
 				AD015019296C3B9500C763CC /* NaryTreeLevelOrderTraversal.swift */,
 				AD5CBBE728B251D700495544 /* NaryTreePreorderTraversal.swift */,
 				ADE4CBD9297812270039E5B3 /* FlattenNestedListIterator.swift */,
@@ -1027,6 +1036,7 @@
 				ADC482CC28DF202300EAE8CC /* Combinations.swift in Sources */,
 				ADF243C9297456480006F2A4 /* NumberOfGoodPaths.swift in Sources */,
 				ADC482D028DF217100EAE8CC /* LetterCasePermutation.swift in Sources */,
+				AD339A0D297ABCFF00E3856D /* InsertDeleteGetRandom.swift in Sources */,
 				AD8C5AD028E074A000E821D7 /* HouseRobber.swift in Sources */,
 				AD9914AA28C0DBD500BCFDAB /* MergeSortedArray.swift in Sources */,
 				ADD71D4B2938C471005189E6 /* DeleteAndEarn.swift in Sources */,
@@ -1050,6 +1060,7 @@
 				ADD5D3F328A3120A00BD5BCC /* RansomNote.swift in Sources */,
 				ADA485AA28FEC716006C8FCF /* SortCharactersByFrequency.swift in Sources */,
 				AD2E2CEB2955CFF500C790D0 /* CanMakeArithmeticProgressionFromSequence.swift in Sources */,
+				AD339A11297ABD9F00E3856D /* MyCalendarI.swift in Sources */,
 				ADA94B9028D7434D00D07819 /* RemoveNthNodeFromEndOfList.swift in Sources */,
 				AD6C46FA290801150011A77C /* PopulatingNextRightPointersInEachNode2.swift in Sources */,
 				AD75563328EEF0A3004B7039 /* LongestPalindromicSubstring.swift in Sources */,
@@ -1060,6 +1071,7 @@
 				AD2D4D342905619F00D3234A /* SubarrayProductLessThanK.swift in Sources */,
 				ADE4DF392933824900DF9FEB /* MostStonesRemovedWithSameRowOrColumn.swift in Sources */,
 				AD57491A2906A0A7008E89BE /* NumberOfProvinces.swift in Sources */,
+				AD339A0F297ABD3F00E3856D /* DesignCircularQueue.swift in Sources */,
 				ADC5823C28DB2DBA006D9591 /* PopulatingNextRightPointersInEachNode.swift in Sources */,
 				ADE1BD2528DC7C2A008ED566 /* ZeroOneMatrix.swift in Sources */,
 				AD6A030B290AADB300988758 /* Subsets2.swift in Sources */,
