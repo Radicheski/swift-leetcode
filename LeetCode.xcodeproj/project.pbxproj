@@ -12,6 +12,7 @@
 		AD015018296C3A8500C763CC /* ArithmeticSubarrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD015017296C3A8500C763CC /* ArithmeticSubarrays.swift */; };
 		AD01501A296C3B9500C763CC /* NaryTreeLevelOrderTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD015019296C3B9500C763CC /* NaryTreeLevelOrderTraversal.swift */; };
 		AD05D58D298038CF00B35E1B /* AsFarFromLandAsPossible.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD05D58C298038CF00B35E1B /* AsFarFromLandAsPossible.swift */; };
+		AD05D58F29805ABD00B35E1B /* SnakesAndLadders.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD05D58E29805ABD00B35E1B /* SnakesAndLadders.swift */; };
 		AD068C4C28DDC23400D4EB76 /* ConcatenationOfConsecutiveBinaryNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD068C4B28DDC23400D4EB76 /* ConcatenationOfConsecutiveBinaryNumbers.swift */; };
 		AD07CAF828F5877E00B2E73A /* MinStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD07CAF728F5877E00B2E73A /* MinStack.swift */; };
 		AD07CAFA28F587CE00B2E73A /* MinimumRemoveToMakeValidParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD07CAF928F587CE00B2E73A /* MinimumRemoveToMakeValidParentheses.swift */; };
@@ -308,6 +309,7 @@
 		AD015017296C3A8500C763CC /* ArithmeticSubarrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArithmeticSubarrays.swift; sourceTree = "<group>"; };
 		AD015019296C3B9500C763CC /* NaryTreeLevelOrderTraversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NaryTreeLevelOrderTraversal.swift; sourceTree = "<group>"; };
 		AD05D58C298038CF00B35E1B /* AsFarFromLandAsPossible.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsFarFromLandAsPossible.swift; sourceTree = "<group>"; };
+		AD05D58E29805ABD00B35E1B /* SnakesAndLadders.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SnakesAndLadders.swift; sourceTree = "<group>"; };
 		AD068C4B28DDC23400D4EB76 /* ConcatenationOfConsecutiveBinaryNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConcatenationOfConsecutiveBinaryNumbers.swift; sourceTree = "<group>"; };
 		AD07CAF728F5877E00B2E73A /* MinStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinStack.swift; sourceTree = "<group>"; };
 		AD07CAF928F587CE00B2E73A /* MinimumRemoveToMakeValidParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumRemoveToMakeValidParentheses.swift; sourceTree = "<group>"; };
@@ -885,6 +887,7 @@
 				AD2E2CE82955CF6300C790D0 /* SignOfTheProductOfAnArray.swift */,
 				AD325C4028E32B230039107E /* SingleNumber.swift */,
 				AD2C245929716C570000DBF8 /* SmallestRange2.swift */,
+				AD05D58E29805ABD00B35E1B /* SnakesAndLadders.swift */,
 				ADA485A928FEC716006C8FCF /* SortCharactersByFrequency.swift */,
 				ADEFCB4F28E5B6A500F62033 /* SortColors.swift */,
 				AD1BA376295F19AF00A2A529 /* SortIntegersByTheNumberOf1Bits.swift */,
@@ -1196,6 +1199,7 @@
 				AD31D256290BF75B0030D330 /* Permutations2.swift in Sources */,
 				ADD67EA7297972A100402175 /* SubarraySumsDivisibleByK.swift in Sources */,
 				ADF677AF2917E870007CB647 /* BitwiseANDOfNumbersRange.swift in Sources */,
+				AD05D58F29805ABD00B35E1B /* SnakesAndLadders.swift in Sources */,
 				AD32EB3F296301F70019636B /* DetectCapital.swift in Sources */,
 				AD6BF880290EBE4F00C10525 /* HouseRobber2.swift in Sources */,
 				ADAA5A3A29225FDC003EE31E /* BalancedBinaryTree.swift in Sources */,
