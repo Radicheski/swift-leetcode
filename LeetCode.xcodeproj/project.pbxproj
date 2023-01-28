@@ -19,6 +19,7 @@
 		AD07CAFC28F5886700B2E73A /* FindTheWinnerOfTheCircularGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD07CAFB28F5886700B2E73A /* FindTheWinnerOfTheCircularGame.swift */; };
 		AD0AC56B28BE385B00D4608C /* LastStoneWeight.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0AC56A28BE385B00D4608C /* LastStoneWeight.swift */; };
 		AD0AC56D28BE38C100D4608C /* TopKFrequentWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0AC56C28BE38C100D4608C /* TopKFrequentWords.swift */; };
+		AD15817F2985A7330087B1BE /* DataStreamAsDisjointIntervals.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD15817E2985A7330087B1BE /* DataStreamAsDisjointIntervals.swift */; };
 		AD16FA33296D8D88001E3E65 /* NextGreaterElement2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD16FA32296D8D88001E3E65 /* NextGreaterElement2.swift */; };
 		AD16FA35296D8E06001E3E65 /* NextGreaterElement3.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD16FA34296D8E06001E3E65 /* NextGreaterElement3.swift */; };
 		AD180B3629434F1F001F5866 /* UglyNumber2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD180B3529434F1F001F5866 /* UglyNumber2.swift */; };
@@ -322,6 +323,7 @@
 		AD07CAFB28F5886700B2E73A /* FindTheWinnerOfTheCircularGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheWinnerOfTheCircularGame.swift; sourceTree = "<group>"; };
 		AD0AC56A28BE385B00D4608C /* LastStoneWeight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LastStoneWeight.swift; sourceTree = "<group>"; };
 		AD0AC56C28BE38C100D4608C /* TopKFrequentWords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopKFrequentWords.swift; sourceTree = "<group>"; };
+		AD15817E2985A7330087B1BE /* DataStreamAsDisjointIntervals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataStreamAsDisjointIntervals.swift; sourceTree = "<group>"; };
 		AD16FA32296D8D88001E3E65 /* NextGreaterElement2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextGreaterElement2.swift; sourceTree = "<group>"; };
 		AD16FA34296D8E06001E3E65 /* NextGreaterElement3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextGreaterElement3.swift; sourceTree = "<group>"; };
 		AD180B3529434F1F001F5866 /* UglyNumber2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UglyNumber2.swift; sourceTree = "<group>"; };
@@ -709,6 +711,7 @@
 				ADF7AF11297ECC9B000B34DA /* CountSubIslands.swift */,
 				AD899FD42929136E001DD001 /* CourseSchedule2.swift */,
 				AD9147D82968525A007F9218 /* DailyTemperatures.swift */,
+				AD15817E2985A7330087B1BE /* DataStreamAsDisjointIntervals.swift */,
 				ADDCF94A28BCD5F400E7CA46 /* DecodeString.swift */,
 				AD862E3E2912919C008F93B1 /* DecodeWays.swift */,
 				AD96A68C295C7C0C001F0AB6 /* DecryptStringFromAlphabetToIntegerMapping.swift */,
@@ -1072,6 +1075,7 @@
 				AD3ADA13291D194800F54F51 /* LongestCommonPrefix.swift in Sources */,
 				AD31D258290BF9A10030D330 /* CombinationSum.swift in Sources */,
 				AD3C92F228F19F2600E90724 /* RemoveDuplicatesFromSortedList2.swift in Sources */,
+				AD15817F2985A7330087B1BE /* DataStreamAsDisjointIntervals.swift in Sources */,
 				AD2FF7A528B506F90027AFB6 /* ValidateBinarySearchTree.swift in Sources */,
 				ADD1B03F293CC386006136E8 /* MaximumLengthOfSubarrayWithPositiveProduct.swift in Sources */,
 				ADC8EBB8296A11D800CBBC35 /* GasStation.swift in Sources */,
