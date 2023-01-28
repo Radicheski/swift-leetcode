@@ -93,6 +93,7 @@
 		AD4DCBF728E70C6300A81C5F /* PascalsTriangle2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4DCBF628E70C6300A81C5F /* PascalsTriangle2.swift */; };
 		AD4DCBF928E70EE600A81C5F /* RotateImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4DCBF828E70EE600A81C5F /* RotateImage.swift */; };
 		AD4DCBFB28E70FB900A81C5F /* SpiralMatrix2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4DCBFA28E70FB900A81C5F /* SpiralMatrix2.swift */; };
+		AD4F072A2985905C00FBFD05 /* NumberOfOperationsToMakeNetworkConnected.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4F07292985905C00FBFD05 /* NumberOfOperationsToMakeNetworkConnected.swift */; };
 		AD5709B52983F456006A523C /* ConcatenatedWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5709B42983F456006A523C /* ConcatenatedWords.swift */; };
 		AD57491A2906A0A7008E89BE /* NumberOfProvinces.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5749192906A0A7008E89BE /* NumberOfProvinces.swift */; };
 		AD5CBBE628B251A500495544 /* Node.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5CBBE528B251A500495544 /* Node.swift */; };
@@ -395,6 +396,7 @@
 		AD4DCBF628E70C6300A81C5F /* PascalsTriangle2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PascalsTriangle2.swift; sourceTree = "<group>"; };
 		AD4DCBF828E70EE600A81C5F /* RotateImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateImage.swift; sourceTree = "<group>"; };
 		AD4DCBFA28E70FB900A81C5F /* SpiralMatrix2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpiralMatrix2.swift; sourceTree = "<group>"; };
+		AD4F07292985905C00FBFD05 /* NumberOfOperationsToMakeNetworkConnected.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfOperationsToMakeNetworkConnected.swift; sourceTree = "<group>"; };
 		AD5709B42983F456006A523C /* ConcatenatedWords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConcatenatedWords.swift; sourceTree = "<group>"; };
 		AD5749192906A0A7008E89BE /* NumberOfProvinces.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfProvinces.swift; sourceTree = "<group>"; };
 		AD5CBBE528B251A500495544 /* Node.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Node.swift; sourceTree = "<group>"; };
@@ -840,6 +842,7 @@
 				AD35997C2913DFBE0082AC68 /* NumberOfLongestIncreasingSubsequence.swift */,
 				AD32520F297029150095A3F9 /* NumberOfNodesInTheSubTreeWithTheSameLabel.swift */,
 				AD361C4C28E1C929002962BB /* NumberOfOneBits.swift */,
+				AD4F07292985905C00FBFD05 /* NumberOfOperationsToMakeNetworkConnected.swift */,
 				AD5749192906A0A7008E89BE /* NumberOfProvinces.swift */,
 				ADC46DAF28A922C7003B926E /* NumberOfStepsRoReduceANumberToZero.swift */,
 				ADA1739F29200D66006D0F09 /* OddEvenLinkedList.swift */,
@@ -1189,6 +1192,7 @@
 				ADEFCB5228E5B74800F62033 /* MergeIntervals.swift in Sources */,
 				AD6A0309290AACAB00988758 /* Subsets.swift in Sources */,
 				AD35997B2913DD9F0082AC68 /* LongestIncreasingSubsequence.swift in Sources */,
+				AD4F072A2985905C00FBFD05 /* NumberOfOperationsToMakeNetworkConnected.swift in Sources */,
 				AD95D5152972D00E000EEFF6 /* CopyListWithRandomPointer.swift in Sources */,
 				ADF865EF28C224C700885B7A /* IntersectionOfTwoArrays2.swift in Sources */,
 				ADB14CB7292791F700F36417 /* PacificAtlanticWaterFlow.swift in Sources */,
