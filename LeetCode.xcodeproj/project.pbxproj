@@ -102,6 +102,9 @@
 		AD5CBBE828B251D700495544 /* NaryTreePreorderTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5CBBE728B251D700495544 /* NaryTreePreorderTraversal.swift */; };
 		AD5CBBEA28B2547F00495544 /* BinaryTreeLevelOrderTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5CBBE928B2547F00495544 /* BinaryTreeLevelOrderTraversal.swift */; };
 		AD5CBBEC28B254A000495544 /* TreeNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5CBBEB28B254A000495544 /* TreeNode.swift */; };
+		AD607B9F298807C300426C95 /* ShortestPathWithAlternatingColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD607B9E298807C300426C95 /* ShortestPathWithAlternatingColors.swift */; };
+		AD607BA12988086F00426C95 /* ReorderRoutesToMakeAllPathsLeadToTheCityZero.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD607BA02988086F00426C95 /* ReorderRoutesToMakeAllPathsLeadToTheCityZero.swift */; };
+		AD607BA32988090900426C95 /* ShortestPathVisitingAllNodes.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD607BA22988090900426C95 /* ShortestPathVisitingAllNodes.swift */; };
 		AD69BA112951D67B00986792 /* CountOddNumbersInAnIntervalRange.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD69BA102951D67B00986792 /* CountOddNumbersInAnIntervalRange.swift */; };
 		AD69BA132951D6EE00986792 /* AverageSalaryExcludingTheMinimumAndMaximumSalary.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD69BA122951D6EE00986792 /* AverageSalaryExcludingTheMinimumAndMaximumSalary.swift */; };
 		AD6A0309290AACAB00988758 /* Subsets.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6A0308290AACAB00988758 /* Subsets.swift */; };
@@ -408,6 +411,9 @@
 		AD5CBBE728B251D700495544 /* NaryTreePreorderTraversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NaryTreePreorderTraversal.swift; sourceTree = "<group>"; };
 		AD5CBBE928B2547F00495544 /* BinaryTreeLevelOrderTraversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryTreeLevelOrderTraversal.swift; sourceTree = "<group>"; };
 		AD5CBBEB28B254A000495544 /* TreeNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeNode.swift; sourceTree = "<group>"; };
+		AD607B9E298807C300426C95 /* ShortestPathWithAlternatingColors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShortestPathWithAlternatingColors.swift; sourceTree = "<group>"; };
+		AD607BA02988086F00426C95 /* ReorderRoutesToMakeAllPathsLeadToTheCityZero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReorderRoutesToMakeAllPathsLeadToTheCityZero.swift; sourceTree = "<group>"; };
+		AD607BA22988090900426C95 /* ShortestPathVisitingAllNodes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShortestPathVisitingAllNodes.swift; sourceTree = "<group>"; };
 		AD69BA102951D67B00986792 /* CountOddNumbersInAnIntervalRange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountOddNumbersInAnIntervalRange.swift; sourceTree = "<group>"; };
 		AD69BA122951D6EE00986792 /* AverageSalaryExcludingTheMinimumAndMaximumSalary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AverageSalaryExcludingTheMinimumAndMaximumSalary.swift; sourceTree = "<group>"; };
 		AD6A0308290AACAB00988758 /* Subsets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Subsets.swift; sourceTree = "<group>"; };
@@ -897,6 +903,7 @@
 				AD4DCBFA28E70FB900A81C5F /* SpiralMatrix2.swift */,
 				ADA173A129200E39006D0F09 /* SortList.swift */,
 				ADB0DA00296059E10016CA62 /* RangeSumQueryImmutable.swift */,
+				AD607BA02988086F00426C95 /* ReorderRoutesToMakeAllPathsLeadToTheCityZero.swift */,
 				AD32EB3C2962FBFD0019636B /* RepeatedSubstringPattern.swift */,
 				AD3F37272975669400082B5E /* RotateList.swift */,
 				ADE1BD2628DC7CAF008ED566 /* RottingOranges.swift */,
@@ -910,6 +917,8 @@
 				ADB9AE8F28FAD463008FBC6A /* SerializeAndDeserializeBinaryTree.swift */,
 				AD4311442982966300E127A6 /* ShortestBridge.swift */,
 				AD1FCE0229095C0300A9B623 /* ShortestPathInBinaryMatrix.swift */,
+				AD607BA22988090900426C95 /* ShortestPathVisitingAllNodes.swift */,
+				AD607B9E298807C300426C95 /* ShortestPathWithAlternatingColors.swift */,
 				AD3306EB29191AF6005FE669 /* ShuffleAnArray.swift */,
 				AD2E2CE82955CF6300C790D0 /* SignOfTheProductOfAnArray.swift */,
 				AD325C4028E32B230039107E /* SingleNumber.swift */,
@@ -1242,8 +1251,10 @@
 				ADF58E1228C6236D000E08DB /* ValidAnagram.swift in Sources */,
 				ADB9AE8E28FAD19D008FBC6A /* LowestCommonAncestorOfABinaryTree.swift in Sources */,
 				AD2FF7A728B50D3F0027AFB6 /* LowestCommonAncestorOfABinarySearchTree.swift in Sources */,
+				AD607B9F298807C300426C95 /* ShortestPathWithAlternatingColors.swift in Sources */,
 				AD967DDB28C36AC0005408E7 /* ReshapeTheMatrix.swift in Sources */,
 				ADB1E8182930DD23001D88CB /* InsertInterval.swift in Sources */,
+				AD607BA32988090900426C95 /* ShortestPathVisitingAllNodes.swift in Sources */,
 				AD96A68D295C7C0C001F0AB6 /* DecryptStringFromAlphabetToIntegerMapping.swift in Sources */,
 				AD2B731D295DCF1F00334288 /* ConvertBinaryNumberInALinkedListToInteger.swift in Sources */,
 				AD862E3F2912919C008F93B1 /* DecodeWays.swift in Sources */,
@@ -1267,6 +1278,7 @@
 				ADE2438428F8347400D3AB3F /* BinaryTreeRightSideView.swift in Sources */,
 				ADC5B13728AD5102002FED4E /* IsomorphicStrings.swift in Sources */,
 				AD325210297029150095A3F9 /* NumberOfNodesInTheSubTreeWithTheSameLabel.swift in Sources */,
+				AD607BA12988086F00426C95 /* ReorderRoutesToMakeAllPathsLeadToTheCityZero.swift in Sources */,
 				ADA485AC28FEC828006C8FCF /* KClosestPointsToOrigin.swift in Sources */,
 				AD39B0C928CF4B05008FECE7 /* SearchInABinarySearchTree.swift in Sources */,
 				AD2E2CE92955CF6300C790D0 /* SignOfTheProductOfAnArray.swift in Sources */,
