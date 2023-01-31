@@ -121,6 +121,9 @@
 		AD74DB46297DAFAD003C5807 /* PalindromePartitioning.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD74DB45297DAFAD003C5807 /* PalindromePartitioning.swift */; };
 		AD75563128EEF013004B7039 /* RepeatedDNASequences.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD75563028EEF013004B7039 /* RepeatedDNASequences.swift */; };
 		AD75563328EEF0A3004B7039 /* LongestPalindromicSubstring.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD75563228EEF0A3004B7039 /* LongestPalindromicSubstring.swift */; };
+		AD7B3DAE29893E2500DB46E4 /* JumpGame3.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7B3DAD29893E2500DB46E4 /* JumpGame3.swift */; };
+		AD7B3DB029893EB700DB46E4 /* MinimumJumpsToReachHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7B3DAF29893EB700DB46E4 /* MinimumJumpsToReachHome.swift */; };
+		AD7B3DB229893F4800DB46E4 /* WaterAndJugProblem.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7B3DB129893F4800DB46E4 /* WaterAndJugProblem.swift */; };
 		AD7DC46428CE023F00631E4A /* InvertBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7DC46328CE023F00631E4A /* InvertBinaryTree.swift */; };
 		AD7DC46628CE02A600631E4A /* PathSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7DC46528CE02A600631E4A /* PathSum.swift */; };
 		AD801F0C294893870098DF16 /* UniquePaths2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD801F0B294893870098DF16 /* UniquePaths2.swift */; };
@@ -430,6 +433,9 @@
 		AD74DB45297DAFAD003C5807 /* PalindromePartitioning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalindromePartitioning.swift; sourceTree = "<group>"; };
 		AD75563028EEF013004B7039 /* RepeatedDNASequences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepeatedDNASequences.swift; sourceTree = "<group>"; };
 		AD75563228EEF0A3004B7039 /* LongestPalindromicSubstring.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestPalindromicSubstring.swift; sourceTree = "<group>"; };
+		AD7B3DAD29893E2500DB46E4 /* JumpGame3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpGame3.swift; sourceTree = "<group>"; };
+		AD7B3DAF29893EB700DB46E4 /* MinimumJumpsToReachHome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumJumpsToReachHome.swift; sourceTree = "<group>"; };
+		AD7B3DB129893F4800DB46E4 /* WaterAndJugProblem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaterAndJugProblem.swift; sourceTree = "<group>"; };
 		AD7DC46328CE023F00631E4A /* InvertBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InvertBinaryTree.swift; sourceTree = "<group>"; };
 		AD7DC46528CE02A600631E4A /* PathSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathSum.swift; sourceTree = "<group>"; };
 		AD801F0B294893870098DF16 /* UniquePaths2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniquePaths2.swift; sourceTree = "<group>"; };
@@ -779,6 +785,7 @@
 				ADC5B13828AD5A00002FED4E /* IsSubsequence.swift */,
 				AD6BF881290EBEF200C10525 /* JumpGame.swift */,
 				ADFF7706290FE66500C26081 /* JumpGame2.swift */,
+				AD7B3DAD29893E2500DB46E4 /* JumpGame3.swift */,
 				ADA485AB28FEC828006C8FCF /* KClosestPointsToOrigin.swift */,
 				ADD8E83228FC3BD200EEBB3C /* KeysAndRooms.swift */,
 				AD32C95E28FD75C300305E77 /* KthLargestElementInAnArray.swift */,
@@ -826,6 +833,7 @@
 				AD4BDEAB28A7DE3200E61565 /* MiddleOfTheLinkedList.swift */,
 				AD00F44528B96F2600A77B9C /* MinCostClimbingStairs.swift */,
 				ADBA3B9E2946224500F9F52F /* MinimumFallingPathSum.swift */,
+				AD7B3DAF29893EB700DB46E4 /* MinimumJumpsToReachHome.swift */,
 				AD4B1830296749B700262815 /* MinimumNumberOfArrowsToBurstBalloons.swift */,
 				ADD8E83028FC3B3C00EEBB3C /* MinimumNumberOfVerticesToReachAllNodes.swift */,
 				AD86268D2949F0E700027B1A /* MinimumPathSum.swift */,
@@ -963,6 +971,7 @@
 				AD844B0C28CA209C008E1AEF /* ValidParentheses.swift */,
 				AD90565228C4C6A600886275 /* ValidSudoku.swift */,
 				AD96A68E295C7C8D001F0AB6 /* VerifyingAnAlienDictionary.swift */,
+				AD7B3DB129893F4800DB46E4 /* WaterAndJugProblem.swift */,
 				ADE650E7291BD2740038FDD1 /* WhereWillTheBallFall.swift */,
 				ADF2C0B8294C964200557C7D /* WiggleSubsequence.swift */,
 				AD862E4029129270008F93B1 /* WordBreak.swift */,
@@ -1075,6 +1084,7 @@
 				ADB9AE9028FAD463008FBC6A /* SerializeAndDeserializeBinaryTree.swift in Sources */,
 				AD3C92F028F19E7F00E90724 /* IntersectionOfTwoLinkedLists.swift in Sources */,
 				ADEFCB5428E5B7E000F62033 /* DesignHashMap.swift in Sources */,
+				AD7B3DB229893F4800DB46E4 /* WaterAndJugProblem.swift in Sources */,
 				AD8A1EEE29044B8100ABA3F6 /* IntervalListIntersections.swift in Sources */,
 				AD4BDEAC28A7DE3200E61565 /* MiddleOfTheLinkedList.swift in Sources */,
 				AD0C4DD72986D4DA00D15379 /* LFUCacheProblem.swift in Sources */,
@@ -1235,6 +1245,7 @@
 				ADA08C5C28D5E99600B816C2 /* ReverseWordsInAString3.swift in Sources */,
 				ADEC7FBE293E17D200BF0086 /* BestTimeToBuyAndSellStock2.swift in Sources */,
 				ADF22B84292BA5AC00DF8FCA /* MaximumProductSubarray.swift in Sources */,
+				AD7B3DB029893EB700DB46E4 /* MinimumJumpsToReachHome.swift in Sources */,
 				AD2A46D928AA9C9E009C45A8 /* RichestCustomerWealth.swift in Sources */,
 				ADF58E1028C622D7000E08DB /* FirstUniqueCharacterInAString.swift in Sources */,
 				AD84D9522923AC0B00891349 /* DiameterOfBinaryTree.swift in Sources */,
@@ -1252,6 +1263,7 @@
 				ADB9AE8E28FAD19D008FBC6A /* LowestCommonAncestorOfABinaryTree.swift in Sources */,
 				AD2FF7A728B50D3F0027AFB6 /* LowestCommonAncestorOfABinarySearchTree.swift in Sources */,
 				AD607B9F298807C300426C95 /* ShortestPathWithAlternatingColors.swift in Sources */,
+				AD7B3DAE29893E2500DB46E4 /* JumpGame3.swift in Sources */,
 				AD967DDB28C36AC0005408E7 /* ReshapeTheMatrix.swift in Sources */,
 				ADB1E8182930DD23001D88CB /* InsertInterval.swift in Sources */,
 				AD607BA32988090900426C95 /* ShortestPathVisitingAllNodes.swift in Sources */,
