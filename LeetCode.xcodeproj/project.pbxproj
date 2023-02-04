@@ -198,6 +198,7 @@
 		ADB0D9FF2960587A0016CA62 /* DesignParkingSystem.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB0D9FE2960587A0016CA62 /* DesignParkingSystem.swift */; };
 		ADB0DA01296059E10016CA62 /* RangeSumQueryImmutable.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB0DA00296059E10016CA62 /* RangeSumQueryImmutable.swift */; };
 		ADB14CB7292791F700F36417 /* PacificAtlanticWaterFlow.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB14CB6292791F700F36417 /* PacificAtlanticWaterFlow.swift */; };
+		ADB1A706298EBC180059F3C9 /* CheckIfMatrixIsXMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB1A705298EBC180059F3C9 /* CheckIfMatrixIsXMatrix.swift */; };
 		ADB1E8182930DD23001D88CB /* InsertInterval.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB1E8172930DD23001D88CB /* InsertInterval.swift */; };
 		ADB40E5A28E9AF3D00D51F9C /* IncreasingTripletSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB40E5928E9AF3D00D51F9C /* IncreasingTripletSubsequence.swift */; };
 		ADB40E5C28E9B00B00D51F9C /* ProductOfArrayExceptSelf.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB40E5B28E9B00B00D51F9C /* ProductOfArrayExceptSelf.swift */; };
@@ -520,6 +521,7 @@
 		ADB0D9FE2960587A0016CA62 /* DesignParkingSystem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignParkingSystem.swift; sourceTree = "<group>"; };
 		ADB0DA00296059E10016CA62 /* RangeSumQueryImmutable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RangeSumQueryImmutable.swift; sourceTree = "<group>"; };
 		ADB14CB6292791F700F36417 /* PacificAtlanticWaterFlow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PacificAtlanticWaterFlow.swift; sourceTree = "<group>"; };
+		ADB1A705298EBC180059F3C9 /* CheckIfMatrixIsXMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckIfMatrixIsXMatrix.swift; sourceTree = "<group>"; };
 		ADB1E8172930DD23001D88CB /* InsertInterval.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsertInterval.swift; sourceTree = "<group>"; };
 		ADB40E5928E9AF3D00D51F9C /* IncreasingTripletSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IncreasingTripletSubsequence.swift; sourceTree = "<group>"; };
 		ADB40E5B28E9B00B00D51F9C /* ProductOfArrayExceptSelf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductOfArrayExceptSelf.swift; sourceTree = "<group>"; };
@@ -728,6 +730,7 @@
 				AD2E2CEA2955CFF500C790D0 /* CanMakeArithmeticProgressionFromSequence.swift */,
 				AD4311482982AB0500E127A6 /* CheapestFlightsWithinKStops.swift */,
 				ADFF1B082957165600D55D2C /* CheckIfItIsAStraightLine.swift */,
+				ADB1A705298EBC180059F3C9 /* CheckIfMatrixIsXMatrix.swift */,
 				AD2E2CEC2955D08200C790D0 /* CheckIfOneStringSwapCanMakeStringsEqual.swift */,
 				ADEE310628B7A6BE00448525 /* ClimbingStairs.swift */,
 				AD8733E02916D3BC00E18F7B /* CoinChange.swift */,
@@ -1274,6 +1277,7 @@
 				AD820F5B28B65A1C00BA068E /* NumberOfIslands.swift in Sources */,
 				AD4B182D2966FE0600262815 /* AddBinary.swift in Sources */,
 				AD86268E2949F0E700027B1A /* MinimumPathSum.swift in Sources */,
+				ADB1A706298EBC180059F3C9 /* CheckIfMatrixIsXMatrix.swift in Sources */,
 				AD933EF228E46CAA00B1B2DA /* ThreeSum.swift in Sources */,
 				AD1FCE0529095CD800A9B623 /* SurroundedRegions.swift in Sources */,
 				ADF0631728D4902300546CCC /* MoveZeroes.swift in Sources */,
