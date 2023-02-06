@@ -300,6 +300,7 @@
 		ADF0631928D490D000546CCC /* TwoSum2.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF0631828D490D000546CCC /* TwoSum2.swift */; };
 		ADF0EB91291A7E59000B73A4 /* HappyNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF0EB90291A7E59000B73A4 /* HappyNumber.swift */; };
 		ADF0EB93291A7F31000B73A4 /* MaxPointsOnALine.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF0EB92291A7F31000B73A4 /* MaxPointsOnALine.swift */; };
+		ADF1BDBA29911FC500A87869 /* ShuffleTheArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF1BDB929911FC500A87869 /* ShuffleTheArray.swift */; };
 		ADF22B82292BA54000DF8FCA /* PartitionEqualSubsetSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF22B81292BA54000DF8FCA /* PartitionEqualSubsetSum.swift */; };
 		ADF22B84292BA5AC00DF8FCA /* MaximumProductSubarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF22B83292BA5AC00DF8FCA /* MaximumProductSubarray.swift */; };
 		ADF243C7297443210006F2A4 /* AddTwoNumbers2.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF243C6297443210006F2A4 /* AddTwoNumbers2.swift */; };
@@ -625,6 +626,7 @@
 		ADF0631828D490D000546CCC /* TwoSum2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSum2.swift; sourceTree = "<group>"; };
 		ADF0EB90291A7E59000B73A4 /* HappyNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HappyNumber.swift; sourceTree = "<group>"; };
 		ADF0EB92291A7F31000B73A4 /* MaxPointsOnALine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxPointsOnALine.swift; sourceTree = "<group>"; };
+		ADF1BDB929911FC500A87869 /* ShuffleTheArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShuffleTheArray.swift; sourceTree = "<group>"; };
 		ADF22B81292BA54000DF8FCA /* PartitionEqualSubsetSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartitionEqualSubsetSum.swift; sourceTree = "<group>"; };
 		ADF22B83292BA5AC00DF8FCA /* MaximumProductSubarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumProductSubarray.swift; sourceTree = "<group>"; };
 		ADF243C6297443210006F2A4 /* AddTwoNumbers2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddTwoNumbers2.swift; sourceTree = "<group>"; };
@@ -962,6 +964,7 @@
 				AD607BA22988090900426C95 /* ShortestPathVisitingAllNodes.swift */,
 				AD607B9E298807C300426C95 /* ShortestPathWithAlternatingColors.swift */,
 				AD3306EB29191AF6005FE669 /* ShuffleAnArray.swift */,
+				ADF1BDB929911FC500A87869 /* ShuffleTheArray.swift */,
 				AD2E2CE82955CF6300C790D0 /* SignOfTheProductOfAnArray.swift */,
 				AD325C4028E32B230039107E /* SingleNumber.swift */,
 				AD2C245929716C570000DBF8 /* SmallestRange2.swift */,
@@ -1127,6 +1130,7 @@
 				AD4C668229152DFC00C86C85 /* LongestCommonSubsequence.swift in Sources */,
 				AD4B1831296749B700262815 /* MinimumNumberOfArrowsToBurstBalloons.swift in Sources */,
 				AD07CAF828F5877E00B2E73A /* MinStack.swift in Sources */,
+				ADF1BDBA29911FC500A87869 /* ShuffleTheArray.swift in Sources */,
 				ADE650E8291BD2740038FDD1 /* WhereWillTheBallFall.swift in Sources */,
 				ADEE310728B7A6BE00448525 /* ClimbingStairs.swift in Sources */,
 				ADBC9C1728EDAA4E00459081 /* GroupAnagrams.swift in Sources */,
