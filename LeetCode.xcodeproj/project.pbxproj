@@ -223,6 +223,7 @@
 		ADC5823C28DB2DBA006D9591 /* PopulatingNextRightPointersInEachNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC5823B28DB2DBA006D9591 /* PopulatingNextRightPointersInEachNode.swift */; };
 		ADC5B13728AD5102002FED4E /* IsomorphicStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC5B13628AD5102002FED4E /* IsomorphicStrings.swift */; };
 		ADC5B13928AD5A00002FED4E /* IsSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC5B13828AD5A00002FED4E /* IsSubsequence.swift */; };
+		ADC653D52993C549004C4934 /* MinimumNumberOfMovesToSeatEveryone.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC653D42993C549004C4934 /* MinimumNumberOfMovesToSeatEveryone.swift */; };
 		ADC8E5342965A2BD00D6351F /* LinkedListInBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC8E5332965A2BD00D6351F /* LinkedListInBinaryTree.swift */; };
 		ADC8E5362965AEEA00D6351F /* MinimumRoundsToCompleteAllTasks.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC8E5352965AEEA00D6351F /* MinimumRoundsToCompleteAllTasks.swift */; };
 		ADC8EBB62969E6F300CBBC35 /* DetermineWhetherMatrixCanBeObtainedByRotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC8EBB52969E6F300CBBC35 /* DetermineWhetherMatrixCanBeObtainedByRotation.swift */; };
@@ -549,6 +550,7 @@
 		ADC5823B28DB2DBA006D9591 /* PopulatingNextRightPointersInEachNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopulatingNextRightPointersInEachNode.swift; sourceTree = "<group>"; };
 		ADC5B13628AD5102002FED4E /* IsomorphicStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IsomorphicStrings.swift; sourceTree = "<group>"; };
 		ADC5B13828AD5A00002FED4E /* IsSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IsSubsequence.swift; sourceTree = "<group>"; };
+		ADC653D42993C549004C4934 /* MinimumNumberOfMovesToSeatEveryone.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberOfMovesToSeatEveryone.swift; sourceTree = "<group>"; };
 		ADC8E5332965A2BD00D6351F /* LinkedListInBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkedListInBinaryTree.swift; sourceTree = "<group>"; };
 		ADC8E5352965AEEA00D6351F /* MinimumRoundsToCompleteAllTasks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumRoundsToCompleteAllTasks.swift; sourceTree = "<group>"; };
 		ADC8EBB52969E6F300CBBC35 /* DetermineWhetherMatrixCanBeObtainedByRotation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetermineWhetherMatrixCanBeObtainedByRotation.swift; sourceTree = "<group>"; };
@@ -871,6 +873,7 @@
 				AD4F6607298A8D230015FB4B /* MinimumGeneticMutation.swift */,
 				AD7B3DAF29893EB700DB46E4 /* MinimumJumpsToReachHome.swift */,
 				AD4B1830296749B700262815 /* MinimumNumberOfArrowsToBurstBalloons.swift */,
+				ADC653D42993C549004C4934 /* MinimumNumberOfMovesToSeatEveryone.swift */,
 				ADD8E83028FC3B3C00EEBB3C /* MinimumNumberOfVerticesToReachAllNodes.swift */,
 				AD86268D2949F0E700027B1A /* MinimumPathSum.swift */,
 				AD07CAF928F587CE00B2E73A /* MinimumRemoveToMakeValidParentheses.swift */,
@@ -1384,6 +1387,7 @@
 				AD967DDD28C36B3D005408E7 /* PascalsTriangle.swift in Sources */,
 				ADE4CBDA297812270039E5B3 /* FlattenNestedListIterator.swift in Sources */,
 				AD84D9542923ACA900891349 /* PathSum3.swift in Sources */,
+				ADC653D52993C549004C4934 /* MinimumNumberOfMovesToSeatEveryone.swift in Sources */,
 				AD07CAFC28F5886700B2E73A /* FindTheWinnerOfTheCircularGame.swift in Sources */,
 				ADD2F0C229645ADB003B0038 /* DeleteColumnsToMakeSorted.swift in Sources */,
 				AD86E25729001496007E2A8D /* FindFirstAndLastPositionOfElementInSortedArray.swift in Sources */,
