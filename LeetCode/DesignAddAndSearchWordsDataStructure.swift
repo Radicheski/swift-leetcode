@@ -84,7 +84,7 @@ private class WordDictionary {
     }
     
     func search(_ word: String) -> Bool {
-        var word = Array(word)
+        let word = Array(word)
         
         var queue = [(index: 0, dictionary: self)]
         
