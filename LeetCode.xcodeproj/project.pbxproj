@@ -160,6 +160,7 @@
 		AD899FD7292913F9001DD001 /* BusRoutes.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD899FD6292913F9001DD001 /* BusRoutes.swift */; };
 		AD8A1EEE29044B8100ABA3F6 /* IntervalListIntersections.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8A1EED29044B8100ABA3F6 /* IntervalListIntersections.swift */; };
 		AD8A1EF029044C5C00ABA3F6 /* ContainerWithMostWater.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8A1EEF29044C5C00ABA3F6 /* ContainerWithMostWater.swift */; };
+		AD8AF1DD299A642C002C7C1C /* ImageSmoother.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8AF1DC299A642C002C7C1C /* ImageSmoother.swift */; };
 		AD8C5AD028E074A000E821D7 /* HouseRobber.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8C5ACF28E074A000E821D7 /* HouseRobber.swift */; };
 		AD8C5AD228E0751A00E821D7 /* Triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8C5AD128E0751A00E821D7 /* Triangle.swift */; };
 		AD90565328C4C6A700886275 /* ValidSudoku.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD90565228C4C6A600886275 /* ValidSudoku.swift */; };
@@ -491,6 +492,7 @@
 		AD899FD6292913F9001DD001 /* BusRoutes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BusRoutes.swift; sourceTree = "<group>"; };
 		AD8A1EED29044B8100ABA3F6 /* IntervalListIntersections.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntervalListIntersections.swift; sourceTree = "<group>"; };
 		AD8A1EEF29044C5C00ABA3F6 /* ContainerWithMostWater.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainerWithMostWater.swift; sourceTree = "<group>"; };
+		AD8AF1DC299A642C002C7C1C /* ImageSmoother.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSmoother.swift; sourceTree = "<group>"; };
 		AD8C5ACF28E074A000E821D7 /* HouseRobber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HouseRobber.swift; sourceTree = "<group>"; };
 		AD8C5AD128E0751A00E821D7 /* Triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Triangle.swift; sourceTree = "<group>"; };
 		AD90565228C4C6A600886275 /* ValidSudoku.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidSudoku.swift; sourceTree = "<group>"; };
@@ -815,6 +817,7 @@
 				ADF0EB90291A7E59000B73A4 /* HappyNumber.swift */,
 				AD8C5ACF28E074A000E821D7 /* HouseRobber.swift */,
 				AD6BF87F290EBE4F00C10525 /* HouseRobber2.swift */,
+				AD8AF1DC299A642C002C7C1C /* ImageSmoother.swift */,
 				AD844B0E28CA20F4008E1AEF /* ImplementQueueUsingStacks.swift */,
 				AD2F3731292F8B8B00F4F680 /* ImplementTriePrefixTree.swift */,
 				ADB40E5928E9AF3D00D51F9C /* IncreasingTripletSubsequence.swift */,
@@ -1349,6 +1352,7 @@
 				ADA86E8728F4419B00A01BC2 /* ReorderList.swift in Sources */,
 				AD617F29298D2B4200708E31 /* MaximalNetworkRank.swift in Sources */,
 				ADF4710C29326C9D007A320F /* BasicCalculator2.swift in Sources */,
+				AD8AF1DD299A642C002C7C1C /* ImageSmoother.swift in Sources */,
 				AD4DCBF728E70C6300A81C5F /* PascalsTriangle2.swift in Sources */,
 				ADDCF94928BCD57200E7CA46 /* BackspaceStringCompare.swift in Sources */,
 				ADE8B85A294F432200699CEB /* CoinChange2.swift in Sources */,
