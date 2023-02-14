@@ -163,6 +163,7 @@
 		AD8AF1DD299A642C002C7C1C /* ImageSmoother.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8AF1DC299A642C002C7C1C /* ImageSmoother.swift */; };
 		AD8C5AD028E074A000E821D7 /* HouseRobber.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8C5ACF28E074A000E821D7 /* HouseRobber.swift */; };
 		AD8C5AD228E0751A00E821D7 /* Triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8C5AD128E0751A00E821D7 /* Triangle.swift */; };
+		AD8E99D1299BC18A00032CCB /* MinimumAreaRectangle2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8E99D0299BC18A00032CCB /* MinimumAreaRectangle2.swift */; };
 		AD90565328C4C6A700886275 /* ValidSudoku.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD90565228C4C6A600886275 /* ValidSudoku.swift */; };
 		AD90565528C4C71600886275 /* SearchA2DMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD90565428C4C71600886275 /* SearchA2DMatrix.swift */; };
 		AD9147D92968525A007F9218 /* DailyTemperatures.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9147D82968525A007F9218 /* DailyTemperatures.swift */; };
@@ -495,6 +496,7 @@
 		AD8AF1DC299A642C002C7C1C /* ImageSmoother.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSmoother.swift; sourceTree = "<group>"; };
 		AD8C5ACF28E074A000E821D7 /* HouseRobber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HouseRobber.swift; sourceTree = "<group>"; };
 		AD8C5AD128E0751A00E821D7 /* Triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Triangle.swift; sourceTree = "<group>"; };
+		AD8E99D0299BC18A00032CCB /* MinimumAreaRectangle2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumAreaRectangle2.swift; sourceTree = "<group>"; };
 		AD90565228C4C6A600886275 /* ValidSudoku.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidSudoku.swift; sourceTree = "<group>"; };
 		AD90565428C4C71600886275 /* SearchA2DMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchA2DMatrix.swift; sourceTree = "<group>"; };
 		AD9147D82968525A007F9218 /* DailyTemperatures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyTemperatures.swift; sourceTree = "<group>"; };
@@ -882,6 +884,7 @@
 				AD88EE2228AEA91A007E3D7C /* MergeTwoSortedLists.swift */,
 				AD4BDEAB28A7DE3200E61565 /* MiddleOfTheLinkedList.swift */,
 				AD00F44528B96F2600A77B9C /* MinCostClimbingStairs.swift */,
+				AD8E99D0299BC18A00032CCB /* MinimumAreaRectangle2.swift */,
 				ADBA3B9E2946224500F9F52F /* MinimumFallingPathSum.swift */,
 				ADFA10CC29991D7B00B7C873 /* MinimumFuelCostToReportToTheCapital.swift */,
 				AD4F6607298A8D230015FB4B /* MinimumGeneticMutation.swift */,
@@ -1240,6 +1243,7 @@
 				AD96A68B295C7B6E001F0AB6 /* ToLowerCase.swift in Sources */,
 				AD1BBB5628BB832B000032DD /* TwoSum.swift in Sources */,
 				ADD265932954849E0097DD23 /* FindNearestPointThatHasTheSameXOrYCoordinate.swift in Sources */,
+				AD8E99D1299BC18A00032CCB /* MinimumAreaRectangle2.swift in Sources */,
 				ADF9B02228EC4CF8003975A6 /* WordPattern.swift in Sources */,
 				ADF9488028F6E07B006630E0 /* ConvertSortedArrayToBinarySearchTree.swift in Sources */,
 				AD4BDEA828A7DAB300E61565 /* RomanToInteger.swift in Sources */,
