@@ -87,6 +87,7 @@
 		AD4386D12961AE4C003FA0BD /* FindTheIndexOfTheFirstOccurrenceInAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4386D02961AE4C003FA0BD /* FindTheIndexOfTheFirstOccurrenceInAString.swift */; };
 		AD45D00128D9DCD000544C0A /* MaxAreaOfIsland.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD45D00028D9DCD000544C0A /* MaxAreaOfIsland.swift */; };
 		AD48DC9F2940B78E006F912B /* TrappingRainWater.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD48DC9E2940B78E006F912B /* TrappingRainWater.swift */; };
+		AD4A52F829A4E84B00210E4B /* SingleElementInASortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4A52F729A4E84B00210E4B /* SingleElementInASortedArray.swift */; };
 		AD4B182D2966FE0600262815 /* AddBinary.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4B182C2966FE0600262815 /* AddBinary.swift */; };
 		AD4B182F2966FE7400262815 /* AddToArrayFormOfInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4B182E2966FE7400262815 /* AddToArrayFormOfInteger.swift */; };
 		AD4B1831296749B700262815 /* MinimumNumberOfArrowsToBurstBalloons.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4B1830296749B700262815 /* MinimumNumberOfArrowsToBurstBalloons.swift */; };
@@ -426,6 +427,7 @@
 		AD4386D02961AE4C003FA0BD /* FindTheIndexOfTheFirstOccurrenceInAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheIndexOfTheFirstOccurrenceInAString.swift; sourceTree = "<group>"; };
 		AD45D00028D9DCD000544C0A /* MaxAreaOfIsland.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxAreaOfIsland.swift; sourceTree = "<group>"; };
 		AD48DC9E2940B78E006F912B /* TrappingRainWater.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrappingRainWater.swift; sourceTree = "<group>"; };
+		AD4A52F729A4E84B00210E4B /* SingleElementInASortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleElementInASortedArray.swift; sourceTree = "<group>"; };
 		AD4B182C2966FE0600262815 /* AddBinary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddBinary.swift; sourceTree = "<group>"; };
 		AD4B182E2966FE7400262815 /* AddToArrayFormOfInteger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddToArrayFormOfInteger.swift; sourceTree = "<group>"; };
 		AD4B1830296749B700262815 /* MinimumNumberOfArrowsToBurstBalloons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberOfArrowsToBurstBalloons.swift; sourceTree = "<group>"; };
@@ -985,6 +987,7 @@
 				AD3ED08328D34EBD0080829A /* RotateArray.swift */,
 				AD4DCBF828E70EE600A81C5F /* RotateImage.swift */,
 				ADDC47DC28E85E7D0099DDC5 /* SearchA2DMatrix2.swift */,
+				AD4A52F729A4E84B00210E4B /* SingleElementInASortedArray.swift */,
 				AD4DCBFA28E70FB900A81C5F /* SpiralMatrix2.swift */,
 				ADA173A129200E39006D0F09 /* SortList.swift */,
 				ADB0DA00296059E10016CA62 /* RangeSumQueryImmutable.swift */,
@@ -1419,6 +1422,7 @@
 				AD899FD52929136E001DD001 /* CourseSchedule2.swift in Sources */,
 				AD933EF028E46C2300B1B2DA /* MajorityElement.swift in Sources */,
 				AD4DCBFB28E70FB900A81C5F /* SpiralMatrix2.swift in Sources */,
+				AD4A52F829A4E84B00210E4B /* SingleElementInASortedArray.swift in Sources */,
 				ADF0EB91291A7E59000B73A4 /* HappyNumber.swift in Sources */,
 				ADA4798B28CCCEF800C23FF0 /* MaximumDepthOfBinaryTree.swift in Sources */,
 				ADBEEB6A28BF84F90069B4BB /* MaximumSubarray.swift in Sources */,
