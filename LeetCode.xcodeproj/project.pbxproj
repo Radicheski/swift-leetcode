@@ -302,6 +302,7 @@
 		ADEC59F9292E412F006B2532 /* SameTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEC59F8292E412F006B2532 /* SameTree.swift */; };
 		ADEC7FBC293E176E00BF0086 /* BestSightseeingPair.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEC7FBB293E176E00BF0086 /* BestSightseeingPair.swift */; };
 		ADEC7FBE293E17D200BF0086 /* BestTimeToBuyAndSellStock2.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEC7FBD293E17D200BF0086 /* BestTimeToBuyAndSellStock2.swift */; };
+		ADECE5FE29A63EA600A6FB04 /* CapacityToShipPackagesWithinDDays.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADECE5FD29A63EA600A6FB04 /* CapacityToShipPackagesWithinDDays.swift */; };
 		ADEE310528B7A5B400448525 /* FibonacciNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEE310428B7A5B400448525 /* FibonacciNumber.swift */; };
 		ADEE310728B7A6BE00448525 /* ClimbingStairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEE310628B7A6BE00448525 /* ClimbingStairs.swift */; };
 		ADEF265529966DC000F41404 /* CountNumberOfWaysToPlaceHouses.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEF265429966DC000F41404 /* CountNumberOfWaysToPlaceHouses.swift */; };
@@ -643,6 +644,7 @@
 		ADEC59F8292E412F006B2532 /* SameTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SameTree.swift; sourceTree = "<group>"; };
 		ADEC7FBB293E176E00BF0086 /* BestSightseeingPair.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BestSightseeingPair.swift; sourceTree = "<group>"; };
 		ADEC7FBD293E17D200BF0086 /* BestTimeToBuyAndSellStock2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BestTimeToBuyAndSellStock2.swift; sourceTree = "<group>"; };
+		ADECE5FD29A63EA600A6FB04 /* CapacityToShipPackagesWithinDDays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CapacityToShipPackagesWithinDDays.swift; sourceTree = "<group>"; };
 		ADEE310428B7A5B400448525 /* FibonacciNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FibonacciNumber.swift; sourceTree = "<group>"; };
 		ADEE310628B7A6BE00448525 /* ClimbingStairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClimbingStairs.swift; sourceTree = "<group>"; };
 		ADEF265429966DC000F41404 /* CountNumberOfWaysToPlaceHouses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountNumberOfWaysToPlaceHouses.swift; sourceTree = "<group>"; };
@@ -762,6 +764,7 @@
 				AD1BBB5728BB83CD000032DD /* BullsAndCows.swift */,
 				AD899FD6292913F9001DD001 /* BusRoutes.swift */,
 				AD2E2CEA2955CFF500C790D0 /* CanMakeArithmeticProgressionFromSequence.swift */,
+				ADECE5FD29A63EA600A6FB04 /* CapacityToShipPackagesWithinDDays.swift */,
 				AD4311482982AB0500E127A6 /* CheapestFlightsWithinKStops.swift */,
 				ADFF1B082957165600D55D2C /* CheckIfItIsAStraightLine.swift */,
 				ADB1A705298EBC180059F3C9 /* CheckIfMatrixIsXMatrix.swift */,
@@ -1236,6 +1239,7 @@
 				AD2D4D342905619F00D3234A /* SubarrayProductLessThanK.swift in Sources */,
 				ADE4DF392933824900DF9FEB /* MostStonesRemovedWithSameRowOrColumn.swift in Sources */,
 				ADF7AF10297ECBEF000B34DA /* NumberOfEnclaves.swift in Sources */,
+				ADECE5FE29A63EA600A6FB04 /* CapacityToShipPackagesWithinDDays.swift in Sources */,
 				AD57491A2906A0A7008E89BE /* NumberOfProvinces.swift in Sources */,
 				AD339A0F297ABD3F00E3856D /* DesignCircularQueue.swift in Sources */,
 				ADC5823C28DB2DBA006D9591 /* PopulatingNextRightPointersInEachNode.swift in Sources */,
