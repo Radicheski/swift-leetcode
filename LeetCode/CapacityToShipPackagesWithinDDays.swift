@@ -39,7 +39,7 @@ private class Solution {
         var right = totalLoad
         
         while left < right {
-            var middle = (left + right) / 2
+            let middle = (left + right) / 2
             
             if daysNeeded(weights, middle) <= days {
                 right = middle
