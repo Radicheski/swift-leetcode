@@ -86,6 +86,7 @@
 		AD4386CF2961ADBA003FA0BD /* MonotonicArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4386CE2961ADBA003FA0BD /* MonotonicArray.swift */; };
 		AD4386D12961AE4C003FA0BD /* FindTheIndexOfTheFirstOccurrenceInAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4386D02961AE4C003FA0BD /* FindTheIndexOfTheFirstOccurrenceInAString.swift */; };
 		AD45D00128D9DCD000544C0A /* MaxAreaOfIsland.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD45D00028D9DCD000544C0A /* MaxAreaOfIsland.swift */; };
+		AD48552529AD24B4009F9148 /* ConstructQuadTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD48552429AD24B4009F9148 /* ConstructQuadTree.swift */; };
 		AD48DC9F2940B78E006F912B /* TrappingRainWater.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD48DC9E2940B78E006F912B /* TrappingRainWater.swift */; };
 		AD4A52F829A4E84B00210E4B /* SingleElementInASortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4A52F729A4E84B00210E4B /* SingleElementInASortedArray.swift */; };
 		AD4B182D2966FE0600262815 /* AddBinary.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4B182C2966FE0600262815 /* AddBinary.swift */; };
@@ -108,7 +109,7 @@
 		AD4F660E298ABB490015FB4B /* GreatestCommonDivisorOfStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4F660D298ABB490015FB4B /* GreatestCommonDivisorOfStrings.swift */; };
 		AD5709B52983F456006A523C /* ConcatenatedWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5709B42983F456006A523C /* ConcatenatedWords.swift */; };
 		AD57491A2906A0A7008E89BE /* NumberOfProvinces.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5749192906A0A7008E89BE /* NumberOfProvinces.swift */; };
-		AD5CBBE628B251A500495544 /* Node.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5CBBE528B251A500495544 /* Node.swift */; };
+		AD5CBBE628B251A500495544 /* GenericNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5CBBE528B251A500495544 /* GenericNode.swift */; };
 		AD5CBBE828B251D700495544 /* NaryTreePreorderTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5CBBE728B251D700495544 /* NaryTreePreorderTraversal.swift */; };
 		AD5CBBEA28B2547F00495544 /* BinaryTreeLevelOrderTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5CBBE928B2547F00495544 /* BinaryTreeLevelOrderTraversal.swift */; };
 		AD5CBBEC28B254A000495544 /* TreeNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5CBBEB28B254A000495544 /* TreeNode.swift */; };
@@ -431,6 +432,7 @@
 		AD4386CE2961ADBA003FA0BD /* MonotonicArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MonotonicArray.swift; sourceTree = "<group>"; };
 		AD4386D02961AE4C003FA0BD /* FindTheIndexOfTheFirstOccurrenceInAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheIndexOfTheFirstOccurrenceInAString.swift; sourceTree = "<group>"; };
 		AD45D00028D9DCD000544C0A /* MaxAreaOfIsland.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxAreaOfIsland.swift; sourceTree = "<group>"; };
+		AD48552429AD24B4009F9148 /* ConstructQuadTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstructQuadTree.swift; sourceTree = "<group>"; };
 		AD48DC9E2940B78E006F912B /* TrappingRainWater.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrappingRainWater.swift; sourceTree = "<group>"; };
 		AD4A52F729A4E84B00210E4B /* SingleElementInASortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleElementInASortedArray.swift; sourceTree = "<group>"; };
 		AD4B182C2966FE0600262815 /* AddBinary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddBinary.swift; sourceTree = "<group>"; };
@@ -453,7 +455,7 @@
 		AD4F660D298ABB490015FB4B /* GreatestCommonDivisorOfStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GreatestCommonDivisorOfStrings.swift; sourceTree = "<group>"; };
 		AD5709B42983F456006A523C /* ConcatenatedWords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConcatenatedWords.swift; sourceTree = "<group>"; };
 		AD5749192906A0A7008E89BE /* NumberOfProvinces.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfProvinces.swift; sourceTree = "<group>"; };
-		AD5CBBE528B251A500495544 /* Node.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Node.swift; sourceTree = "<group>"; };
+		AD5CBBE528B251A500495544 /* GenericNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GenericNode.swift; sourceTree = "<group>"; };
 		AD5CBBE728B251D700495544 /* NaryTreePreorderTraversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NaryTreePreorderTraversal.swift; sourceTree = "<group>"; };
 		AD5CBBE928B2547F00495544 /* BinaryTreeLevelOrderTraversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryTreeLevelOrderTraversal.swift; sourceTree = "<group>"; };
 		AD5CBBEB28B254A000495544 /* TreeNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeNode.swift; sourceTree = "<group>"; };
@@ -713,7 +715,7 @@
 			children = (
 				AD4BDEAE28A7DF2F00E61565 /* ListNode.swift */,
 				ADF5BF6E28CF7A3F00668B2D /* ListNodeTest.swift */,
-				AD5CBBE528B251A500495544 /* Node.swift */,
+				AD5CBBE528B251A500495544 /* GenericNode.swift */,
 				AD5CBBEB28B254A000495544 /* TreeNode.swift */,
 			);
 			path = Commons;
@@ -789,6 +791,7 @@
 				AD5709B42983F456006A523C /* ConcatenatedWords.swift */,
 				ADF9488128F6E189006630E0 /* ConstructBinaryTreeFromPreorderAndInorderTraversal.swift */,
 				AD3A647829A25D6C0041A5C8 /* ConstructKPalindromeStrings.swift */,
+				AD48552429AD24B4009F9148 /* ConstructQuadTree.swift */,
 				AD8A1EEF29044C5C00ABA3F6 /* ContainerWithMostWater.swift */,
 				ADBEEB6728BF847B0069B4BB /* ContainsDuplicate.swift */,
 				AD2B731C295DCF1F00334288 /* ConvertBinaryNumberInALinkedListToInteger.swift */,
@@ -1300,7 +1303,7 @@
 				ADE4724E28EAFE7D00B5E8D1 /* AddStrings.swift in Sources */,
 				AD1FCE0329095C0300A9B623 /* ShortestPathInBinaryMatrix.swift in Sources */,
 				AD3A647929A25D6C0041A5C8 /* ConstructKPalindromeStrings.swift in Sources */,
-				AD5CBBE628B251A500495544 /* Node.swift in Sources */,
+				AD5CBBE628B251A500495544 /* GenericNode.swift in Sources */,
 				AD0AC56D28BE38C100D4608C /* TopKFrequentWords.swift in Sources */,
 				AD3ED08228D34DD90080829A /* SquaresOfASortedArray.swift in Sources */,
 				ADB40E5E28E9B2F800D51F9C /* SubarraySumEqualsK.swift in Sources */,
@@ -1441,6 +1444,7 @@
 				ADD8E82F28FC3AA000EEBB3C /* FindTheTownJudge.swift in Sources */,
 				AD899FD52929136E001DD001 /* CourseSchedule2.swift in Sources */,
 				AD933EF028E46C2300B1B2DA /* MajorityElement.swift in Sources */,
+				AD48552529AD24B4009F9148 /* ConstructQuadTree.swift in Sources */,
 				AD4DCBFB28E70FB900A81C5F /* SpiralMatrix2.swift in Sources */,
 				AD4A52F829A4E84B00210E4B /* SingleElementInASortedArray.swift in Sources */,
 				ADF0EB91291A7E59000B73A4 /* HappyNumber.swift in Sources */,

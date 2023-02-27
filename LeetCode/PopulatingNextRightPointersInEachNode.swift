@@ -11,6 +11,8 @@ final class PopulatingNextRightPointersInEachNode: XCTestCase {
     // TODO: Create test cases from examples
 }
 
+private typealias Node = GenericNode<Int>
+
 private class Solution {
     
     func connect(_ root: Node?) -> Node? {

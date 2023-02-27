@@ -13,6 +13,8 @@ final class CopyListWithRandomPointer: XCTestCase {
 
 }
 
+private typealias Node = GenericNode<Int>
+
 private class Solution {
     func copyRandomList(_ head: Node?) -> Node? {
         guard let head = head else { return nil }
