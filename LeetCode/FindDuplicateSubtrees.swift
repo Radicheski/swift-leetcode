@@ -20,7 +20,7 @@ private class Solution {
         var tripletToID = [String: Int]()
         var count = [Int: Int]()
         
-        traverse(root, &tripletToID, &count, &result)
+        let _ = traverse(root, &tripletToID, &count, &result)
         
         return result
     }
