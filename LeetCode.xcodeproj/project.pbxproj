@@ -241,6 +241,7 @@
 		ADC5B13728AD5102002FED4E /* IsomorphicStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC5B13628AD5102002FED4E /* IsomorphicStrings.swift */; };
 		ADC5B13928AD5A00002FED4E /* IsSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC5B13828AD5A00002FED4E /* IsSubsequence.swift */; };
 		ADC653D52993C549004C4934 /* MinimumNumberOfMovesToSeatEveryone.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC653D42993C549004C4934 /* MinimumNumberOfMovesToSeatEveryone.swift */; };
+		ADC6C34E29B2162500FE3B1F /* DetermineIfStringHalvesAreAlike.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC6C34D29B2162500FE3B1F /* DetermineIfStringHalvesAreAlike.swift */; };
 		ADC8E5342965A2BD00D6351F /* LinkedListInBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC8E5332965A2BD00D6351F /* LinkedListInBinaryTree.swift */; };
 		ADC8E5362965AEEA00D6351F /* MinimumRoundsToCompleteAllTasks.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC8E5352965AEEA00D6351F /* MinimumRoundsToCompleteAllTasks.swift */; };
 		ADC8EBB62969E6F300CBBC35 /* DetermineWhetherMatrixCanBeObtainedByRotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC8EBB52969E6F300CBBC35 /* DetermineWhetherMatrixCanBeObtainedByRotation.swift */; };
@@ -590,6 +591,7 @@
 		ADC5B13628AD5102002FED4E /* IsomorphicStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IsomorphicStrings.swift; sourceTree = "<group>"; };
 		ADC5B13828AD5A00002FED4E /* IsSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IsSubsequence.swift; sourceTree = "<group>"; };
 		ADC653D42993C549004C4934 /* MinimumNumberOfMovesToSeatEveryone.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberOfMovesToSeatEveryone.swift; sourceTree = "<group>"; };
+		ADC6C34D29B2162500FE3B1F /* DetermineIfStringHalvesAreAlike.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetermineIfStringHalvesAreAlike.swift; sourceTree = "<group>"; };
 		ADC8E5332965A2BD00D6351F /* LinkedListInBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkedListInBinaryTree.swift; sourceTree = "<group>"; };
 		ADC8E5352965AEEA00D6351F /* MinimumRoundsToCompleteAllTasks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumRoundsToCompleteAllTasks.swift; sourceTree = "<group>"; };
 		ADC8EBB52969E6F300CBBC35 /* DetermineWhetherMatrixCanBeObtainedByRotation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetermineWhetherMatrixCanBeObtainedByRotation.swift; sourceTree = "<group>"; };
@@ -823,6 +825,7 @@
 				ADCCEEC428F2F18B00B85A54 /* DesignLinkedList.swift */,
 				ADB0D9FE2960587A0016CA62 /* DesignParkingSystem.swift */,
 				AD32EB3E296301F70019636B /* DetectCapital.swift */,
+				ADC6C34D29B2162500FE3B1F /* DetermineIfStringHalvesAreAlike.swift */,
 				ADC8EBB52969E6F300CBBC35 /* DetermineWhetherMatrixCanBeObtainedByRotation.swift */,
 				AD84D9512923AC0B00891349 /* DiameterOfBinaryTree.swift */,
 				AD3F87B1298C221200750194 /* DistantBarcodes.swift */,
@@ -1320,6 +1323,7 @@
 				ADF9488228F6E189006630E0 /* ConstructBinaryTreeFromPreorderAndInorderTraversal.swift in Sources */,
 				AD79509529B0C0F300F12622 /* StringCompression.swift in Sources */,
 				AD9CBFC929A1313A0017BAD8 /* UniqueSubstringsInWraparoundString.swift in Sources */,
+				ADC6C34E29B2162500FE3B1F /* DetermineIfStringHalvesAreAlike.swift in Sources */,
 				ADFF1B092957165600D55D2C /* CheckIfItIsAStraightLine.swift in Sources */,
 				ADE650E6291BD1880038FDD1 /* SpiralMatrix.swift in Sources */,
 				ADD5D3F528A3147200BD5BCC /* PalindromeLinkedList.swift in Sources */,
