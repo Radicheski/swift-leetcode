@@ -226,6 +226,7 @@
 		ADB9AE8E28FAD19D008FBC6A /* LowestCommonAncestorOfABinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB9AE8D28FAD19D008FBC6A /* LowestCommonAncestorOfABinaryTree.swift */; };
 		ADB9AE9028FAD463008FBC6A /* SerializeAndDeserializeBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB9AE8F28FAD463008FBC6A /* SerializeAndDeserializeBinaryTree.swift */; };
 		ADBA3B9F2946224500F9F52F /* MinimumFallingPathSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBA3B9E2946224500F9F52F /* MinimumFallingPathSum.swift */; };
+		ADBAE76629B4C33A0015CE87 /* JumpGame4.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBAE76529B4C33A0015CE87 /* JumpGame4.swift */; };
 		ADBB49D6299FA5DC00634482 /* MinimumDistanceBetweenBSTNodes.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBB49D5299FA5DC00634482 /* MinimumDistanceBetweenBSTNodes.swift */; };
 		ADBC320E299D00A6006E808D /* CherryPickup2.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBC320D299D00A6006E808D /* CherryPickup2.swift */; };
 		ADBC9C1528EDA96B00459081 /* MultiplyStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBC9C1428EDA96B00459081 /* MultiplyStrings.swift */; };
@@ -577,6 +578,7 @@
 		ADB9AE8D28FAD19D008FBC6A /* LowestCommonAncestorOfABinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LowestCommonAncestorOfABinaryTree.swift; sourceTree = "<group>"; };
 		ADB9AE8F28FAD463008FBC6A /* SerializeAndDeserializeBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SerializeAndDeserializeBinaryTree.swift; sourceTree = "<group>"; };
 		ADBA3B9E2946224500F9F52F /* MinimumFallingPathSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumFallingPathSum.swift; sourceTree = "<group>"; };
+		ADBAE76529B4C33A0015CE87 /* JumpGame4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpGame4.swift; sourceTree = "<group>"; };
 		ADBB49D5299FA5DC00634482 /* MinimumDistanceBetweenBSTNodes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumDistanceBetweenBSTNodes.swift; sourceTree = "<group>"; };
 		ADBC320D299D00A6006E808D /* CherryPickup2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CherryPickup2.swift; sourceTree = "<group>"; };
 		ADBC9C1428EDA96B00459081 /* MultiplyStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultiplyStrings.swift; sourceTree = "<group>"; };
@@ -881,6 +883,7 @@
 				AD6BF881290EBEF200C10525 /* JumpGame.swift */,
 				ADFF7706290FE66500C26081 /* JumpGame2.swift */,
 				AD7B3DAD29893E2500DB46E4 /* JumpGame3.swift */,
+				ADBAE76529B4C33A0015CE87 /* JumpGame4.swift */,
 				ADA485AB28FEC828006C8FCF /* KClosestPointsToOrigin.swift */,
 				ADD8E83228FC3BD200EEBB3C /* KeysAndRooms.swift */,
 				AD32C95E28FD75C300305E77 /* KthLargestElementInAnArray.swift */,
@@ -1199,6 +1202,7 @@
 				ADEFCB5028E5B6A500F62033 /* SortColors.swift in Sources */,
 				ADB7F328292CEE17005905FC /* ThreeSumClosest.swift in Sources */,
 				ADD5A75328F9845700DAB4AF /* KthSmallestElementInABST.swift in Sources */,
+				ADBAE76629B4C33A0015CE87 /* JumpGame4.swift in Sources */,
 				ADB9AE9028FAD463008FBC6A /* SerializeAndDeserializeBinaryTree.swift in Sources */,
 				AD3C92F028F19E7F00E90724 /* IntersectionOfTwoLinkedLists.swift in Sources */,
 				ADEFCB5428E5B7E000F62033 /* DesignHashMap.swift in Sources */,
