@@ -60,6 +60,7 @@
 		AD32EB3F296301F70019636B /* DetectCapital.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD32EB3E296301F70019636B /* DetectCapital.swift */; };
 		AD3306EC29191AF6005FE669 /* ShuffleAnArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3306EB29191AF6005FE669 /* ShuffleAnArray.swift */; };
 		AD33093829AF790400415596 /* SortAnArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD33093729AF790400415596 /* SortAnArray.swift */; };
+		AD3326FF29B8A213006715FD /* KokoEatingBananas.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3326FE29B8A213006715FD /* KokoEatingBananas.swift */; };
 		AD339A0D297ABCFF00E3856D /* InsertDeleteGetRandom.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD339A0C297ABCFF00E3856D /* InsertDeleteGetRandom.swift */; };
 		AD339A0F297ABD3F00E3856D /* DesignCircularQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD339A0E297ABD3F00E3856D /* DesignCircularQueue.swift */; };
 		AD339A11297ABD9F00E3856D /* MyCalendarI.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD339A10297ABD9F00E3856D /* MyCalendarI.swift */; };
@@ -414,6 +415,7 @@
 		AD32EB3E296301F70019636B /* DetectCapital.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetectCapital.swift; sourceTree = "<group>"; };
 		AD3306EB29191AF6005FE669 /* ShuffleAnArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShuffleAnArray.swift; sourceTree = "<group>"; };
 		AD33093729AF790400415596 /* SortAnArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortAnArray.swift; sourceTree = "<group>"; };
+		AD3326FE29B8A213006715FD /* KokoEatingBananas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KokoEatingBananas.swift; sourceTree = "<group>"; };
 		AD339A0C297ABCFF00E3856D /* InsertDeleteGetRandom.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsertDeleteGetRandom.swift; sourceTree = "<group>"; };
 		AD339A0E297ABD3F00E3856D /* DesignCircularQueue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignCircularQueue.swift; sourceTree = "<group>"; };
 		AD339A10297ABD9F00E3856D /* MyCalendarI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCalendarI.swift; sourceTree = "<group>"; };
@@ -890,6 +892,7 @@
 				ADBAE76529B4C33A0015CE87 /* JumpGame4.swift */,
 				ADA485AB28FEC828006C8FCF /* KClosestPointsToOrigin.swift */,
 				ADD8E83228FC3BD200EEBB3C /* KeysAndRooms.swift */,
+				AD3326FE29B8A213006715FD /* KokoEatingBananas.swift */,
 				AD32C95E28FD75C300305E77 /* KthLargestElementInAnArray.swift */,
 				AD6669FA29B60A5900C1D36A /* KthMissingPositiveNumber.swift */,
 				ADD5A75228F9845700DAB4AF /* KthSmallestElementInABST.swift */,
@@ -1418,6 +1421,7 @@
 				ADF58E1228C6236D000E08DB /* ValidAnagram.swift in Sources */,
 				ADB9AE8E28FAD19D008FBC6A /* LowestCommonAncestorOfABinaryTree.swift in Sources */,
 				AD2FF7A728B50D3F0027AFB6 /* LowestCommonAncestorOfABinarySearchTree.swift in Sources */,
+				AD3326FF29B8A213006715FD /* KokoEatingBananas.swift in Sources */,
 				AD607B9F298807C300426C95 /* ShortestPathWithAlternatingColors.swift in Sources */,
 				AD7B3DAE29893E2500DB46E4 /* JumpGame3.swift in Sources */,
 				AD967DDB28C36AC0005408E7 /* ReshapeTheMatrix.swift in Sources */,
