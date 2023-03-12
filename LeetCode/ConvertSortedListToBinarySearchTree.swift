@@ -38,7 +38,7 @@ private class Solution {
             fastPointer = fastPointer?.next?.next
         }
         
-        var temp = slowPointer?.next
+        let temp = slowPointer?.next
         slowPointer?.next = nil
         
         let root = TreeNode(temp!.val)
