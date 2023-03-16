@@ -260,6 +260,7 @@
 		ADCBBD8429212779006787B4 /* TaskScheduler.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCBBD8329212779006787B4 /* TaskScheduler.swift */; };
 		ADCCEEC328F2F0D900B85A54 /* SwapNodesInPairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCCEEC228F2F0D900B85A54 /* SwapNodesInPairs.swift */; };
 		ADCCEEC528F2F18B00B85A54 /* DesignLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCCEEC428F2F18B00B85A54 /* DesignLinkedList.swift */; };
+		ADCD818929C33FC700E30C1E /* ConstructBinaryTreeFromInorderAndPostorderTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCD818829C33FC700E30C1E /* ConstructBinaryTreeFromInorderAndPostorderTraversal.swift */; };
 		ADCDCE532995212B007E0500 /* NamingACompany.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCDCE522995212B007E0500 /* NamingACompany.swift */; };
 		ADCDCE7029BF482200B6368C /* DesignUndergroundSystem.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCDCE6F29BF482200B6368C /* DesignUndergroundSystem.swift */; };
 		ADD124A6296EE14400E05EAB /* TimeNeededToInformAllEmployees.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD124A5296EE14400E05EAB /* TimeNeededToInformAllEmployees.swift */; };
@@ -621,6 +622,7 @@
 		ADCBBD8329212779006787B4 /* TaskScheduler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskScheduler.swift; sourceTree = "<group>"; };
 		ADCCEEC228F2F0D900B85A54 /* SwapNodesInPairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwapNodesInPairs.swift; sourceTree = "<group>"; };
 		ADCCEEC428F2F18B00B85A54 /* DesignLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignLinkedList.swift; sourceTree = "<group>"; };
+		ADCD818829C33FC700E30C1E /* ConstructBinaryTreeFromInorderAndPostorderTraversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstructBinaryTreeFromInorderAndPostorderTraversal.swift; sourceTree = "<group>"; };
 		ADCDCE522995212B007E0500 /* NamingACompany.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NamingACompany.swift; sourceTree = "<group>"; };
 		ADCDCE6F29BF482200B6368C /* DesignUndergroundSystem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignUndergroundSystem.swift; sourceTree = "<group>"; };
 		ADD124A5296EE14400E05EAB /* TimeNeededToInformAllEmployees.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeNeededToInformAllEmployees.swift; sourceTree = "<group>"; };
@@ -820,6 +822,7 @@
 				ADEFAB352950973500560F1D /* CombinationSum4.swift */,
 				AD068C4B28DDC23400D4EB76 /* ConcatenationOfConsecutiveBinaryNumbers.swift */,
 				AD5709B42983F456006A523C /* ConcatenatedWords.swift */,
+				ADCD818829C33FC700E30C1E /* ConstructBinaryTreeFromInorderAndPostorderTraversal.swift */,
 				ADF9488128F6E189006630E0 /* ConstructBinaryTreeFromPreorderAndInorderTraversal.swift */,
 				AD3A647829A25D6C0041A5C8 /* ConstructKPalindromeStrings.swift */,
 				AD48552429AD24B4009F9148 /* ConstructQuadTree.swift */,
@@ -1386,6 +1389,7 @@
 				AD325C4128E32B230039107E /* SingleNumber.swift in Sources */,
 				AD48DC9F2940B78E006F912B /* TrappingRainWater.swift in Sources */,
 				ADB40E5A28E9AF3D00D51F9C /* IncreasingTripletSubsequence.swift in Sources */,
+				ADCD818929C33FC700E30C1E /* ConstructBinaryTreeFromInorderAndPostorderTraversal.swift in Sources */,
 				ADD95B49296B15FD00A66DDF /* BestPokerHand.swift in Sources */,
 				AD617F2D298D2CBA00708E31 /* IsGraphBipartite.swift in Sources */,
 				AD7B3DB4298978B400DB46E4 /* BestTeamWithNoConflicts.swift in Sources */,
