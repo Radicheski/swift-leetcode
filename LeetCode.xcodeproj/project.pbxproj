@@ -17,6 +17,7 @@
 		AD07CAF828F5877E00B2E73A /* MinStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD07CAF728F5877E00B2E73A /* MinStack.swift */; };
 		AD07CAFA28F587CE00B2E73A /* MinimumRemoveToMakeValidParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD07CAF928F587CE00B2E73A /* MinimumRemoveToMakeValidParentheses.swift */; };
 		AD07CAFC28F5886700B2E73A /* FindTheWinnerOfTheCircularGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD07CAFB28F5886700B2E73A /* FindTheWinnerOfTheCircularGame.swift */; };
+		AD08C63729C87CDD0090A40C /* CanPlaceFlowers.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD08C63629C87CDD0090A40C /* CanPlaceFlowers.swift */; };
 		AD0AC56B28BE385B00D4608C /* LastStoneWeight.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0AC56A28BE385B00D4608C /* LastStoneWeight.swift */; };
 		AD0AC56D28BE38C100D4608C /* TopKFrequentWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0AC56C28BE38C100D4608C /* TopKFrequentWords.swift */; };
 		AD0C4DD72986D4DA00D15379 /* LFUCacheProblem.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0C4DD62986D4DA00D15379 /* LFUCacheProblem.swift */; };
@@ -380,6 +381,7 @@
 		AD07CAF728F5877E00B2E73A /* MinStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinStack.swift; sourceTree = "<group>"; };
 		AD07CAF928F587CE00B2E73A /* MinimumRemoveToMakeValidParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumRemoveToMakeValidParentheses.swift; sourceTree = "<group>"; };
 		AD07CAFB28F5886700B2E73A /* FindTheWinnerOfTheCircularGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheWinnerOfTheCircularGame.swift; sourceTree = "<group>"; };
+		AD08C63629C87CDD0090A40C /* CanPlaceFlowers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CanPlaceFlowers.swift; sourceTree = "<group>"; };
 		AD0AC56A28BE385B00D4608C /* LastStoneWeight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LastStoneWeight.swift; sourceTree = "<group>"; };
 		AD0AC56C28BE38C100D4608C /* TopKFrequentWords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopKFrequentWords.swift; sourceTree = "<group>"; };
 		AD0C4DD62986D4DA00D15379 /* LFUCacheProblem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LFUCacheProblem.swift; sourceTree = "<group>"; };
@@ -808,6 +810,7 @@
 				AD1BBB5728BB83CD000032DD /* BullsAndCows.swift */,
 				AD899FD6292913F9001DD001 /* BusRoutes.swift */,
 				AD2E2CEA2955CFF500C790D0 /* CanMakeArithmeticProgressionFromSequence.swift */,
+				AD08C63629C87CDD0090A40C /* CanPlaceFlowers.swift */,
 				ADECE5FD29A63EA600A6FB04 /* CapacityToShipPackagesWithinDDays.swift */,
 				AD4311482982AB0500E127A6 /* CheapestFlightsWithinKStops.swift */,
 				AD38799D29C1E0480071B127 /* CheckCompletenessOfABinaryTree.swift */,
@@ -1551,6 +1554,7 @@
 				ADA580D228F043B20039F9BF /* AddTwoNumbers.swift in Sources */,
 				ADBC9C1528EDA96B00459081 /* MultiplyStrings.swift in Sources */,
 				AD4BDEAF28A7DF2F00E61565 /* ListNode.swift in Sources */,
+				AD08C63729C87CDD0090A40C /* CanPlaceFlowers.swift in Sources */,
 				ADD9382929BCAF2200D3D0CA /* ConvertSortedListToBinarySearchTree.swift in Sources */,
 				AD86E2592900155E007E2A8D /* SearchInRotatedSortedArray.swift in Sources */,
 				ADA86E8528F440BE00A01BC2 /* ReverseNodesInKGroup.swift in Sources */,
