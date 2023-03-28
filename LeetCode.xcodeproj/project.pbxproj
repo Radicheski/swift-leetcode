@@ -121,6 +121,7 @@
 		AD5CBBE828B251D700495544 /* NaryTreePreorderTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5CBBE728B251D700495544 /* NaryTreePreorderTraversal.swift */; };
 		AD5CBBEA28B2547F00495544 /* BinaryTreeLevelOrderTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5CBBE928B2547F00495544 /* BinaryTreeLevelOrderTraversal.swift */; };
 		AD5CBBEC28B254A000495544 /* TreeNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5CBBEB28B254A000495544 /* TreeNode.swift */; };
+		AD5ED47B29D3382200F6A4DC /* MinimumCostForTickets.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5ED47A29D3382200F6A4DC /* MinimumCostForTickets.swift */; };
 		AD607B9F298807C300426C95 /* ShortestPathWithAlternatingColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD607B9E298807C300426C95 /* ShortestPathWithAlternatingColors.swift */; };
 		AD607BA12988086F00426C95 /* ReorderRoutesToMakeAllPathsLeadToTheCityZero.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD607BA02988086F00426C95 /* ReorderRoutesToMakeAllPathsLeadToTheCityZero.swift */; };
 		AD607BA32988090900426C95 /* ShortestPathVisitingAllNodes.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD607BA22988090900426C95 /* ShortestPathVisitingAllNodes.swift */; };
@@ -489,6 +490,7 @@
 		AD5CBBE728B251D700495544 /* NaryTreePreorderTraversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NaryTreePreorderTraversal.swift; sourceTree = "<group>"; };
 		AD5CBBE928B2547F00495544 /* BinaryTreeLevelOrderTraversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryTreeLevelOrderTraversal.swift; sourceTree = "<group>"; };
 		AD5CBBEB28B254A000495544 /* TreeNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeNode.swift; sourceTree = "<group>"; };
+		AD5ED47A29D3382200F6A4DC /* MinimumCostForTickets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumCostForTickets.swift; sourceTree = "<group>"; };
 		AD607B9E298807C300426C95 /* ShortestPathWithAlternatingColors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShortestPathWithAlternatingColors.swift; sourceTree = "<group>"; };
 		AD607BA02988086F00426C95 /* ReorderRoutesToMakeAllPathsLeadToTheCityZero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReorderRoutesToMakeAllPathsLeadToTheCityZero.swift; sourceTree = "<group>"; };
 		AD607BA22988090900426C95 /* ShortestPathVisitingAllNodes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShortestPathVisitingAllNodes.swift; sourceTree = "<group>"; };
@@ -979,6 +981,7 @@
 				AD00F44528B96F2600A77B9C /* MinCostClimbingStairs.swift */,
 				AD7D9CDC29A91C4C00E0D269 /* MinimizeDeviationInArray.swift */,
 				AD8E99D0299BC18A00032CCB /* MinimumAreaRectangle2.swift */,
+				AD5ED47A29D3382200F6A4DC /* MinimumCostForTickets.swift */,
 				ADBB49D5299FA5DC00634482 /* MinimumDistanceBetweenBSTNodes.swift */,
 				ADBA3B9E2946224500F9F52F /* MinimumFallingPathSum.swift */,
 				ADFA10CC29991D7B00B7C873 /* MinimumFuelCostToReportToTheCapital.swift */,
@@ -1321,6 +1324,7 @@
 				AD6C46FA290801150011A77C /* PopulatingNextRightPointersInEachNode2.swift in Sources */,
 				AD75563328EEF0A3004B7039 /* LongestPalindromicSubstring.swift in Sources */,
 				AD3306EC29191AF6005FE669 /* ShuffleAnArray.swift in Sources */,
+				AD5ED47B29D3382200F6A4DC /* MinimumCostForTickets.swift in Sources */,
 				ADFF7707290FE66500C26081 /* JumpGame2.swift in Sources */,
 				ADADF18A28C8FF030021B192 /* RemoveDuplicatesFromSortedList.swift in Sources */,
 				AD96A68F295C7C8D001F0AB6 /* VerifyingAnAlienDictionary.swift in Sources */,

@@ -44,7 +44,7 @@ private class Solution {
                             _ visited: inout [Bool],
                             _ answer: inout Int) {
         visited[node] = true
-        var neighbor = edges[node]
+        let neighbor = edges[node]
         
         if neighbor != -1 && visited[neighbor] == false {
             dist[neighbor] = dist[node, default: 0] + 1
