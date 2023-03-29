@@ -88,6 +88,7 @@
 		AD3F37282975669400082B5E /* RotateList.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3F37272975669400082B5E /* RotateList.swift */; };
 		AD3F87B2298C221200750194 /* DistantBarcodes.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3F87B1298C221200750194 /* DistantBarcodes.swift */; };
 		AD4002D0297C4C9C004FDB72 /* RestoreIPAddresses.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4002CF297C4C9C004FDB72 /* RestoreIPAddresses.swift */; };
+		AD42FF3729D4AA1F00B569EB /* ReducingDishes.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD42FF3629D4AA1F00B569EB /* ReducingDishes.swift */; };
 		AD4311452982966300E127A6 /* ShortestBridge.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4311442982966300E127A6 /* ShortestBridge.swift */; };
 		AD4311472982975500E127A6 /* NearestExitFromEntranceInMaze.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4311462982975500E127A6 /* NearestExitFromEntranceInMaze.swift */; };
 		AD4311492982AB0500E127A6 /* CheapestFlightsWithinKStops.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4311482982AB0500E127A6 /* CheapestFlightsWithinKStops.swift */; };
@@ -457,6 +458,7 @@
 		AD3F37272975669400082B5E /* RotateList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateList.swift; sourceTree = "<group>"; };
 		AD3F87B1298C221200750194 /* DistantBarcodes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DistantBarcodes.swift; sourceTree = "<group>"; };
 		AD4002CF297C4C9C004FDB72 /* RestoreIPAddresses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestoreIPAddresses.swift; sourceTree = "<group>"; };
+		AD42FF3629D4AA1F00B569EB /* ReducingDishes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReducingDishes.swift; sourceTree = "<group>"; };
 		AD4311442982966300E127A6 /* ShortestBridge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShortestBridge.swift; sourceTree = "<group>"; };
 		AD4311462982975500E127A6 /* NearestExitFromEntranceInMaze.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NearestExitFromEntranceInMaze.swift; sourceTree = "<group>"; };
 		AD4311482982AB0500E127A6 /* CheapestFlightsWithinKStops.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheapestFlightsWithinKStops.swift; sourceTree = "<group>"; };
@@ -1052,6 +1054,7 @@
 				ADB40E5B28E9B00B00D51F9C /* ProductOfArrayExceptSelf.swift */,
 				AD6E215A29474B3000D538ED /* RangeSumQuery2DImmutable.swift */,
 				ADD5D3E628A3114600BD5BCC /* RansomNote.swift */,
+				AD42FF3629D4AA1F00B569EB /* ReducingDishes.swift */,
 				ADADF18928C8FF030021B192 /* RemoveDuplicatesFromSortedList.swift */,
 				AD3C92F128F19F2600E90724 /* RemoveDuplicatesFromSortedList2.swift */,
 				ADD9772128C7BED80028FCB0 /* RemoveLinkedListElements.swift */,
@@ -1519,6 +1522,7 @@
 				AD5CBBEC28B254A000495544 /* TreeNode.swift in Sources */,
 				ADC46DB028A922C7003B926E /* NumberOfStepsRoReduceANumberToZero.swift in Sources */,
 				AD852695293BA3ED0096B9D2 /* MaximumSumCircularSubarray.swift in Sources */,
+				AD42FF3729D4AA1F00B569EB /* ReducingDishes.swift in Sources */,
 				AD3F37282975669400082B5E /* RotateList.swift in Sources */,
 				AD339A13297AD0E000E3856D /* NonDecreasingSubsequences.swift in Sources */,
 				AD4F660C298A91380015FB4B /* WordLadder.swift in Sources */,
