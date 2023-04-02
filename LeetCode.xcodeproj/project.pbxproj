@@ -112,6 +112,7 @@
 		AD4DCBF928E70EE600A81C5F /* RotateImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4DCBF828E70EE600A81C5F /* RotateImage.swift */; };
 		AD4DCBFB28E70FB900A81C5F /* SpiralMatrix2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4DCBFA28E70FB900A81C5F /* SpiralMatrix2.swift */; };
 		AD4F072A2985905C00FBFD05 /* NumberOfOperationsToMakeNetworkConnected.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4F07292985905C00FBFD05 /* NumberOfOperationsToMakeNetworkConnected.swift */; };
+		AD4F2F4329D9A3FA00836092 /* SuccessfulPairsOfSpellsAndPotions.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4F2F4229D9A3FA00836092 /* SuccessfulPairsOfSpellsAndPotions.swift */; };
 		AD4F6608298A8D230015FB4B /* MinimumGeneticMutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4F6607298A8D230015FB4B /* MinimumGeneticMutation.swift */; };
 		AD4F660A298A8E020015FB4B /* OpenTheLock.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4F6609298A8E020015FB4B /* OpenTheLock.swift */; };
 		AD4F660C298A91380015FB4B /* WordLadder.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4F660B298A91380015FB4B /* WordLadder.swift */; };
@@ -484,6 +485,7 @@
 		AD4DCBF828E70EE600A81C5F /* RotateImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateImage.swift; sourceTree = "<group>"; };
 		AD4DCBFA28E70FB900A81C5F /* SpiralMatrix2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpiralMatrix2.swift; sourceTree = "<group>"; };
 		AD4F07292985905C00FBFD05 /* NumberOfOperationsToMakeNetworkConnected.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfOperationsToMakeNetworkConnected.swift; sourceTree = "<group>"; };
+		AD4F2F4229D9A3FA00836092 /* SuccessfulPairsOfSpellsAndPotions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuccessfulPairsOfSpellsAndPotions.swift; sourceTree = "<group>"; };
 		AD4F6607298A8D230015FB4B /* MinimumGeneticMutation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumGeneticMutation.swift; sourceTree = "<group>"; };
 		AD4F6609298A8E020015FB4B /* OpenTheLock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OpenTheLock.swift; sourceTree = "<group>"; };
 		AD4F660B298A91380015FB4B /* WordLadder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordLadder.swift; sourceTree = "<group>"; };
@@ -1121,6 +1123,7 @@
 				AD6A030A290AADB300988758 /* Subsets2.swift */,
 				ADADA528295324F700CBB58C /* SubtractTheProductAndSumOfDigitsOfAnInteger.swift */,
 				AD6C46FB2908019A0011A77C /* SubtreeOfAnotherTree.swift */,
+				AD4F2F4229D9A3FA00836092 /* SuccessfulPairsOfSpellsAndPotions.swift */,
 				ADC909C9295876F600115BF8 /* SumOfAllOddLengthSubarrays.swift */,
 				AD2B731E295DCFD400334288 /* SumOfLeftLeaves.swift */,
 				AD86C56929C092D00011A9BC /* SumRootToLeafNumbers.swift */,
@@ -1330,6 +1333,7 @@
 				AD2E2CEB2955CFF500C790D0 /* CanMakeArithmeticProgressionFromSequence.swift in Sources */,
 				AD339A11297ABD9F00E3856D /* MyCalendarI.swift in Sources */,
 				ADA94B9028D7434D00D07819 /* RemoveNthNodeFromEndOfList.swift in Sources */,
+				AD4F2F4329D9A3FA00836092 /* SuccessfulPairsOfSpellsAndPotions.swift in Sources */,
 				AD6C46FA290801150011A77C /* PopulatingNextRightPointersInEachNode2.swift in Sources */,
 				AD75563328EEF0A3004B7039 /* LongestPalindromicSubstring.swift in Sources */,
 				AD3306EC29191AF6005FE669 /* ShuffleAnArray.swift in Sources */,
