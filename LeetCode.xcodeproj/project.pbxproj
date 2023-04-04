@@ -111,6 +111,7 @@
 		AD4DCBF728E70C6300A81C5F /* PascalsTriangle2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4DCBF628E70C6300A81C5F /* PascalsTriangle2.swift */; };
 		AD4DCBF928E70EE600A81C5F /* RotateImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4DCBF828E70EE600A81C5F /* RotateImage.swift */; };
 		AD4DCBFB28E70FB900A81C5F /* SpiralMatrix2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4DCBFA28E70FB900A81C5F /* SpiralMatrix2.swift */; };
+		AD4E5C1029DC79CB0013141B /* OptimalPartitionOfString.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4E5C0F29DC79CB0013141B /* OptimalPartitionOfString.swift */; };
 		AD4F072A2985905C00FBFD05 /* NumberOfOperationsToMakeNetworkConnected.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4F07292985905C00FBFD05 /* NumberOfOperationsToMakeNetworkConnected.swift */; };
 		AD4F2F4329D9A3FA00836092 /* SuccessfulPairsOfSpellsAndPotions.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4F2F4229D9A3FA00836092 /* SuccessfulPairsOfSpellsAndPotions.swift */; };
 		AD4F6608298A8D230015FB4B /* MinimumGeneticMutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4F6607298A8D230015FB4B /* MinimumGeneticMutation.swift */; };
@@ -485,6 +486,7 @@
 		AD4DCBF628E70C6300A81C5F /* PascalsTriangle2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PascalsTriangle2.swift; sourceTree = "<group>"; };
 		AD4DCBF828E70EE600A81C5F /* RotateImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateImage.swift; sourceTree = "<group>"; };
 		AD4DCBFA28E70FB900A81C5F /* SpiralMatrix2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpiralMatrix2.swift; sourceTree = "<group>"; };
+		AD4E5C0F29DC79CB0013141B /* OptimalPartitionOfString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OptimalPartitionOfString.swift; sourceTree = "<group>"; };
 		AD4F07292985905C00FBFD05 /* NumberOfOperationsToMakeNetworkConnected.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfOperationsToMakeNetworkConnected.swift; sourceTree = "<group>"; };
 		AD4F2F4229D9A3FA00836092 /* SuccessfulPairsOfSpellsAndPotions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuccessfulPairsOfSpellsAndPotions.swift; sourceTree = "<group>"; };
 		AD4F6607298A8D230015FB4B /* MinimumGeneticMutation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumGeneticMutation.swift; sourceTree = "<group>"; };
@@ -1041,6 +1043,7 @@
 				AD23533029CA2177008B5563 /* NumberOfZeroFilledSubarrays.swift */,
 				ADA1739F29200D66006D0F09 /* OddEvenLinkedList.swift */,
 				AD4F6609298A8E020015FB4B /* OpenTheLock.swift */,
+				AD4E5C0F29DC79CB0013141B /* OptimalPartitionOfString.swift */,
 				AD4F660B298A91380015FB4B /* WordLadder.swift */,
 				ADB14CB6292791F700F36417 /* PacificAtlanticWaterFlow.swift */,
 				ADD5D3F428A3147200BD5BCC /* PalindromeLinkedList.swift */,
@@ -1441,6 +1444,7 @@
 				AD361C4B28E1C883002962BB /* PowerOfTwo.swift in Sources */,
 				AD977EA829AA5B1E00129413 /* LongestArithmeticSubsequenceOfGivenDifference.swift in Sources */,
 				ADF2C0B9294C964200557C7D /* WiggleSubsequence.swift in Sources */,
+				AD4E5C1029DC79CB0013141B /* OptimalPartitionOfString.swift in Sources */,
 				AD4F660E298ABB490015FB4B /* GreatestCommonDivisorOfStrings.swift in Sources */,
 				ADEFCB5228E5B74800F62033 /* MergeIntervals.swift in Sources */,
 				AD6A0309290AACAB00988758 /* Subsets.swift in Sources */,
