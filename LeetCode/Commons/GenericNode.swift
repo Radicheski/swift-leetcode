@@ -21,6 +21,9 @@ public class GenericNode<T> {
     public var bottomLeft: GenericNode<T>?
     public var bottomRight: GenericNode<T>?
     
+    // MARK: CloneGraph
+    public var neighbors: [GenericNode<T>?] = []
+    
     public init(_ val: T) {
         self.val = val
         self.children = []
