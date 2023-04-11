@@ -40,7 +40,7 @@ private class Solution {
             }
         }
         
-        var newNodes = adj.keys.sorted().map { Node($0) }
+        let newNodes = adj.keys.sorted().map { Node($0) }
         
         for (root, neighbors) in adj {
             newNodes[root - 1].neighbors = neighbors.map { newNodes[$0 - 1] }
