@@ -89,6 +89,7 @@
 		AD3F37282975669400082B5E /* RotateList.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3F37272975669400082B5E /* RotateList.swift */; };
 		AD3F87B2298C221200750194 /* DistantBarcodes.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3F87B1298C221200750194 /* DistantBarcodes.swift */; };
 		AD4002D0297C4C9C004FDB72 /* RestoreIPAddresses.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4002CF297C4C9C004FDB72 /* RestoreIPAddresses.swift */; };
+		AD40251C29E7424B00BE3D15 /* SimplifyPath.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD40251B29E7424B00BE3D15 /* SimplifyPath.swift */; };
 		AD42FF3729D4AA1F00B569EB /* ReducingDishes.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD42FF3629D4AA1F00B569EB /* ReducingDishes.swift */; };
 		AD4311452982966300E127A6 /* ShortestBridge.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4311442982966300E127A6 /* ShortestBridge.swift */; };
 		AD4311472982975500E127A6 /* NearestExitFromEntranceInMaze.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4311462982975500E127A6 /* NearestExitFromEntranceInMaze.swift */; };
@@ -469,6 +470,7 @@
 		AD3F37272975669400082B5E /* RotateList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateList.swift; sourceTree = "<group>"; };
 		AD3F87B1298C221200750194 /* DistantBarcodes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DistantBarcodes.swift; sourceTree = "<group>"; };
 		AD4002CF297C4C9C004FDB72 /* RestoreIPAddresses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestoreIPAddresses.swift; sourceTree = "<group>"; };
+		AD40251B29E7424B00BE3D15 /* SimplifyPath.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimplifyPath.swift; sourceTree = "<group>"; };
 		AD42FF3629D4AA1F00B569EB /* ReducingDishes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReducingDishes.swift; sourceTree = "<group>"; };
 		AD4311442982966300E127A6 /* ShortestBridge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShortestBridge.swift; sourceTree = "<group>"; };
 		AD4311462982975500E127A6 /* NearestExitFromEntranceInMaze.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NearestExitFromEntranceInMaze.swift; sourceTree = "<group>"; };
@@ -1125,6 +1127,7 @@
 				AD3306EB29191AF6005FE669 /* ShuffleAnArray.swift */,
 				ADF1BDB929911FC500A87869 /* ShuffleTheArray.swift */,
 				AD2E2CE82955CF6300C790D0 /* SignOfTheProductOfAnArray.swift */,
+				AD40251B29E7424B00BE3D15 /* SimplifyPath.swift */,
 				AD325C4028E32B230039107E /* SingleNumber.swift */,
 				AD2C245929716C570000DBF8 /* SmallestRange2.swift */,
 				AD05D58E29805ABD00B35E1B /* SnakesAndLadders.swift */,
@@ -1433,6 +1436,7 @@
 				ADD5D3F528A3147200BD5BCC /* PalindromeLinkedList.swift in Sources */,
 				ADF0EB93291A7F31000B73A4 /* MaxPointsOnALine.swift in Sources */,
 				ADEB5A6428CB7792004D8EAC /* BinaryTreePostorderTraversal.swift in Sources */,
+				AD40251C29E7424B00BE3D15 /* SimplifyPath.swift in Sources */,
 				ADD9772228C7BED80028FCB0 /* RemoveLinkedListElements.swift in Sources */,
 				AD74DB46297DAFAD003C5807 /* PalindromePartitioning.swift in Sources */,
 				AD2E2CED2955D08200C790D0 /* CheckIfOneStringSwapCanMakeStringsEqual.swift in Sources */,
