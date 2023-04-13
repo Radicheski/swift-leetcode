@@ -135,6 +135,7 @@
 		AD617F2D298D2CBA00708E31 /* IsGraphBipartite.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD617F2C298D2CBA00708E31 /* IsGraphBipartite.swift */; };
 		AD617F2F298D43E600708E31 /* ZigzagConversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD617F2E298D43E600708E31 /* ZigzagConversion.swift */; };
 		AD61AC3F29D70AA600A4C392 /* NumberOfWaysOfCuttingAPizza.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD61AC3E29D70AA600A4C392 /* NumberOfWaysOfCuttingAPizza.swift */; };
+		AD63760129E83336003B1BFB /* ValidateStackSequences.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD63760029E83336003B1BFB /* ValidateStackSequences.swift */; };
 		AD63B81429B363D200E41605 /* CountSubarraysWithFixedBounds.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD63B81329B363D200E41605 /* CountSubarraysWithFixedBounds.swift */; };
 		AD6669FB29B60A5900C1D36A /* KthMissingPositiveNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6669FA29B60A5900C1D36A /* KthMissingPositiveNumber.swift */; };
 		AD69BA112951D67B00986792 /* CountOddNumbersInAnIntervalRange.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD69BA102951D67B00986792 /* CountOddNumbersInAnIntervalRange.swift */; };
@@ -516,6 +517,7 @@
 		AD617F2C298D2CBA00708E31 /* IsGraphBipartite.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IsGraphBipartite.swift; sourceTree = "<group>"; };
 		AD617F2E298D43E600708E31 /* ZigzagConversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZigzagConversion.swift; sourceTree = "<group>"; };
 		AD61AC3E29D70AA600A4C392 /* NumberOfWaysOfCuttingAPizza.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfWaysOfCuttingAPizza.swift; sourceTree = "<group>"; };
+		AD63760029E83336003B1BFB /* ValidateStackSequences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidateStackSequences.swift; sourceTree = "<group>"; };
 		AD63B81329B363D200E41605 /* CountSubarraysWithFixedBounds.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountSubarraysWithFixedBounds.swift; sourceTree = "<group>"; };
 		AD6669FA29B60A5900C1D36A /* KthMissingPositiveNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KthMissingPositiveNumber.swift; sourceTree = "<group>"; };
 		AD69BA102951D67B00986792 /* CountOddNumbersInAnIntervalRange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountOddNumbersInAnIntervalRange.swift; sourceTree = "<group>"; };
@@ -1174,6 +1176,7 @@
 				AD9CBFC829A1313A0017BAD8 /* UniqueSubstringsInWraparoundString.swift */,
 				ADF58E1128C6236D000E08DB /* ValidAnagram.swift */,
 				AD2FF7A428B506F90027AFB6 /* ValidateBinarySearchTree.swift */,
+				AD63760029E83336003B1BFB /* ValidateStackSequences.swift */,
 				AD844B0C28CA209C008E1AEF /* ValidParentheses.swift */,
 				AD90565228C4C6A600886275 /* ValidSudoku.swift */,
 				AD96A68E295C7C8D001F0AB6 /* VerifyingAnAlienDictionary.swift */,
@@ -1530,6 +1533,7 @@
 				AD96A68D295C7C0C001F0AB6 /* DecryptStringFromAlphabetToIntegerMapping.swift in Sources */,
 				AD2B731D295DCF1F00334288 /* ConvertBinaryNumberInALinkedListToInteger.swift in Sources */,
 				AD862E3F2912919C008F93B1 /* DecodeWays.swift in Sources */,
+				AD63760129E83336003B1BFB /* ValidateStackSequences.swift in Sources */,
 				ADFF1B07295715E100D55D2C /* NextGreaterElement1.swift in Sources */,
 				ADA173A029200D66006D0F09 /* OddEvenLinkedList.swift in Sources */,
 				AD4002D0297C4C9C004FDB72 /* RestoreIPAddresses.swift in Sources */,
