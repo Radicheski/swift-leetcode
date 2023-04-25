@@ -155,6 +155,7 @@
 		AD6E241529814E9D0012D133 /* FindClosestNodeToGivenTwoNodes.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6E241429814E9D0012D133 /* FindClosestNodeToGivenTwoNodes.swift */; };
 		AD6EC99329868F8900FA64B1 /* FindEventualSafeStates.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6EC99229868F8900FA64B1 /* FindEventualSafeStates.swift */; };
 		AD7150E929E2DEE700B71CCC /* LargestColorValueInADirectedGraph.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7150E829E2DEE700B71CCC /* LargestColorValueInADirectedGraph.swift */; };
+		AD7475D929F800B200CD014E /* SmallestNumberInInfiniteSet.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7475D829F800B200CD014E /* SmallestNumberInInfiniteSet.swift */; };
 		AD74DB44297DA594003C5807 /* NumberOfClosedIslands.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD74DB43297DA594003C5807 /* NumberOfClosedIslands.swift */; };
 		AD74DB46297DAFAD003C5807 /* PalindromePartitioning.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD74DB45297DAFAD003C5807 /* PalindromePartitioning.swift */; };
 		AD75563128EEF013004B7039 /* RepeatedDNASequences.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD75563028EEF013004B7039 /* RepeatedDNASequences.swift */; };
@@ -545,6 +546,7 @@
 		AD6E241429814E9D0012D133 /* FindClosestNodeToGivenTwoNodes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindClosestNodeToGivenTwoNodes.swift; sourceTree = "<group>"; };
 		AD6EC99229868F8900FA64B1 /* FindEventualSafeStates.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindEventualSafeStates.swift; sourceTree = "<group>"; };
 		AD7150E829E2DEE700B71CCC /* LargestColorValueInADirectedGraph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargestColorValueInADirectedGraph.swift; sourceTree = "<group>"; };
+		AD7475D829F800B200CD014E /* SmallestNumberInInfiniteSet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallestNumberInInfiniteSet.swift; sourceTree = "<group>"; };
 		AD74DB43297DA594003C5807 /* NumberOfClosedIslands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfClosedIslands.swift; sourceTree = "<group>"; };
 		AD74DB45297DAFAD003C5807 /* PalindromePartitioning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalindromePartitioning.swift; sourceTree = "<group>"; };
 		AD75563028EEF013004B7039 /* RepeatedDNASequences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepeatedDNASequences.swift; sourceTree = "<group>"; };
@@ -1152,6 +1154,7 @@
 				AD40251B29E7424B00BE3D15 /* SimplifyPath.swift */,
 				AD4A52F729A4E84B00210E4B /* SingleElementInASortedArray.swift */,
 				AD325C4028E32B230039107E /* SingleNumber.swift */,
+				AD7475D829F800B200CD014E /* SmallestNumberInInfiniteSet.swift */,
 				AD2C245929716C570000DBF8 /* SmallestRange2.swift */,
 				AD05D58E29805ABD00B35E1B /* SnakesAndLadders.swift */,
 				AD33093729AF790400415596 /* SortAnArray.swift */,
@@ -1289,6 +1292,7 @@
 				ADF9B02428EC4D82003975A6 /* PartitionLabels.swift in Sources */,
 				ADCE27B529ED6D1800540EBD /* KidsWithTheGreatestNumberOfCandies.swift in Sources */,
 				AD1BA377295F19AF00A2A529 /* SortIntegersByTheNumberOf1Bits.swift in Sources */,
+				AD7475D929F800B200CD014E /* SmallestNumberInInfiniteSet.swift in Sources */,
 				AD3ED08428D34EBD0080829A /* RotateArray.swift in Sources */,
 				AD9147DD29685B47007F9218 /* MaximumIceCreamBars.swift in Sources */,
 				ADCCEEC328F2F0D900B85A54 /* SwapNodesInPairs.swift in Sources */,
