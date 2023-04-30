@@ -13,7 +13,7 @@ final class DesignAuthenticationManager: XCTestCase {
     
     func testExampleA() {
         let commands = ["AuthenticationManager", "renew", "generate", "countUnexpiredTokens", "generate", "renew", "renew", "countUnexpiredTokens"]
-        let inputs = [[5], ["aaa", 1], ["aaa", 2], [6], ["bbb", 7], ["aaa", 8], ["bbb", 10], [15]]
+        let inputs: [[Any]] = [[5], ["aaa", 1], ["aaa", 2], [6], ["bbb", 7], ["aaa", 8], ["bbb", 10], [15]]
         let outputs = [nil, nil, nil, 1, nil, nil, nil, 0]
         execute(commands, with: inputs, resultingIn: outputs)
     }

@@ -29,7 +29,7 @@ private class Solution {
         let queriesCount = queries.count
         var answer = Array(repeating: false, count: queriesCount)
         
-        var queriesWithIndex = queries.enumerated().map { $0.element + [$0.offset] }
+        let queriesWithIndex = queries.enumerated().map { $0.element + [$0.offset] }
             .sorted { $0[2] < $1[2] }
         
         let edgeList = edgeList.sorted { $0[2] < $1[2] }
