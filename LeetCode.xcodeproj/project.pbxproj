@@ -281,6 +281,7 @@
 		ADC5B13928AD5A00002FED4E /* IsSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC5B13828AD5A00002FED4E /* IsSubsequence.swift */; };
 		ADC653D52993C549004C4934 /* MinimumNumberOfMovesToSeatEveryone.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC653D42993C549004C4934 /* MinimumNumberOfMovesToSeatEveryone.swift */; };
 		ADC6C34E29B2162500FE3B1F /* DetermineIfStringHalvesAreAlike.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC6C34D29B2162500FE3B1F /* DetermineIfStringHalvesAreAlike.swift */; };
+		ADC806242A0EBBF300900451 /* SolvingQuestionsWithBrainpower.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC806232A0EBBF300900451 /* SolvingQuestionsWithBrainpower.swift */; };
 		ADC8E5342965A2BD00D6351F /* LinkedListInBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC8E5332965A2BD00D6351F /* LinkedListInBinaryTree.swift */; };
 		ADC8E5362965AEEA00D6351F /* MinimumRoundsToCompleteAllTasks.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC8E5352965AEEA00D6351F /* MinimumRoundsToCompleteAllTasks.swift */; };
 		ADC8EBB62969E6F300CBBC35 /* DetermineWhetherMatrixCanBeObtainedByRotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC8EBB52969E6F300CBBC35 /* DetermineWhetherMatrixCanBeObtainedByRotation.swift */; };
@@ -683,6 +684,7 @@
 		ADC5B13828AD5A00002FED4E /* IsSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IsSubsequence.swift; sourceTree = "<group>"; };
 		ADC653D42993C549004C4934 /* MinimumNumberOfMovesToSeatEveryone.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberOfMovesToSeatEveryone.swift; sourceTree = "<group>"; };
 		ADC6C34D29B2162500FE3B1F /* DetermineIfStringHalvesAreAlike.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetermineIfStringHalvesAreAlike.swift; sourceTree = "<group>"; };
+		ADC806232A0EBBF300900451 /* SolvingQuestionsWithBrainpower.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SolvingQuestionsWithBrainpower.swift; sourceTree = "<group>"; };
 		ADC8E5332965A2BD00D6351F /* LinkedListInBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkedListInBinaryTree.swift; sourceTree = "<group>"; };
 		ADC8E5352965AEEA00D6351F /* MinimumRoundsToCompleteAllTasks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumRoundsToCompleteAllTasks.swift; sourceTree = "<group>"; };
 		ADC8EBB52969E6F300CBBC35 /* DetermineWhetherMatrixCanBeObtainedByRotation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetermineWhetherMatrixCanBeObtainedByRotation.swift; sourceTree = "<group>"; };
@@ -1189,6 +1191,7 @@
 				AD7475D829F800B200CD014E /* SmallestNumberInInfiniteSet.swift */,
 				AD2C245929716C570000DBF8 /* SmallestRange2.swift */,
 				AD05D58E29805ABD00B35E1B /* SnakesAndLadders.swift */,
+				ADC806232A0EBBF300900451 /* SolvingQuestionsWithBrainpower.swift */,
 				AD33093729AF790400415596 /* SortAnArray.swift */,
 				ADA485A928FEC716006C8FCF /* SortCharactersByFrequency.swift */,
 				ADEFCB4F28E5B6A500F62033 /* SortColors.swift */,
@@ -1689,6 +1692,7 @@
 				AD35C3962A07F99D00ABC066 /* FindTheLongestValidObstacleCourseAtEachPosition.swift in Sources */,
 				ADF31932291141650038DE57 /* ArithmeticSlices.swift in Sources */,
 				AD64D09D29F5A50800A9B9DF /* RestoreTheArray.swift in Sources */,
+				ADC806242A0EBBF300900451 /* SolvingQuestionsWithBrainpower.swift in Sources */,
 				ADD1C41C28B3CA3F00E63642 /* FirstBadVersion.swift in Sources */,
 				AD16FA33296D8D88001E3E65 /* NextGreaterElement2.swift in Sources */,
 				AD862E4129129270008F93B1 /* WordBreak.swift in Sources */,
