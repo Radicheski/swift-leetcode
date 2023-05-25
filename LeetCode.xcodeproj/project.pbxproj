@@ -75,6 +75,7 @@
 		AD339A11297ABD9F00E3856D /* MyCalendarI.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD339A10297ABD9F00E3856D /* MyCalendarI.swift */; };
 		AD339A13297AD0E000E3856D /* NonDecreasingSubsequences.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD339A12297AD0E000E3856D /* NonDecreasingSubsequences.swift */; };
 		AD344F80294B427400DCAA09 /* LongestPalindromicSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD344F7F294B427400DCAA09 /* LongestPalindromicSubsequence.swift */; };
+		AD34E3482A1F9D90006404A0 /* New21Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD34E3472A1F9D90006404A0 /* New21Game.swift */; };
 		AD35997B2913DD9F0082AC68 /* LongestIncreasingSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD35997A2913DD9F0082AC68 /* LongestIncreasingSubsequence.swift */; };
 		AD35997D2913DFBE0082AC68 /* NumberOfLongestIncreasingSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD35997C2913DFBE0082AC68 /* NumberOfLongestIncreasingSubsequence.swift */; };
 		AD35C3962A07F99D00ABC066 /* FindTheLongestValidObstacleCourseAtEachPosition.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD35C3952A07F99D00ABC066 /* FindTheLongestValidObstacleCourseAtEachPosition.swift */; };
@@ -485,6 +486,7 @@
 		AD339A10297ABD9F00E3856D /* MyCalendarI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCalendarI.swift; sourceTree = "<group>"; };
 		AD339A12297AD0E000E3856D /* NonDecreasingSubsequences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NonDecreasingSubsequences.swift; sourceTree = "<group>"; };
 		AD344F7F294B427400DCAA09 /* LongestPalindromicSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestPalindromicSubsequence.swift; sourceTree = "<group>"; };
+		AD34E3472A1F9D90006404A0 /* New21Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = New21Game.swift; sourceTree = "<group>"; };
 		AD35997A2913DD9F0082AC68 /* LongestIncreasingSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestIncreasingSubsequence.swift; sourceTree = "<group>"; };
 		AD35997C2913DFBE0082AC68 /* NumberOfLongestIncreasingSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfLongestIncreasingSubsequence.swift; sourceTree = "<group>"; };
 		AD35C3952A07F99D00ABC066 /* FindTheLongestValidObstacleCourseAtEachPosition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheLongestValidObstacleCourseAtEachPosition.swift; sourceTree = "<group>"; };
@@ -1118,6 +1120,7 @@
 				ADFF1B06295715E100D55D2C /* NextGreaterElement1.swift */,
 				AD16FA32296D8D88001E3E65 /* NextGreaterElement2.swift */,
 				AD16FA34296D8E06001E3E65 /* NextGreaterElement3.swift */,
+				AD34E3472A1F9D90006404A0 /* New21Game.swift */,
 				AD339A12297AD0E000E3856D /* NonDecreasingSubsequences.swift */,
 				ADDC47DE28E861E40099DDC5 /* NonOverlappingIntervals.swift */,
 				AD1AB3572936659A00BDF5A5 /* NthTribonacciNumber.swift */,
@@ -1601,6 +1604,7 @@
 				ADE0BD7B29C5F6D500F6E93F /* DesignBrowserHistory.swift in Sources */,
 				ADB1A706298EBC180059F3C9 /* CheckIfMatrixIsXMatrix.swift in Sources */,
 				AD933EF228E46CAA00B1B2DA /* ThreeSum.swift in Sources */,
+				AD34E3482A1F9D90006404A0 /* New21Game.swift in Sources */,
 				AD1FCE0529095CD800A9B623 /* SurroundedRegions.swift in Sources */,
 				ADF0631728D4902300546CCC /* MoveZeroes.swift in Sources */,
 				AD32C96128FD765D00305E77 /* TopKFrequentElements.swift in Sources */,
