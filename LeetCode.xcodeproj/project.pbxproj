@@ -38,6 +38,7 @@
 		AD20999229EC743300F6831C /* NumberOfWaysToFormATargetStringGivenADictionary.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD20999129EC743300F6831C /* NumberOfWaysToFormATargetStringGivenADictionary.swift */; };
 		AD22CFC729A39D4F007684C6 /* MinimumNumberOfKConsecutiveBitFlips.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD22CFC629A39D4F007684C6 /* MinimumNumberOfKConsecutiveBitFlips.swift */; };
 		AD23533129CA2177008B5563 /* NumberOfZeroFilledSubarrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD23533029CA2177008B5563 /* NumberOfZeroFilledSubarrays.swift */; };
+		AD2590C02A2629D700D3C838 /* DesignHashSet.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2590BF2A2629D700D3C838 /* DesignHashSet.swift */; };
 		AD27DB0D29AE2038007BAD2B /* FindDuplicateSubtrees.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD27DB0C29AE2038007BAD2B /* FindDuplicateSubtrees.swift */; };
 		AD29A71929CF2CDF00A5E1F0 /* CountUnreachablePairsOfNodesInAnUndirectedGraph.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD29A71829CF2CDF00A5E1F0 /* CountUnreachablePairsOfNodesInAnUndirectedGraph.swift */; };
 		AD2A46D928AA9C9E009C45A8 /* RichestCustomerWealth.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2A46D828AA9C9E009C45A8 /* RichestCustomerWealth.swift */; };
@@ -452,6 +453,7 @@
 		AD20999129EC743300F6831C /* NumberOfWaysToFormATargetStringGivenADictionary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfWaysToFormATargetStringGivenADictionary.swift; sourceTree = "<group>"; };
 		AD22CFC629A39D4F007684C6 /* MinimumNumberOfKConsecutiveBitFlips.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberOfKConsecutiveBitFlips.swift; sourceTree = "<group>"; };
 		AD23533029CA2177008B5563 /* NumberOfZeroFilledSubarrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfZeroFilledSubarrays.swift; sourceTree = "<group>"; };
+		AD2590BF2A2629D700D3C838 /* DesignHashSet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignHashSet.swift; sourceTree = "<group>"; };
 		AD27DB0C29AE2038007BAD2B /* FindDuplicateSubtrees.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindDuplicateSubtrees.swift; sourceTree = "<group>"; };
 		AD29A71829CF2CDF00A5E1F0 /* CountUnreachablePairsOfNodesInAnUndirectedGraph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountUnreachablePairsOfNodesInAnUndirectedGraph.swift; sourceTree = "<group>"; };
 		AD2A46D828AA9C9E009C45A8 /* RichestCustomerWealth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RichestCustomerWealth.swift; sourceTree = "<group>"; };
@@ -964,6 +966,7 @@
 				ADE0BD7A29C5F6D500F6E93F /* DesignBrowserHistory.swift */,
 				AD339A0E297ABD3F00E3856D /* DesignCircularQueue.swift */,
 				ADEFCB5328E5B7E000F62033 /* DesignHashMap.swift */,
+				AD2590BF2A2629D700D3C838 /* DesignHashSet.swift */,
 				ADCCEEC428F2F18B00B85A54 /* DesignLinkedList.swift */,
 				ADB0D9FE2960587A0016CA62 /* DesignParkingSystem.swift */,
 				ADCDCE6F29BF482200B6368C /* DesignUndergroundSystem.swift */,
@@ -1464,6 +1467,7 @@
 				AD6C46FC2908019A0011A77C /* SubtreeOfAnotherTree.swift in Sources */,
 				ADBD218829980DED00ECD987 /* DesignAddAndSearchWordsDataStructure.swift in Sources */,
 				ADD5D3F328A3120A00BD5BCC /* RansomNote.swift in Sources */,
+				AD2590C02A2629D700D3C838 /* DesignHashSet.swift in Sources */,
 				ADA485AA28FEC716006C8FCF /* SortCharactersByFrequency.swift in Sources */,
 				AD2E2CEB2955CFF500C790D0 /* CanMakeArithmeticProgressionFromSequence.swift in Sources */,
 				AD339A11297ABD9F00E3856D /* MyCalendarI.swift in Sources */,
