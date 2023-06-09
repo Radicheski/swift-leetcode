@@ -269,6 +269,7 @@
 		ADB9AE8E28FAD19D008FBC6A /* LowestCommonAncestorOfABinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB9AE8D28FAD19D008FBC6A /* LowestCommonAncestorOfABinaryTree.swift */; };
 		ADB9AE9028FAD463008FBC6A /* SerializeAndDeserializeBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB9AE8F28FAD463008FBC6A /* SerializeAndDeserializeBinaryTree.swift */; };
 		ADBA3B9F2946224500F9F52F /* MinimumFallingPathSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBA3B9E2946224500F9F52F /* MinimumFallingPathSum.swift */; };
+		ADBA5AFA2A335484008934B2 /* FindSmallestLetterGreaterThanTarget.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBA5AF92A335484008934B2 /* FindSmallestLetterGreaterThanTarget.swift */; };
 		ADBAE76629B4C33A0015CE87 /* JumpGame4.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBAE76529B4C33A0015CE87 /* JumpGame4.swift */; };
 		ADBB49D6299FA5DC00634482 /* MinimumDistanceBetweenBSTNodes.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBB49D5299FA5DC00634482 /* MinimumDistanceBetweenBSTNodes.swift */; };
 		ADBC320E299D00A6006E808D /* CherryPickup2.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBC320D299D00A6006E808D /* CherryPickup2.swift */; };
@@ -687,6 +688,7 @@
 		ADB9AE8D28FAD19D008FBC6A /* LowestCommonAncestorOfABinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LowestCommonAncestorOfABinaryTree.swift; sourceTree = "<group>"; };
 		ADB9AE8F28FAD463008FBC6A /* SerializeAndDeserializeBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SerializeAndDeserializeBinaryTree.swift; sourceTree = "<group>"; };
 		ADBA3B9E2946224500F9F52F /* MinimumFallingPathSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumFallingPathSum.swift; sourceTree = "<group>"; };
+		ADBA5AF92A335484008934B2 /* FindSmallestLetterGreaterThanTarget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindSmallestLetterGreaterThanTarget.swift; sourceTree = "<group>"; };
 		ADBAE76529B4C33A0015CE87 /* JumpGame4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpGame4.swift; sourceTree = "<group>"; };
 		ADBB49D5299FA5DC00634482 /* MinimumDistanceBetweenBSTNodes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumDistanceBetweenBSTNodes.swift; sourceTree = "<group>"; };
 		ADBC320D299D00A6006E808D /* CherryPickup2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CherryPickup2.swift; sourceTree = "<group>"; };
@@ -997,6 +999,7 @@
 				ADD265922954849E0097DD23 /* FindNearestPointThatHasTheSameXOrYCoordinate.swift */,
 				ADF290F729016FDF00A8AA6D /* FindPeakElement.swift */,
 				ADF9806B28AC03CF004BB6EC /* FindPivotIndex.swift */,
+				ADBA5AF92A335484008934B2 /* FindSmallestLetterGreaterThanTarget.swift */,
 				AD9A0D8D295B5DBE009B9BB5 /* FindTheDifference.swift */,
 				AD71F3262A02C0FF003F0668 /* FindTheDifferenceOfTwoArrays.swift */,
 				AD4386D02961AE4C003FA0BD /* FindTheIndexOfTheFirstOccurrenceInAString.swift */,
@@ -1614,6 +1617,7 @@
 				ADF865EF28C224C700885B7A /* IntersectionOfTwoArrays2.swift in Sources */,
 				ADB14CB7292791F700F36417 /* PacificAtlanticWaterFlow.swift in Sources */,
 				AD361C4D28E1C929002962BB /* NumberOfOneBits.swift in Sources */,
+				ADBA5AFA2A335484008934B2 /* FindSmallestLetterGreaterThanTarget.swift in Sources */,
 				ADBC320E299D00A6006E808D /* CherryPickup2.swift in Sources */,
 				ADF9806A28AC0309004BB6EC /* RunningSumOf1dArray.swift in Sources */,
 				AD07CAFA28F587CE00B2E73A /* MinimumRemoveToMakeValidParentheses.swift in Sources */,
