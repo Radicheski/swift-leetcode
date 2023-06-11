@@ -259,6 +259,7 @@
 		ADB0DA01296059E10016CA62 /* RangeSumQueryImmutable.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB0DA00296059E10016CA62 /* RangeSumQueryImmutable.swift */; };
 		ADB14CB7292791F700F36417 /* PacificAtlanticWaterFlow.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB14CB6292791F700F36417 /* PacificAtlanticWaterFlow.swift */; };
 		ADB1A706298EBC180059F3C9 /* CheckIfMatrixIsXMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB1A705298EBC180059F3C9 /* CheckIfMatrixIsXMatrix.swift */; };
+		ADB1C5062A35F6CA0000385B /* SnapshotArrayTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB1C5052A35F6CA0000385B /* SnapshotArrayTest.swift */; };
 		ADB1E8182930DD23001D88CB /* InsertInterval.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB1E8172930DD23001D88CB /* InsertInterval.swift */; };
 		ADB40E5A28E9AF3D00D51F9C /* IncreasingTripletSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB40E5928E9AF3D00D51F9C /* IncreasingTripletSubsequence.swift */; };
 		ADB40E5C28E9B00B00D51F9C /* ProductOfArrayExceptSelf.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB40E5B28E9B00B00D51F9C /* ProductOfArrayExceptSelf.swift */; };
@@ -679,6 +680,7 @@
 		ADB0DA00296059E10016CA62 /* RangeSumQueryImmutable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RangeSumQueryImmutable.swift; sourceTree = "<group>"; };
 		ADB14CB6292791F700F36417 /* PacificAtlanticWaterFlow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PacificAtlanticWaterFlow.swift; sourceTree = "<group>"; };
 		ADB1A705298EBC180059F3C9 /* CheckIfMatrixIsXMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckIfMatrixIsXMatrix.swift; sourceTree = "<group>"; };
+		ADB1C5052A35F6CA0000385B /* SnapshotArrayTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SnapshotArrayTest.swift; sourceTree = "<group>"; };
 		ADB1E8172930DD23001D88CB /* InsertInterval.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsertInterval.swift; sourceTree = "<group>"; };
 		ADB40E5928E9AF3D00D51F9C /* IncreasingTripletSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IncreasingTripletSubsequence.swift; sourceTree = "<group>"; };
 		ADB40E5B28E9B00B00D51F9C /* ProductOfArrayExceptSelf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductOfArrayExceptSelf.swift; sourceTree = "<group>"; };
@@ -1239,6 +1241,7 @@
 				AD7475D829F800B200CD014E /* SmallestNumberInInfiniteSet.swift */,
 				AD2C245929716C570000DBF8 /* SmallestRange2.swift */,
 				AD05D58E29805ABD00B35E1B /* SnakesAndLadders.swift */,
+				ADB1C5052A35F6CA0000385B /* SnapshotArrayTest.swift */,
 				ADC806232A0EBBF300900451 /* SolvingQuestionsWithBrainpower.swift */,
 				AD33093729AF790400415596 /* SortAnArray.swift */,
 				ADA485A928FEC716006C8FCF /* SortCharactersByFrequency.swift */,
@@ -1717,6 +1720,7 @@
 				AD3F37282975669400082B5E /* RotateList.swift in Sources */,
 				AD339A13297AD0E000E3856D /* NonDecreasingSubsequences.swift in Sources */,
 				AD4F660C298A91380015FB4B /* WordLadder.swift in Sources */,
+				ADB1C5062A35F6CA0000385B /* SnapshotArrayTest.swift in Sources */,
 				AD7DC46628CE02A600631E4A /* PathSum.swift in Sources */,
 				AD88EE2328AEA91A007E3D7C /* MergeTwoSortedLists.swift in Sources */,
 				ADC482CE28DF20DA00EAE8CC /* Permutations.swift in Sources */,
