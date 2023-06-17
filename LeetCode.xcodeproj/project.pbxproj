@@ -327,6 +327,7 @@
 		ADD2F0BE2964551F003B0038 /* EvaluateReversePolishNotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD2F0BD2964551F003B0038 /* EvaluateReversePolishNotation.swift */; };
 		ADD2F0C02964562C003B0038 /* PlusOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD2F0BF2964562C003B0038 /* PlusOne.swift */; };
 		ADD2F0C229645ADB003B0038 /* DeleteColumnsToMakeSorted.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD2F0C129645ADB003B0038 /* DeleteColumnsToMakeSorted.swift */; };
+		ADD2F9182A3DF45300AC9783 /* MakeArrayStrictlyIncreasing.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD2F9172A3DF45300AC9783 /* MakeArrayStrictlyIncreasing.swift */; };
 		ADD51E832A12586C00B9ED49 /* SwappingNodesInALinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD51E822A12586C00B9ED49 /* SwappingNodesInALinkedList.swift */; };
 		ADD5A75328F9845700DAB4AF /* KthSmallestElementInABST.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD5A75228F9845700DAB4AF /* KthSmallestElementInABST.swift */; };
 		ADD5A75528F984F900DAB4AF /* BinarySearchTreeIterator.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD5A75428F984F900DAB4AF /* BinarySearchTreeIterator.swift */; };
@@ -752,6 +753,7 @@
 		ADD2F0BD2964551F003B0038 /* EvaluateReversePolishNotation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EvaluateReversePolishNotation.swift; sourceTree = "<group>"; };
 		ADD2F0BF2964562C003B0038 /* PlusOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlusOne.swift; sourceTree = "<group>"; };
 		ADD2F0C129645ADB003B0038 /* DeleteColumnsToMakeSorted.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeleteColumnsToMakeSorted.swift; sourceTree = "<group>"; };
+		ADD2F9172A3DF45300AC9783 /* MakeArrayStrictlyIncreasing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakeArrayStrictlyIncreasing.swift; sourceTree = "<group>"; };
 		ADD51E822A12586C00B9ED49 /* SwappingNodesInALinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwappingNodesInALinkedList.swift; sourceTree = "<group>"; };
 		ADD5A75228F9845700DAB4AF /* KthSmallestElementInABST.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KthSmallestElementInABST.swift; sourceTree = "<group>"; };
 		ADD5A75428F984F900DAB4AF /* BinarySearchTreeIterator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinarySearchTreeIterator.swift; sourceTree = "<group>"; };
@@ -1091,6 +1093,7 @@
 				AD2FF7A628B50D3F0027AFB6 /* LowestCommonAncestorOfABinarySearchTree.swift */,
 				ADB9AE8D28FAD19D008FBC6A /* LowestCommonAncestorOfABinaryTree.swift */,
 				AD933EEF28E46C2300B1B2DA /* MajorityElement.swift */,
+				ADD2F9172A3DF45300AC9783 /* MakeArrayStrictlyIncreasing.swift */,
 				AD6E215829474A8100D538ED /* MatrixBlockSum.swift */,
 				AD3883EA2959C060005F0B28 /* MatrixDiagonalSum.swift */,
 				AD45D00028D9DCD000544C0A /* MaxAreaOfIsland.swift */,
@@ -1542,6 +1545,7 @@
 				ADF22B82292BA54000DF8FCA /* PartitionEqualSubsetSum.swift in Sources */,
 				AD4B182F2966FE7400262815 /* AddToArrayFormOfInteger.swift in Sources */,
 				AD75563128EEF013004B7039 /* RepeatedDNASequences.swift in Sources */,
+				ADD2F9182A3DF45300AC9783 /* MakeArrayStrictlyIncreasing.swift in Sources */,
 				ADF1D2412A06874C00385B0E /* NumberOfSubsequencesThatSatisfyTheGivenSumCondition.swift in Sources */,
 				AD32C9642A1E7F7E00A8CAC6 /* MaximumSubsequenceScore.swift in Sources */,
 				AD32EB3D2962FBFD0019636B /* RepeatedSubstringPattern.swift in Sources */,
