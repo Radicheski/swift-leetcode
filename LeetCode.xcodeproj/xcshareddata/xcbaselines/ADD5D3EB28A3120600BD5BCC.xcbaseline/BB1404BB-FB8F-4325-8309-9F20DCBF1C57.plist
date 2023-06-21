@@ -30,6 +30,19 @@
 				</dict>
 			</dict>
 		</dict>
+		<key>MinimumCostToMakeArrayEqual</key>
+		<dict>
+			<key>test()</key>
+			<dict>
+				<key>com.apple.XCTPerformanceMetric_WallClockTime</key>
+				<dict>
+					<key>baselineAverage</key>
+					<real>0.029080</real>
+					<key>baselineIntegrationDisplayName</key>
+					<string>Local Baseline</string>
+				</dict>
+			</dict>
+		</dict>
 		<key>ReducingDishes</key>
 		<dict>
 			<key>test()</key>
