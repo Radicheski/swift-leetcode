@@ -259,6 +259,7 @@
 		ADA86E8728F4419B00A01BC2 /* ReorderList.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA86E8628F4419B00A01BC2 /* ReorderList.swift */; };
 		ADA94B9028D7434D00D07819 /* RemoveNthNodeFromEndOfList.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA94B8F28D7434D00D07819 /* RemoveNthNodeFromEndOfList.swift */; };
 		ADAA5A3A29225FDC003EE31E /* BalancedBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAA5A3929225FDC003EE31E /* BalancedBinaryTree.swift */; };
+		ADAD46C82A45D08B00274BA7 /* LongestArithmeticSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAD46C72A45D08B00274BA7 /* LongestArithmeticSubsequence.swift */; };
 		ADADA529295324F700CBB58C /* SubtractTheProductAndSumOfDigitsOfAnInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADADA528295324F700CBB58C /* SubtractTheProductAndSumOfDigitsOfAnInteger.swift */; };
 		ADADF18A28C8FF030021B192 /* RemoveDuplicatesFromSortedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADADF18928C8FF030021B192 /* RemoveDuplicatesFromSortedList.swift */; };
 		ADB0D9FF2960587A0016CA62 /* DesignParkingSystem.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB0D9FE2960587A0016CA62 /* DesignParkingSystem.swift */; };
@@ -689,6 +690,7 @@
 		ADA86E8628F4419B00A01BC2 /* ReorderList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReorderList.swift; sourceTree = "<group>"; };
 		ADA94B8F28D7434D00D07819 /* RemoveNthNodeFromEndOfList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveNthNodeFromEndOfList.swift; sourceTree = "<group>"; };
 		ADAA5A3929225FDC003EE31E /* BalancedBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BalancedBinaryTree.swift; sourceTree = "<group>"; };
+		ADAD46C72A45D08B00274BA7 /* LongestArithmeticSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestArithmeticSubsequence.swift; sourceTree = "<group>"; };
 		ADADA528295324F700CBB58C /* SubtractTheProductAndSumOfDigitsOfAnInteger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubtractTheProductAndSumOfDigitsOfAnInteger.swift; sourceTree = "<group>"; };
 		ADADF18928C8FF030021B192 /* RemoveDuplicatesFromSortedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveDuplicatesFromSortedList.swift; sourceTree = "<group>"; };
 		ADB0D9FE2960587A0016CA62 /* DesignParkingSystem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignParkingSystem.swift; sourceTree = "<group>"; };
@@ -1087,6 +1089,7 @@
 				AD9B070628B049DF00ADFB43 /* LinkedListCycle2.swift */,
 				ADC8E5332965A2BD00D6351F /* LinkedListInBinaryTree.swift */,
 				AD2DA83A29BB4FB5008FC73B /* LinkedListRandomNode.swift */,
+				ADAD46C72A45D08B00274BA7 /* LongestArithmeticSubsequence.swift */,
 				AD977EA729AA5B1E00129413 /* LongestArithmeticSubsequenceOfGivenDifference.swift */,
 				AD3ADA12291D194800F54F51 /* LongestCommonPrefix.swift */,
 				AD4C668129152DFC00C86C85 /* LongestCommonSubsequence.swift */,
@@ -1662,6 +1665,7 @@
 				AD07CAFA28F587CE00B2E73A /* MinimumRemoveToMakeValidParentheses.swift in Sources */,
 				ADC5B13928AD5A00002FED4E /* IsSubsequence.swift in Sources */,
 				ADD2F0BE2964551F003B0038 /* EvaluateReversePolishNotation.swift in Sources */,
+				ADAD46C82A45D08B00274BA7 /* LongestArithmeticSubsequence.swift in Sources */,
 				ADD1C41A28B3C83500E63642 /* BinarySearch.swift in Sources */,
 				ADA08C5A28D5E8E700B816C2 /* ReverseString.swift in Sources */,
 				AD23E1912A349B2800A66AEB /* MaximumValueAtAGivenIndexInABoundedArray.swift in Sources */,
