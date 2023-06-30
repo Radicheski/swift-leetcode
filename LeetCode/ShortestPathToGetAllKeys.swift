@@ -67,26 +67,26 @@ private class Solution {
         seen[0, default: Set()].insert([startR, startC])
         
         while queue.isEmpty == false {
-            var current = queue.removeFirst()
+            let current = queue.removeFirst()
             
-            var currentR = current[0]
-            var currentC = current[1]
-            var keys = current[2]
-            var dist = current[3]
+            let currentR = current[0]
+            let currentC = current[1]
+            let keys = current[2]
+            let dist = current[3]
             
             for move in moves {
-                var newR = currentR + move[0]
-                var newC = currentC + move[1]
+                let newR = currentR + move[0]
+                let newC = currentC + move[1]
                 
                 if grid.indices.contains(newR) && grid[newR].indices.contains(newC) && grid[newR][newC] != "#" {
-                    var cell = grid[newR][newC]
+                    let cell = grid[newR][newC]
                     
                     if keySet.contains(cell) {
                         if (1 << (cell.asciiValue! - Character("a").asciiValue!) as Int) & keys != 0 {
                             continue
                         }
                         
-                        var newKeys = keys | (1 << (cell.asciiValue! - Character("a").asciiValue!) as Int)
+                        let newKeys = keys | (1 << (cell.asciiValue! - Character("a").asciiValue!) as Int)
                         
                         if newKeys == allKeys {
                             return dist + 1
