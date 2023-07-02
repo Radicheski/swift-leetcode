@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AD0064632A519E8400E39FC0 /* MaximumNumberOfAchievableTransferRequests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0064622A519E8400E39FC0 /* MaximumNumberOfAchievableTransferRequests.swift */; };
 		AD00F44628B96F2600A77B9C /* MinCostClimbingStairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD00F44528B96F2600A77B9C /* MinCostClimbingStairs.swift */; };
 		AD00F44828B96FB900A77B9C /* UniquePaths.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD00F44728B96FB900A77B9C /* UniquePaths.swift */; };
 		AD015018296C3A8500C763CC /* ArithmeticSubarrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD015017296C3A8500C763CC /* ArithmeticSubarrays.swift */; };
@@ -446,6 +447,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AD0064622A519E8400E39FC0 /* MaximumNumberOfAchievableTransferRequests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumNumberOfAchievableTransferRequests.swift; sourceTree = "<group>"; };
 		AD00F44528B96F2600A77B9C /* MinCostClimbingStairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinCostClimbingStairs.swift; sourceTree = "<group>"; };
 		AD00F44728B96FB900A77B9C /* UniquePaths.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniquePaths.swift; sourceTree = "<group>"; };
 		AD015017296C3A8500C763CC /* ArithmeticSubarrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArithmeticSubarrays.swift; sourceTree = "<group>"; };
@@ -1136,6 +1138,7 @@
 				AD9147DC29685B47007F9218 /* MaximumIceCreamBars.swift */,
 				ADD1B03E293CC386006136E8 /* MaximumLengthOfSubarrayWithPositiveProduct.swift */,
 				AD3567F62A3B422F000ECEBB /* MaximumLevelSumOfABinaryTree.swift */,
+				AD0064622A519E8400E39FC0 /* MaximumNumberOfAchievableTransferRequests.swift */,
 				ADEC4C712A04870400976373 /* MaximumNumberOfVowelsInASubstringOfGivenLength.swift */,
 				ADF22B83292BA5AC00DF8FCA /* MaximumProductSubarray.swift */,
 				AD7F8B632A11074B00213368 /* MaximizeScoreAfterNOperations.swift */,
@@ -1661,6 +1664,7 @@
 				ADCDCE7029BF482200B6368C /* DesignUndergroundSystem.swift in Sources */,
 				ADF0631928D490D000546CCC /* TwoSum2.swift in Sources */,
 				AD9B070728B049DF00ADFB43 /* LinkedListCycle2.swift in Sources */,
+				AD0064632A519E8400E39FC0 /* MaximumNumberOfAchievableTransferRequests.swift in Sources */,
 				AD4386D12961AE4C003FA0BD /* FindTheIndexOfTheFirstOccurrenceInAString.swift in Sources */,
 				AD325C4128E32B230039107E /* SingleNumber.swift in Sources */,
 				AD48DC9F2940B78E006F912B /* TrappingRainWater.swift in Sources */,
