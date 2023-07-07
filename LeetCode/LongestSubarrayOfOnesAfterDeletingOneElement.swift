@@ -40,7 +40,7 @@ private class Solution {
             }
             
             if zeros < 2 {
-                var length = end - start
+                let  length = end - start
                 maxLength = max(maxLength, length)
             }
             
