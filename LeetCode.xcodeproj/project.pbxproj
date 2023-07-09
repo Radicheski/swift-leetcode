@@ -179,6 +179,7 @@
 		AD703FED2A4C8F3900E15D53 /* PathWithMaximumProbability.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD703FEC2A4C8F3900E15D53 /* PathWithMaximumProbability.swift */; };
 		AD7150E929E2DEE700B71CCC /* LargestColorValueInADirectedGraph.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7150E829E2DEE700B71CCC /* LargestColorValueInADirectedGraph.swift */; };
 		AD71F3272A02C0FF003F0668 /* FindTheDifferenceOfTwoArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD71F3262A02C0FF003F0668 /* FindTheDifferenceOfTwoArrays.swift */; };
+		AD72611B2A5AD74B00BE11D2 /* SubstringWithLargestVariance.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD72611A2A5AD74B00BE11D2 /* SubstringWithLargestVariance.swift */; };
 		AD727CD329F98DC300FDD2A2 /* AddDigits.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD727CD229F98DC300FDD2A2 /* AddDigits.swift */; };
 		AD7475D929F800B200CD014E /* SmallestNumberInInfiniteSet.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7475D829F800B200CD014E /* SmallestNumberInInfiniteSet.swift */; };
 		AD74DB44297DA594003C5807 /* NumberOfClosedIslands.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD74DB43297DA594003C5807 /* NumberOfClosedIslands.swift */; };
@@ -624,6 +625,7 @@
 		AD703FEC2A4C8F3900E15D53 /* PathWithMaximumProbability.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathWithMaximumProbability.swift; sourceTree = "<group>"; };
 		AD7150E829E2DEE700B71CCC /* LargestColorValueInADirectedGraph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargestColorValueInADirectedGraph.swift; sourceTree = "<group>"; };
 		AD71F3262A02C0FF003F0668 /* FindTheDifferenceOfTwoArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheDifferenceOfTwoArrays.swift; sourceTree = "<group>"; };
+		AD72611A2A5AD74B00BE11D2 /* SubstringWithLargestVariance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubstringWithLargestVariance.swift; sourceTree = "<group>"; };
 		AD727CD229F98DC300FDD2A2 /* AddDigits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddDigits.swift; sourceTree = "<group>"; };
 		AD7475D829F800B200CD014E /* SmallestNumberInInfiniteSet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallestNumberInInfiniteSet.swift; sourceTree = "<group>"; };
 		AD74DB43297DA594003C5807 /* NumberOfClosedIslands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfClosedIslands.swift; sourceTree = "<group>"; };
@@ -1329,6 +1331,7 @@
 				ADD67EA6297972A100402175 /* SubarraySumsDivisibleByK.swift */,
 				AD6A0308290AACAB00988758 /* Subsets.swift */,
 				AD6A030A290AADB300988758 /* Subsets2.swift */,
+				AD72611A2A5AD74B00BE11D2 /* SubstringWithLargestVariance.swift */,
 				ADADA528295324F700CBB58C /* SubtractTheProductAndSumOfDigitsOfAnInteger.swift */,
 				AD6C46FB2908019A0011A77C /* SubtreeOfAnotherTree.swift */,
 				AD4F2F4229D9A3FA00836092 /* SuccessfulPairsOfSpellsAndPotions.swift */,
@@ -1739,6 +1742,7 @@
 				ADEF265529966DC000F41404 /* CountNumberOfWaysToPlaceHouses.swift in Sources */,
 				ADF22B84292BA5AC00DF8FCA /* MaximumProductSubarray.swift in Sources */,
 				AD7B3DB029893EB700DB46E4 /* MinimumJumpsToReachHome.swift in Sources */,
+				AD72611B2A5AD74B00BE11D2 /* SubstringWithLargestVariance.swift in Sources */,
 				AD60E4A62A436D20007828B7 /* MinimumCostToMakeArrayEqual.swift in Sources */,
 				AD2A46D928AA9C9E009C45A8 /* RichestCustomerWealth.swift in Sources */,
 				ADF58E1028C622D7000E08DB /* FirstUniqueCharacterInAString.swift in Sources */,
