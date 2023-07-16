@@ -430,6 +430,7 @@
 		ADF2AC1A2A37411E007F465E /* SummaryRangesTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF2AC192A37411E007F465E /* SummaryRangesTest.swift */; };
 		ADF2C0B9294C964200557C7D /* WiggleSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF2C0B8294C964200557C7D /* WiggleSubsequence.swift */; };
 		ADF31932291141650038DE57 /* ArithmeticSlices.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF31931291141650038DE57 /* ArithmeticSlices.swift */; };
+		ADF3E7032A64416400431162 /* SmallestSufficientTeam.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF3E7022A64416400431162 /* SmallestSufficientTeam.swift */; };
 		ADF4710A29326C18007A320F /* AsteroidCollision.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF4710929326C18007A320F /* AsteroidCollision.swift */; };
 		ADF4710C29326C9D007A320F /* BasicCalculator2.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF4710B29326C9D007A320F /* BasicCalculator2.swift */; };
 		ADF49E5A2A49B183000821A2 /* TotalCostToHireKWorkers.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF49E592A49B183000821A2 /* TotalCostToHireKWorkers.swift */; };
@@ -881,6 +882,7 @@
 		ADF2AC192A37411E007F465E /* SummaryRangesTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SummaryRangesTest.swift; sourceTree = "<group>"; };
 		ADF2C0B8294C964200557C7D /* WiggleSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WiggleSubsequence.swift; sourceTree = "<group>"; };
 		ADF31931291141650038DE57 /* ArithmeticSlices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArithmeticSlices.swift; sourceTree = "<group>"; };
+		ADF3E7022A64416400431162 /* SmallestSufficientTeam.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallestSufficientTeam.swift; sourceTree = "<group>"; };
 		ADF4710929326C18007A320F /* AsteroidCollision.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsteroidCollision.swift; sourceTree = "<group>"; };
 		ADF4710B29326C9D007A320F /* BasicCalculator2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicCalculator2.swift; sourceTree = "<group>"; };
 		ADF49E592A49B183000821A2 /* TotalCostToHireKWorkers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TotalCostToHireKWorkers.swift; sourceTree = "<group>"; };
@@ -1322,6 +1324,7 @@
 				AD325C4028E32B230039107E /* SingleNumber.swift */,
 				AD3830FF2A5452D5003B68D8 /* SingleNumber2.swift */,
 				AD7475D829F800B200CD014E /* SmallestNumberInInfiniteSet.swift */,
+				ADF3E7022A64416400431162 /* SmallestSufficientTeam.swift */,
 				AD2C245929716C570000DBF8 /* SmallestRange2.swift */,
 				AD05D58E29805ABD00B35E1B /* SnakesAndLadders.swift */,
 				ADB1C5052A35F6CA0000385B /* SnapshotArrayTest.swift */,
@@ -1803,6 +1806,7 @@
 				ADE8B85A294F432200699CEB /* CoinChange2.swift in Sources */,
 				AD3831002A5452D5003B68D8 /* SingleNumber2.swift in Sources */,
 				ADE1BD2728DC7CAF008ED566 /* RottingOranges.swift in Sources */,
+				ADF3E7032A64416400431162 /* SmallestSufficientTeam.swift in Sources */,
 				AD2E9A5729FBEDE60062304D /* SimilarStringGroups.swift in Sources */,
 				AD6EC99329868F8900FA64B1 /* FindEventualSafeStates.swift in Sources */,
 				AD22CFC729A39D4F007684C6 /* MinimumNumberOfKConsecutiveBitFlips.swift in Sources */,
