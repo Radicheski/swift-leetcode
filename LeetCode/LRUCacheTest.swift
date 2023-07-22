@@ -24,87 +24,87 @@ final class LRUCacheTest: XCTestCase {
 
 }
 
-private class LRUCache {
-    
-    let capacity: Int
-    private var elements = [Int: Node]()
-    private var mostRecent: Node?
-    private var leastRecent: Node?
-    
-    init(_ capacity: Int) {
-        self.capacity = capacity
-    }
-    
-    func get(_ key: Int) -> Int {
-        guard let node = elements[key] else { return -1 }
+    private class LRUCache {
         
-        setMostRecent(to: node)
+        let capacity: Int
+        private var elements = [Int: Node]()
+        private var mostRecent: Node?
+        private var leastRecent: Node?
         
-        return node.value
-    }
-    
-    func put(_ key: Int, _ value: Int) {
-        if let existing = elements[key] {
-            existing.value = value
-            setMostRecent(to: existing)
-            return
+        init(_ capacity: Int) {
+            self.capacity = capacity
         }
         
-        if elements.count < capacity {
-            let node = Node(value, for: key)
-            elements[key] = node
-            if let mostRecent = self.mostRecent {
-                mostRecent.next = node
-                node.previous = mostRecent
+        func get(_ key: Int) -> Int {
+            guard let node = elements[key] else { return -1 }
+            
+            setMostRecent(to: node)
+            
+            return node.value
+        }
+        
+        func put(_ key: Int, _ value: Int) {
+            if let existing = elements[key] {
+                existing.value = value
+                setMostRecent(to: existing)
+                return
+            }
+            
+            if elements.count < capacity {
+                let node = Node(value, for: key)
+                elements[key] = node
+                if let mostRecent = self.mostRecent {
+                    mostRecent.next = node
+                    node.previous = mostRecent
+                    self.mostRecent = node
+                }
                 self.mostRecent = node
+                if leastRecent == nil {
+                    leastRecent = node
+                }
+            } else if let leastRecent = self.leastRecent {
+                elements[leastRecent.key] = nil
+                leastRecent.key = key
+                leastRecent.value = value
+                elements[key] = leastRecent
+                setMostRecent(to: leastRecent)
             }
-            self.mostRecent = node
-            if leastRecent == nil {
-                leastRecent = node
-            }
-        } else if let leastRecent = self.leastRecent {
-            elements[leastRecent.key] = nil
-            leastRecent.key = key
-            leastRecent.value = value
-            elements[key] = leastRecent
-            setMostRecent(to: leastRecent)
         }
-    }
-    
-    private func setMostRecent(to node: Node) {
-        if let next = node.next {
-            node.next = nil
-            next.previous = nil
-            
-            if let previous = node.previous {
-                node.previous = nil
-                previous.next = next
-                next.previous = previous
+        
+        private func setMostRecent(to node: Node) {
+            if let next = node.next {
+                node.next = nil
+                next.previous = nil
+                
+                if let previous = node.previous {
+                    node.previous = nil
+                    previous.next = next
+                    next.previous = previous
+                }
+                else if self.leastRecent === node {
+                    self.leastRecent = next
+                }
+                
+                if let mostRecent = self.mostRecent {
+                    node.previous = mostRecent
+                    mostRecent.next = node
+                }
+                
+                mostRecent = node
             }
-            else if self.leastRecent === node {
-                self.leastRecent = next
-            }
-            
-            if let mostRecent = self.mostRecent {
-                node.previous = mostRecent
-                mostRecent.next = node
-            }
-            
-            mostRecent = node
         }
+        
     }
-    
-}
 
-fileprivate class Node {
-    var key: Int
-    var value: Int
-    
-    var next: Node?
-    var previous: Node?
-    
-    init(_ value: Int, for key: Int) {
-        self.key = key
-        self.value = value
+    fileprivate class Node {
+        var key: Int
+        var value: Int
+        
+        var next: Node?
+        var previous: Node?
+        
+        init(_ value: Int, for key: Int) {
+            self.key = key
+            self.value = value
+        }
     }
-}

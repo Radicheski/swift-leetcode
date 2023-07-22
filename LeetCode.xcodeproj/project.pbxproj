@@ -244,6 +244,7 @@
 		AD9509B72A3F3EAA006BC652 /* NumberOfIncreasingPathsInAGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9509B62A3F3EAA006BC652 /* NumberOfIncreasingPathsInAGrid.swift */; };
 		AD95D5152972D00E000EEFF6 /* CopyListWithRandomPointer.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD95D5142972D00E000EEFF6 /* CopyListWithRandomPointer.swift */; };
 		AD95D5172972D47F000EEFF6 /* LexicographicallySmallestEquivalentString.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD95D5162972D47F000EEFF6 /* LexicographicallySmallestEquivalentString.swift */; };
+		AD9622AB2A6C1CFE00087578 /* KnightProbabilityInChessboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9622AA2A6C1CFE00087578 /* KnightProbabilityInChessboard.swift */; };
 		AD967DDB28C36AC0005408E7 /* ReshapeTheMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD967DDA28C36AC0005408E7 /* ReshapeTheMatrix.swift */; };
 		AD967DDD28C36B3D005408E7 /* PascalsTriangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD967DDC28C36B3D005408E7 /* PascalsTriangle.swift */; };
 		AD96A68B295C7B6E001F0AB6 /* ToLowerCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD96A68A295C7B6E001F0AB6 /* ToLowerCase.swift */; };
@@ -696,6 +697,7 @@
 		AD9509B62A3F3EAA006BC652 /* NumberOfIncreasingPathsInAGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfIncreasingPathsInAGrid.swift; sourceTree = "<group>"; };
 		AD95D5142972D00E000EEFF6 /* CopyListWithRandomPointer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CopyListWithRandomPointer.swift; sourceTree = "<group>"; };
 		AD95D5162972D47F000EEFF6 /* LexicographicallySmallestEquivalentString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LexicographicallySmallestEquivalentString.swift; sourceTree = "<group>"; };
+		AD9622AA2A6C1CFE00087578 /* KnightProbabilityInChessboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KnightProbabilityInChessboard.swift; sourceTree = "<group>"; };
 		AD967DDA28C36AC0005408E7 /* ReshapeTheMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReshapeTheMatrix.swift; sourceTree = "<group>"; };
 		AD967DDC28C36B3D005408E7 /* PascalsTriangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PascalsTriangle.swift; sourceTree = "<group>"; };
 		AD96A68A295C7B6E001F0AB6 /* ToLowerCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToLowerCase.swift; sourceTree = "<group>"; };
@@ -1118,6 +1120,7 @@
 				ADA485AB28FEC828006C8FCF /* KClosestPointsToOrigin.swift */,
 				ADD8E83228FC3BD200EEBB3C /* KeysAndRooms.swift */,
 				ADCE27B429ED6D1800540EBD /* KidsWithTheGreatestNumberOfCandies.swift */,
+				AD9622AA2A6C1CFE00087578 /* KnightProbabilityInChessboard.swift */,
 				AD3326FE29B8A213006715FD /* KokoEatingBananas.swift */,
 				AD32C95E28FD75C300305E77 /* KthLargestElementInAnArray.swift */,
 				ADBF7F442A1CE68300552ACE /* KthLargestElementInAStream.swift */,
@@ -1643,6 +1646,7 @@
 				ADBEEB6828BF847B0069B4BB /* ContainsDuplicate.swift in Sources */,
 				AD068C4C28DDC23400D4EB76 /* ConcatenationOfConsecutiveBinaryNumbers.swift in Sources */,
 				AD344F80294B427400DCAA09 /* LongestPalindromicSubsequence.swift in Sources */,
+				AD9622AB2A6C1CFE00087578 /* KnightProbabilityInChessboard.swift in Sources */,
 				AD3C543C2A5061D000FAF190 /* FairDistributionOfCookies.swift in Sources */,
 				AD8C5AD228E0751A00E821D7 /* Triangle.swift in Sources */,
 				ADEAD1FC2A2A1AF200E813C8 /* DetonateTheMaximumBombs.swift in Sources */,
