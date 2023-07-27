@@ -256,6 +256,7 @@
 		AD9720712A713A4D0001BF09 /* MinimumSpeedToArriveOnTime.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9720702A713A4D0001BF09 /* MinimumSpeedToArriveOnTime.swift */; };
 		AD977EA829AA5B1E00129413 /* LongestArithmeticSubsequenceOfGivenDifference.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD977EA729AA5B1E00129413 /* LongestArithmeticSubsequenceOfGivenDifference.swift */; };
 		AD979E7C29F4178800850BE9 /* MinimumInsertionStepsToMakeAStringPalindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD979E7B29F4178800850BE9 /* MinimumInsertionStepsToMakeAStringPalindrome.swift */; };
+		AD980B532A7295B10055B5D3 /* MaximumRunningTimeOfNComputers.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD980B522A7295B10055B5D3 /* MaximumRunningTimeOfNComputers.swift */; };
 		AD9914AA28C0DBD500BCFDAB /* MergeSortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9914A928C0DBD500BCFDAB /* MergeSortedArray.swift */; };
 		AD9A0D8A295B5CA0009B9BB5 /* MergeStringsAlternately.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9A0D89295B5CA0009B9BB5 /* MergeStringsAlternately.swift */; };
 		AD9A0D8C295B5D17009B9BB5 /* GoalParserInterpretation.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9A0D8B295B5D17009B9BB5 /* GoalParserInterpretation.swift */; };
@@ -713,6 +714,7 @@
 		AD9720702A713A4D0001BF09 /* MinimumSpeedToArriveOnTime.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumSpeedToArriveOnTime.swift; sourceTree = "<group>"; };
 		AD977EA729AA5B1E00129413 /* LongestArithmeticSubsequenceOfGivenDifference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestArithmeticSubsequenceOfGivenDifference.swift; sourceTree = "<group>"; };
 		AD979E7B29F4178800850BE9 /* MinimumInsertionStepsToMakeAStringPalindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumInsertionStepsToMakeAStringPalindrome.swift; sourceTree = "<group>"; };
+		AD980B522A7295B10055B5D3 /* MaximumRunningTimeOfNComputers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumRunningTimeOfNComputers.swift; sourceTree = "<group>"; };
 		AD9914A928C0DBD500BCFDAB /* MergeSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeSortedArray.swift; sourceTree = "<group>"; };
 		AD9A0D89295B5CA0009B9BB5 /* MergeStringsAlternately.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeStringsAlternately.swift; sourceTree = "<group>"; };
 		AD9A0D8B295B5D17009B9BB5 /* GoalParserInterpretation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoalParserInterpretation.swift; sourceTree = "<group>"; };
@@ -1175,6 +1177,7 @@
 				AD45D00028D9DCD000544C0A /* MaxAreaOfIsland.swift */,
 				AD617F28298D2B4200708E31 /* MaximalNetworkRank.swift */,
 				AD86268F2949F15700027B1A /* MaximalSquare.swift */,
+				AD7F8B632A11074B00213368 /* MaximizeScoreAfterNOperations.swift */,
 				AD2481F42A5832E800780C84 /* MaximizeTheConfusionOfAnExam.swift */,
 				ADA4798A28CCCEF800C23FF0 /* MaximumDepthOfBinaryTree.swift */,
 				AD9147DC29685B47007F9218 /* MaximumIceCreamBars.swift */,
@@ -1184,7 +1187,7 @@
 				AD8C969B2A62E17500717FED /* MaximumNumberOfEventsThatCanBeAttended2.swift */,
 				ADEC4C712A04870400976373 /* MaximumNumberOfVowelsInASubstringOfGivenLength.swift */,
 				ADF22B83292BA5AC00DF8FCA /* MaximumProductSubarray.swift */,
-				AD7F8B632A11074B00213368 /* MaximizeScoreAfterNOperations.swift */,
+				AD980B522A7295B10055B5D3 /* MaximumRunningTimeOfNComputers.swift */,
 				ADBEEB6928BF84F90069B4BB /* MaximumSubarray.swift */,
 				AD852694293BA3ED0096B9D2 /* MaximumSumCircularSubarray.swift */,
 				AD32C9632A1E7F7D00A8CAC6 /* MaximumSubsequenceScore.swift */,
@@ -1678,6 +1681,7 @@
 				AD366CAE29E5C4E800A3991E /* RemovingStarsFromAString.swift in Sources */,
 				AD4874112A0C68C000515AF7 /* UncrossedLines.swift in Sources */,
 				ADDCF94B28BCD5F400E7CA46 /* DecodeString.swift in Sources */,
+				AD980B532A7295B10055B5D3 /* MaximumRunningTimeOfNComputers.swift in Sources */,
 				AD8A1EF029044C5C00ABA3F6 /* ContainerWithMostWater.swift in Sources */,
 				ADE2438828F835D900D3AB3F /* DeleteNodeInABST.swift in Sources */,
 				ADE79406290DA6D800D0D035 /* GenerateParentheses.swift in Sources */,
