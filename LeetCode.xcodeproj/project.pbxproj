@@ -36,6 +36,7 @@
 		AD16FA35296D8E06001E3E65 /* NextGreaterElement3.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD16FA34296D8E06001E3E65 /* NextGreaterElement3.swift */; };
 		AD180B3629434F1F001F5866 /* UglyNumber2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD180B3529434F1F001F5866 /* UglyNumber2.swift */; };
 		AD180B3829434FBE001F5866 /* UniqueBinarySearchTrees.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD180B3729434FBE001F5866 /* UniqueBinarySearchTrees.swift */; };
+		AD188AA32A76913E00EF81F4 /* StrangePrinter.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD188AA22A76913E00EF81F4 /* StrangePrinter.swift */; };
 		AD1AB3582936659A00BDF5A5 /* NthTribonacciNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1AB3572936659A00BDF5A5 /* NthTribonacciNumber.swift */; };
 		AD1BA377295F19AF00A2A529 /* SortIntegersByTheNumberOf1Bits.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1BA376295F19AF00A2A529 /* SortIntegersByTheNumberOf1Bits.swift */; };
 		AD1BBB5628BB832B000032DD /* TwoSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1BBB5528BB832B000032DD /* TwoSum.swift */; };
@@ -496,6 +497,7 @@
 		AD16FA34296D8E06001E3E65 /* NextGreaterElement3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextGreaterElement3.swift; sourceTree = "<group>"; };
 		AD180B3529434F1F001F5866 /* UglyNumber2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UglyNumber2.swift; sourceTree = "<group>"; };
 		AD180B3729434FBE001F5866 /* UniqueBinarySearchTrees.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniqueBinarySearchTrees.swift; sourceTree = "<group>"; };
+		AD188AA22A76913E00EF81F4 /* StrangePrinter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StrangePrinter.swift; sourceTree = "<group>"; };
 		AD1AB3572936659A00BDF5A5 /* NthTribonacciNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NthTribonacciNumber.swift; sourceTree = "<group>"; };
 		AD1BA376295F19AF00A2A529 /* SortIntegersByTheNumberOf1Bits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortIntegersByTheNumberOf1Bits.swift; sourceTree = "<group>"; };
 		AD1BBB5528BB832B000032DD /* TwoSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSum.swift; sourceTree = "<group>"; };
@@ -1366,6 +1368,7 @@
 				AD3ED08128D34DD90080829A /* SquaresOfASortedArray.swift */,
 				AD4B03B12A20DA2E008020F5 /* StoneGame2.swift */,
 				ADC593A92A2230FD0020584C /* StoneGame3.swift */,
+				AD188AA22A76913E00EF81F4 /* StrangePrinter.swift */,
 				AD7BC39029AB96E700669562 /* StreamOfCharacters.swift */,
 				AD79509429B0C0F300F12622 /* StringCompression.swift */,
 				AD2D4D332905619F00D3234A /* SubarrayProductLessThanK.swift */,
@@ -1841,6 +1844,7 @@
 				ADF3E7032A64416400431162 /* SmallestSufficientTeam.swift in Sources */,
 				AD2E9A5729FBEDE60062304D /* SimilarStringGroups.swift in Sources */,
 				AD6EC99329868F8900FA64B1 /* FindEventualSafeStates.swift in Sources */,
+				AD188AA32A76913E00EF81F4 /* StrangePrinter.swift in Sources */,
 				AD22CFC729A39D4F007684C6 /* MinimumNumberOfKConsecutiveBitFlips.swift in Sources */,
 				AD63B81429B363D200E41605 /* CountSubarraysWithFixedBounds.swift in Sources */,
 				ADB7F32A292CF06C005905FC /* MinimumWindowSubstring.swift in Sources */,
