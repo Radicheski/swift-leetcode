@@ -126,6 +126,7 @@
 		AD4874112A0C68C000515AF7 /* UncrossedLines.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4874102A0C68C000515AF7 /* UncrossedLines.swift */; };
 		AD48DC9F2940B78E006F912B /* TrappingRainWater.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD48DC9E2940B78E006F912B /* TrappingRainWater.swift */; };
 		AD4A52F829A4E84B00210E4B /* SingleElementInASortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4A52F729A4E84B00210E4B /* SingleElementInASortedArray.swift */; };
+		AD4ABB862A7FD99500CE45E1 /* NumberOfMusicPlaylists.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4ABB852A7FD99500CE45E1 /* NumberOfMusicPlaylists.swift */; };
 		AD4ABE4F2A73E4040021E295 /* PredictTheWinner.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4ABE4E2A73E4040021E295 /* PredictTheWinner.swift */; };
 		AD4AC1A72A4099D700F4620D /* FindTheHighestAltitude.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4AC1A62A4099D700F4620D /* FindTheHighestAltitude.swift */; };
 		AD4B03B22A20DA2E008020F5 /* StoneGame2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4B03B12A20DA2E008020F5 /* StoneGame2.swift */; };
@@ -589,6 +590,7 @@
 		AD4874102A0C68C000515AF7 /* UncrossedLines.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UncrossedLines.swift; sourceTree = "<group>"; };
 		AD48DC9E2940B78E006F912B /* TrappingRainWater.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrappingRainWater.swift; sourceTree = "<group>"; };
 		AD4A52F729A4E84B00210E4B /* SingleElementInASortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleElementInASortedArray.swift; sourceTree = "<group>"; };
+		AD4ABB852A7FD99500CE45E1 /* NumberOfMusicPlaylists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfMusicPlaylists.swift; sourceTree = "<group>"; };
 		AD4ABE4E2A73E4040021E295 /* PredictTheWinner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PredictTheWinner.swift; sourceTree = "<group>"; };
 		AD4AC1A62A4099D700F4620D /* FindTheHighestAltitude.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheHighestAltitude.swift; sourceTree = "<group>"; };
 		AD4B03B12A20DA2E008020F5 /* StoneGame2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoneGame2.swift; sourceTree = "<group>"; };
@@ -1266,6 +1268,7 @@
 				AD9509B62A3F3EAA006BC652 /* NumberOfIncreasingPathsInAGrid.swift */,
 				AD820F5A28B65A1C00BA068E /* NumberOfIslands.swift */,
 				AD35997C2913DFBE0082AC68 /* NumberOfLongestIncreasingSubsequence.swift */,
+				AD4ABB852A7FD99500CE45E1 /* NumberOfMusicPlaylists.swift */,
 				AD32520F297029150095A3F9 /* NumberOfNodesInTheSubTreeWithTheSameLabel.swift */,
 				AD361C4C28E1C929002962BB /* NumberOfOneBits.swift */,
 				AD4F07292985905C00FBFD05 /* NumberOfOperationsToMakeNetworkConnected.swift */,
@@ -1857,6 +1860,7 @@
 				ADB7F32A292CF06C005905FC /* MinimumWindowSubstring.swift in Sources */,
 				ADD2F0C02964562C003B0038 /* PlusOne.swift in Sources */,
 				AD95D5172972D47F000EEFF6 /* LexicographicallySmallestEquivalentString.swift in Sources */,
+				AD4ABB862A7FD99500CE45E1 /* NumberOfMusicPlaylists.swift in Sources */,
 				ADD274E02976B9AE0034B90A /* SeatReservationManager.swift in Sources */,
 				ADD124A6296EE14400E05EAB /* TimeNeededToInformAllEmployees.swift in Sources */,
 				ADE2438428F8347400D3AB3F /* BinaryTreeRightSideView.swift in Sources */,
