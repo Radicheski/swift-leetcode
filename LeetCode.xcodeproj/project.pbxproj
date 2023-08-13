@@ -346,6 +346,7 @@
 		ADCDCE532995212B007E0500 /* NamingACompany.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCDCE522995212B007E0500 /* NamingACompany.swift */; };
 		ADCDCE7029BF482200B6368C /* DesignUndergroundSystem.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCDCE6F29BF482200B6368C /* DesignUndergroundSystem.swift */; };
 		ADCE27B529ED6D1800540EBD /* KidsWithTheGreatestNumberOfCandies.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCE27B429ED6D1800540EBD /* KidsWithTheGreatestNumberOfCandies.swift */; };
+		ADCE36662A890E6F00B6015B /* CheckIfThereIsAValidPartitionForTheArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCE36652A890E6F00B6015B /* CheckIfThereIsAValidPartitionForTheArray.swift */; };
 		ADD124A6296EE14400E05EAB /* TimeNeededToInformAllEmployees.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD124A5296EE14400E05EAB /* TimeNeededToInformAllEmployees.swift */; };
 		ADD124A8296EE72500E05EAB /* MinimumTimeToCollectAllApplesInATree.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD124A7296EE72500E05EAB /* MinimumTimeToCollectAllApplesInATree.swift */; };
 		ADD1B03F293CC386006136E8 /* MaximumLengthOfSubarrayWithPositiveProduct.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD1B03E293CC386006136E8 /* MaximumLengthOfSubarrayWithPositiveProduct.swift */; };
@@ -812,6 +813,7 @@
 		ADCDCE522995212B007E0500 /* NamingACompany.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NamingACompany.swift; sourceTree = "<group>"; };
 		ADCDCE6F29BF482200B6368C /* DesignUndergroundSystem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignUndergroundSystem.swift; sourceTree = "<group>"; };
 		ADCE27B429ED6D1800540EBD /* KidsWithTheGreatestNumberOfCandies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KidsWithTheGreatestNumberOfCandies.swift; sourceTree = "<group>"; };
+		ADCE36652A890E6F00B6015B /* CheckIfThereIsAValidPartitionForTheArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckIfThereIsAValidPartitionForTheArray.swift; sourceTree = "<group>"; };
 		ADD124A5296EE14400E05EAB /* TimeNeededToInformAllEmployees.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeNeededToInformAllEmployees.swift; sourceTree = "<group>"; };
 		ADD124A7296EE72500E05EAB /* MinimumTimeToCollectAllApplesInATree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumTimeToCollectAllApplesInATree.swift; sourceTree = "<group>"; };
 		ADD1B03E293CC386006136E8 /* MaximumLengthOfSubarrayWithPositiveProduct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumLengthOfSubarrayWithPositiveProduct.swift; sourceTree = "<group>"; };
@@ -1028,6 +1030,7 @@
 				ADFF1B082957165600D55D2C /* CheckIfItIsAStraightLine.swift */,
 				ADB1A705298EBC180059F3C9 /* CheckIfMatrixIsXMatrix.swift */,
 				AD2E2CEC2955D08200C790D0 /* CheckIfOneStringSwapCanMakeStringsEqual.swift */,
+				ADCE36652A890E6F00B6015B /* CheckIfThereIsAValidPartitionForTheArray.swift */,
 				AD2C00B529FDADBF0008E7D8 /* CheckingExistenceOfEdgeLengthLimitedPaths.swift */,
 				ADBC320D299D00A6006E808D /* CherryPickup2.swift */,
 				ADEE310628B7A6BE00448525 /* ClimbingStairs.swift */,
@@ -1764,6 +1767,7 @@
 				ADD95B49296B15FD00A66DDF /* BestPokerHand.swift in Sources */,
 				AD617F2D298D2CBA00708E31 /* IsGraphBipartite.swift in Sources */,
 				AD7B3DB4298978B400DB46E4 /* BestTeamWithNoConflicts.swift in Sources */,
+				ADCE36662A890E6F00B6015B /* CheckIfThereIsAValidPartitionForTheArray.swift in Sources */,
 				AD4BDEB128A7E03200E61565 /* TheKWeakestRowsInAMatrix.swift in Sources */,
 				ADE79408290DA7D700D0D035 /* WordSearch.swift in Sources */,
 				AD7F8B642A11074B00213368 /* MaximizeScoreAfterNOperations.swift in Sources */,
