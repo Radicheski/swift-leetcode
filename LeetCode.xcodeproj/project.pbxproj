@@ -302,6 +302,7 @@
 		ADB40E5A28E9AF3D00D51F9C /* IncreasingTripletSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB40E5928E9AF3D00D51F9C /* IncreasingTripletSubsequence.swift */; };
 		ADB40E5C28E9B00B00D51F9C /* ProductOfArrayExceptSelf.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB40E5B28E9B00B00D51F9C /* ProductOfArrayExceptSelf.swift */; };
 		ADB40E5E28E9B2F800D51F9C /* SubarraySumEqualsK.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB40E5D28E9B2F800D51F9C /* SubarraySumEqualsK.swift */; };
+		ADB4B01A2A94DDD100440492 /* ExcelSheetColumnTitle.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB4B0192A94DDD100440492 /* ExcelSheetColumnTitle.swift */; };
 		ADB53A3A28BA4AB300C937F7 /* FindAllAnagramsInAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB53A3928BA4AB300C937F7 /* FindAllAnagramsInAString.swift */; };
 		ADB53A3C28BA4BB200C937F7 /* LongestRepeatingCharacterReplacement.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB53A3B28BA4BB200C937F7 /* LongestRepeatingCharacterReplacement.swift */; };
 		ADB7F328292CEE17005905FC /* ThreeSumClosest.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB7F327292CEE17005905FC /* ThreeSumClosest.swift */; };
@@ -773,6 +774,7 @@
 		ADB40E5928E9AF3D00D51F9C /* IncreasingTripletSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IncreasingTripletSubsequence.swift; sourceTree = "<group>"; };
 		ADB40E5B28E9B00B00D51F9C /* ProductOfArrayExceptSelf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductOfArrayExceptSelf.swift; sourceTree = "<group>"; };
 		ADB40E5D28E9B2F800D51F9C /* SubarraySumEqualsK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubarraySumEqualsK.swift; sourceTree = "<group>"; };
+		ADB4B0192A94DDD100440492 /* ExcelSheetColumnTitle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExcelSheetColumnTitle.swift; sourceTree = "<group>"; };
 		ADB53A3928BA4AB300C937F7 /* FindAllAnagramsInAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindAllAnagramsInAString.swift; sourceTree = "<group>"; };
 		ADB53A3B28BA4BB200C937F7 /* LongestRepeatingCharacterReplacement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestRepeatingCharacterReplacement.swift; sourceTree = "<group>"; };
 		ADB7F327292CEE17005905FC /* ThreeSumClosest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreeSumClosest.swift; sourceTree = "<group>"; };
@@ -1100,6 +1102,7 @@
 				ADF8980D2A389DC300D01F06 /* EqualRowAndColumnPairs.swift */,
 				ADCC93152A18F905005C2406 /* EvaluateDivision.swift */,
 				ADD2F0BD2964551F003B0038 /* EvaluateReversePolishNotation.swift */,
+				ADB4B0192A94DDD100440492 /* ExcelSheetColumnTitle.swift */,
 				AD3C543B2A5061D000FAF190 /* FairDistributionOfCookies.swift */,
 				ADEE310428B7A5B400448525 /* FibonacciNumber.swift */,
 				ADB53A3928BA4AB300C937F7 /* FindAllAnagramsInAString.swift */,
@@ -1716,6 +1719,7 @@
 				ADF9488028F6E07B006630E0 /* ConvertSortedArrayToBinarySearchTree.swift in Sources */,
 				AD4BDEA828A7DAB300E61565 /* RomanToInteger.swift in Sources */,
 				AD801F0C294893870098DF16 /* UniquePaths2.swift in Sources */,
+				ADB4B01A2A94DDD100440492 /* ExcelSheetColumnTitle.swift in Sources */,
 				ADB53A3A28BA4AB300C937F7 /* FindAllAnagramsInAString.swift in Sources */,
 				AD899FD7292913F9001DD001 /* BusRoutes.swift in Sources */,
 				AD00F44628B96F2600A77B9C /* MinCostClimbingStairs.swift in Sources */,
