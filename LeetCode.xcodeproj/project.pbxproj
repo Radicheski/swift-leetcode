@@ -193,6 +193,7 @@
 		AD72611B2A5AD74B00BE11D2 /* SubstringWithLargestVariance.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD72611A2A5AD74B00BE11D2 /* SubstringWithLargestVariance.swift */; };
 		AD727CD329F98DC300FDD2A2 /* AddDigits.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD727CD229F98DC300FDD2A2 /* AddDigits.swift */; };
 		AD7475D929F800B200CD014E /* SmallestNumberInInfiniteSet.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7475D829F800B200CD014E /* SmallestNumberInInfiniteSet.swift */; };
+		AD74CBA52A96819300F08479 /* ReorganizeString.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD74CBA42A96819300F08479 /* ReorganizeString.swift */; };
 		AD74DB44297DA594003C5807 /* NumberOfClosedIslands.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD74DB43297DA594003C5807 /* NumberOfClosedIslands.swift */; };
 		AD74DB46297DAFAD003C5807 /* PalindromePartitioning.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD74DB45297DAFAD003C5807 /* PalindromePartitioning.swift */; };
 		AD75563128EEF013004B7039 /* RepeatedDNASequences.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD75563028EEF013004B7039 /* RepeatedDNASequences.swift */; };
@@ -665,6 +666,7 @@
 		AD72611A2A5AD74B00BE11D2 /* SubstringWithLargestVariance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubstringWithLargestVariance.swift; sourceTree = "<group>"; };
 		AD727CD229F98DC300FDD2A2 /* AddDigits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddDigits.swift; sourceTree = "<group>"; };
 		AD7475D829F800B200CD014E /* SmallestNumberInInfiniteSet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallestNumberInInfiniteSet.swift; sourceTree = "<group>"; };
+		AD74CBA42A96819300F08479 /* ReorganizeString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReorganizeString.swift; sourceTree = "<group>"; };
 		AD74DB43297DA594003C5807 /* NumberOfClosedIslands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfClosedIslands.swift; sourceTree = "<group>"; };
 		AD74DB45297DAFAD003C5807 /* PalindromePartitioning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalindromePartitioning.swift; sourceTree = "<group>"; };
 		AD75563028EEF013004B7039 /* RepeatedDNASequences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepeatedDNASequences.swift; sourceTree = "<group>"; };
@@ -1341,6 +1343,7 @@
 				AD366CAD29E5C4E800A3991E /* RemovingStarsFromAString.swift */,
 				ADA86E8628F4419B00A01BC2 /* ReorderList.swift */,
 				AD607BA02988086F00426C95 /* ReorderRoutesToMakeAllPathsLeadToTheCityZero.swift */,
+				AD74CBA42A96819300F08479 /* ReorganizeString.swift */,
 				AD75563028EEF013004B7039 /* RepeatedDNASequences.swift */,
 				AD32EB3C2962FBFD0019636B /* RepeatedSubstringPattern.swift */,
 				AD967DDA28C36AC0005408E7 /* ReshapeTheMatrix.swift */,
@@ -1910,6 +1913,7 @@
 				ADF290F829016FDF00A8AA6D /* FindPeakElement.swift in Sources */,
 				AD4C668429152EBF00C86C85 /* DeleteOperationForTwoStrings.swift in Sources */,
 				AD5CBBEC28B254A000495544 /* TreeNode.swift in Sources */,
+				AD74CBA52A96819300F08479 /* ReorganizeString.swift in Sources */,
 				ADC46DB028A922C7003B926E /* NumberOfStepsRoReduceANumberToZero.swift in Sources */,
 				AD852695293BA3ED0096B9D2 /* MaximumSumCircularSubarray.swift in Sources */,
 				AD42FF3729D4AA1F00B569EB /* ReducingDishes.swift in Sources */,
