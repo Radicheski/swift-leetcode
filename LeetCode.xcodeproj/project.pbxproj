@@ -410,6 +410,7 @@
 		ADE2438428F8347400D3AB3F /* BinaryTreeRightSideView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE2438328F8347400D3AB3F /* BinaryTreeRightSideView.swift */; };
 		ADE2438628F8350400D3AB3F /* PathSum2.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE2438528F8350400D3AB3F /* PathSum2.swift */; };
 		ADE2438828F835D900D3AB3F /* DeleteNodeInABST.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE2438728F835D900D3AB3F /* DeleteNodeInABST.swift */; };
+		ADE247A02AA2226A006CD210 /* CountingBits.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE2479F2AA2226A006CD210 /* CountingBits.swift */; };
 		ADE4404429D5ED860090902A /* ScrambleString.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE4404329D5ED860090902A /* ScrambleString.swift */; };
 		ADE4724E28EAFE7D00B5E8D1 /* AddStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE4724D28EAFE7D00B5E8D1 /* AddStrings.swift */; };
 		ADE4CBDA297812270039E5B3 /* FlattenNestedListIterator.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE4CBD9297812270039E5B3 /* FlattenNestedListIterator.swift */; };
@@ -892,6 +893,7 @@
 		ADE2438328F8347400D3AB3F /* BinaryTreeRightSideView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryTreeRightSideView.swift; sourceTree = "<group>"; };
 		ADE2438528F8350400D3AB3F /* PathSum2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathSum2.swift; sourceTree = "<group>"; };
 		ADE2438728F835D900D3AB3F /* DeleteNodeInABST.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeleteNodeInABST.swift; sourceTree = "<group>"; };
+		ADE2479F2AA2226A006CD210 /* CountingBits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountingBits.swift; sourceTree = "<group>"; };
 		ADE4404329D5ED860090902A /* ScrambleString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrambleString.swift; sourceTree = "<group>"; };
 		ADE4724D28EAFE7D00B5E8D1 /* AddStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddStrings.swift; sourceTree = "<group>"; };
 		ADE4CBD9297812270039E5B3 /* FlattenNestedListIterator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlattenNestedListIterator.swift; sourceTree = "<group>"; };
@@ -1082,6 +1084,7 @@
 				ADD9382829BCAF2200D3D0CA /* ConvertSortedListToBinarySearchTree.swift */,
 				AD95D5142972D00E000EEFF6 /* CopyListWithRandomPointer.swift */,
 				AD03A0692A486DA700F7270D /* CountAllPossibleRoutes.swift */,
+				ADE2479F2AA2226A006CD210 /* CountingBits.swift */,
 				AD13E4C32A31F899000E2C82 /* CountNegativeNumbersInASortedMatrix.swift */,
 				ADEF265429966DC000F41404 /* CountNumberOfWaysToPlaceHouses.swift */,
 				AD69BA102951D67B00986792 /* CountOddNumbersInAnIntervalRange.swift */,
@@ -1600,6 +1603,7 @@
 				AD9720712A713A4D0001BF09 /* MinimumSpeedToArriveOnTime.swift in Sources */,
 				ADEFCB5028E5B6A500F62033 /* SortColors.swift in Sources */,
 				AD59FDCE2A9D7076007CC7AC /* MinimumPenaltyForAShop.swift in Sources */,
+				ADE247A02AA2226A006CD210 /* CountingBits.swift in Sources */,
 				ADB7F328292CEE17005905FC /* ThreeSumClosest.swift in Sources */,
 				ADD5A75328F9845700DAB4AF /* KthSmallestElementInABST.swift in Sources */,
 				ADBAE76629B4C33A0015CE87 /* JumpGame4.swift in Sources */,
