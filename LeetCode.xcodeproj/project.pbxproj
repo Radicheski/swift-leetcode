@@ -359,6 +359,7 @@
 		ADCD818929C33FC700E30C1E /* ConstructBinaryTreeFromInorderAndPostorderTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCD818829C33FC700E30C1E /* ConstructBinaryTreeFromInorderAndPostorderTraversal.swift */; };
 		ADCDCE532995212B007E0500 /* NamingACompany.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCDCE522995212B007E0500 /* NamingACompany.swift */; };
 		ADCDCE7029BF482200B6368C /* DesignUndergroundSystem.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCDCE6F29BF482200B6368C /* DesignUndergroundSystem.swift */; };
+		ADCDE5D72AAE01910030B8F8 /* CountAllValidPickupAndDeliveryOptions.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCDE5D62AAE01910030B8F8 /* CountAllValidPickupAndDeliveryOptions.swift */; };
 		ADCE27B529ED6D1800540EBD /* KidsWithTheGreatestNumberOfCandies.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCE27B429ED6D1800540EBD /* KidsWithTheGreatestNumberOfCandies.swift */; };
 		ADCE36662A890E6F00B6015B /* CheckIfThereIsAValidPartitionForTheArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCE36652A890E6F00B6015B /* CheckIfThereIsAValidPartitionForTheArray.swift */; };
 		ADD124A6296EE14400E05EAB /* TimeNeededToInformAllEmployees.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD124A5296EE14400E05EAB /* TimeNeededToInformAllEmployees.swift */; };
@@ -844,6 +845,7 @@
 		ADCD818829C33FC700E30C1E /* ConstructBinaryTreeFromInorderAndPostorderTraversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstructBinaryTreeFromInorderAndPostorderTraversal.swift; sourceTree = "<group>"; };
 		ADCDCE522995212B007E0500 /* NamingACompany.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NamingACompany.swift; sourceTree = "<group>"; };
 		ADCDCE6F29BF482200B6368C /* DesignUndergroundSystem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignUndergroundSystem.swift; sourceTree = "<group>"; };
+		ADCDE5D62AAE01910030B8F8 /* CountAllValidPickupAndDeliveryOptions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountAllValidPickupAndDeliveryOptions.swift; sourceTree = "<group>"; };
 		ADCE27B429ED6D1800540EBD /* KidsWithTheGreatestNumberOfCandies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KidsWithTheGreatestNumberOfCandies.swift; sourceTree = "<group>"; };
 		ADCE36652A890E6F00B6015B /* CheckIfThereIsAValidPartitionForTheArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckIfThereIsAValidPartitionForTheArray.swift; sourceTree = "<group>"; };
 		ADD124A5296EE14400E05EAB /* TimeNeededToInformAllEmployees.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeNeededToInformAllEmployees.swift; sourceTree = "<group>"; };
@@ -1090,6 +1092,7 @@
 				ADD9382829BCAF2200D3D0CA /* ConvertSortedListToBinarySearchTree.swift */,
 				AD95D5142972D00E000EEFF6 /* CopyListWithRandomPointer.swift */,
 				AD03A0692A486DA700F7270D /* CountAllPossibleRoutes.swift */,
+				ADCDE5D62AAE01910030B8F8 /* CountAllValidPickupAndDeliveryOptions.swift */,
 				ADE2479F2AA2226A006CD210 /* CountingBits.swift */,
 				AD13E4C32A31F899000E2C82 /* CountNegativeNumbersInASortedMatrix.swift */,
 				ADEF265429966DC000F41404 /* CountNumberOfWaysToPlaceHouses.swift */,
@@ -1927,6 +1930,7 @@
 				ADA376E22A4F01B3008783CC /* LastDayWhereYouCanStillCross.swift in Sources */,
 				AD4DCBF728E70C6300A81C5F /* PascalsTriangle2.swift in Sources */,
 				ADDCF94928BCD57200E7CA46 /* BackspaceStringCompare.swift in Sources */,
+				ADCDE5D72AAE01910030B8F8 /* CountAllValidPickupAndDeliveryOptions.swift in Sources */,
 				ADE8B85A294F432200699CEB /* CoinChange2.swift in Sources */,
 				AD3831002A5452D5003B68D8 /* SingleNumber2.swift in Sources */,
 				ADE1BD2728DC7CAF008ED566 /* RottingOranges.swift in Sources */,
