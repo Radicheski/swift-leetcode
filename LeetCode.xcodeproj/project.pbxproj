@@ -200,6 +200,7 @@
 		AD7201D32A8D2C3600E9D656 /* SlidingWindowMaximum.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7201D22A8D2C3600E9D656 /* SlidingWindowMaximum.swift */; };
 		AD72611B2A5AD74B00BE11D2 /* SubstringWithLargestVariance.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD72611A2A5AD74B00BE11D2 /* SubstringWithLargestVariance.swift */; };
 		AD727CD329F98DC300FDD2A2 /* AddDigits.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD727CD229F98DC300FDD2A2 /* AddDigits.swift */; };
+		AD743E862AB21D5A00B1D79A /* Candy.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD743E852AB21D5A00B1D79A /* Candy.swift */; };
 		AD7475D929F800B200CD014E /* SmallestNumberInInfiniteSet.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7475D829F800B200CD014E /* SmallestNumberInInfiniteSet.swift */; };
 		AD74CBA52A96819300F08479 /* ReorganizeString.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD74CBA42A96819300F08479 /* ReorganizeString.swift */; };
 		AD74DB44297DA594003C5807 /* NumberOfClosedIslands.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD74DB43297DA594003C5807 /* NumberOfClosedIslands.swift */; };
@@ -688,6 +689,7 @@
 		AD7201D22A8D2C3600E9D656 /* SlidingWindowMaximum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlidingWindowMaximum.swift; sourceTree = "<group>"; };
 		AD72611A2A5AD74B00BE11D2 /* SubstringWithLargestVariance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubstringWithLargestVariance.swift; sourceTree = "<group>"; };
 		AD727CD229F98DC300FDD2A2 /* AddDigits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddDigits.swift; sourceTree = "<group>"; };
+		AD743E852AB21D5A00B1D79A /* Candy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Candy.swift; sourceTree = "<group>"; };
 		AD7475D829F800B200CD014E /* SmallestNumberInInfiniteSet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallestNumberInInfiniteSet.swift; sourceTree = "<group>"; };
 		AD74CBA42A96819300F08479 /* ReorganizeString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReorganizeString.swift; sourceTree = "<group>"; };
 		AD74DB43297DA594003C5807 /* NumberOfClosedIslands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfClosedIslands.swift; sourceTree = "<group>"; };
@@ -1065,6 +1067,7 @@
 				AD1BBB5728BB83CD000032DD /* BullsAndCows.swift */,
 				AD899FD6292913F9001DD001 /* BusRoutes.swift */,
 				AD2E2CEA2955CFF500C790D0 /* CanMakeArithmeticProgressionFromSequence.swift */,
+				AD743E852AB21D5A00B1D79A /* Candy.swift */,
 				AD08C63629C87CDD0090A40C /* CanPlaceFlowers.swift */,
 				ADECE5FD29A63EA600A6FB04 /* CapacityToShipPackagesWithinDDays.swift */,
 				AD4311482982AB0500E127A6 /* CheapestFlightsWithinKStops.swift */,
@@ -1627,6 +1630,7 @@
 				ADBAE76629B4C33A0015CE87 /* JumpGame4.swift in Sources */,
 				ADB9AE9028FAD463008FBC6A /* SerializeAndDeserializeBinaryTree.swift in Sources */,
 				AD3C92F028F19E7F00E90724 /* IntersectionOfTwoLinkedLists.swift in Sources */,
+				AD743E862AB21D5A00B1D79A /* Candy.swift in Sources */,
 				ADEFCB5428E5B7E000F62033 /* DesignHashMap.swift in Sources */,
 				AD7B3DB229893F4800DB46E4 /* WaterAndJugProblem.swift in Sources */,
 				AD8A1EEE29044B8100ABA3F6 /* IntervalListIntersections.swift in Sources */,
