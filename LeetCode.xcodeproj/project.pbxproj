@@ -24,6 +24,7 @@
 		AD07CAFC28F5886700B2E73A /* FindTheWinnerOfTheCircularGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD07CAFB28F5886700B2E73A /* FindTheWinnerOfTheCircularGame.swift */; };
 		AD08005A2AA9F97400A4F6BB /* ReverseLinkedList2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0800592AA9F97400A4F6BB /* ReverseLinkedList2.swift */; };
 		AD08C63729C87CDD0090A40C /* CanPlaceFlowers.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD08C63629C87CDD0090A40C /* CanPlaceFlowers.swift */; };
+		AD0A39672AB32C9E003BCCFA /* ReconstructItinerary.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0A39662AB32C9E003BCCFA /* ReconstructItinerary.swift */; };
 		AD0AC56B28BE385B00D4608C /* LastStoneWeight.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0AC56A28BE385B00D4608C /* LastStoneWeight.swift */; };
 		AD0AC56D28BE38C100D4608C /* TopKFrequentWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0AC56C28BE38C100D4608C /* TopKFrequentWords.swift */; };
 		AD0C4DD72986D4DA00D15379 /* LFUCacheProblem.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0C4DD62986D4DA00D15379 /* LFUCacheProblem.swift */; };
@@ -513,6 +514,7 @@
 		AD07CAFB28F5886700B2E73A /* FindTheWinnerOfTheCircularGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheWinnerOfTheCircularGame.swift; sourceTree = "<group>"; };
 		AD0800592AA9F97400A4F6BB /* ReverseLinkedList2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseLinkedList2.swift; sourceTree = "<group>"; };
 		AD08C63629C87CDD0090A40C /* CanPlaceFlowers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CanPlaceFlowers.swift; sourceTree = "<group>"; };
+		AD0A39662AB32C9E003BCCFA /* ReconstructItinerary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReconstructItinerary.swift; sourceTree = "<group>"; };
 		AD0AC56A28BE385B00D4608C /* LastStoneWeight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LastStoneWeight.swift; sourceTree = "<group>"; };
 		AD0AC56C28BE38C100D4608C /* TopKFrequentWords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopKFrequentWords.swift; sourceTree = "<group>"; };
 		AD0C4DD62986D4DA00D15379 /* LFUCacheProblem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LFUCacheProblem.swift; sourceTree = "<group>"; };
@@ -1379,6 +1381,7 @@
 				AD6E215A29474B3000D538ED /* RangeSumQuery2DImmutable.swift */,
 				ADB0DA00296059E10016CA62 /* RangeSumQueryImmutable.swift */,
 				ADD5D3E628A3114600BD5BCC /* RansomNote.swift */,
+				AD0A39662AB32C9E003BCCFA /* ReconstructItinerary.swift */,
 				AD42FF3629D4AA1F00B569EB /* ReducingDishes.swift */,
 				ADADF18928C8FF030021B192 /* RemoveDuplicatesFromSortedList.swift */,
 				AD3C92F128F19F2600E90724 /* RemoveDuplicatesFromSortedList2.swift */,
@@ -1976,6 +1979,7 @@
 				AD4C668429152EBF00C86C85 /* DeleteOperationForTwoStrings.swift in Sources */,
 				AD5CBBEC28B254A000495544 /* TreeNode.swift in Sources */,
 				AD74CBA52A96819300F08479 /* ReorganizeString.swift in Sources */,
+				AD0A39672AB32C9E003BCCFA /* ReconstructItinerary.swift in Sources */,
 				ADC46DB028A922C7003B926E /* NumberOfStepsRoReduceANumberToZero.swift in Sources */,
 				AD852695293BA3ED0096B9D2 /* MaximumSumCircularSubarray.swift in Sources */,
 				AD42FF3729D4AA1F00B569EB /* ReducingDishes.swift in Sources */,
