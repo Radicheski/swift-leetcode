@@ -182,6 +182,7 @@
 		AD64D09D29F5A50800A9B9DF /* RestoreTheArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD64D09C29F5A50800A9B9DF /* RestoreTheArray.swift */; };
 		AD653F632A5C2EEB00C7CCE8 /* MinimumDepthOfBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD653F622A5C2EEB00C7CCE8 /* MinimumDepthOfBinaryTree.swift */; };
 		AD6669FB29B60A5900C1D36A /* KthMissingPositiveNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6669FA29B60A5900C1D36A /* KthMissingPositiveNumber.swift */; };
+		AD68299E2AB4976C00ECEDFB /* MinCostToConnectAllPoints.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD68299D2AB4976C00ECEDFB /* MinCostToConnectAllPoints.swift */; };
 		AD69520C2A2380370060C92F /* MinimumCostToCutAStick.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD69520B2A2380370060C92F /* MinimumCostToCutAStick.swift */; };
 		AD69BA112951D67B00986792 /* CountOddNumbersInAnIntervalRange.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD69BA102951D67B00986792 /* CountOddNumbersInAnIntervalRange.swift */; };
 		AD69BA132951D6EE00986792 /* AverageSalaryExcludingTheMinimumAndMaximumSalary.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD69BA122951D6EE00986792 /* AverageSalaryExcludingTheMinimumAndMaximumSalary.swift */; };
@@ -672,6 +673,7 @@
 		AD64D09C29F5A50800A9B9DF /* RestoreTheArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestoreTheArray.swift; sourceTree = "<group>"; };
 		AD653F622A5C2EEB00C7CCE8 /* MinimumDepthOfBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumDepthOfBinaryTree.swift; sourceTree = "<group>"; };
 		AD6669FA29B60A5900C1D36A /* KthMissingPositiveNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KthMissingPositiveNumber.swift; sourceTree = "<group>"; };
+		AD68299D2AB4976C00ECEDFB /* MinCostToConnectAllPoints.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinCostToConnectAllPoints.swift; sourceTree = "<group>"; };
 		AD69520B2A2380370060C92F /* MinimumCostToCutAStick.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumCostToCutAStick.swift; sourceTree = "<group>"; };
 		AD69BA102951D67B00986792 /* CountOddNumbersInAnIntervalRange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountOddNumbersInAnIntervalRange.swift; sourceTree = "<group>"; };
 		AD69BA122951D6EE00986792 /* AverageSalaryExcludingTheMinimumAndMaximumSalary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AverageSalaryExcludingTheMinimumAndMaximumSalary.swift; sourceTree = "<group>"; };
@@ -1281,6 +1283,7 @@
 				AD88EE2228AEA91A007E3D7C /* MergeTwoSortedLists.swift */,
 				AD4BDEAB28A7DE3200E61565 /* MiddleOfTheLinkedList.swift */,
 				AD00F44528B96F2600A77B9C /* MinCostClimbingStairs.swift */,
+				AD68299D2AB4976C00ECEDFB /* MinCostToConnectAllPoints.swift */,
 				AD7D9CDC29A91C4C00E0D269 /* MinimizeDeviationInArray.swift */,
 				AD9E484029DDDF4800593016 /* MinimizeMaximumOfArray.swift */,
 				AD99A0F62A84055400F51F91 /* MinimizeTheMaximumDifferenceOfPairs.swift */,
@@ -1626,6 +1629,7 @@
 				AD325C3F28E32A5A0039107E /* ReverseBits.swift in Sources */,
 				AD9720712A713A4D0001BF09 /* MinimumSpeedToArriveOnTime.swift in Sources */,
 				ADEFCB5028E5B6A500F62033 /* SortColors.swift in Sources */,
+				AD68299E2AB4976C00ECEDFB /* MinCostToConnectAllPoints.swift in Sources */,
 				AD59FDCE2A9D7076007CC7AC /* MinimumPenaltyForAShop.swift in Sources */,
 				ADE247A02AA2226A006CD210 /* CountingBits.swift in Sources */,
 				ADB7F328292CEE17005905FC /* ThreeSumClosest.swift in Sources */,
