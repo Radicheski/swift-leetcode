@@ -177,6 +177,7 @@
 		AD617F2D298D2CBA00708E31 /* IsGraphBipartite.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD617F2C298D2CBA00708E31 /* IsGraphBipartite.swift */; };
 		AD617F2F298D43E600708E31 /* ZigzagConversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD617F2E298D43E600708E31 /* ZigzagConversion.swift */; };
 		AD61AC3F29D70AA600A4C392 /* NumberOfWaysOfCuttingAPizza.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD61AC3E29D70AA600A4C392 /* NumberOfWaysOfCuttingAPizza.swift */; };
+		AD623EE02AC86A83009D289A /* OneThreeTwoPattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD623EDF2AC86A83009D289A /* OneThreeTwoPattern.swift */; };
 		AD63760129E83336003B1BFB /* ValidateStackSequences.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD63760029E83336003B1BFB /* ValidateStackSequences.swift */; };
 		AD638E6C2A9CC08700641464 /* ImplementStackUsingQueues.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD638E6B2A9CC08700641464 /* ImplementStackUsingQueues.swift */; };
 		AD63B81429B363D200E41605 /* CountSubarraysWithFixedBounds.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD63B81329B363D200E41605 /* CountSubarraysWithFixedBounds.swift */; };
@@ -677,6 +678,7 @@
 		AD617F2C298D2CBA00708E31 /* IsGraphBipartite.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IsGraphBipartite.swift; sourceTree = "<group>"; };
 		AD617F2E298D43E600708E31 /* ZigzagConversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZigzagConversion.swift; sourceTree = "<group>"; };
 		AD61AC3E29D70AA600A4C392 /* NumberOfWaysOfCuttingAPizza.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfWaysOfCuttingAPizza.swift; sourceTree = "<group>"; };
+		AD623EDF2AC86A83009D289A /* OneThreeTwoPattern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OneThreeTwoPattern.swift; sourceTree = "<group>"; };
 		AD63760029E83336003B1BFB /* ValidateStackSequences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidateStackSequences.swift; sourceTree = "<group>"; };
 		AD638E6B2A9CC08700641464 /* ImplementStackUsingQueues.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImplementStackUsingQueues.swift; sourceTree = "<group>"; };
 		AD63B81329B363D200E41605 /* CountSubarraysWithFixedBounds.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountSubarraysWithFixedBounds.swift; sourceTree = "<group>"; };
@@ -1376,6 +1378,7 @@
 				AD7A41AA2A3C88BE0060703D /* NumberOfWaysToReorderArrayToGetSameBST.swift */,
 				AD23533029CA2177008B5563 /* NumberOfZeroFilledSubarrays.swift */,
 				ADA1739F29200D66006D0F09 /* OddEvenLinkedList.swift */,
+				AD623EDF2AC86A83009D289A /* OneThreeTwoPattern.swift */,
 				AD4F6609298A8E020015FB4B /* OpenTheLock.swift */,
 				AD4E5C0F29DC79CB0013141B /* OptimalPartitionOfString.swift */,
 				ADB14CB6292791F700F36417 /* PacificAtlanticWaterFlow.swift */,
@@ -1925,6 +1928,7 @@
 				AD820F5B28B65A1C00BA068E /* NumberOfIslands.swift in Sources */,
 				AD4B182D2966FE0600262815 /* AddBinary.swift in Sources */,
 				AD86268E2949F0E700027B1A /* MinimumPathSum.swift in Sources */,
+				AD623EE02AC86A83009D289A /* OneThreeTwoPattern.swift in Sources */,
 				ADE0BD7B29C5F6D500F6E93F /* DesignBrowserHistory.swift in Sources */,
 				ADB1A706298EBC180059F3C9 /* CheckIfMatrixIsXMatrix.swift in Sources */,
 				AD933EF228E46CAA00B1B2DA /* ThreeSum.swift in Sources */,
