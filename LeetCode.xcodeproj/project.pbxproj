@@ -315,6 +315,7 @@
 		ADAD46C82A45D08B00274BA7 /* LongestArithmeticSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAD46C72A45D08B00274BA7 /* LongestArithmeticSubsequence.swift */; };
 		ADADA529295324F700CBB58C /* SubtractTheProductAndSumOfDigitsOfAnInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADADA528295324F700CBB58C /* SubtractTheProductAndSumOfDigitsOfAnInteger.swift */; };
 		ADADF18A28C8FF030021B192 /* RemoveDuplicatesFromSortedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADADF18928C8FF030021B192 /* RemoveDuplicatesFromSortedList.swift */; };
+		ADAEFAE72AD2EA930034A042 /* MaxDotProductOfTwoSubsequences.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAEFAE62AD2EA930034A042 /* MaxDotProductOfTwoSubsequences.swift */; };
 		ADAF390A2ABB629C00C9CAD1 /* MinimumOperationsToReduceXToZero.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAF39092ABB629C00C9CAD1 /* MinimumOperationsToReduceXToZero.swift */; };
 		ADB0D9FF2960587A0016CA62 /* DesignParkingSystem.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB0D9FE2960587A0016CA62 /* DesignParkingSystem.swift */; };
 		ADB0DA01296059E10016CA62 /* RangeSumQueryImmutable.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB0DA00296059E10016CA62 /* RangeSumQueryImmutable.swift */; };
@@ -820,6 +821,7 @@
 		ADAD46C72A45D08B00274BA7 /* LongestArithmeticSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestArithmeticSubsequence.swift; sourceTree = "<group>"; };
 		ADADA528295324F700CBB58C /* SubtractTheProductAndSumOfDigitsOfAnInteger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubtractTheProductAndSumOfDigitsOfAnInteger.swift; sourceTree = "<group>"; };
 		ADADF18928C8FF030021B192 /* RemoveDuplicatesFromSortedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveDuplicatesFromSortedList.swift; sourceTree = "<group>"; };
+		ADAEFAE62AD2EA930034A042 /* MaxDotProductOfTwoSubsequences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxDotProductOfTwoSubsequences.swift; sourceTree = "<group>"; };
 		ADAF39092ABB629C00C9CAD1 /* MinimumOperationsToReduceXToZero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumOperationsToReduceXToZero.swift; sourceTree = "<group>"; };
 		ADB0D9FE2960587A0016CA62 /* DesignParkingSystem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignParkingSystem.swift; sourceTree = "<group>"; };
 		ADB0DA00296059E10016CA62 /* RangeSumQueryImmutable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RangeSumQueryImmutable.swift; sourceTree = "<group>"; };
@@ -1286,6 +1288,7 @@
 				AD6E215829474A8100D538ED /* MatrixBlockSum.swift */,
 				AD3883EA2959C060005F0B28 /* MatrixDiagonalSum.swift */,
 				AD45D00028D9DCD000544C0A /* MaxAreaOfIsland.swift */,
+				ADAEFAE62AD2EA930034A042 /* MaxDotProductOfTwoSubsequences.swift */,
 				AD617F28298D2B4200708E31 /* MaximalNetworkRank.swift */,
 				AD86268F2949F15700027B1A /* MaximalSquare.swift */,
 				AD7F8B632A11074B00213368 /* MaximizeScoreAfterNOperations.swift */,
@@ -1958,6 +1961,7 @@
 				ADA08C5C28D5E99600B816C2 /* ReverseWordsInAString3.swift in Sources */,
 				ADEC7FBE293E17D200BF0086 /* BestTimeToBuyAndSellStock2.swift in Sources */,
 				ADEF265529966DC000F41404 /* CountNumberOfWaysToPlaceHouses.swift in Sources */,
+				ADAEFAE72AD2EA930034A042 /* MaxDotProductOfTwoSubsequences.swift in Sources */,
 				ADF22B84292BA5AC00DF8FCA /* MaximumProductSubarray.swift in Sources */,
 				AD7B3DB029893EB700DB46E4 /* MinimumJumpsToReachHome.swift in Sources */,
 				AD72611B2A5AD74B00BE11D2 /* SubstringWithLargestVariance.swift in Sources */,
