@@ -153,6 +153,7 @@
 		AD4C668229152DFC00C86C85 /* LongestCommonSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4C668129152DFC00C86C85 /* LongestCommonSubsequence.swift */; };
 		AD4C668429152EBF00C86C85 /* DeleteOperationForTwoStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4C668329152EBF00C86C85 /* DeleteOperationForTwoStrings.swift */; };
 		AD4CED272ACB91B300DCD389 /* NumberOfGoodPairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4CED262ACB91B300DCD389 /* NumberOfGoodPairs.swift */; };
+		AD4D0A492AE6972300809ED0 /* PowerOfFour.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4D0A482AE6972300809ED0 /* PowerOfFour.swift */; };
 		AD4DCBF728E70C6300A81C5F /* PascalsTriangle2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4DCBF628E70C6300A81C5F /* PascalsTriangle2.swift */; };
 		AD4DCBF928E70EE600A81C5F /* RotateImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4DCBF828E70EE600A81C5F /* RotateImage.swift */; };
 		AD4DCBFB28E70FB900A81C5F /* SpiralMatrix2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4DCBFA28E70FB900A81C5F /* SpiralMatrix2.swift */; };
@@ -668,6 +669,7 @@
 		AD4C668129152DFC00C86C85 /* LongestCommonSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestCommonSubsequence.swift; sourceTree = "<group>"; };
 		AD4C668329152EBF00C86C85 /* DeleteOperationForTwoStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeleteOperationForTwoStrings.swift; sourceTree = "<group>"; };
 		AD4CED262ACB91B300DCD389 /* NumberOfGoodPairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfGoodPairs.swift; sourceTree = "<group>"; };
+		AD4D0A482AE6972300809ED0 /* PowerOfFour.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PowerOfFour.swift; sourceTree = "<group>"; };
 		AD4DCBF628E70C6300A81C5F /* PascalsTriangle2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PascalsTriangle2.swift; sourceTree = "<group>"; };
 		AD4DCBF828E70EE600A81C5F /* RotateImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateImage.swift; sourceTree = "<group>"; };
 		AD4DCBFA28E70FB900A81C5F /* SpiralMatrix2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpiralMatrix2.swift; sourceTree = "<group>"; };
@@ -1443,6 +1445,7 @@
 				ADC5823B28DB2DBA006D9591 /* PopulatingNextRightPointersInEachNode.swift */,
 				AD6C46F9290801150011A77C /* PopulatingNextRightPointersInEachNode2.swift */,
 				AD617F2A298D2C4B00708E31 /* PossibleBipartition.swift */,
+				AD4D0A482AE6972300809ED0 /* PowerOfFour.swift */,
 				AD361C4A28E1C883002962BB /* PowerOfTwo.swift */,
 				AD15B8B42A6E98AC0034284C /* PowXN.swift */,
 				AD4ABE4E2A73E4040021E295 /* PredictTheWinner.swift */,
@@ -2089,6 +2092,7 @@
 				AD7DC46628CE02A600631E4A /* PathSum.swift in Sources */,
 				AD88EE2328AEA91A007E3D7C /* MergeTwoSortedLists.swift in Sources */,
 				ADC482CE28DF20DA00EAE8CC /* Permutations.swift in Sources */,
+				AD4D0A492AE6972300809ED0 /* PowerOfFour.swift in Sources */,
 				ADEE310528B7A5B400448525 /* FibonacciNumber.swift in Sources */,
 				ADE2438628F8350400D3AB3F /* PathSum2.swift in Sources */,
 				AD3F2D862AB0909D00004550 /* MinimumDeletionsToMakeCharacterFrequenciesUnique.swift in Sources */,
