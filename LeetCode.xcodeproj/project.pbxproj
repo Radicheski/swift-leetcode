@@ -501,6 +501,7 @@
 		ADF58E1228C6236D000E08DB /* ValidAnagram.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF58E1128C6236D000E08DB /* ValidAnagram.swift */; };
 		ADF5BF6F28CF7A3F00668B2D /* ListNodeTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF5BF6E28CF7A3F00668B2D /* ListNodeTest.swift */; };
 		ADF677AF2917E870007CB647 /* BitwiseANDOfNumbersRange.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF677AE2917E870007CB647 /* BitwiseANDOfNumbersRange.swift */; };
+		ADF7A6E22AE7EA5E001BDE5C /* FindLargestValueInEachTreeRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF7A6E12AE7EA5E001BDE5C /* FindLargestValueInEachTreeRow.swift */; };
 		ADF7AF10297ECBEF000B34DA /* NumberOfEnclaves.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF7AF0F297ECBEF000B34DA /* NumberOfEnclaves.swift */; };
 		ADF7AF12297ECC9B000B34DA /* CountSubIslands.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF7AF11297ECC9B000B34DA /* CountSubIslands.swift */; };
 		ADF865EF28C224C700885B7A /* IntersectionOfTwoArrays2.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF865EE28C224C700885B7A /* IntersectionOfTwoArrays2.swift */; };
@@ -1018,6 +1019,7 @@
 		ADF58E1128C6236D000E08DB /* ValidAnagram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidAnagram.swift; sourceTree = "<group>"; };
 		ADF5BF6E28CF7A3F00668B2D /* ListNodeTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListNodeTest.swift; sourceTree = "<group>"; };
 		ADF677AE2917E870007CB647 /* BitwiseANDOfNumbersRange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BitwiseANDOfNumbersRange.swift; sourceTree = "<group>"; };
+		ADF7A6E12AE7EA5E001BDE5C /* FindLargestValueInEachTreeRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindLargestValueInEachTreeRow.swift; sourceTree = "<group>"; };
 		ADF7AF0F297ECBEF000B34DA /* NumberOfEnclaves.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfEnclaves.swift; sourceTree = "<group>"; };
 		ADF7AF11297ECC9B000B34DA /* CountSubIslands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountSubIslands.swift; sourceTree = "<group>"; };
 		ADF865EE28C224C700885B7A /* IntersectionOfTwoArrays2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntersectionOfTwoArrays2.swift; sourceTree = "<group>"; };
@@ -1209,6 +1211,7 @@
 				AD86E25629001496007E2A8D /* FindFirstAndLastPositionOfElementInSortedArray.swift */,
 				ADFBDBBA2AD89178000D4997 /* FindInMountainArray.swift */,
 				AD0E7EEA2A4B51C4001B088E /* FindKPairsWithSmallestSums.swift */,
+				ADF7A6E12AE7EA5E001BDE5C /* FindLargestValueInEachTreeRow.swift */,
 				ADF290F529016CF700A8AA6D /* FindMinimumInRotatedSortedArray.swift */,
 				ADD265922954849E0097DD23 /* FindNearestPointThatHasTheSameXOrYCoordinate.swift */,
 				ADF290F729016FDF00A8AA6D /* FindPeakElement.swift */,
@@ -1876,6 +1879,7 @@
 				ADF9488028F6E07B006630E0 /* ConvertSortedArrayToBinarySearchTree.swift in Sources */,
 				AD4BDEA828A7DAB300E61565 /* RomanToInteger.swift in Sources */,
 				AD801F0C294893870098DF16 /* UniquePaths2.swift in Sources */,
+				ADF7A6E22AE7EA5E001BDE5C /* FindLargestValueInEachTreeRow.swift in Sources */,
 				ADA849C02ABF399200AE42E3 /* LongestStringChain.swift in Sources */,
 				AD4CED272ACB91B300DCD389 /* NumberOfGoodPairs.swift in Sources */,
 				ADB4B01A2A94DDD100440492 /* ExcelSheetColumnTitle.swift in Sources */,
