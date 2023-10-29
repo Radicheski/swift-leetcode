@@ -220,6 +220,7 @@
 		AD74DB46297DAFAD003C5807 /* PalindromePartitioning.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD74DB45297DAFAD003C5807 /* PalindromePartitioning.swift */; };
 		AD75563128EEF013004B7039 /* RepeatedDNASequences.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD75563028EEF013004B7039 /* RepeatedDNASequences.swift */; };
 		AD75563328EEF0A3004B7039 /* LongestPalindromicSubstring.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD75563228EEF0A3004B7039 /* LongestPalindromicSubstring.swift */; };
+		AD78E35A2AEED8A800627825 /* PoorPigs.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD78E3592AEED8A800627825 /* PoorPigs.swift */; };
 		AD7914522AE9A59200DA4F67 /* KthSymbolInGrammar.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7914512AE9A59200DA4F67 /* KthSymbolInGrammar.swift */; };
 		AD79509529B0C0F300F12622 /* StringCompression.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD79509429B0C0F300F12622 /* StringCompression.swift */; };
 		AD7A41AB2A3C88BE0060703D /* NumberOfWaysToReorderArrayToGetSameBST.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7A41AA2A3C88BE0060703D /* NumberOfWaysToReorderArrayToGetSameBST.swift */; };
@@ -740,6 +741,7 @@
 		AD74DB45297DAFAD003C5807 /* PalindromePartitioning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalindromePartitioning.swift; sourceTree = "<group>"; };
 		AD75563028EEF013004B7039 /* RepeatedDNASequences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepeatedDNASequences.swift; sourceTree = "<group>"; };
 		AD75563228EEF0A3004B7039 /* LongestPalindromicSubstring.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestPalindromicSubstring.swift; sourceTree = "<group>"; };
+		AD78E3592AEED8A800627825 /* PoorPigs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PoorPigs.swift; sourceTree = "<group>"; };
 		AD7914512AE9A59200DA4F67 /* KthSymbolInGrammar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KthSymbolInGrammar.swift; sourceTree = "<group>"; };
 		AD79509429B0C0F300F12622 /* StringCompression.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringCompression.swift; sourceTree = "<group>"; };
 		AD7A41AA2A3C88BE0060703D /* NumberOfWaysToReorderArrayToGetSameBST.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfWaysToReorderArrayToGetSameBST.swift; sourceTree = "<group>"; };
@@ -1454,6 +1456,7 @@
 				ADC482CD28DF20DA00EAE8CC /* Permutations.swift */,
 				AD31D255290BF75B0030D330 /* Permutations2.swift */,
 				ADD2F0BF2964562C003B0038 /* PlusOne.swift */,
+				AD78E3592AEED8A800627825 /* PoorPigs.swift */,
 				ADC5823B28DB2DBA006D9591 /* PopulatingNextRightPointersInEachNode.swift */,
 				AD6C46F9290801150011A77C /* PopulatingNextRightPointersInEachNode2.swift */,
 				AD617F2A298D2C4B00708E31 /* PossibleBipartition.swift */,
@@ -1738,6 +1741,7 @@
 				AD4C668229152DFC00C86C85 /* LongestCommonSubsequence.swift in Sources */,
 				AD8F5BEF29E1952200E29DB1 /* CloneGraph.swift in Sources */,
 				AD4B1831296749B700262815 /* MinimumNumberOfArrowsToBurstBalloons.swift in Sources */,
+				AD78E35A2AEED8A800627825 /* PoorPigs.swift in Sources */,
 				AD07CAF828F5877E00B2E73A /* MinStack.swift in Sources */,
 				ADF1BDBA29911FC500A87869 /* ShuffleTheArray.swift in Sources */,
 				ADE650E8291BD2740038FDD1 /* WhereWillTheBallFall.swift in Sources */,
