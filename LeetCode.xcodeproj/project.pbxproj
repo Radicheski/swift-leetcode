@@ -23,6 +23,7 @@
 		AD07CAFA28F587CE00B2E73A /* MinimumRemoveToMakeValidParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD07CAF928F587CE00B2E73A /* MinimumRemoveToMakeValidParentheses.swift */; };
 		AD07CAFC28F5886700B2E73A /* FindTheWinnerOfTheCircularGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD07CAFB28F5886700B2E73A /* FindTheWinnerOfTheCircularGame.swift */; };
 		AD08005A2AA9F97400A4F6BB /* ReverseLinkedList2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0800592AA9F97400A4F6BB /* ReverseLinkedList2.swift */; };
+		AD08268F2AFFAB1E0065A715 /* DesignGraphWithShortestPathCalculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD08268E2AFFAB1E0065A715 /* DesignGraphWithShortestPathCalculator.swift */; };
 		AD08C63729C87CDD0090A40C /* CanPlaceFlowers.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD08C63629C87CDD0090A40C /* CanPlaceFlowers.swift */; };
 		AD0A39672AB32C9E003BCCFA /* ReconstructItinerary.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0A39662AB32C9E003BCCFA /* ReconstructItinerary.swift */; };
 		AD0AC56B28BE385B00D4608C /* LastStoneWeight.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0AC56A28BE385B00D4608C /* LastStoneWeight.swift */; };
@@ -554,6 +555,7 @@
 		AD07CAF928F587CE00B2E73A /* MinimumRemoveToMakeValidParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumRemoveToMakeValidParentheses.swift; sourceTree = "<group>"; };
 		AD07CAFB28F5886700B2E73A /* FindTheWinnerOfTheCircularGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheWinnerOfTheCircularGame.swift; sourceTree = "<group>"; };
 		AD0800592AA9F97400A4F6BB /* ReverseLinkedList2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseLinkedList2.swift; sourceTree = "<group>"; };
+		AD08268E2AFFAB1E0065A715 /* DesignGraphWithShortestPathCalculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignGraphWithShortestPathCalculator.swift; sourceTree = "<group>"; };
 		AD08C63629C87CDD0090A40C /* CanPlaceFlowers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CanPlaceFlowers.swift; sourceTree = "<group>"; };
 		AD0A39662AB32C9E003BCCFA /* ReconstructItinerary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReconstructItinerary.swift; sourceTree = "<group>"; };
 		AD0AC56A28BE385B00D4608C /* LastStoneWeight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LastStoneWeight.swift; sourceTree = "<group>"; };
@@ -1217,6 +1219,7 @@
 				ADE0BD7A29C5F6D500F6E93F /* DesignBrowserHistory.swift */,
 				AD339A0E297ABD3F00E3856D /* DesignCircularQueue.swift */,
 				ADEFCB5328E5B7E000F62033 /* DesignHashMap.swift */,
+				AD08268E2AFFAB1E0065A715 /* DesignGraphWithShortestPathCalculator.swift */,
 				AD2590BF2A2629D700D3C838 /* DesignHashSet.swift */,
 				ADCCEEC428F2F18B00B85A54 /* DesignLinkedList.swift */,
 				ADB0D9FE2960587A0016CA62 /* DesignParkingSystem.swift */,
@@ -2187,6 +2190,7 @@
 				ADE4CBDA297812270039E5B3 /* FlattenNestedListIterator.swift in Sources */,
 				AD84D9542923ACA900891349 /* PathSum3.swift in Sources */,
 				AD88BEED2A0FB87F000ECB08 /* CountWaysToBuildGoodStrings.swift in Sources */,
+				AD08268F2AFFAB1E0065A715 /* DesignGraphWithShortestPathCalculator.swift in Sources */,
 				ADC653D52993C549004C4934 /* MinimumNumberOfMovesToSeatEveryone.swift in Sources */,
 				AD07CAFC28F5886700B2E73A /* FindTheWinnerOfTheCircularGame.swift in Sources */,
 				ADD2F0C229645ADB003B0038 /* DeleteColumnsToMakeSorted.swift in Sources */,
