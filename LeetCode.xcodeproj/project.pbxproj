@@ -472,6 +472,7 @@
 		ADE4CBDA297812270039E5B3 /* FlattenNestedListIterator.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE4CBD9297812270039E5B3 /* FlattenNestedListIterator.swift */; };
 		ADE4DF392933824900DF9FEB /* MostStonesRemovedWithSameRowOrColumn.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE4DF382933824900DF9FEB /* MostStonesRemovedWithSameRowOrColumn.swift */; };
 		ADE5763F2A603B3200608F67 /* CourseSchedule.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE5763E2A603B3200608F67 /* CourseSchedule.swift */; };
+		ADE5AD262B125B1100C27F45 /* SumOfAbsoluteDifferencesInASortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE5AD252B125B1100C27F45 /* SumOfAbsoluteDifferencesInASortedArray.swift */; };
 		ADE650E6291BD1880038FDD1 /* SpiralMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE650E5291BD1880038FDD1 /* SpiralMatrix.swift */; };
 		ADE650E8291BD2740038FDD1 /* WhereWillTheBallFall.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE650E7291BD2740038FDD1 /* WhereWillTheBallFall.swift */; };
 		ADE6679129DAF5AB00E5F90B /* BoatsToSavePeople.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE6679029DAF5AB00E5F90B /* BoatsToSavePeople.swift */; };
@@ -1016,6 +1017,7 @@
 		ADE4CBD9297812270039E5B3 /* FlattenNestedListIterator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlattenNestedListIterator.swift; sourceTree = "<group>"; };
 		ADE4DF382933824900DF9FEB /* MostStonesRemovedWithSameRowOrColumn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MostStonesRemovedWithSameRowOrColumn.swift; sourceTree = "<group>"; };
 		ADE5763E2A603B3200608F67 /* CourseSchedule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseSchedule.swift; sourceTree = "<group>"; };
+		ADE5AD252B125B1100C27F45 /* SumOfAbsoluteDifferencesInASortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOfAbsoluteDifferencesInASortedArray.swift; sourceTree = "<group>"; };
 		ADE650E5291BD1880038FDD1 /* SpiralMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpiralMatrix.swift; sourceTree = "<group>"; };
 		ADE650E7291BD2740038FDD1 /* WhereWillTheBallFall.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhereWillTheBallFall.swift; sourceTree = "<group>"; };
 		ADE6679029DAF5AB00E5F90B /* BoatsToSavePeople.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoatsToSavePeople.swift; sourceTree = "<group>"; };
@@ -1624,6 +1626,7 @@
 				AD4F2F4229D9A3FA00836092 /* SuccessfulPairsOfSpellsAndPotions.swift */,
 				ADF2AC192A37411E007F465E /* SummaryRangesTest.swift */,
 				ADC909C9295876F600115BF8 /* SumOfAllOddLengthSubarrays.swift */,
+				ADE5AD252B125B1100C27F45 /* SumOfAbsoluteDifferencesInASortedArray.swift */,
 				AD2B731E295DCFD400334288 /* SumOfLeftLeaves.swift */,
 				AD86C56929C092D00011A9BC /* SumRootToLeafNumbers.swift */,
 				AD1FCE0429095CD800A9B623 /* SurroundedRegions.swift */,
@@ -1845,6 +1848,7 @@
 				AD38799E29C1E0480071B127 /* CheckCompletenessOfABinaryTree.swift in Sources */,
 				ADE9F1A42AC5AFCA0084DB56 /* SortArrayByParity.swift in Sources */,
 				AD4311492982AB0500E127A6 /* CheapestFlightsWithinKStops.swift in Sources */,
+				ADE5AD262B125B1100C27F45 /* SumOfAbsoluteDifferencesInASortedArray.swift in Sources */,
 				ADEC4C722A04870400976373 /* MaximumNumberOfVowelsInASubstringOfGivenLength.swift in Sources */,
 				ADC482D028DF217100EAE8CC /* LetterCasePermutation.swift in Sources */,
 				AD339A0D297ABCFF00E3856D /* InsertDeleteGetRandom.swift in Sources */,
