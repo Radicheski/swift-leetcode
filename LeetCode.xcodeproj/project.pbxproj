@@ -342,6 +342,7 @@
 		ADADF18A28C8FF030021B192 /* RemoveDuplicatesFromSortedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADADF18928C8FF030021B192 /* RemoveDuplicatesFromSortedList.swift */; };
 		ADAEFAE72AD2EA930034A042 /* MaxDotProductOfTwoSubsequences.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAEFAE62AD2EA930034A042 /* MaxDotProductOfTwoSubsequences.swift */; };
 		ADAF390A2ABB629C00C9CAD1 /* MinimumOperationsToReduceXToZero.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAF39092ABB629C00C9CAD1 /* MinimumOperationsToReduceXToZero.swift */; };
+		ADAFABDE2B14B6E100F53133 /* KnightDialer.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAFABDD2B14B6E100F53133 /* KnightDialer.swift */; };
 		ADB002742B0A3743003199E7 /* ReductionOperationsToMakeTheArrayElementsEqual.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB002732B0A3743003199E7 /* ReductionOperationsToMakeTheArrayElementsEqual.swift */; };
 		ADB0D9FF2960587A0016CA62 /* DesignParkingSystem.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB0D9FE2960587A0016CA62 /* DesignParkingSystem.swift */; };
 		ADB0DA01296059E10016CA62 /* RangeSumQueryImmutable.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB0DA00296059E10016CA62 /* RangeSumQueryImmutable.swift */; };
@@ -887,6 +888,7 @@
 		ADADF18928C8FF030021B192 /* RemoveDuplicatesFromSortedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveDuplicatesFromSortedList.swift; sourceTree = "<group>"; };
 		ADAEFAE62AD2EA930034A042 /* MaxDotProductOfTwoSubsequences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxDotProductOfTwoSubsequences.swift; sourceTree = "<group>"; };
 		ADAF39092ABB629C00C9CAD1 /* MinimumOperationsToReduceXToZero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumOperationsToReduceXToZero.swift; sourceTree = "<group>"; };
+		ADAFABDD2B14B6E100F53133 /* KnightDialer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KnightDialer.swift; sourceTree = "<group>"; };
 		ADB002732B0A3743003199E7 /* ReductionOperationsToMakeTheArrayElementsEqual.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReductionOperationsToMakeTheArrayElementsEqual.swift; sourceTree = "<group>"; };
 		ADB0D9FE2960587A0016CA62 /* DesignParkingSystem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignParkingSystem.swift; sourceTree = "<group>"; };
 		ADB0DA00296059E10016CA62 /* RangeSumQueryImmutable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RangeSumQueryImmutable.swift; sourceTree = "<group>"; };
@@ -1339,6 +1341,7 @@
 				ADD8E83228FC3BD200EEBB3C /* KeysAndRooms.swift */,
 				ADCE27B429ED6D1800540EBD /* KidsWithTheGreatestNumberOfCandies.swift */,
 				AD9622AA2A6C1CFE00087578 /* KnightProbabilityInChessboard.swift */,
+				ADAFABDD2B14B6E100F53133 /* KnightDialer.swift */,
 				AD3326FE29B8A213006715FD /* KokoEatingBananas.swift */,
 				AD32C95E28FD75C300305E77 /* KthLargestElementInAnArray.swift */,
 				ADBF7F442A1CE68300552ACE /* KthLargestElementInAStream.swift */,
@@ -1813,6 +1816,7 @@
 				AD4C668229152DFC00C86C85 /* LongestCommonSubsequence.swift in Sources */,
 				AD8F5BEF29E1952200E29DB1 /* CloneGraph.swift in Sources */,
 				AD4B1831296749B700262815 /* MinimumNumberOfArrowsToBurstBalloons.swift in Sources */,
+				ADAFABDE2B14B6E100F53133 /* KnightDialer.swift in Sources */,
 				AD78E35A2AEED8A800627825 /* PoorPigs.swift in Sources */,
 				AD07CAF828F5877E00B2E73A /* MinStack.swift in Sources */,
 				ADF1BDBA29911FC500A87869 /* ShuffleTheArray.swift in Sources */,
