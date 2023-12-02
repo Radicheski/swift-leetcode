@@ -172,6 +172,7 @@
 		AD4F660A298A8E020015FB4B /* OpenTheLock.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4F6609298A8E020015FB4B /* OpenTheLock.swift */; };
 		AD4F660C298A91380015FB4B /* WordLadder.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4F660B298A91380015FB4B /* WordLadder.swift */; };
 		AD4F660E298ABB490015FB4B /* GreatestCommonDivisorOfStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4F660D298ABB490015FB4B /* GreatestCommonDivisorOfStrings.swift */; };
+		AD5065612B1B60FA009455AE /* FindWordsThatCanBeFormedByCharacters.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5065602B1B60FA009455AE /* FindWordsThatCanBeFormedByCharacters.swift */; };
 		AD5358042AF12BEF00C65D10 /* FindTheOriginalArrayOfPrefixXor.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5358032AF12BEF00C65D10 /* FindTheOriginalArrayOfPrefixXor.swift */; };
 		AD5709B52983F456006A523C /* ConcatenatedWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5709B42983F456006A523C /* ConcatenatedWords.swift */; };
 		AD57491A2906A0A7008E89BE /* NumberOfProvinces.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5749192906A0A7008E89BE /* NumberOfProvinces.swift */; };
@@ -721,6 +722,7 @@
 		AD4F6609298A8E020015FB4B /* OpenTheLock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OpenTheLock.swift; sourceTree = "<group>"; };
 		AD4F660B298A91380015FB4B /* WordLadder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordLadder.swift; sourceTree = "<group>"; };
 		AD4F660D298ABB490015FB4B /* GreatestCommonDivisorOfStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GreatestCommonDivisorOfStrings.swift; sourceTree = "<group>"; };
+		AD5065602B1B60FA009455AE /* FindWordsThatCanBeFormedByCharacters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindWordsThatCanBeFormedByCharacters.swift; sourceTree = "<group>"; };
 		AD5358032AF12BEF00C65D10 /* FindTheOriginalArrayOfPrefixXor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheOriginalArrayOfPrefixXor.swift; sourceTree = "<group>"; };
 		AD5709B42983F456006A523C /* ConcatenatedWords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConcatenatedWords.swift; sourceTree = "<group>"; };
 		AD5749192906A0A7008E89BE /* NumberOfProvinces.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfProvinces.swift; sourceTree = "<group>"; };
@@ -1305,6 +1307,7 @@
 				ADA8F8EA2AF7F48B00A71525 /* FindTheWinnerOfAnArrayGame.swift */,
 				ADB1FB742B063A2E0001D251 /* FindUniqueBinaryString.swift */,
 				ADD1C41B28B3CA3F00E63642 /* FirstBadVersion.swift */,
+				AD5065602B1B60FA009455AE /* FindWordsThatCanBeFormedByCharacters.swift */,
 				ADF58E0F28C622D7000E08DB /* FirstUniqueCharacterInAString.swift */,
 				AD4BDEA928A7DDA700E61565 /* FizzBuzz.swift */,
 				ADE4CBD9297812270039E5B3 /* FlattenNestedListIterator.swift */,
@@ -2208,6 +2211,7 @@
 				AD5CBBEC28B254A000495544 /* TreeNode.swift in Sources */,
 				AD74CBA52A96819300F08479 /* ReorganizeString.swift in Sources */,
 				AD0A39672AB32C9E003BCCFA /* ReconstructItinerary.swift in Sources */,
+				AD5065612B1B60FA009455AE /* FindWordsThatCanBeFormedByCharacters.swift in Sources */,
 				ADC46DB028A922C7003B926E /* NumberOfStepsRoReduceANumberToZero.swift in Sources */,
 				AD852695293BA3ED0096B9D2 /* MaximumSumCircularSubarray.swift in Sources */,
 				AD42FF3729D4AA1F00B569EB /* ReducingDishes.swift in Sources */,
