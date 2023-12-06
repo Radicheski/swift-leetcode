@@ -135,6 +135,7 @@
 		AD3F87B2298C221200750194 /* DistantBarcodes.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3F87B1298C221200750194 /* DistantBarcodes.swift */; };
 		AD4002D0297C4C9C004FDB72 /* RestoreIPAddresses.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4002CF297C4C9C004FDB72 /* RestoreIPAddresses.swift */; };
 		AD40251C29E7424B00BE3D15 /* SimplifyPath.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD40251B29E7424B00BE3D15 /* SimplifyPath.swift */; };
+		AD4255A92B20A4C1002990CA /* CalculateMoneyInLeetcodeBank.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4255A82B20A4C1002990CA /* CalculateMoneyInLeetcodeBank.swift */; };
 		AD42FF3729D4AA1F00B569EB /* ReducingDishes.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD42FF3629D4AA1F00B569EB /* ReducingDishes.swift */; };
 		AD4311452982966300E127A6 /* ShortestBridge.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4311442982966300E127A6 /* ShortestBridge.swift */; };
 		AD4311472982975500E127A6 /* NearestExitFromEntranceInMaze.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4311462982975500E127A6 /* NearestExitFromEntranceInMaze.swift */; };
@@ -688,6 +689,7 @@
 		AD3F87B1298C221200750194 /* DistantBarcodes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DistantBarcodes.swift; sourceTree = "<group>"; };
 		AD4002CF297C4C9C004FDB72 /* RestoreIPAddresses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestoreIPAddresses.swift; sourceTree = "<group>"; };
 		AD40251B29E7424B00BE3D15 /* SimplifyPath.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimplifyPath.swift; sourceTree = "<group>"; };
+		AD4255A82B20A4C1002990CA /* CalculateMoneyInLeetcodeBank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculateMoneyInLeetcodeBank.swift; sourceTree = "<group>"; };
 		AD42FF3629D4AA1F00B569EB /* ReducingDishes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReducingDishes.swift; sourceTree = "<group>"; };
 		AD4311442982966300E127A6 /* ShortestBridge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShortestBridge.swift; sourceTree = "<group>"; };
 		AD4311462982975500E127A6 /* NearestExitFromEntranceInMaze.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NearestExitFromEntranceInMaze.swift; sourceTree = "<group>"; };
@@ -1198,6 +1200,7 @@
 				AD1BBB5728BB83CD000032DD /* BullsAndCows.swift */,
 				AD899FD6292913F9001DD001 /* BusRoutes.swift */,
 				AD2E2CEA2955CFF500C790D0 /* CanMakeArithmeticProgressionFromSequence.swift */,
+				AD4255A82B20A4C1002990CA /* CalculateMoneyInLeetcodeBank.swift */,
 				AD743E852AB21D5A00B1D79A /* Candy.swift */,
 				AD08C63629C87CDD0090A40C /* CanPlaceFlowers.swift */,
 				ADECE5FD29A63EA600A6FB04 /* CapacityToShipPackagesWithinDDays.swift */,
@@ -2198,6 +2201,7 @@
 				ADB7F32A292CF06C005905FC /* MinimumWindowSubstring.swift in Sources */,
 				ADD2F0C02964562C003B0038 /* PlusOne.swift in Sources */,
 				AD95D5172972D47F000EEFF6 /* LexicographicallySmallestEquivalentString.swift in Sources */,
+				AD4255A92B20A4C1002990CA /* CalculateMoneyInLeetcodeBank.swift in Sources */,
 				AD4ABB862A7FD99500CE45E1 /* NumberOfMusicPlaylists.swift in Sources */,
 				ADD274E02976B9AE0034B90A /* SeatReservationManager.swift in Sources */,
 				ADD124A6296EE14400E05EAB /* TimeNeededToInformAllEmployees.swift in Sources */,
