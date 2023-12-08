@@ -99,6 +99,7 @@
 		AD3306EC29191AF6005FE669 /* ShuffleAnArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3306EB29191AF6005FE669 /* ShuffleAnArray.swift */; };
 		AD33093829AF790400415596 /* SortAnArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD33093729AF790400415596 /* SortAnArray.swift */; };
 		AD3326FF29B8A213006715FD /* KokoEatingBananas.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3326FE29B8A213006715FD /* KokoEatingBananas.swift */; };
+		AD338AB12B23406B0031BF81 /* ConstructStringFromBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD338AB02B23406B0031BF81 /* ConstructStringFromBinaryTree.swift */; };
 		AD339A0D297ABCFF00E3856D /* InsertDeleteGetRandom.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD339A0C297ABCFF00E3856D /* InsertDeleteGetRandom.swift */; };
 		AD339A0F297ABD3F00E3856D /* DesignCircularQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD339A0E297ABD3F00E3856D /* DesignCircularQueue.swift */; };
 		AD339A11297ABD9F00E3856D /* MyCalendarI.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD339A10297ABD9F00E3856D /* MyCalendarI.swift */; };
@@ -654,6 +655,7 @@
 		AD3306EB29191AF6005FE669 /* ShuffleAnArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShuffleAnArray.swift; sourceTree = "<group>"; };
 		AD33093729AF790400415596 /* SortAnArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortAnArray.swift; sourceTree = "<group>"; };
 		AD3326FE29B8A213006715FD /* KokoEatingBananas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KokoEatingBananas.swift; sourceTree = "<group>"; };
+		AD338AB02B23406B0031BF81 /* ConstructStringFromBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstructStringFromBinaryTree.swift; sourceTree = "<group>"; };
 		AD339A0C297ABCFF00E3856D /* InsertDeleteGetRandom.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsertDeleteGetRandom.swift; sourceTree = "<group>"; };
 		AD339A0E297ABD3F00E3856D /* DesignCircularQueue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignCircularQueue.swift; sourceTree = "<group>"; };
 		AD339A10297ABD9F00E3856D /* MyCalendarI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCalendarI.swift; sourceTree = "<group>"; };
@@ -1232,6 +1234,7 @@
 				AD3A647829A25D6C0041A5C8 /* ConstructKPalindromeStrings.swift */,
 				AD48552429AD24B4009F9148 /* ConstructQuadTree.swift */,
 				AD8A1EEF29044C5C00ABA3F6 /* ContainerWithMostWater.swift */,
+				AD338AB02B23406B0031BF81 /* ConstructStringFromBinaryTree.swift */,
 				ADBEEB6728BF847B0069B4BB /* ContainsDuplicate.swift */,
 				AD2B731C295DCF1F00334288 /* ConvertBinaryNumberInALinkedListToInteger.swift */,
 				ADF9487F28F6E07B006630E0 /* ConvertSortedArrayToBinarySearchTree.swift */,
@@ -2049,6 +2052,7 @@
 				ADB872512B10DA9000068F62 /* MaximumNumberOfCoinsYouCanGet.swift in Sources */,
 				AD74DB46297DAFAD003C5807 /* PalindromePartitioning.swift in Sources */,
 				AD886DA32A4DEFFF00A4DAF0 /* ShortestPathToGetAllKeys.swift in Sources */,
+				AD338AB12B23406B0031BF81 /* ConstructStringFromBinaryTree.swift in Sources */,
 				AD8188F82A77CE8200665143 /* MinimumASCIIDeleteSumForTwoStrings.swift in Sources */,
 				AD2E2CED2955D08200C790D0 /* CheckIfOneStringSwapCanMakeStringsEqual.swift in Sources */,
 				AD8626902949F15700027B1A /* MaximalSquare.swift in Sources */,
