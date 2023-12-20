@@ -402,6 +402,7 @@
 		ADC593AA2A2230FD0020584C /* StoneGame3.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC593A92A2230FD0020584C /* StoneGame3.swift */; };
 		ADC5B13728AD5102002FED4E /* IsomorphicStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC5B13628AD5102002FED4E /* IsomorphicStrings.swift */; };
 		ADC5B13928AD5A00002FED4E /* IsSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC5B13828AD5A00002FED4E /* IsSubsequence.swift */; };
+		ADC5B92E2B333652001FB8D0 /* BuyTwoChocolates.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC5B92D2B333652001FB8D0 /* BuyTwoChocolates.swift */; };
 		ADC653D52993C549004C4934 /* MinimumNumberOfMovesToSeatEveryone.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC653D42993C549004C4934 /* MinimumNumberOfMovesToSeatEveryone.swift */; };
 		ADC65A3C2B2F2BE00081C4CA /* DesignAFoodRatingSystem.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC65A3B2B2F2BE00081C4CA /* DesignAFoodRatingSystem.swift */; };
 		ADC6C34E29B2162500FE3B1F /* DetermineIfStringHalvesAreAlike.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC6C34D29B2162500FE3B1F /* DetermineIfStringHalvesAreAlike.swift */; };
@@ -966,6 +967,7 @@
 		ADC593A92A2230FD0020584C /* StoneGame3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoneGame3.swift; sourceTree = "<group>"; };
 		ADC5B13628AD5102002FED4E /* IsomorphicStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IsomorphicStrings.swift; sourceTree = "<group>"; };
 		ADC5B13828AD5A00002FED4E /* IsSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IsSubsequence.swift; sourceTree = "<group>"; };
+		ADC5B92D2B333652001FB8D0 /* BuyTwoChocolates.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuyTwoChocolates.swift; sourceTree = "<group>"; };
 		ADC653D42993C549004C4934 /* MinimumNumberOfMovesToSeatEveryone.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberOfMovesToSeatEveryone.swift; sourceTree = "<group>"; };
 		ADC65A3B2B2F2BE00081C4CA /* DesignAFoodRatingSystem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignAFoodRatingSystem.swift; sourceTree = "<group>"; };
 		ADC6C34D29B2162500FE3B1F /* DetermineIfStringHalvesAreAlike.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetermineIfStringHalvesAreAlike.swift; sourceTree = "<group>"; };
@@ -1220,6 +1222,7 @@
 				AD1BBB5728BB83CD000032DD /* BullsAndCows.swift */,
 				AD899FD6292913F9001DD001 /* BusRoutes.swift */,
 				AD2E2CEA2955CFF500C790D0 /* CanMakeArithmeticProgressionFromSequence.swift */,
+				ADC5B92D2B333652001FB8D0 /* BuyTwoChocolates.swift */,
 				AD4255A82B20A4C1002990CA /* CalculateMoneyInLeetcodeBank.swift */,
 				AD743E852AB21D5A00B1D79A /* Candy.swift */,
 				AD08C63629C87CDD0090A40C /* CanPlaceFlowers.swift */,
@@ -2062,6 +2065,7 @@
 				AD3A647929A25D6C0041A5C8 /* ConstructKPalindromeStrings.swift in Sources */,
 				AD5CBBE628B251A500495544 /* GenericNode.swift in Sources */,
 				AD0AC56D28BE38C100D4608C /* TopKFrequentWords.swift in Sources */,
+				ADC5B92E2B333652001FB8D0 /* BuyTwoChocolates.swift in Sources */,
 				AD3ED08228D34DD90080829A /* SquaresOfASortedArray.swift in Sources */,
 				ADB40E5E28E9B2F800D51F9C /* SubarraySumEqualsK.swift in Sources */,
 				ADF9488228F6E189006630E0 /* ConstructBinaryTreeFromPreorderAndInorderTraversal.swift in Sources */,
