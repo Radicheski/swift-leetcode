@@ -569,6 +569,7 @@
 		ADFF1B07295715E100D55D2C /* NextGreaterElement1.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADFF1B06295715E100D55D2C /* NextGreaterElement1.swift */; };
 		ADFF1B092957165600D55D2C /* CheckIfItIsAStraightLine.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADFF1B082957165600D55D2C /* CheckIfItIsAStraightLine.swift */; };
 		ADFF7707290FE66500C26081 /* JumpGame2.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADFF7706290FE66500C26081 /* JumpGame2.swift */; };
+		ADFFEB1D2B34618000BB0DA4 /* WidestVerticalAreaBetweenTwoPointsContainingNoPoints.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADFFEB1C2B34618000BB0DA4 /* WidestVerticalAreaBetweenTwoPointsContainingNoPoints.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -1135,6 +1136,7 @@
 		ADFF1B06295715E100D55D2C /* NextGreaterElement1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextGreaterElement1.swift; sourceTree = "<group>"; };
 		ADFF1B082957165600D55D2C /* CheckIfItIsAStraightLine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckIfItIsAStraightLine.swift; sourceTree = "<group>"; };
 		ADFF7706290FE66500C26081 /* JumpGame2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpGame2.swift; sourceTree = "<group>"; };
+		ADFFEB1C2B34618000BB0DA4 /* WidestVerticalAreaBetweenTwoPointsContainingNoPoints.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WidestVerticalAreaBetweenTwoPointsContainingNoPoints.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -1731,6 +1733,7 @@
 				AD7B3DB129893F4800DB46E4 /* WaterAndJugProblem.swift */,
 				ADE650E7291BD2740038FDD1 /* WhereWillTheBallFall.swift */,
 				ADF2C0B8294C964200557C7D /* WiggleSubsequence.swift */,
+				ADFFEB1C2B34618000BB0DA4 /* WidestVerticalAreaBetweenTwoPointsContainingNoPoints.swift */,
 				AD862E4029129270008F93B1 /* WordBreak.swift */,
 				AD4F660B298A91380015FB4B /* WordLadder.swift */,
 				ADF9B02128EC4CF8003975A6 /* WordPattern.swift */,
@@ -1949,6 +1952,7 @@
 				AD7150E929E2DEE700B71CCC /* LargestColorValueInADirectedGraph.swift in Sources */,
 				AD2C00B629FDADBF0008E7D8 /* CheckingExistenceOfEdgeLengthLimitedPaths.swift in Sources */,
 				AD5CBBE828B251D700495544 /* NaryTreePreorderTraversal.swift in Sources */,
+				ADFFEB1D2B34618000BB0DA4 /* WidestVerticalAreaBetweenTwoPointsContainingNoPoints.swift in Sources */,
 				AD7E57A92B2737D50026B458 /* ElementAppearingMoreThan25InSortedArray.swift in Sources */,
 				ADADA529295324F700CBB58C /* SubtractTheProductAndSumOfDigitsOfAnInteger.swift in Sources */,
 				AD6C46FC2908019A0011A77C /* SubtreeOfAnotherTree.swift in Sources */,
