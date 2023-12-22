@@ -144,6 +144,7 @@
 		AD4311492982AB0500E127A6 /* CheapestFlightsWithinKStops.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4311482982AB0500E127A6 /* CheapestFlightsWithinKStops.swift */; };
 		AD4386CF2961ADBA003FA0BD /* MonotonicArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4386CE2961ADBA003FA0BD /* MonotonicArray.swift */; };
 		AD4386D12961AE4C003FA0BD /* FindTheIndexOfTheFirstOccurrenceInAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4386D02961AE4C003FA0BD /* FindTheIndexOfTheFirstOccurrenceInAString.swift */; };
+		AD43BBA92B35E0DF00672B9B /* MaximumScoreAfterSplittingAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD43BBA82B35E0DF00672B9B /* MaximumScoreAfterSplittingAString.swift */; };
 		AD45D00128D9DCD000544C0A /* MaxAreaOfIsland.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD45D00028D9DCD000544C0A /* MaxAreaOfIsland.swift */; };
 		AD4789C12AF52F0A0060440B /* BuildAnArrayWithStackOperations.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4789C02AF52F0A0060440B /* BuildAnArrayWithStackOperations.swift */; };
 		AD48552529AD24B4009F9148 /* ConstructQuadTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD48552429AD24B4009F9148 /* ConstructQuadTree.swift */; };
@@ -710,6 +711,7 @@
 		AD4311482982AB0500E127A6 /* CheapestFlightsWithinKStops.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheapestFlightsWithinKStops.swift; sourceTree = "<group>"; };
 		AD4386CE2961ADBA003FA0BD /* MonotonicArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MonotonicArray.swift; sourceTree = "<group>"; };
 		AD4386D02961AE4C003FA0BD /* FindTheIndexOfTheFirstOccurrenceInAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheIndexOfTheFirstOccurrenceInAString.swift; sourceTree = "<group>"; };
+		AD43BBA82B35E0DF00672B9B /* MaximumScoreAfterSplittingAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumScoreAfterSplittingAString.swift; sourceTree = "<group>"; };
 		AD45D00028D9DCD000544C0A /* MaxAreaOfIsland.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxAreaOfIsland.swift; sourceTree = "<group>"; };
 		AD4789C02AF52F0A0060440B /* BuildAnArrayWithStackOperations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuildAnArrayWithStackOperations.swift; sourceTree = "<group>"; };
 		AD48552429AD24B4009F9148 /* ConstructQuadTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstructQuadTree.swift; sourceTree = "<group>"; };
@@ -1462,6 +1464,7 @@
 				AD86B4842B28816B00A65358 /* MaximumProductOfTwoElementsInAnArray.swift */,
 				AD980B522A7295B10055B5D3 /* MaximumRunningTimeOfNComputers.swift */,
 				AD264CB82AE5715D00F8D6E6 /* MaximumScoreOfAGoodSubarray.swift */,
+				AD43BBA82B35E0DF00672B9B /* MaximumScoreAfterSplittingAString.swift */,
 				ADBEEB6928BF84F90069B4BB /* MaximumSubarray.swift */,
 				AD852694293BA3ED0096B9D2 /* MaximumSumCircularSubarray.swift */,
 				AD32C9632A1E7F7D00A8CAC6 /* MaximumSubsequenceScore.swift */,
@@ -1824,6 +1827,7 @@
 				AD9147DD29685B47007F9218 /* MaximumIceCreamBars.swift in Sources */,
 				AD7A41AB2A3C88BE0060703D /* NumberOfWaysToReorderArrayToGetSameBST.swift in Sources */,
 				ADCCEEC328F2F0D900B85A54 /* SwapNodesInPairs.swift in Sources */,
+				AD43BBA92B35E0DF00672B9B /* MaximumScoreAfterSplittingAString.swift in Sources */,
 				AD90565328C4C6A700886275 /* ValidSudoku.swift in Sources */,
 				AD727CD329F98DC300FDD2A2 /* AddDigits.swift in Sources */,
 				AD844B0F28CA20F4008E1AEF /* ImplementQueueUsingStacks.swift in Sources */,
