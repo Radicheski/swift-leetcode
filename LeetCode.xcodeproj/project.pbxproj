@@ -186,6 +186,7 @@
 		AD57D52E2ADEAFCC00EDED2F /* ValidateBinaryTreeNodes.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD57D52D2ADEAFCC00EDED2F /* ValidateBinaryTreeNodes.swift */; };
 		AD59FDCE2A9D7076007CC7AC /* MinimumPenaltyForAShop.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD59FDCD2A9D7076007CC7AC /* MinimumPenaltyForAShop.swift */; };
 		AD5B38052B2C879F006A1887 /* DestinationCity.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5B38042B2C879F006A1887 /* DestinationCity.swift */; };
+		AD5C663E2B3B1FCB007D2DFA /* NumberOfDiceRollsWithTargetSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5C663D2B3B1FCB007D2DFA /* NumberOfDiceRollsWithTargetSum.swift */; };
 		AD5CBBE628B251A500495544 /* GenericNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5CBBE528B251A500495544 /* GenericNode.swift */; };
 		AD5CBBE828B251D700495544 /* NaryTreePreorderTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5CBBE728B251D700495544 /* NaryTreePreorderTraversal.swift */; };
 		AD5CBBEA28B2547F00495544 /* BinaryTreeLevelOrderTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5CBBE928B2547F00495544 /* BinaryTreeLevelOrderTraversal.swift */; };
@@ -755,6 +756,7 @@
 		AD57D52D2ADEAFCC00EDED2F /* ValidateBinaryTreeNodes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidateBinaryTreeNodes.swift; sourceTree = "<group>"; };
 		AD59FDCD2A9D7076007CC7AC /* MinimumPenaltyForAShop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumPenaltyForAShop.swift; sourceTree = "<group>"; };
 		AD5B38042B2C879F006A1887 /* DestinationCity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DestinationCity.swift; sourceTree = "<group>"; };
+		AD5C663D2B3B1FCB007D2DFA /* NumberOfDiceRollsWithTargetSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfDiceRollsWithTargetSum.swift; sourceTree = "<group>"; };
 		AD5CBBE528B251A500495544 /* GenericNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GenericNode.swift; sourceTree = "<group>"; };
 		AD5CBBE728B251D700495544 /* NaryTreePreorderTraversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NaryTreePreorderTraversal.swift; sourceTree = "<group>"; };
 		AD5CBBE928B2547F00495544 /* BinaryTreeLevelOrderTraversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryTreeLevelOrderTraversal.swift; sourceTree = "<group>"; };
@@ -1547,6 +1549,7 @@
 				AD1AB3572936659A00BDF5A5 /* NthTribonacciNumber.swift */,
 				AD74DB43297DA594003C5807 /* NumberOfClosedIslands.swift */,
 				ADF7AF0F297ECBEF000B34DA /* NumberOfEnclaves.swift */,
+				AD5C663D2B3B1FCB007D2DFA /* NumberOfDiceRollsWithTargetSum.swift */,
 				AD6992E92AD6CC86007F95C8 /* NumberOfFlowersInFullBloom.swift */,
 				AD4CED262ACB91B300DCD389 /* NumberOfGoodPairs.swift */,
 				ADF243C8297456480006F2A4 /* NumberOfGoodPaths.swift */,
@@ -2200,6 +2203,7 @@
 				AD2A46D928AA9C9E009C45A8 /* RichestCustomerWealth.swift in Sources */,
 				AD4789C12AF52F0A0060440B /* BuildAnArrayWithStackOperations.swift in Sources */,
 				ADF58E1028C622D7000E08DB /* FirstUniqueCharacterInAString.swift in Sources */,
+				AD5C663E2B3B1FCB007D2DFA /* NumberOfDiceRollsWithTargetSum.swift in Sources */,
 				AD84D9522923AC0B00891349 /* DiameterOfBinaryTree.swift in Sources */,
 				AD31D256290BF75B0030D330 /* Permutations2.swift in Sources */,
 				ADD67EA7297972A100402175 /* SubarraySumsDivisibleByK.swift in Sources */,

@@ -25,21 +25,21 @@ final class MinimumChangesToMakeAlternatingBinaryString: XCTestCase {
     
 }
 
-private class Solution {
-    func minOperations(_ s: String) -> Int {
-        var changes = Array(repeating: 0, count: 2)
-        
-        let s = Array(s).map(String.init).compactMap(Int.init)
-        var target = 0
-        
-        for bit in s {
-            changes[0] += bit ^ target
+    private class Solution {
+        func minOperations(_ s: String) -> Int {
+            var changes = Array(repeating: 0, count: 2)
             
-            target = 1 - target
+            let s = Array(s).map(String.init).compactMap(Int.init)
+            var target = 0
             
-            changes[1] += bit ^ target
+            for bit in s {
+                changes[0] += bit ^ target
+                
+                target = 1 - target
+                
+                changes[1] += bit ^ target
+            }
+            
+            return changes.min()!
         }
-        
-        return changes.min()!
     }
-}
