@@ -53,6 +53,7 @@
 		AD1BBB5628BB832B000032DD /* TwoSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1BBB5528BB832B000032DD /* TwoSum.swift */; };
 		AD1BBB5828BB83CD000032DD /* BullsAndCows.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1BBB5728BB83CD000032DD /* BullsAndCows.swift */; };
 		AD1CCC98299E5C86006A130E /* MaximumTastinessOfCandyBasket.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1CCC97299E5C86006A130E /* MaximumTastinessOfCandyBasket.swift */; };
+		AD1FADFD2B42F7920025BB9F /* AssignCookies.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1FADFC2B42F7920025BB9F /* AssignCookies.swift */; };
 		AD1FCE0329095C0300A9B623 /* ShortestPathInBinaryMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1FCE0229095C0300A9B623 /* ShortestPathInBinaryMatrix.swift */; };
 		AD1FCE0529095CD800A9B623 /* SurroundedRegions.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1FCE0429095CD800A9B623 /* SurroundedRegions.swift */; };
 		AD1FCE0729095D9700A9B623 /* AllPathsFromSourceToTarget.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1FCE0629095D9700A9B623 /* AllPathsFromSourceToTarget.swift */; };
@@ -628,6 +629,7 @@
 		AD1BBB5528BB832B000032DD /* TwoSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSum.swift; sourceTree = "<group>"; };
 		AD1BBB5728BB83CD000032DD /* BullsAndCows.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BullsAndCows.swift; sourceTree = "<group>"; };
 		AD1CCC97299E5C86006A130E /* MaximumTastinessOfCandyBasket.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumTastinessOfCandyBasket.swift; sourceTree = "<group>"; };
+		AD1FADFC2B42F7920025BB9F /* AssignCookies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssignCookies.swift; sourceTree = "<group>"; };
 		AD1FCE0229095C0300A9B623 /* ShortestPathInBinaryMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShortestPathInBinaryMatrix.swift; sourceTree = "<group>"; };
 		AD1FCE0429095CD800A9B623 /* SurroundedRegions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SurroundedRegions.swift; sourceTree = "<group>"; };
 		AD1FCE0629095D9700A9B623 /* AllPathsFromSourceToTarget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllPathsFromSourceToTarget.swift; sourceTree = "<group>"; };
@@ -1213,6 +1215,7 @@
 				AD015017296C3A8500C763CC /* ArithmeticSubarrays.swift */,
 				AD05D58C298038CF00B35E1B /* AsFarFromLandAsPossible.swift */,
 				ADF4710929326C18007A320F /* AsteroidCollision.swift */,
+				AD1FADFC2B42F7920025BB9F /* AssignCookies.swift */,
 				AD69BA122951D6EE00986792 /* AverageSalaryExcludingTheMinimumAndMaximumSalary.swift */,
 				ADDCF94828BCD57200E7CA46 /* BackspaceStringCompare.swift */,
 				ADAA5A3929225FDC003EE31E /* BalancedBinaryTree.swift */,
@@ -2301,6 +2304,7 @@
 				AD7D9CDD29A91C4C00E0D269 /* MinimizeDeviationInArray.swift in Sources */,
 				AD2E2CE92955CF6300C790D0 /* SignOfTheProductOfAnArray.swift in Sources */,
 				ADEB25C72B1F438100783C6E /* CountOfMatchesInTournament.swift in Sources */,
+				AD1FADFD2B42F7920025BB9F /* AssignCookies.swift in Sources */,
 				ADD274E22976BB0E0034B90A /* LemonadeChange.swift in Sources */,
 				ADF290F829016FDF00A8AA6D /* FindPeakElement.swift in Sources */,
 				AD3B8BE52AA0F2B200923BC4 /* MinimumNumberOfTapsToOpenToWaterAGarden.swift in Sources */,
