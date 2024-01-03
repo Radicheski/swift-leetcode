@@ -115,6 +115,7 @@
 		AD361C4B28E1C883002962BB /* PowerOfTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD361C4A28E1C883002962BB /* PowerOfTwo.swift */; };
 		AD361C4D28E1C929002962BB /* NumberOfOneBits.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD361C4C28E1C929002962BB /* NumberOfOneBits.swift */; };
 		AD366CAE29E5C4E800A3991E /* RemovingStarsFromAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD366CAD29E5C4E800A3991E /* RemovingStarsFromAString.swift */; };
+		AD36EA9A2B458DE000372E13 /* NumberOfLaserBeamsInABank.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD36EA992B458DE000372E13 /* NumberOfLaserBeamsInABank.swift */; };
 		AD3831002A5452D5003B68D8 /* SingleNumber2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3830FF2A5452D5003B68D8 /* SingleNumber2.swift */; };
 		AD38799E29C1E0480071B127 /* CheckCompletenessOfABinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD38799D29C1E0480071B127 /* CheckCompletenessOfABinaryTree.swift */; };
 		AD3883EB2959C060005F0B28 /* MatrixDiagonalSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3883EA2959C060005F0B28 /* MatrixDiagonalSum.swift */; };
@@ -692,6 +693,7 @@
 		AD361C4A28E1C883002962BB /* PowerOfTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PowerOfTwo.swift; sourceTree = "<group>"; };
 		AD361C4C28E1C929002962BB /* NumberOfOneBits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfOneBits.swift; sourceTree = "<group>"; };
 		AD366CAD29E5C4E800A3991E /* RemovingStarsFromAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemovingStarsFromAString.swift; sourceTree = "<group>"; };
+		AD36EA992B458DE000372E13 /* NumberOfLaserBeamsInABank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfLaserBeamsInABank.swift; sourceTree = "<group>"; };
 		AD3830FF2A5452D5003B68D8 /* SingleNumber2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleNumber2.swift; sourceTree = "<group>"; };
 		AD38799D29C1E0480071B127 /* CheckCompletenessOfABinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckCompletenessOfABinaryTree.swift; sourceTree = "<group>"; };
 		AD3883EA2959C060005F0B28 /* MatrixDiagonalSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatrixDiagonalSum.swift; sourceTree = "<group>"; };
@@ -1575,6 +1577,7 @@
 				AD9509B62A3F3EAA006BC652 /* NumberOfIncreasingPathsInAGrid.swift */,
 				AD820F5A28B65A1C00BA068E /* NumberOfIslands.swift */,
 				AD35997C2913DFBE0082AC68 /* NumberOfLongestIncreasingSubsequence.swift */,
+				AD36EA992B458DE000372E13 /* NumberOfLaserBeamsInABank.swift */,
 				AD4ABB852A7FD99500CE45E1 /* NumberOfMusicPlaylists.swift */,
 				AD32520F297029150095A3F9 /* NumberOfNodesInTheSubTreeWithTheSameLabel.swift */,
 				AD361C4C28E1C929002962BB /* NumberOfOneBits.swift */,
@@ -2269,6 +2272,7 @@
 				ADA86E8728F4419B00A01BC2 /* ReorderList.swift in Sources */,
 				AD617F29298D2B4200708E31 /* MaximalNetworkRank.swift in Sources */,
 				ADFCA5A229F2C70400B24EE9 /* ProfitableSchemes.swift in Sources */,
+				AD36EA9A2B458DE000372E13 /* NumberOfLaserBeamsInABank.swift in Sources */,
 				ADF4710C29326C9D007A320F /* BasicCalculator2.swift in Sources */,
 				AD8AF1DD299A642C002C7C1C /* ImageSmoother.swift in Sources */,
 				ADA376E22A4F01B3008783CC /* LastDayWhereYouCanStillCross.swift in Sources */,
