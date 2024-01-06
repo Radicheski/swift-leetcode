@@ -215,6 +215,7 @@
 		AD649F282AC4539600AB0D45 /* DecodedStringAtIndex.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD649F272AC4539600AB0D45 /* DecodedStringAtIndex.swift */; };
 		AD64D09D29F5A50800A9B9DF /* RestoreTheArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD64D09C29F5A50800A9B9DF /* RestoreTheArray.swift */; };
 		AD653F632A5C2EEB00C7CCE8 /* MinimumDepthOfBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD653F622A5C2EEB00C7CCE8 /* MinimumDepthOfBinaryTree.swift */; };
+		AD66415D2B49A8E800980F81 /* MaximumProfitInJobScheduling.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD66415C2B49A8E800980F81 /* MaximumProfitInJobScheduling.swift */; };
 		AD6669FB29B60A5900C1D36A /* KthMissingPositiveNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6669FA29B60A5900C1D36A /* KthMissingPositiveNumber.swift */; };
 		AD68299E2AB4976C00ECEDFB /* MinCostToConnectAllPoints.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD68299D2AB4976C00ECEDFB /* MinCostToConnectAllPoints.swift */; };
 		AD69520C2A2380370060C92F /* MinimumCostToCutAStick.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD69520B2A2380370060C92F /* MinimumCostToCutAStick.swift */; };
@@ -794,6 +795,7 @@
 		AD649F272AC4539600AB0D45 /* DecodedStringAtIndex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DecodedStringAtIndex.swift; sourceTree = "<group>"; };
 		AD64D09C29F5A50800A9B9DF /* RestoreTheArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestoreTheArray.swift; sourceTree = "<group>"; };
 		AD653F622A5C2EEB00C7CCE8 /* MinimumDepthOfBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumDepthOfBinaryTree.swift; sourceTree = "<group>"; };
+		AD66415C2B49A8E800980F81 /* MaximumProfitInJobScheduling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumProfitInJobScheduling.swift; sourceTree = "<group>"; };
 		AD6669FA29B60A5900C1D36A /* KthMissingPositiveNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KthMissingPositiveNumber.swift; sourceTree = "<group>"; };
 		AD68299D2AB4976C00ECEDFB /* MinCostToConnectAllPoints.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinCostToConnectAllPoints.swift; sourceTree = "<group>"; };
 		AD69520B2A2380370060C92F /* MinimumCostToCutAStick.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumCostToCutAStick.swift; sourceTree = "<group>"; };
@@ -1490,6 +1492,7 @@
 				ADA7A4F82B306F8000FD2F77 /* MaximumProductDifferenceBetweenTwoPairs.swift */,
 				AD86B4842B28816B00A65358 /* MaximumProductOfTwoElementsInAnArray.swift */,
 				AD980B522A7295B10055B5D3 /* MaximumRunningTimeOfNComputers.swift */,
+				AD66415C2B49A8E800980F81 /* MaximumProfitInJobScheduling.swift */,
 				AD264CB82AE5715D00F8D6E6 /* MaximumScoreOfAGoodSubarray.swift */,
 				AD43BBA82B35E0DF00672B9B /* MaximumScoreAfterSplittingAString.swift */,
 				ADBEEB6928BF84F90069B4BB /* MaximumSubarray.swift */,
@@ -2140,6 +2143,7 @@
 				ADB0D9FF2960587A0016CA62 /* DesignParkingSystem.swift in Sources */,
 				AD1321742A41E02100BE8D1D /* KRadiusSubarrayAverages.swift in Sources */,
 				AD27DB0D29AE2038007BAD2B /* FindDuplicateSubtrees.swift in Sources */,
+				AD66415D2B49A8E800980F81 /* MaximumProfitInJobScheduling.swift in Sources */,
 				AD94460729B75D9E00A9C5AE /* MinimumTimeToCompleteTrips.swift in Sources */,
 				AD6669FB29B60A5900C1D36A /* KthMissingPositiveNumber.swift in Sources */,
 				AD5D200E2B41D01800C03107 /* LargestSubstringBetweenTwoEqualCharacters.swift in Sources */,
