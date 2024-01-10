@@ -585,6 +585,7 @@
 		ADFE121528D1EA470063013C /* SearchInsertPosition.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADFE121428D1EA470063013C /* SearchInsertPosition.swift */; };
 		ADFF1B07295715E100D55D2C /* NextGreaterElement1.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADFF1B06295715E100D55D2C /* NextGreaterElement1.swift */; };
 		ADFF1B092957165600D55D2C /* CheckIfItIsAStraightLine.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADFF1B082957165600D55D2C /* CheckIfItIsAStraightLine.swift */; };
+		ADFF4B3A2B4ECEA2008ECDDA /* AmountOfTimeForBinaryTreeToBeInfected.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADFF4B392B4ECEA2008ECDDA /* AmountOfTimeForBinaryTreeToBeInfected.swift */; };
 		ADFF7707290FE66500C26081 /* JumpGame2.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADFF7706290FE66500C26081 /* JumpGame2.swift */; };
 		ADFFEB1D2B34618000BB0DA4 /* WidestVerticalAreaBetweenTwoPointsContainingNoPoints.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADFFEB1C2B34618000BB0DA4 /* WidestVerticalAreaBetweenTwoPointsContainingNoPoints.swift */; };
 /* End PBXBuildFile section */
@@ -1169,6 +1170,7 @@
 		ADFE121428D1EA470063013C /* SearchInsertPosition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchInsertPosition.swift; sourceTree = "<group>"; };
 		ADFF1B06295715E100D55D2C /* NextGreaterElement1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextGreaterElement1.swift; sourceTree = "<group>"; };
 		ADFF1B082957165600D55D2C /* CheckIfItIsAStraightLine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckIfItIsAStraightLine.swift; sourceTree = "<group>"; };
+		ADFF4B392B4ECEA2008ECDDA /* AmountOfTimeForBinaryTreeToBeInfected.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AmountOfTimeForBinaryTreeToBeInfected.swift; sourceTree = "<group>"; };
 		ADFF7706290FE66500C26081 /* JumpGame2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpGame2.swift; sourceTree = "<group>"; };
 		ADFFEB1C2B34618000BB0DA4 /* WidestVerticalAreaBetweenTwoPointsContainingNoPoints.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WidestVerticalAreaBetweenTwoPointsContainingNoPoints.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -1226,6 +1228,7 @@
 				AD1FCE0629095D9700A9B623 /* AllPathsFromSourceToTarget.swift */,
 				AD29CAE82A6D69070046FB4F /* AllPossibleFullBinaryTrees.swift */,
 				ADF31931291141650038DE57 /* ArithmeticSlices.swift */,
+				ADFF4B392B4ECEA2008ECDDA /* AmountOfTimeForBinaryTreeToBeInfected.swift */,
 				AD015017296C3A8500C763CC /* ArithmeticSubarrays.swift */,
 				AD9D45C02B4AE1E000DD2F91 /* ArithmeticSlices2_Subsequence.swift */,
 				AD05D58C298038CF00B35E1B /* AsFarFromLandAsPossible.swift */,
@@ -1978,6 +1981,7 @@
 				AD339A0D297ABCFF00E3856D /* InsertDeleteGetRandom.swift in Sources */,
 				AD4ABE4F2A73E4040021E295 /* PredictTheWinner.swift in Sources */,
 				AD8C5AD028E074A000E821D7 /* HouseRobber.swift in Sources */,
+				ADFF4B3A2B4ECEA2008ECDDA /* AmountOfTimeForBinaryTreeToBeInfected.swift in Sources */,
 				AD9914AA28C0DBD500BCFDAB /* MergeSortedArray.swift in Sources */,
 				AD9E484129DDDF4800593016 /* MinimizeMaximumOfArray.swift in Sources */,
 				ADD71D4B2938C471005189E6 /* DeleteAndEarn.swift in Sources */,
