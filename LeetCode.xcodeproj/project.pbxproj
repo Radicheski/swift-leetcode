@@ -219,6 +219,7 @@
 		AD653F632A5C2EEB00C7CCE8 /* MinimumDepthOfBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD653F622A5C2EEB00C7CCE8 /* MinimumDepthOfBinaryTree.swift */; };
 		AD66415D2B49A8E800980F81 /* MaximumProfitInJobScheduling.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD66415C2B49A8E800980F81 /* MaximumProfitInJobScheduling.swift */; };
 		AD6669FB29B60A5900C1D36A /* KthMissingPositiveNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6669FA29B60A5900C1D36A /* KthMissingPositiveNumber.swift */; };
+		AD67B8B72B52B699001FA175 /* MinimumNumberOfStepsToMakeTwoStringsAnagram.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD67B8B62B52B699001FA175 /* MinimumNumberOfStepsToMakeTwoStringsAnagram.swift */; };
 		AD68299E2AB4976C00ECEDFB /* MinCostToConnectAllPoints.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD68299D2AB4976C00ECEDFB /* MinCostToConnectAllPoints.swift */; };
 		AD69520C2A2380370060C92F /* MinimumCostToCutAStick.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD69520B2A2380370060C92F /* MinimumCostToCutAStick.swift */; };
 		AD6992EA2AD6CC86007F95C8 /* NumberOfFlowersInFullBloom.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6992E92AD6CC86007F95C8 /* NumberOfFlowersInFullBloom.swift */; };
@@ -804,6 +805,7 @@
 		AD653F622A5C2EEB00C7CCE8 /* MinimumDepthOfBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumDepthOfBinaryTree.swift; sourceTree = "<group>"; };
 		AD66415C2B49A8E800980F81 /* MaximumProfitInJobScheduling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumProfitInJobScheduling.swift; sourceTree = "<group>"; };
 		AD6669FA29B60A5900C1D36A /* KthMissingPositiveNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KthMissingPositiveNumber.swift; sourceTree = "<group>"; };
+		AD67B8B62B52B699001FA175 /* MinimumNumberOfStepsToMakeTwoStringsAnagram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberOfStepsToMakeTwoStringsAnagram.swift; sourceTree = "<group>"; };
 		AD68299D2AB4976C00ECEDFB /* MinCostToConnectAllPoints.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinCostToConnectAllPoints.swift; sourceTree = "<group>"; };
 		AD69520B2A2380370060C92F /* MinimumCostToCutAStick.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumCostToCutAStick.swift; sourceTree = "<group>"; };
 		AD6992E92AD6CC86007F95C8 /* NumberOfFlowersInFullBloom.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfFlowersInFullBloom.swift; sourceTree = "<group>"; };
@@ -1554,6 +1556,7 @@
 				ADC653D42993C549004C4934 /* MinimumNumberOfMovesToSeatEveryone.swift */,
 				AD0EAE3D2AD576C400E25C63 /* MinimumNumberOfOperationsToMakeArrayContinuous.swift */,
 				AD3B8BE42AA0F2B200923BC4 /* MinimumNumberOfTapsToOpenToWaterAGarden.swift */,
+				AD67B8B62B52B699001FA175 /* MinimumNumberOfStepsToMakeTwoStringsAnagram.swift */,
 				AD18849F2B46E43E004E03C0 /* MinimumNumberOfOperationsToMakeArrayEmpty.swift */,
 				ADD8E83028FC3B3C00EEBB3C /* MinimumNumberOfVerticesToReachAllNodes.swift */,
 				ADAF39092ABB629C00C9CAD1 /* MinimumOperationsToReduceXToZero.swift */,
@@ -2024,6 +2027,7 @@
 				AD2590C02A2629D700D3C838 /* DesignHashSet.swift in Sources */,
 				ADA485AA28FEC716006C8FCF /* SortCharactersByFrequency.swift in Sources */,
 				AD2E2CEB2955CFF500C790D0 /* CanMakeArithmeticProgressionFromSequence.swift in Sources */,
+				AD67B8B72B52B699001FA175 /* MinimumNumberOfStepsToMakeTwoStringsAnagram.swift in Sources */,
 				AD339A11297ABD9F00E3856D /* MyCalendarI.swift in Sources */,
 				ADA94B9028D7434D00D07819 /* RemoveNthNodeFromEndOfList.swift in Sources */,
 				ADF8980E2A389DC300D01F06 /* EqualRowAndColumnPairs.swift in Sources */,
