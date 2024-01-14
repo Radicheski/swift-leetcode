@@ -299,6 +299,7 @@
 		AD8C5AD028E074A000E821D7 /* HouseRobber.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8C5ACF28E074A000E821D7 /* HouseRobber.swift */; };
 		AD8C5AD228E0751A00E821D7 /* Triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8C5AD128E0751A00E821D7 /* Triangle.swift */; };
 		AD8C969C2A62E17500717FED /* MaximumNumberOfEventsThatCanBeAttended2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8C969B2A62E17500717FED /* MaximumNumberOfEventsThatCanBeAttended2.swift */; };
+		AD8D07222B541E0C009E4C27 /* DetermineIfTwoStringsAreClose.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8D07212B541E0C009E4C27 /* DetermineIfTwoStringsAreClose.swift */; };
 		AD8DF5A42ABC6DE1006DF0B0 /* MedianOfTwoSortedArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8DF5A32ABC6DE1006DF0B0 /* MedianOfTwoSortedArrays.swift */; };
 		AD8E99D1299BC18A00032CCB /* MinimumAreaRectangle2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8E99D0299BC18A00032CCB /* MinimumAreaRectangle2.swift */; };
 		AD8F5BEF29E1952200E29DB1 /* CloneGraph.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8F5BEE29E1952200E29DB1 /* CloneGraph.swift */; };
@@ -885,6 +886,7 @@
 		AD8C5ACF28E074A000E821D7 /* HouseRobber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HouseRobber.swift; sourceTree = "<group>"; };
 		AD8C5AD128E0751A00E821D7 /* Triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Triangle.swift; sourceTree = "<group>"; };
 		AD8C969B2A62E17500717FED /* MaximumNumberOfEventsThatCanBeAttended2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumNumberOfEventsThatCanBeAttended2.swift; sourceTree = "<group>"; };
+		AD8D07212B541E0C009E4C27 /* DetermineIfTwoStringsAreClose.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetermineIfTwoStringsAreClose.swift; sourceTree = "<group>"; };
 		AD8DF5A32ABC6DE1006DF0B0 /* MedianOfTwoSortedArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MedianOfTwoSortedArrays.swift; sourceTree = "<group>"; };
 		AD8E99D0299BC18A00032CCB /* MinimumAreaRectangle2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumAreaRectangle2.swift; sourceTree = "<group>"; };
 		AD8F5BEE29E1952200E29DB1 /* CloneGraph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloneGraph.swift; sourceTree = "<group>"; };
@@ -1348,6 +1350,7 @@
 				ADC6C34D29B2162500FE3B1F /* DetermineIfStringHalvesAreAlike.swift */,
 				ADB9508B2AFBEC0D006684C7 /* DetermineIfACelIsReachableAtAGivenTime.swift */,
 				ADC8EBB52969E6F300CBBC35 /* DetermineWhetherMatrixCanBeObtainedByRotation.swift */,
+				AD8D07212B541E0C009E4C27 /* DetermineIfTwoStringsAreClose.swift */,
 				ADEAD1FB2A2A1AF200E813C8 /* DetonateTheMaximumBombs.swift */,
 				AD84D9512923AC0B00891349 /* DiameterOfBinaryTree.swift */,
 				AD32DE7C2B0E5A6600DD3133 /* DiagonalTraverse2.swift */,
@@ -2164,6 +2167,7 @@
 				ADB0D9FF2960587A0016CA62 /* DesignParkingSystem.swift in Sources */,
 				AD1321742A41E02100BE8D1D /* KRadiusSubarrayAverages.swift in Sources */,
 				AD27DB0D29AE2038007BAD2B /* FindDuplicateSubtrees.swift in Sources */,
+				AD8D07222B541E0C009E4C27 /* DetermineIfTwoStringsAreClose.swift in Sources */,
 				AD66415D2B49A8E800980F81 /* MaximumProfitInJobScheduling.swift in Sources */,
 				AD94460729B75D9E00A9C5AE /* MinimumTimeToCompleteTrips.swift in Sources */,
 				AD6669FB29B60A5900C1D36A /* KthMissingPositiveNumber.swift in Sources */,
