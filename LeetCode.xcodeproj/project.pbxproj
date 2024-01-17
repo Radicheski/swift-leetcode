@@ -172,6 +172,7 @@
 		AD4BDEB128A7E03200E61565 /* TheKWeakestRowsInAMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4BDEB028A7E03200E61565 /* TheKWeakestRowsInAMatrix.swift */; };
 		AD4C668229152DFC00C86C85 /* LongestCommonSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4C668129152DFC00C86C85 /* LongestCommonSubsequence.swift */; };
 		AD4C668429152EBF00C86C85 /* DeleteOperationForTwoStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4C668329152EBF00C86C85 /* DeleteOperationForTwoStrings.swift */; };
+		AD4C99B12B58043400407847 /* UniqueNumberOfOccurrences.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4C99B02B58043400407847 /* UniqueNumberOfOccurrences.swift */; };
 		AD4CED272ACB91B300DCD389 /* NumberOfGoodPairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4CED262ACB91B300DCD389 /* NumberOfGoodPairs.swift */; };
 		AD4D0A492AE6972300809ED0 /* PowerOfFour.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4D0A482AE6972300809ED0 /* PowerOfFour.swift */; };
 		AD4DCBF728E70C6300A81C5F /* PascalsTriangle2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4DCBF628E70C6300A81C5F /* PascalsTriangle2.swift */; };
@@ -760,6 +761,7 @@
 		AD4BDEB028A7E03200E61565 /* TheKWeakestRowsInAMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TheKWeakestRowsInAMatrix.swift; sourceTree = "<group>"; };
 		AD4C668129152DFC00C86C85 /* LongestCommonSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestCommonSubsequence.swift; sourceTree = "<group>"; };
 		AD4C668329152EBF00C86C85 /* DeleteOperationForTwoStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeleteOperationForTwoStrings.swift; sourceTree = "<group>"; };
+		AD4C99B02B58043400407847 /* UniqueNumberOfOccurrences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniqueNumberOfOccurrences.swift; sourceTree = "<group>"; };
 		AD4CED262ACB91B300DCD389 /* NumberOfGoodPairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfGoodPairs.swift; sourceTree = "<group>"; };
 		AD4D0A482AE6972300809ED0 /* PowerOfFour.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PowerOfFour.swift; sourceTree = "<group>"; };
 		AD4DCBF628E70C6300A81C5F /* PascalsTriangle2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PascalsTriangle2.swift; sourceTree = "<group>"; };
@@ -1788,6 +1790,7 @@
 				AD00F44728B96FB900A77B9C /* UniquePaths.swift */,
 				ADA9481F2B0398100057E932 /* UniqueLength3PalindromicSubsequences.swift */,
 				AD801F0B294893870098DF16 /* UniquePaths2.swift */,
+				AD4C99B02B58043400407847 /* UniqueNumberOfOccurrences.swift */,
 				AD9CBFC829A1313A0017BAD8 /* UniqueSubstringsInWraparoundString.swift */,
 				ADF58E1128C6236D000E08DB /* ValidAnagram.swift */,
 				AD2FF7A428B506F90027AFB6 /* ValidateBinarySearchTree.swift */,
@@ -2183,6 +2186,7 @@
 				ADF06E1929FED7FF00AA8183 /* RemoveMaxNumberOfEdgesToKeepGraphFullyTraversable.swift in Sources */,
 				AD578EEE2B37020300D56E74 /* PathCrossing.swift in Sources */,
 				AD4311472982975500E127A6 /* NearestExitFromEntranceInMaze.swift in Sources */,
+				AD4C99B12B58043400407847 /* UniqueNumberOfOccurrences.swift in Sources */,
 				AD2B731F295DCFD400334288 /* SumOfLeftLeaves.swift in Sources */,
 				ADFC86222A850E11001BABCF /* SearchInRotatedSortedArray2.swift in Sources */,
 				AD32C95F28FD75C300305E77 /* KthLargestElementInAnArray.swift in Sources */,
