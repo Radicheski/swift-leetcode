@@ -146,6 +146,7 @@
 		AD40251C29E7424B00BE3D15 /* SimplifyPath.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD40251B29E7424B00BE3D15 /* SimplifyPath.swift */; };
 		AD4255A92B20A4C1002990CA /* CalculateMoneyInLeetcodeBank.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4255A82B20A4C1002990CA /* CalculateMoneyInLeetcodeBank.swift */; };
 		AD426F402B4459EF00E38B61 /* ConvertAnArrayIntoA2DArrayWithConditions.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD426F3F2B4459EF00E38B61 /* ConvertAnArrayIntoA2DArrayWithConditions.swift */; };
+		AD42AF9D2B63D1560076F181 /* OutOfBoundaryPaths.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD42AF9C2B63D1560076F181 /* OutOfBoundaryPaths.swift */; };
 		AD42FF3729D4AA1F00B569EB /* ReducingDishes.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD42FF3629D4AA1F00B569EB /* ReducingDishes.swift */; };
 		AD4311452982966300E127A6 /* ShortestBridge.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4311442982966300E127A6 /* ShortestBridge.swift */; };
 		AD4311472982975500E127A6 /* NearestExitFromEntranceInMaze.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4311462982975500E127A6 /* NearestExitFromEntranceInMaze.swift */; };
@@ -739,6 +740,7 @@
 		AD40251B29E7424B00BE3D15 /* SimplifyPath.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimplifyPath.swift; sourceTree = "<group>"; };
 		AD4255A82B20A4C1002990CA /* CalculateMoneyInLeetcodeBank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculateMoneyInLeetcodeBank.swift; sourceTree = "<group>"; };
 		AD426F3F2B4459EF00E38B61 /* ConvertAnArrayIntoA2DArrayWithConditions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConvertAnArrayIntoA2DArrayWithConditions.swift; sourceTree = "<group>"; };
+		AD42AF9C2B63D1560076F181 /* OutOfBoundaryPaths.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OutOfBoundaryPaths.swift; sourceTree = "<group>"; };
 		AD42FF3629D4AA1F00B569EB /* ReducingDishes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReducingDishes.swift; sourceTree = "<group>"; };
 		AD4311442982966300E127A6 /* ShortestBridge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShortestBridge.swift; sourceTree = "<group>"; };
 		AD4311462982975500E127A6 /* NearestExitFromEntranceInMaze.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NearestExitFromEntranceInMaze.swift; sourceTree = "<group>"; };
@@ -1636,6 +1638,7 @@
 				AD4F6609298A8E020015FB4B /* OpenTheLock.swift */,
 				AD4E5C0F29DC79CB0013141B /* OptimalPartitionOfString.swift */,
 				ADB14CB6292791F700F36417 /* PacificAtlanticWaterFlow.swift */,
+				AD42AF9C2B63D1560076F181 /* OutOfBoundaryPaths.swift */,
 				ADAA003F2ADAFA6300CD0E67 /* PaintingTheWalls.swift */,
 				ADD5D3F428A3147200BD5BCC /* PalindromeLinkedList.swift */,
 				AD74DB45297DAFAD003C5807 /* PalindromePartitioning.swift */,
@@ -2125,6 +2128,7 @@
 				AD96A68B295C7B6E001F0AB6 /* ToLowerCase.swift in Sources */,
 				ADA8F8EB2AF7F48B00A71525 /* FindTheWinnerOfAnArrayGame.swift in Sources */,
 				AD1BBB5628BB832B000032DD /* TwoSum.swift in Sources */,
+				AD42AF9D2B63D1560076F181 /* OutOfBoundaryPaths.swift in Sources */,
 				AD0233C92B5FF73800090594 /* MaximumLengthOfAConcatenatedStringWithUniqueCharacters.swift in Sources */,
 				ADD265932954849E0097DD23 /* FindNearestPointThatHasTheSameXOrYCoordinate.swift in Sources */,
 				AD8E99D1299BC18A00032CCB /* MinimumAreaRectangle2.swift in Sources */,
