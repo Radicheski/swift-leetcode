@@ -49,6 +49,7 @@
 		AD17DA472B2B23AF00AA83F5 /* DifferenceBetweenOnesAndZerosInRowAndColumn.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD17DA462B2B23AF00AA83F5 /* DifferenceBetweenOnesAndZerosInRowAndColumn.swift */; };
 		AD180B3629434F1F001F5866 /* UglyNumber2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD180B3529434F1F001F5866 /* UglyNumber2.swift */; };
 		AD180B3829434FBE001F5866 /* UniqueBinarySearchTrees.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD180B3729434FBE001F5866 /* UniqueBinarySearchTrees.swift */; };
+		AD1850E22B7CFB2200B31027 /* RearrangeArrayElementsBySign.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1850E12B7CFB2200B31027 /* RearrangeArrayElementsBySign.swift */; };
 		AD1884A02B46E43E004E03C0 /* MinimumNumberOfOperationsToMakeArrayEmpty.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD18849F2B46E43E004E03C0 /* MinimumNumberOfOperationsToMakeArrayEmpty.swift */; };
 		AD188AA32A76913E00EF81F4 /* StrangePrinter.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD188AA22A76913E00EF81F4 /* StrangePrinter.swift */; };
 		AD1AB3582936659A00BDF5A5 /* NthTribonacciNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1AB3572936659A00BDF5A5 /* NthTribonacciNumber.swift */; };
@@ -651,6 +652,7 @@
 		AD17DA462B2B23AF00AA83F5 /* DifferenceBetweenOnesAndZerosInRowAndColumn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DifferenceBetweenOnesAndZerosInRowAndColumn.swift; sourceTree = "<group>"; };
 		AD180B3529434F1F001F5866 /* UglyNumber2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UglyNumber2.swift; sourceTree = "<group>"; };
 		AD180B3729434FBE001F5866 /* UniqueBinarySearchTrees.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniqueBinarySearchTrees.swift; sourceTree = "<group>"; };
+		AD1850E12B7CFB2200B31027 /* RearrangeArrayElementsBySign.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RearrangeArrayElementsBySign.swift; sourceTree = "<group>"; };
 		AD18849F2B46E43E004E03C0 /* MinimumNumberOfOperationsToMakeArrayEmpty.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberOfOperationsToMakeArrayEmpty.swift; sourceTree = "<group>"; };
 		AD188AA22A76913E00EF81F4 /* StrangePrinter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StrangePrinter.swift; sourceTree = "<group>"; };
 		AD1AB3572936659A00BDF5A5 /* NthTribonacciNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NthTribonacciNumber.swift; sourceTree = "<group>"; };
@@ -1699,6 +1701,7 @@
 				AD6E215A29474B3000D538ED /* RangeSumQuery2DImmutable.swift */,
 				ADB0DA00296059E10016CA62 /* RangeSumQueryImmutable.swift */,
 				ADD5D3E628A3114600BD5BCC /* RansomNote.swift */,
+				AD1850E12B7CFB2200B31027 /* RearrangeArrayElementsBySign.swift */,
 				AD0A39662AB32C9E003BCCFA /* ReconstructItinerary.swift */,
 				ADEEDDB62B406C1D0074DB7D /* RedistributeCharactersToMakeAllStringsEqual.swift */,
 				AD42FF3629D4AA1F00B569EB /* ReducingDishes.swift */,
@@ -2252,6 +2255,7 @@
 				ADCE36662A890E6F00B6015B /* CheckIfThereIsAValidPartitionForTheArray.swift in Sources */,
 				AD4BDEB128A7E03200E61565 /* TheKWeakestRowsInAMatrix.swift in Sources */,
 				ADE79408290DA7D700D0D035 /* WordSearch.swift in Sources */,
+				AD1850E22B7CFB2200B31027 /* RearrangeArrayElementsBySign.swift in Sources */,
 				ADC65A3C2B2F2BE00081C4CA /* DesignAFoodRatingSystem.swift in Sources */,
 				AD7F8B642A11074B00213368 /* MaximizeScoreAfterNOperations.swift in Sources */,
 				AD361C4B28E1C883002962BB /* PowerOfTwo.swift in Sources */,
