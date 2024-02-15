@@ -157,6 +157,7 @@
 		AD4386D12961AE4C003FA0BD /* FindTheIndexOfTheFirstOccurrenceInAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4386D02961AE4C003FA0BD /* FindTheIndexOfTheFirstOccurrenceInAString.swift */; };
 		AD43BBA92B35E0DF00672B9B /* MaximumScoreAfterSplittingAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD43BBA82B35E0DF00672B9B /* MaximumScoreAfterSplittingAString.swift */; };
 		AD45D00128D9DCD000544C0A /* MaxAreaOfIsland.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD45D00028D9DCD000544C0A /* MaxAreaOfIsland.swift */; };
+		AD46A7552B7E47ED005A7047 /* FindPolygonWithTheLargestPerimeter.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD46A7542B7E47ED005A7047 /* FindPolygonWithTheLargestPerimeter.swift */; };
 		AD4789C12AF52F0A0060440B /* BuildAnArrayWithStackOperations.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4789C02AF52F0A0060440B /* BuildAnArrayWithStackOperations.swift */; };
 		AD48552529AD24B4009F9148 /* ConstructQuadTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD48552429AD24B4009F9148 /* ConstructQuadTree.swift */; };
 		AD4874112A0C68C000515AF7 /* UncrossedLines.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4874102A0C68C000515AF7 /* UncrossedLines.swift */; };
@@ -760,6 +761,7 @@
 		AD4386D02961AE4C003FA0BD /* FindTheIndexOfTheFirstOccurrenceInAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheIndexOfTheFirstOccurrenceInAString.swift; sourceTree = "<group>"; };
 		AD43BBA82B35E0DF00672B9B /* MaximumScoreAfterSplittingAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumScoreAfterSplittingAString.swift; sourceTree = "<group>"; };
 		AD45D00028D9DCD000544C0A /* MaxAreaOfIsland.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxAreaOfIsland.swift; sourceTree = "<group>"; };
+		AD46A7542B7E47ED005A7047 /* FindPolygonWithTheLargestPerimeter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindPolygonWithTheLargestPerimeter.swift; sourceTree = "<group>"; };
 		AD4789C02AF52F0A0060440B /* BuildAnArrayWithStackOperations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuildAnArrayWithStackOperations.swift; sourceTree = "<group>"; };
 		AD48552429AD24B4009F9148 /* ConstructQuadTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstructQuadTree.swift; sourceTree = "<group>"; };
 		AD4874102A0C68C000515AF7 /* UncrossedLines.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UncrossedLines.swift; sourceTree = "<group>"; };
@@ -1416,6 +1418,7 @@
 				ADF290F729016FDF00A8AA6D /* FindPeakElement.swift */,
 				ADF9806B28AC03CF004BB6EC /* FindPivotIndex.swift */,
 				AD2565B02B555E3800E61E7D /* FindPlayersWithZeroOrOneLosses.swift */,
+				AD46A7542B7E47ED005A7047 /* FindPolygonWithTheLargestPerimeter.swift */,
 				ADBA5AF92A335484008934B2 /* FindSmallestLetterGreaterThanTarget.swift */,
 				AD9A0D8D295B5DBE009B9BB5 /* FindTheDifference.swift */,
 				AD71F3262A02C0FF003F0668 /* FindTheDifferenceOfTwoArrays.swift */,
@@ -2289,6 +2292,7 @@
 				AD23E1912A349B2800A66AEB /* MaximumValueAtAGivenIndexInABoundedArray.swift in Sources */,
 				AD4F660A298A8E020015FB4B /* OpenTheLock.swift in Sources */,
 				AD180B3829434FBE001F5866 /* UniqueBinarySearchTrees.swift in Sources */,
+				AD46A7552B7E47ED005A7047 /* FindPolygonWithTheLargestPerimeter.swift in Sources */,
 				ADEB5A6028CB76F4004D8EAC /* BinaryTreePreorderTraversal.swift in Sources */,
 				AD820F5B28B65A1C00BA068E /* NumberOfIslands.swift in Sources */,
 				AD4B182D2966FE0600262815 /* AddBinary.swift in Sources */,
