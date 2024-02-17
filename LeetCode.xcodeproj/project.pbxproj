@@ -597,6 +597,7 @@
 		ADF9488428F6F91E006630E0 /* BinaryTreeZigzagLevelOrderTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF9488328F6F91E006630E0 /* BinaryTreeZigzagLevelOrderTraversal.swift */; };
 		ADF9806A28AC0309004BB6EC /* RunningSumOf1dArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF9806928AC0309004BB6EC /* RunningSumOf1dArray.swift */; };
 		ADF9806C28AC03CF004BB6EC /* FindPivotIndex.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF9806B28AC03CF004BB6EC /* FindPivotIndex.swift */; };
+		ADF9A9572B80E11400FA1BFE /* FurthestBuildingYouCanReach.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF9A9562B80E11400FA1BFE /* FurthestBuildingYouCanReach.swift */; };
 		ADF9B02228EC4CF8003975A6 /* WordPattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF9B02128EC4CF8003975A6 /* WordPattern.swift */; };
 		ADF9B02428EC4D82003975A6 /* PartitionLabels.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF9B02328EC4D82003975A6 /* PartitionLabels.swift */; };
 		ADFA10CD29991D7B00B7C873 /* MinimumFuelCostToReportToTheCapital.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADFA10CC29991D7B00B7C873 /* MinimumFuelCostToReportToTheCapital.swift */; };
@@ -1203,6 +1204,7 @@
 		ADF9488328F6F91E006630E0 /* BinaryTreeZigzagLevelOrderTraversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryTreeZigzagLevelOrderTraversal.swift; sourceTree = "<group>"; };
 		ADF9806928AC0309004BB6EC /* RunningSumOf1dArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RunningSumOf1dArray.swift; sourceTree = "<group>"; };
 		ADF9806B28AC03CF004BB6EC /* FindPivotIndex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindPivotIndex.swift; sourceTree = "<group>"; };
+		ADF9A9562B80E11400FA1BFE /* FurthestBuildingYouCanReach.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FurthestBuildingYouCanReach.swift; sourceTree = "<group>"; };
 		ADF9B02128EC4CF8003975A6 /* WordPattern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordPattern.swift; sourceTree = "<group>"; };
 		ADF9B02328EC4D82003975A6 /* PartitionLabels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartitionLabels.swift; sourceTree = "<group>"; };
 		ADFA10CC29991D7B00B7C873 /* MinimumFuelCostToReportToTheCapital.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumFuelCostToReportToTheCapital.swift; sourceTree = "<group>"; };
@@ -1443,6 +1445,7 @@
 				AD0387192B08DAF700390BA2 /* FrequencyOfTheMostFrequentElement.swift */,
 				ADE85E952A9B94D10089026A /* FrogJump.swift */,
 				ADD982A72992715E0084722F /* FruitIntoBaskets.swift */,
+				ADF9A9562B80E11400FA1BFE /* FurthestBuildingYouCanReach.swift */,
 				ADC8EBB7296A11D800CBBC35 /* GasStation.swift */,
 				ADE79405290DA6D800D0D035 /* GenerateParentheses.swift */,
 				AD9A0D8B295B5D17009B9BB5 /* GoalParserInterpretation.swift */,
@@ -2443,6 +2446,7 @@
 				ADA173A229200E39006D0F09 /* SortList.swift in Sources */,
 				AD9147D92968525A007F9218 /* DailyTemperatures.swift in Sources */,
 				ADF2AC1A2A37411E007F465E /* SummaryRangesTest.swift in Sources */,
+				ADF9A9572B80E11400FA1BFE /* FurthestBuildingYouCanReach.swift in Sources */,
 				ADAF390A2ABB629C00C9CAD1 /* MinimumOperationsToReduceXToZero.swift in Sources */,
 				AD617F2F298D43E600708E31 /* ZigzagConversion.swift in Sources */,
 				AD03A06A2A486DA800F7270D /* CountAllPossibleRoutes.swift in Sources */,
