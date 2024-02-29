@@ -196,6 +196,7 @@
 		AD4F660C298A91380015FB4B /* WordLadder.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4F660B298A91380015FB4B /* WordLadder.swift */; };
 		AD4F660E298ABB490015FB4B /* GreatestCommonDivisorOfStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4F660D298ABB490015FB4B /* GreatestCommonDivisorOfStrings.swift */; };
 		AD5065612B1B60FA009455AE /* FindWordsThatCanBeFormedByCharacters.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5065602B1B60FA009455AE /* FindWordsThatCanBeFormedByCharacters.swift */; };
+		AD50CF942B90FBC0009DB72E /* EvenOddTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD50CF932B90FBC0009DB72E /* EvenOddTree.swift */; };
 		AD5358042AF12BEF00C65D10 /* FindTheOriginalArrayOfPrefixXor.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5358032AF12BEF00C65D10 /* FindTheOriginalArrayOfPrefixXor.swift */; };
 		AD5695322B2A015100715A45 /* SpecialPositionsInABinaryMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5695312B2A015100715A45 /* SpecialPositionsInABinaryMatrix.swift */; };
 		AD5709B52983F456006A523C /* ConcatenatedWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5709B42983F456006A523C /* ConcatenatedWords.swift */; };
@@ -807,6 +808,7 @@
 		AD4F660B298A91380015FB4B /* WordLadder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordLadder.swift; sourceTree = "<group>"; };
 		AD4F660D298ABB490015FB4B /* GreatestCommonDivisorOfStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GreatestCommonDivisorOfStrings.swift; sourceTree = "<group>"; };
 		AD5065602B1B60FA009455AE /* FindWordsThatCanBeFormedByCharacters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindWordsThatCanBeFormedByCharacters.swift; sourceTree = "<group>"; };
+		AD50CF932B90FBC0009DB72E /* EvenOddTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EvenOddTree.swift; sourceTree = "<group>"; };
 		AD5358032AF12BEF00C65D10 /* FindTheOriginalArrayOfPrefixXor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheOriginalArrayOfPrefixXor.swift; sourceTree = "<group>"; };
 		AD5695312B2A015100715A45 /* SpecialPositionsInABinaryMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpecialPositionsInABinaryMatrix.swift; sourceTree = "<group>"; };
 		AD5709B42983F456006A523C /* ConcatenatedWords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConcatenatedWords.swift; sourceTree = "<group>"; };
@@ -1412,6 +1414,7 @@
 				ADF8980D2A389DC300D01F06 /* EqualRowAndColumnPairs.swift */,
 				ADCC93152A18F905005C2406 /* EvaluateDivision.swift */,
 				ADD2F0BD2964551F003B0038 /* EvaluateReversePolishNotation.swift */,
+				AD50CF932B90FBC0009DB72E /* EvenOddTree.swift */,
 				ADB4B0192A94DDD100440492 /* ExcelSheetColumnTitle.swift */,
 				ADE3DB282AA3724400F87668 /* ExtraCharactersInAString.swift */,
 				AD3C543B2A5061D000FAF190 /* FairDistributionOfCookies.swift */,
@@ -1966,6 +1969,7 @@
 				AD844B0F28CA20F4008E1AEF /* ImplementQueueUsingStacks.swift in Sources */,
 				ADAA00402ADAFA6300CD0E67 /* PaintingTheWalls.swift in Sources */,
 				AD3DD0E62AB9215F00ABED04 /* FindTheDuplicateNumber.swift in Sources */,
+				AD50CF942B90FBC0009DB72E /* EvenOddTree.swift in Sources */,
 				ADD51E832A12586C00B9ED49 /* SwappingNodesInALinkedList.swift in Sources */,
 				ADE988FF29CB633700A41CE0 /* MinimumScoreOfAPathBetweenTwoCities.swift in Sources */,
 				AD6E241529814E9D0012D133 /* FindClosestNodeToGivenTwoNodes.swift in Sources */,
