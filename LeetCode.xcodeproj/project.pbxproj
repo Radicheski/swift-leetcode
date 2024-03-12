@@ -460,6 +460,7 @@
 		ADCBBC142B1CB9E20082E7D2 /* MinimumTimeVisitingAllPoints.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCBBC132B1CB9E20082E7D2 /* MinimumTimeVisitingAllPoints.swift */; };
 		ADCBBD82292126D2006787B4 /* LongestPalindromeByConcatenatingTwoLetterWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCBBD81292126D2006787B4 /* LongestPalindromeByConcatenatingTwoLetterWords.swift */; };
 		ADCBBD8429212779006787B4 /* TaskScheduler.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCBBD8329212779006787B4 /* TaskScheduler.swift */; };
+		ADCC4FF32BA0913400C7D21B /* RemoveZeroSumConsecutiveNodesFromLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCC4FF22BA0913400C7D21B /* RemoveZeroSumConsecutiveNodesFromLinkedList.swift */; };
 		ADCC93162A18F905005C2406 /* EvaluateDivision.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCC93152A18F905005C2406 /* EvaluateDivision.swift */; };
 		ADCCEEC328F2F0D900B85A54 /* SwapNodesInPairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCCEEC228F2F0D900B85A54 /* SwapNodesInPairs.swift */; };
 		ADCCEEC528F2F18B00B85A54 /* DesignLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCCEEC428F2F18B00B85A54 /* DesignLinkedList.swift */; };
@@ -1079,6 +1080,7 @@
 		ADCBBC132B1CB9E20082E7D2 /* MinimumTimeVisitingAllPoints.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumTimeVisitingAllPoints.swift; sourceTree = "<group>"; };
 		ADCBBD81292126D2006787B4 /* LongestPalindromeByConcatenatingTwoLetterWords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestPalindromeByConcatenatingTwoLetterWords.swift; sourceTree = "<group>"; };
 		ADCBBD8329212779006787B4 /* TaskScheduler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskScheduler.swift; sourceTree = "<group>"; };
+		ADCC4FF22BA0913400C7D21B /* RemoveZeroSumConsecutiveNodesFromLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveZeroSumConsecutiveNodesFromLinkedList.swift; sourceTree = "<group>"; };
 		ADCC93152A18F905005C2406 /* EvaluateDivision.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EvaluateDivision.swift; sourceTree = "<group>"; };
 		ADCCEEC228F2F0D900B85A54 /* SwapNodesInPairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwapNodesInPairs.swift; sourceTree = "<group>"; };
 		ADCCEEC428F2F18B00B85A54 /* DesignLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignLinkedList.swift; sourceTree = "<group>"; };
@@ -1761,6 +1763,7 @@
 				ADD9772128C7BED80028FCB0 /* RemoveLinkedListElements.swift */,
 				ADF06E1829FED7FF00AA8183 /* RemoveMaxNumberOfEdgesToKeepGraphFullyTraversable.swift */,
 				ADA94B8F28D7434D00D07819 /* RemoveNthNodeFromEndOfList.swift */,
+				ADCC4FF22BA0913400C7D21B /* RemoveZeroSumConsecutiveNodesFromLinkedList.swift */,
 				AD366CAD29E5C4E800A3991E /* RemovingStarsFromAString.swift */,
 				ADA86E8628F4419B00A01BC2 /* ReorderList.swift */,
 				AD607BA02988086F00426C95 /* ReorderRoutesToMakeAllPathsLeadToTheCityZero.swift */,
@@ -2164,6 +2167,7 @@
 				AD0EAE3E2AD576C400E25C63 /* MinimumNumberOfOperationsToMakeArrayContinuous.swift in Sources */,
 				ADECE5FE29A63EA600A6FB04 /* CapacityToShipPackagesWithinDDays.swift in Sources */,
 				AD57491A2906A0A7008E89BE /* NumberOfProvinces.swift in Sources */,
+				ADCC4FF32BA0913400C7D21B /* RemoveZeroSumConsecutiveNodesFromLinkedList.swift in Sources */,
 				AD339A0F297ABD3F00E3856D /* DesignCircularQueue.swift in Sources */,
 				ADC5823C28DB2DBA006D9591 /* PopulatingNextRightPointersInEachNode.swift in Sources */,
 				ADE1BD2528DC7C2A008ED566 /* ZeroOneMatrix.swift in Sources */,
