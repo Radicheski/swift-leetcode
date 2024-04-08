@@ -17,6 +17,7 @@
 		AD037C342A753411005299BE /* SoupServings.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD037C332A753411005299BE /* SoupServings.swift */; };
 		AD03871A2B08DAF700390BA2 /* FrequencyOfTheMostFrequentElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0387192B08DAF700390BA2 /* FrequencyOfTheMostFrequentElement.swift */; };
 		AD03A06A2A486DA800F7270D /* CountAllPossibleRoutes.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD03A0692A486DA700F7270D /* CountAllPossibleRoutes.swift */; };
+		AD03A4E22BC41EDB007E95FC /* NumberOfStudentsUnableToEatLunch.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD03A4E12BC41EDB007E95FC /* NumberOfStudentsUnableToEatLunch.swift */; };
 		AD0467A62B84DF6C0082233D /* MissingNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0467A52B84DF6C0082233D /* MissingNumber.swift */; };
 		AD0567C12A90ECDF006DE235 /* FindCriticalAndPseudoCriticalEdgesInMinimumSpanningTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0567C02A90ECDF006DE235 /* FindCriticalAndPseudoCriticalEdgesInMinimumSpanningTree.swift */; };
 		AD05D58D298038CF00B35E1B /* AsFarFromLandAsPossible.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD05D58C298038CF00B35E1B /* AsFarFromLandAsPossible.swift */; };
@@ -649,6 +650,7 @@
 		AD037C332A753411005299BE /* SoupServings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoupServings.swift; sourceTree = "<group>"; };
 		AD0387192B08DAF700390BA2 /* FrequencyOfTheMostFrequentElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrequencyOfTheMostFrequentElement.swift; sourceTree = "<group>"; };
 		AD03A0692A486DA700F7270D /* CountAllPossibleRoutes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountAllPossibleRoutes.swift; sourceTree = "<group>"; };
+		AD03A4E12BC41EDB007E95FC /* NumberOfStudentsUnableToEatLunch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfStudentsUnableToEatLunch.swift; sourceTree = "<group>"; };
 		AD0467A52B84DF6C0082233D /* MissingNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissingNumber.swift; sourceTree = "<group>"; };
 		AD0567C02A90ECDF006DE235 /* FindCriticalAndPseudoCriticalEdgesInMinimumSpanningTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindCriticalAndPseudoCriticalEdgesInMinimumSpanningTree.swift; sourceTree = "<group>"; };
 		AD05D58C298038CF00B35E1B /* AsFarFromLandAsPossible.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsFarFromLandAsPossible.swift; sourceTree = "<group>"; };
@@ -1732,6 +1734,7 @@
 				AD4F07292985905C00FBFD05 /* NumberOfOperationsToMakeNetworkConnected.swift */,
 				AD5749192906A0A7008E89BE /* NumberOfProvinces.swift */,
 				ADC46DAF28A922C7003B926E /* NumberOfStepsRoReduceANumberToZero.swift */,
+				AD03A4E12BC41EDB007E95FC /* NumberOfStudentsUnableToEatLunch.swift */,
 				ADA7A5E82B668A0B00306043 /* NumberOfSubmatricesThatSumToTarget.swift */,
 				ADF1D2402A06874C00385B0E /* NumberOfSubsequencesThatSatisfyTheGivenSumCondition.swift */,
 				AD61AC3E29D70AA600A4C392 /* NumberOfWaysOfCuttingAPizza.swift */,
@@ -2401,6 +2404,7 @@
 				ADEB5A6028CB76F4004D8EAC /* BinaryTreePreorderTraversal.swift in Sources */,
 				AD820F5B28B65A1C00BA068E /* NumberOfIslands.swift in Sources */,
 				AD4B182D2966FE0600262815 /* AddBinary.swift in Sources */,
+				AD03A4E22BC41EDB007E95FC /* NumberOfStudentsUnableToEatLunch.swift in Sources */,
 				AD86268E2949F0E700027B1A /* MinimumPathSum.swift in Sources */,
 				AD623EE02AC86A83009D289A /* OneThreeTwoPattern.swift in Sources */,
 				ADE0BD7B29C5F6D500F6E93F /* DesignBrowserHistory.swift in Sources */,
