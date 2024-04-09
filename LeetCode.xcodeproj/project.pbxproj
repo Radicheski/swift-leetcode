@@ -521,6 +521,7 @@
 		ADD9772228C7BED80028FCB0 /* RemoveLinkedListElements.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD9772128C7BED80028FCB0 /* RemoveLinkedListElements.swift */; };
 		ADD982A82992715E0084722F /* FruitIntoBaskets.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD982A72992715E0084722F /* FruitIntoBaskets.swift */; };
 		ADDA52F12A66BAE8006B6ECA /* LRUCacheTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADDA52F02A66BAE8006B6ECA /* LRUCacheTest.swift */; };
+		ADDA879C2BC56CD800BB1145 /* TimeNeededToBuyTickets.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADDA879B2BC56CD800BB1145 /* TimeNeededToBuyTickets.swift */; };
 		ADDADA8E2B9164EE00306DE5 /* MaximumOddBinaryNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADDADA8D2B9164EE00306DE5 /* MaximumOddBinaryNumber.swift */; };
 		ADDC47DD28E85E7D0099DDC5 /* SearchA2DMatrix2.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADDC47DC28E85E7D0099DDC5 /* SearchA2DMatrix2.swift */; };
 		ADDC47DF28E861E40099DDC5 /* NonOverlappingIntervals.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADDC47DE28E861E40099DDC5 /* NonOverlappingIntervals.swift */; };
@@ -1155,6 +1156,7 @@
 		ADD9772128C7BED80028FCB0 /* RemoveLinkedListElements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveLinkedListElements.swift; sourceTree = "<group>"; };
 		ADD982A72992715E0084722F /* FruitIntoBaskets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitIntoBaskets.swift; sourceTree = "<group>"; };
 		ADDA52F02A66BAE8006B6ECA /* LRUCacheTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LRUCacheTest.swift; sourceTree = "<group>"; };
+		ADDA879B2BC56CD800BB1145 /* TimeNeededToBuyTickets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeNeededToBuyTickets.swift; sourceTree = "<group>"; };
 		ADDADA8D2B9164EE00306DE5 /* MaximumOddBinaryNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumOddBinaryNumber.swift; sourceTree = "<group>"; };
 		ADDC47DC28E85E7D0099DDC5 /* SearchA2DMatrix2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchA2DMatrix2.swift; sourceTree = "<group>"; };
 		ADDC47DE28E861E40099DDC5 /* NonOverlappingIntervals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NonOverlappingIntervals.swift; sourceTree = "<group>"; };
@@ -1903,6 +1905,7 @@
 				AD3DEE94298FD71F00DD88B5 /* TheSkylineProblem.swift */,
 				AD933EF128E46CAA00B1B2DA /* ThreeSum.swift */,
 				ADB7F327292CEE17005905FC /* ThreeSumClosest.swift */,
+				ADDA879B2BC56CD800BB1145 /* TimeNeededToBuyTickets.swift */,
 				ADD124A5296EE14400E05EAB /* TimeNeededToInformAllEmployees.swift */,
 				AD96A68A295C7B6E001F0AB6 /* ToLowerCase.swift */,
 				AD32C96028FD765D00305E77 /* TopKFrequentElements.swift */,
@@ -2398,6 +2401,7 @@
 				ADD1C41A28B3C83500E63642 /* BinarySearch.swift in Sources */,
 				ADA08C5A28D5E8E700B816C2 /* ReverseString.swift in Sources */,
 				AD23E1912A349B2800A66AEB /* MaximumValueAtAGivenIndexInABoundedArray.swift in Sources */,
+				ADDA879C2BC56CD800BB1145 /* TimeNeededToBuyTickets.swift in Sources */,
 				AD4F660A298A8E020015FB4B /* OpenTheLock.swift in Sources */,
 				AD180B3829434FBE001F5866 /* UniqueBinarySearchTrees.swift in Sources */,
 				AD46A7552B7E47ED005A7047 /* FindPolygonWithTheLargestPerimeter.swift in Sources */,
