@@ -102,6 +102,7 @@
 		AD31D256290BF75B0030D330 /* Permutations2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD31D255290BF75B0030D330 /* Permutations2.swift */; };
 		AD31D258290BF9A10030D330 /* CombinationSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD31D257290BF9A10030D330 /* CombinationSum.swift */; };
 		AD31D25A290BFA770030D330 /* CombinationSum2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD31D259290BFA770030D330 /* CombinationSum2.swift */; };
+		AD3242102BC6FAFA00D08291 /* RevealCardsInIncreasingOrder.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD32420F2BC6FAFA00D08291 /* RevealCardsInIncreasingOrder.swift */; };
 		AD325210297029150095A3F9 /* NumberOfNodesInTheSubTreeWithTheSameLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD32520F297029150095A3F9 /* NumberOfNodesInTheSubTreeWithTheSameLabel.swift */; };
 		AD325C3F28E32A5A0039107E /* ReverseBits.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD325C3E28E32A5A0039107E /* ReverseBits.swift */; };
 		AD325C4128E32B230039107E /* SingleNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD325C4028E32B230039107E /* SingleNumber.swift */; };
@@ -736,6 +737,7 @@
 		AD31D255290BF75B0030D330 /* Permutations2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Permutations2.swift; sourceTree = "<group>"; };
 		AD31D257290BF9A10030D330 /* CombinationSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombinationSum.swift; sourceTree = "<group>"; };
 		AD31D259290BFA770030D330 /* CombinationSum2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombinationSum2.swift; sourceTree = "<group>"; };
+		AD32420F2BC6FAFA00D08291 /* RevealCardsInIncreasingOrder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RevealCardsInIncreasingOrder.swift; sourceTree = "<group>"; };
 		AD32520F297029150095A3F9 /* NumberOfNodesInTheSubTreeWithTheSameLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfNodesInTheSubTreeWithTheSameLabel.swift; sourceTree = "<group>"; };
 		AD325C3E28E32A5A0039107E /* ReverseBits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseBits.swift; sourceTree = "<group>"; };
 		AD325C4028E32B230039107E /* SingleNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleNumber.swift; sourceTree = "<group>"; };
@@ -1813,6 +1815,7 @@
 				AD4002CF297C4C9C004FDB72 /* RestoreIPAddresses.swift */,
 				AD64D09C29F5A50800A9B9DF /* RestoreTheArray.swift */,
 				ADE23CE52AFE63A300CF8ECF /* RestoreTheArrayFromAdjacentPairs.swift */,
+				AD32420F2BC6FAFA00D08291 /* RevealCardsInIncreasingOrder.swift */,
 				AD325C3E28E32A5A0039107E /* ReverseBits.swift */,
 				AD88EE2428AF13C3007E3D7C /* ReverseLinkedList.swift */,
 				AD0800592AA9F97400A4F6BB /* ReverseLinkedList2.swift */,
@@ -2227,6 +2230,7 @@
 				AD979E7C29F4178800850BE9 /* MinimumInsertionStepsToMakeAStringPalindrome.swift in Sources */,
 				ADC3AA402A1553B900A2BD4F /* MaximumTwinSumOfALinkedList.swift in Sources */,
 				ADE976D52A5324C600069C5A /* BuddyStrings.swift in Sources */,
+				AD3242102BC6FAFA00D08291 /* RevealCardsInIncreasingOrder.swift in Sources */,
 				ADCDCE532995212B007E0500 /* NamingACompany.swift in Sources */,
 				AD16FA35296D8E06001E3E65 /* NextGreaterElement3.swift in Sources */,
 				AD3931DE29F1C4B10076C379 /* MaximumWidthOfBinaryTree.swift in Sources */,
