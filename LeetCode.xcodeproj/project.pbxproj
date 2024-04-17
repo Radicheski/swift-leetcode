@@ -161,6 +161,7 @@
 		AD3F87B2298C221200750194 /* DistantBarcodes.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3F87B1298C221200750194 /* DistantBarcodes.swift */; };
 		AD4002D0297C4C9C004FDB72 /* RestoreIPAddresses.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4002CF297C4C9C004FDB72 /* RestoreIPAddresses.swift */; };
 		AD40251C29E7424B00BE3D15 /* SimplifyPath.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD40251B29E7424B00BE3D15 /* SimplifyPath.swift */; };
+		AD40A0292BCFF39000AA622A /* SmallestStringStartingFromLeaf.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD40A0282BCFF39000AA622A /* SmallestStringStartingFromLeaf.swift */; };
 		AD4255A92B20A4C1002990CA /* CalculateMoneyInLeetcodeBank.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4255A82B20A4C1002990CA /* CalculateMoneyInLeetcodeBank.swift */; };
 		AD426F402B4459EF00E38B61 /* ConvertAnArrayIntoA2DArrayWithConditions.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD426F3F2B4459EF00E38B61 /* ConvertAnArrayIntoA2DArrayWithConditions.swift */; };
 		AD42AF9D2B63D1560076F181 /* OutOfBoundaryPaths.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD42AF9C2B63D1560076F181 /* OutOfBoundaryPaths.swift */; };
@@ -799,6 +800,7 @@
 		AD3F87B1298C221200750194 /* DistantBarcodes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DistantBarcodes.swift; sourceTree = "<group>"; };
 		AD4002CF297C4C9C004FDB72 /* RestoreIPAddresses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestoreIPAddresses.swift; sourceTree = "<group>"; };
 		AD40251B29E7424B00BE3D15 /* SimplifyPath.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimplifyPath.swift; sourceTree = "<group>"; };
+		AD40A0282BCFF39000AA622A /* SmallestStringStartingFromLeaf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallestStringStartingFromLeaf.swift; sourceTree = "<group>"; };
 		AD4255A82B20A4C1002990CA /* CalculateMoneyInLeetcodeBank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculateMoneyInLeetcodeBank.swift; sourceTree = "<group>"; };
 		AD426F3F2B4459EF00E38B61 /* ConvertAnArrayIntoA2DArrayWithConditions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConvertAnArrayIntoA2DArrayWithConditions.swift; sourceTree = "<group>"; };
 		AD42AF9C2B63D1560076F181 /* OutOfBoundaryPaths.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OutOfBoundaryPaths.swift; sourceTree = "<group>"; };
@@ -1867,6 +1869,7 @@
 				AD7475D829F800B200CD014E /* SmallestNumberInInfiniteSet.swift */,
 				AD2C245929716C570000DBF8 /* SmallestRange2.swift */,
 				ADF3E7022A64416400431162 /* SmallestSufficientTeam.swift */,
+				AD40A0282BCFF39000AA622A /* SmallestStringStartingFromLeaf.swift */,
 				AD05D58E29805ABD00B35E1B /* SnakesAndLadders.swift */,
 				ADB1C5052A35F6CA0000385B /* SnapshotArrayTest.swift */,
 				ADC806232A0EBBF300900451 /* SolvingQuestionsWithBrainpower.swift */,
@@ -2219,6 +2222,7 @@
 				ADE4DF392933824900DF9FEB /* MostStonesRemovedWithSameRowOrColumn.swift in Sources */,
 				ADCC93162A18F905005C2406 /* EvaluateDivision.swift in Sources */,
 				ADE692A32A99023F00E24608 /* InterleavingString.swift in Sources */,
+				AD40A0292BCFF39000AA622A /* SmallestStringStartingFromLeaf.swift in Sources */,
 				ADF7AF10297ECBEF000B34DA /* NumberOfEnclaves.swift in Sources */,
 				ADDE9BEF2AC0668E00761968 /* ChampagneTower.swift in Sources */,
 				AD61AC3F29D70AA600A4C392 /* NumberOfWaysOfCuttingAPizza.swift in Sources */,
