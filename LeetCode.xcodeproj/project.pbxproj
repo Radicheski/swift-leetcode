@@ -367,6 +367,7 @@
 		AD9A0D8C295B5D17009B9BB5 /* GoalParserInterpretation.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9A0D8B295B5D17009B9BB5 /* GoalParserInterpretation.swift */; };
 		AD9A0D8E295B5DBE009B9BB5 /* FindTheDifference.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9A0D8D295B5DBE009B9BB5 /* FindTheDifference.swift */; };
 		AD9A8EFC2BB773B7007A12CF /* CountSubarraysWhereMaxElementAppearsAtLeastKTimes.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9A8EFB2BB773B7007A12CF /* CountSubarraysWhereMaxElementAppearsAtLeastKTimes.swift */; };
+		AD9ABD352BD3E36100364FA2 /* FindAllGroupsOfFarmland.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9ABD342BD3E36100364FA2 /* FindAllGroupsOfFarmland.swift */; };
 		AD9B070728B049DF00ADFB43 /* LinkedListCycle2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9B070628B049DF00ADFB43 /* LinkedListCycle2.swift */; };
 		AD9BEA5D2A5D761F0041D02B /* AllNodesDistanceKInBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9BEA5C2A5D761F0041D02B /* AllNodesDistanceKInBinaryTree.swift */; };
 		AD9CBFC929A1313A0017BAD8 /* UniqueSubstringsInWraparoundString.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9CBFC829A1313A0017BAD8 /* UniqueSubstringsInWraparoundString.swift */; };
@@ -1007,6 +1008,7 @@
 		AD9A0D8B295B5D17009B9BB5 /* GoalParserInterpretation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoalParserInterpretation.swift; sourceTree = "<group>"; };
 		AD9A0D8D295B5DBE009B9BB5 /* FindTheDifference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheDifference.swift; sourceTree = "<group>"; };
 		AD9A8EFB2BB773B7007A12CF /* CountSubarraysWhereMaxElementAppearsAtLeastKTimes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountSubarraysWhereMaxElementAppearsAtLeastKTimes.swift; sourceTree = "<group>"; };
+		AD9ABD342BD3E36100364FA2 /* FindAllGroupsOfFarmland.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindAllGroupsOfFarmland.swift; sourceTree = "<group>"; };
 		AD9B070628B049DF00ADFB43 /* LinkedListCycle2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkedListCycle2.swift; sourceTree = "<group>"; };
 		AD9BEA5C2A5D761F0041D02B /* AllNodesDistanceKInBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllNodesDistanceKInBinaryTree.swift; sourceTree = "<group>"; };
 		AD9CBFC829A1313A0017BAD8 /* UniqueSubstringsInWraparoundString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniqueSubstringsInWraparoundString.swift; sourceTree = "<group>"; };
@@ -1484,6 +1486,7 @@
 				ADEE310428B7A5B400448525 /* FibonacciNumber.swift */,
 				ADB53A3928BA4AB300C937F7 /* FindAllAnagramsInAString.swift */,
 				AD3E13802BB217C8002C9356 /* FindAllDuplicatesInAnArray.swift */,
+				AD9ABD342BD3E36100364FA2 /* FindAllGroupsOfFarmland.swift */,
 				AD0978962B8A4E99008453AB /* FindAllPeopleWithSecret.swift */,
 				AD3994392B8F8F9000611744 /* FindBottomLeftTreeValue.swift */,
 				AD6E241429814E9D0012D133 /* FindClosestNodeToGivenTwoNodes.swift */,
@@ -2516,6 +2519,7 @@
 				ADDCF94928BCD57200E7CA46 /* BackspaceStringCompare.swift in Sources */,
 				ADCDE5D72AAE01910030B8F8 /* CountAllValidPickupAndDeliveryOptions.swift in Sources */,
 				ADE8B85A294F432200699CEB /* CoinChange2.swift in Sources */,
+				AD9ABD352BD3E36100364FA2 /* FindAllGroupsOfFarmland.swift in Sources */,
 				AD3831002A5452D5003B68D8 /* SingleNumber2.swift in Sources */,
 				ADE1BD2728DC7CAF008ED566 /* RottingOranges.swift in Sources */,
 				ADCA119C2AE0320000D4FB27 /* ParallelCourses3.swift in Sources */,
