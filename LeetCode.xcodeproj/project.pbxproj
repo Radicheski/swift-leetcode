@@ -23,6 +23,7 @@
 		AD05D58D298038CF00B35E1B /* AsFarFromLandAsPossible.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD05D58C298038CF00B35E1B /* AsFarFromLandAsPossible.swift */; };
 		AD05D58F29805ABD00B35E1B /* SnakesAndLadders.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD05D58E29805ABD00B35E1B /* SnakesAndLadders.swift */; };
 		AD068C4C28DDC23400D4EB76 /* ConcatenationOfConsecutiveBinaryNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD068C4B28DDC23400D4EB76 /* ConcatenationOfConsecutiveBinaryNumbers.swift */; };
+		AD06A28A2BD8045700151E4E /* MinimumHeightTrees.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD06A2892BD8045700151E4E /* MinimumHeightTrees.swift */; };
 		AD06B6C129F06799005BF5B8 /* LongestZigZagPathInABinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD06B6C029F06799005BF5B8 /* LongestZigZagPathInABinaryTree.swift */; };
 		AD0740B92B823B6F0028E827 /* MeetingRooms3.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0740B82B823B6F0028E827 /* MeetingRooms3.swift */; };
 		AD078AAD2B4D766C003A968F /* LeafSimilarTrees.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD078AAC2B4D766C003A968F /* LeafSimilarTrees.swift */; };
@@ -665,6 +666,7 @@
 		AD05D58C298038CF00B35E1B /* AsFarFromLandAsPossible.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsFarFromLandAsPossible.swift; sourceTree = "<group>"; };
 		AD05D58E29805ABD00B35E1B /* SnakesAndLadders.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SnakesAndLadders.swift; sourceTree = "<group>"; };
 		AD068C4B28DDC23400D4EB76 /* ConcatenationOfConsecutiveBinaryNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConcatenationOfConsecutiveBinaryNumbers.swift; sourceTree = "<group>"; };
+		AD06A2892BD8045700151E4E /* MinimumHeightTrees.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumHeightTrees.swift; sourceTree = "<group>"; };
 		AD06B6C029F06799005BF5B8 /* LongestZigZagPathInABinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestZigZagPathInABinaryTree.swift; sourceTree = "<group>"; };
 		AD0740B82B823B6F0028E827 /* MeetingRooms3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingRooms3.swift; sourceTree = "<group>"; };
 		AD078AAC2B4D766C003A968F /* LeafSimilarTrees.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeafSimilarTrees.swift; sourceTree = "<group>"; };
@@ -1697,6 +1699,7 @@
 				ADC14A802A3102B300512188 /* MinimumFlipsToMakeAORBEqualToC.swift */,
 				ADFA10CC29991D7B00B7C873 /* MinimumFuelCostToReportToTheCapital.swift */,
 				AD4F6607298A8D230015FB4B /* MinimumGeneticMutation.swift */,
+				AD06A2892BD8045700151E4E /* MinimumHeightTrees.swift */,
 				AD979E7B29F4178800850BE9 /* MinimumInsertionStepsToMakeAStringPalindrome.swift */,
 				AD7B3DAF29893EB700DB46E4 /* MinimumJumpsToReachHome.swift */,
 				ADC715B22B978F54004CDA8F /* MinimumLengthOfStringAfterDeletingSimilarEnds.swift */,
@@ -2467,6 +2470,7 @@
 				ADA0D1BF2B50231700D96295 /* MaximumDifferenceBetweenNodeAndAncestor.swift in Sources */,
 				AD159C802BD14EBA0070FD96 /* IslandPerimeter.swift in Sources */,
 				ADF22B84292BA5AC00DF8FCA /* MaximumProductSubarray.swift in Sources */,
+				AD06A28A2BD8045700151E4E /* MinimumHeightTrees.swift in Sources */,
 				AD7B3DB029893EB700DB46E4 /* MinimumJumpsToReachHome.swift in Sources */,
 				AD72611B2A5AD74B00BE11D2 /* SubstringWithLargestVariance.swift in Sources */,
 				AD60E4A62A436D20007828B7 /* MinimumCostToMakeArrayEqual.swift in Sources */,
