@@ -404,6 +404,7 @@
 		ADA8F8EB2AF7F48B00A71525 /* FindTheWinnerOfAnArrayGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA8F8EA2AF7F48B00A71525 /* FindTheWinnerOfAnArrayGame.swift */; };
 		ADA948202B0398100057E932 /* UniqueLength3PalindromicSubsequences.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA9481F2B0398100057E932 /* UniqueLength3PalindromicSubsequences.swift */; };
 		ADA94B9028D7434D00D07819 /* RemoveNthNodeFromEndOfList.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA94B8F28D7434D00D07819 /* RemoveNthNodeFromEndOfList.swift */; };
+		ADA9AB522BDAA5E600986D9B /* LongestIdealSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA9AB512BDAA5E600986D9B /* LongestIdealSubsequence.swift */; };
 		ADAA00402ADAFA6300CD0E67 /* PaintingTheWalls.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAA003F2ADAFA6300CD0E67 /* PaintingTheWalls.swift */; };
 		ADAA5A3A29225FDC003EE31E /* BalancedBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAA5A3929225FDC003EE31E /* BalancedBinaryTree.swift */; };
 		ADAB40302A978348005361C5 /* TextJustification.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAB402F2A978348005361C5 /* TextJustification.swift */; };
@@ -1047,6 +1048,7 @@
 		ADA8F8EA2AF7F48B00A71525 /* FindTheWinnerOfAnArrayGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheWinnerOfAnArrayGame.swift; sourceTree = "<group>"; };
 		ADA9481F2B0398100057E932 /* UniqueLength3PalindromicSubsequences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniqueLength3PalindromicSubsequences.swift; sourceTree = "<group>"; };
 		ADA94B8F28D7434D00D07819 /* RemoveNthNodeFromEndOfList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveNthNodeFromEndOfList.swift; sourceTree = "<group>"; };
+		ADA9AB512BDAA5E600986D9B /* LongestIdealSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestIdealSubsequence.swift; sourceTree = "<group>"; };
 		ADAA003F2ADAFA6300CD0E67 /* PaintingTheWalls.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaintingTheWalls.swift; sourceTree = "<group>"; };
 		ADAA5A3929225FDC003EE31E /* BalancedBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BalancedBinaryTree.swift; sourceTree = "<group>"; };
 		ADAB402F2A978348005361C5 /* TextJustification.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextJustification.swift; sourceTree = "<group>"; };
@@ -1610,6 +1612,7 @@
 				AD3ADA12291D194800F54F51 /* LongestCommonPrefix.swift */,
 				AD4C668129152DFC00C86C85 /* LongestCommonSubsequence.swift */,
 				ADE2238D29D0C4DF0063EDBA /* LongestCycleInAGraph.swift */,
+				ADA9AB512BDAA5E600986D9B /* LongestIdealSubsequence.swift */,
 				AD35997A2913DD9F0082AC68 /* LongestIncreasingSubsequence.swift */,
 				ADE175DD28B1262A0022F308 /* LongestPalindrome.swift */,
 				ADCBBD81292126D2006787B4 /* LongestPalindromeByConcatenatingTwoLetterWords.swift */,
@@ -2448,6 +2451,7 @@
 				ADB1A706298EBC180059F3C9 /* CheckIfMatrixIsXMatrix.swift in Sources */,
 				ADFDB0002BC367B800FDE0FA /* ValidParenthesisString.swift in Sources */,
 				AD3EE9212ADC1E5400FDBE5D /* NumberOfWaysToStayInTheSamePlaceAfterSomeSteps.swift in Sources */,
+				ADA9AB522BDAA5E600986D9B /* LongestIdealSubsequence.swift in Sources */,
 				AD933EF228E46CAA00B1B2DA /* ThreeSum.swift in Sources */,
 				ADCA990C2B0245A60024114F /* SortVowelsInAString.swift in Sources */,
 				ADB1FB752B063A2E0001D251 /* FindUniqueBinaryString.swift in Sources */,
