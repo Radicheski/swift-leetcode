@@ -410,6 +410,7 @@
 		ADAA00402ADAFA6300CD0E67 /* PaintingTheWalls.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAA003F2ADAFA6300CD0E67 /* PaintingTheWalls.swift */; };
 		ADAA5A3A29225FDC003EE31E /* BalancedBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAA5A3929225FDC003EE31E /* BalancedBinaryTree.swift */; };
 		ADAB40302A978348005361C5 /* TextJustification.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAB402F2A978348005361C5 /* TextJustification.swift */; };
+		ADABE4E72BE0132500B1C1AE /* MinimumNumberOfOperationsToMakeArrayXOREqualToK.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADABE4E62BE0132500B1C1AE /* MinimumNumberOfOperationsToMakeArrayXOREqualToK.swift */; };
 		ADAD46C82A45D08B00274BA7 /* LongestArithmeticSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAD46C72A45D08B00274BA7 /* LongestArithmeticSubsequence.swift */; };
 		ADADA529295324F700CBB58C /* SubtractTheProductAndSumOfDigitsOfAnInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADADA528295324F700CBB58C /* SubtractTheProductAndSumOfDigitsOfAnInteger.swift */; };
 		ADADF18A28C8FF030021B192 /* RemoveDuplicatesFromSortedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADADF18928C8FF030021B192 /* RemoveDuplicatesFromSortedList.swift */; };
@@ -1057,6 +1058,7 @@
 		ADAA003F2ADAFA6300CD0E67 /* PaintingTheWalls.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaintingTheWalls.swift; sourceTree = "<group>"; };
 		ADAA5A3929225FDC003EE31E /* BalancedBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BalancedBinaryTree.swift; sourceTree = "<group>"; };
 		ADAB402F2A978348005361C5 /* TextJustification.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextJustification.swift; sourceTree = "<group>"; };
+		ADABE4E62BE0132500B1C1AE /* MinimumNumberOfOperationsToMakeArrayXOREqualToK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberOfOperationsToMakeArrayXOREqualToK.swift; sourceTree = "<group>"; };
 		ADAD46C72A45D08B00274BA7 /* LongestArithmeticSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestArithmeticSubsequence.swift; sourceTree = "<group>"; };
 		ADADA528295324F700CBB58C /* SubtractTheProductAndSumOfDigitsOfAnInteger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubtractTheProductAndSumOfDigitsOfAnInteger.swift; sourceTree = "<group>"; };
 		ADADF18928C8FF030021B192 /* RemoveDuplicatesFromSortedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveDuplicatesFromSortedList.swift; sourceTree = "<group>"; };
@@ -1719,6 +1721,7 @@
 				ADC653D42993C549004C4934 /* MinimumNumberOfMovesToSeatEveryone.swift */,
 				AD0EAE3D2AD576C400E25C63 /* MinimumNumberOfOperationsToMakeArrayContinuous.swift */,
 				AD18849F2B46E43E004E03C0 /* MinimumNumberOfOperationsToMakeArrayEmpty.swift */,
+				ADABE4E62BE0132500B1C1AE /* MinimumNumberOfOperationsToMakeArrayXOREqualToK.swift */,
 				AD67B8B62B52B699001FA175 /* MinimumNumberOfStepsToMakeTwoStringsAnagram.swift */,
 				AD3B8BE42AA0F2B200923BC4 /* MinimumNumberOfTapsToOpenToWaterAGarden.swift */,
 				ADD8E83028FC3B3C00EEBB3C /* MinimumNumberOfVerticesToReachAllNodes.swift */,
@@ -2587,6 +2590,7 @@
 				AD5CBBEC28B254A000495544 /* TreeNode.swift in Sources */,
 				AD74CBA52A96819300F08479 /* ReorganizeString.swift in Sources */,
 				AD0A39672AB32C9E003BCCFA /* ReconstructItinerary.swift in Sources */,
+				ADABE4E72BE0132500B1C1AE /* MinimumNumberOfOperationsToMakeArrayXOREqualToK.swift in Sources */,
 				AD5065612B1B60FA009455AE /* FindWordsThatCanBeFormedByCharacters.swift in Sources */,
 				ADC46DB028A922C7003B926E /* NumberOfStepsRoReduceANumberToZero.swift in Sources */,
 				AD34FA9E2B6543C2009EB0AB /* KInversePairsArray.swift in Sources */,
