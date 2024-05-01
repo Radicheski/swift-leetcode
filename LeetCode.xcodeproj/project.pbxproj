@@ -536,6 +536,7 @@
 		ADD982A82992715E0084722F /* FruitIntoBaskets.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD982A72992715E0084722F /* FruitIntoBaskets.swift */; };
 		ADDA52F12A66BAE8006B6ECA /* LRUCacheTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADDA52F02A66BAE8006B6ECA /* LRUCacheTest.swift */; };
 		ADDA879C2BC56CD800BB1145 /* TimeNeededToBuyTickets.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADDA879B2BC56CD800BB1145 /* TimeNeededToBuyTickets.swift */; };
+		ADDAD6C92BE27DB800C96DF7 /* ReversePrefixOfWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADDAD6C82BE27DB800C96DF7 /* ReversePrefixOfWord.swift */; };
 		ADDADA8E2B9164EE00306DE5 /* MaximumOddBinaryNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADDADA8D2B9164EE00306DE5 /* MaximumOddBinaryNumber.swift */; };
 		ADDC47DD28E85E7D0099DDC5 /* SearchA2DMatrix2.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADDC47DC28E85E7D0099DDC5 /* SearchA2DMatrix2.swift */; };
 		ADDC47DF28E861E40099DDC5 /* NonOverlappingIntervals.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADDC47DE28E861E40099DDC5 /* NonOverlappingIntervals.swift */; };
@@ -1186,6 +1187,7 @@
 		ADD982A72992715E0084722F /* FruitIntoBaskets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitIntoBaskets.swift; sourceTree = "<group>"; };
 		ADDA52F02A66BAE8006B6ECA /* LRUCacheTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LRUCacheTest.swift; sourceTree = "<group>"; };
 		ADDA879B2BC56CD800BB1145 /* TimeNeededToBuyTickets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeNeededToBuyTickets.swift; sourceTree = "<group>"; };
+		ADDAD6C82BE27DB800C96DF7 /* ReversePrefixOfWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReversePrefixOfWord.swift; sourceTree = "<group>"; };
 		ADDADA8D2B9164EE00306DE5 /* MaximumOddBinaryNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumOddBinaryNumber.swift; sourceTree = "<group>"; };
 		ADDC47DC28E85E7D0099DDC5 /* SearchA2DMatrix2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchA2DMatrix2.swift; sourceTree = "<group>"; };
 		ADDC47DE28E861E40099DDC5 /* NonOverlappingIntervals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NonOverlappingIntervals.swift; sourceTree = "<group>"; };
@@ -1860,6 +1862,7 @@
 				AD88EE2428AF13C3007E3D7C /* ReverseLinkedList.swift */,
 				AD0800592AA9F97400A4F6BB /* ReverseLinkedList2.swift */,
 				ADA86E8428F440BE00A01BC2 /* ReverseNodesInKGroup.swift */,
+				ADDAD6C82BE27DB800C96DF7 /* ReversePrefixOfWord.swift */,
 				ADA08C5928D5E8E700B816C2 /* ReverseString.swift */,
 				ADA08C5B28D5E99600B816C2 /* ReverseWordsInAString3.swift */,
 				AD2A46D828AA9C9E009C45A8 /* RichestCustomerWealth.swift */,
@@ -2175,6 +2178,7 @@
 				ADC482CC28DF202300EAE8CC /* Combinations.swift in Sources */,
 				ADD728D52BE13143008FE309 /* NumberOfWonderfulSubstrings.swift in Sources */,
 				AD0740B92B823B6F0028E827 /* MeetingRooms3.swift in Sources */,
+				ADDAD6C92BE27DB800C96DF7 /* ReversePrefixOfWord.swift in Sources */,
 				ADF243C9297456480006F2A4 /* NumberOfGoodPaths.swift in Sources */,
 				ADAB40302A978348005361C5 /* TextJustification.swift in Sources */,
 				AD653F632A5C2EEB00C7CCE8 /* MinimumDepthOfBinaryTree.swift in Sources */,
