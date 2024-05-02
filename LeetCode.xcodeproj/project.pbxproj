@@ -240,6 +240,7 @@
 		AD61AC3F29D70AA600A4C392 /* NumberOfWaysOfCuttingAPizza.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD61AC3E29D70AA600A4C392 /* NumberOfWaysOfCuttingAPizza.swift */; };
 		AD623EE02AC86A83009D289A /* OneThreeTwoPattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD623EDF2AC86A83009D289A /* OneThreeTwoPattern.swift */; };
 		AD63760129E83336003B1BFB /* ValidateStackSequences.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD63760029E83336003B1BFB /* ValidateStackSequences.swift */; };
+		AD637E622BE3BFB40025265F /* LargestPositiveIntegerThatExistsWithItsNegative.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD637E612BE3BFB40025265F /* LargestPositiveIntegerThatExistsWithItsNegative.swift */; };
 		AD638E6C2A9CC08700641464 /* ImplementStackUsingQueues.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD638E6B2A9CC08700641464 /* ImplementStackUsingQueues.swift */; };
 		AD63B81429B363D200E41605 /* CountSubarraysWithFixedBounds.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD63B81329B363D200E41605 /* CountSubarraysWithFixedBounds.swift */; };
 		AD63BB6F2B16169200C39209 /* NumberOfWaysToDivideALongCorridor.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD63BB6E2B16169200C39209 /* NumberOfWaysToDivideALongCorridor.swift */; };
@@ -890,6 +891,7 @@
 		AD61AC3E29D70AA600A4C392 /* NumberOfWaysOfCuttingAPizza.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfWaysOfCuttingAPizza.swift; sourceTree = "<group>"; };
 		AD623EDF2AC86A83009D289A /* OneThreeTwoPattern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OneThreeTwoPattern.swift; sourceTree = "<group>"; };
 		AD63760029E83336003B1BFB /* ValidateStackSequences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidateStackSequences.swift; sourceTree = "<group>"; };
+		AD637E612BE3BFB40025265F /* LargestPositiveIntegerThatExistsWithItsNegative.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargestPositiveIntegerThatExistsWithItsNegative.swift; sourceTree = "<group>"; };
 		AD638E6B2A9CC08700641464 /* ImplementStackUsingQueues.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImplementStackUsingQueues.swift; sourceTree = "<group>"; };
 		AD63B81329B363D200E41605 /* CountSubarraysWithFixedBounds.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountSubarraysWithFixedBounds.swift; sourceTree = "<group>"; };
 		AD63BB6E2B16169200C39209 /* NumberOfWaysToDivideALongCorridor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfWaysToDivideALongCorridor.swift; sourceTree = "<group>"; };
@@ -1602,6 +1604,7 @@
 				ADA50F772B21EAB90002964A /* LargestOddNumberInString.swift */,
 				ADEBFC172B76538300C952A5 /* LargestDivisibleSubset.swift */,
 				ADD26590295483C20097DD23 /* LargestPerimeterTriangle.swift */,
+				AD637E612BE3BFB40025265F /* LargestPositiveIntegerThatExistsWithItsNegative.swift */,
 				AD858F0E2B1369EA00BEF246 /* LargestSubmatrixWithRearrangements.swift */,
 				AD5D200D2B41D01800C03107 /* LargestSubstringBetweenTwoEqualCharacters.swift */,
 				ADA376E12A4F01B3008783CC /* LastDayWhereYouCanStillCross.swift */,
@@ -2347,6 +2350,7 @@
 				AD8A1EF029044C5C00ABA3F6 /* ContainerWithMostWater.swift in Sources */,
 				ADE2438828F835D900D3AB3F /* DeleteNodeInABST.swift in Sources */,
 				ADE79406290DA6D800D0D035 /* GenerateParentheses.swift in Sources */,
+				AD637E622BE3BFB40025265F /* LargestPositiveIntegerThatExistsWithItsNegative.swift in Sources */,
 				AD60EA0B2BBF1F1500E00942 /* MaximumNestingDepthOfTheParentheses.swift in Sources */,
 				AD1BBB5828BB83CD000032DD /* BullsAndCows.swift in Sources */,
 				AD9147DB2968530B007F9218 /* LengthOfLastWord.swift in Sources */,
