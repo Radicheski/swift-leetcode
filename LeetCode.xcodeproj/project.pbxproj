@@ -152,6 +152,7 @@
 		AD3C90C82B9B59BC001F115E /* CountElementsWithMaximumFrequency.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3C90C72B9B59BC001F115E /* CountElementsWithMaximumFrequency.swift */; };
 		AD3C92F028F19E7F00E90724 /* IntersectionOfTwoLinkedLists.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3C92EF28F19E7F00E90724 /* IntersectionOfTwoLinkedLists.swift */; };
 		AD3C92F228F19F2600E90724 /* RemoveDuplicatesFromSortedList2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3C92F128F19F2600E90724 /* RemoveDuplicatesFromSortedList2.swift */; };
+		AD3DBB052BED1E3C009A607C /* MaximizeHappinessOfSelectedChildren.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3DBB042BED1E3C009A607C /* MaximizeHappinessOfSelectedChildren.swift */; };
 		AD3DD0E62AB9215F00ABED04 /* FindTheDuplicateNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3DD0E52AB9215F00ABED04 /* FindTheDuplicateNumber.swift */; };
 		AD3DEE95298FD71F00DD88B5 /* TheSkylineProblem.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3DEE94298FD71F00DD88B5 /* TheSkylineProblem.swift */; };
 		AD3E13812BB217C8002C9356 /* FindAllDuplicatesInAnArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3E13802BB217C8002C9356 /* FindAllDuplicatesInAnArray.swift */; };
@@ -807,6 +808,7 @@
 		AD3C90C72B9B59BC001F115E /* CountElementsWithMaximumFrequency.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountElementsWithMaximumFrequency.swift; sourceTree = "<group>"; };
 		AD3C92EF28F19E7F00E90724 /* IntersectionOfTwoLinkedLists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntersectionOfTwoLinkedLists.swift; sourceTree = "<group>"; };
 		AD3C92F128F19F2600E90724 /* RemoveDuplicatesFromSortedList2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveDuplicatesFromSortedList2.swift; sourceTree = "<group>"; };
+		AD3DBB042BED1E3C009A607C /* MaximizeHappinessOfSelectedChildren.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximizeHappinessOfSelectedChildren.swift; sourceTree = "<group>"; };
 		AD3DD0E52AB9215F00ABED04 /* FindTheDuplicateNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheDuplicateNumber.swift; sourceTree = "<group>"; };
 		AD3DEE94298FD71F00DD88B5 /* TheSkylineProblem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TheSkylineProblem.swift; sourceTree = "<group>"; };
 		AD3E13802BB217C8002C9356 /* FindAllDuplicatesInAnArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindAllDuplicatesInAnArray.swift; sourceTree = "<group>"; };
@@ -1664,6 +1666,7 @@
 				ADAEFAE62AD2EA930034A042 /* MaxDotProductOfTwoSubsequences.swift */,
 				AD617F28298D2B4200708E31 /* MaximalNetworkRank.swift */,
 				AD86268F2949F15700027B1A /* MaximalSquare.swift */,
+				AD3DBB042BED1E3C009A607C /* MaximizeHappinessOfSelectedChildren.swift */,
 				AD7F8B632A11074B00213368 /* MaximizeScoreAfterNOperations.swift */,
 				AD2481F42A5832E800780C84 /* MaximizeTheConfusionOfAnExam.swift */,
 				ADA4798A28CCCEF800C23FF0 /* MaximumDepthOfBinaryTree.swift */,
@@ -2663,6 +2666,7 @@
 				AD820F5928B6529700BA068E /* FloodFill.swift in Sources */,
 				AD2F3732292F8B8B00F4F680 /* ImplementTriePrefixTree.swift in Sources */,
 				AD6E215929474A8100D538ED /* MatrixBlockSum.swift in Sources */,
+				AD3DBB052BED1E3C009A607C /* MaximizeHappinessOfSelectedChildren.swift in Sources */,
 				ADCA48682B3F063D0046A40E /* MinimumDifficultyOfAJobSchedule.swift in Sources */,
 				AD0AC56B28BE385B00D4608C /* LastStoneWeight.swift in Sources */,
 				AD9A8EFC2BB773B7007A12CF /* CountSubarraysWhereMaxElementAppearsAtLeastKTimes.swift in Sources */,
