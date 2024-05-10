@@ -492,6 +492,7 @@
 		ADCBBD8429212779006787B4 /* TaskScheduler.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCBBD8329212779006787B4 /* TaskScheduler.swift */; };
 		ADCC4FF32BA0913400C7D21B /* RemoveZeroSumConsecutiveNodesFromLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCC4FF22BA0913400C7D21B /* RemoveZeroSumConsecutiveNodesFromLinkedList.swift */; };
 		ADCC93162A18F905005C2406 /* EvaluateDivision.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCC93152A18F905005C2406 /* EvaluateDivision.swift */; };
+		ADCCB8662BEE4E9C000B517B /* KthSmallestPrimeFraction.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCCB8652BEE4E9C000B517B /* KthSmallestPrimeFraction.swift */; };
 		ADCCEEC328F2F0D900B85A54 /* SwapNodesInPairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCCEEC228F2F0D900B85A54 /* SwapNodesInPairs.swift */; };
 		ADCCEEC528F2F18B00B85A54 /* DesignLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCCEEC428F2F18B00B85A54 /* DesignLinkedList.swift */; };
 		ADCD818929C33FC700E30C1E /* ConstructBinaryTreeFromInorderAndPostorderTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCD818829C33FC700E30C1E /* ConstructBinaryTreeFromInorderAndPostorderTraversal.swift */; };
@@ -1148,6 +1149,7 @@
 		ADCBBD8329212779006787B4 /* TaskScheduler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskScheduler.swift; sourceTree = "<group>"; };
 		ADCC4FF22BA0913400C7D21B /* RemoveZeroSumConsecutiveNodesFromLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveZeroSumConsecutiveNodesFromLinkedList.swift; sourceTree = "<group>"; };
 		ADCC93152A18F905005C2406 /* EvaluateDivision.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EvaluateDivision.swift; sourceTree = "<group>"; };
+		ADCCB8652BEE4E9C000B517B /* KthSmallestPrimeFraction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KthSmallestPrimeFraction.swift; sourceTree = "<group>"; };
 		ADCCEEC228F2F0D900B85A54 /* SwapNodesInPairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwapNodesInPairs.swift; sourceTree = "<group>"; };
 		ADCCEEC428F2F18B00B85A54 /* DesignLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignLinkedList.swift; sourceTree = "<group>"; };
 		ADCD818829C33FC700E30C1E /* ConstructBinaryTreeFromInorderAndPostorderTraversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstructBinaryTreeFromInorderAndPostorderTraversal.swift; sourceTree = "<group>"; };
@@ -1611,6 +1613,7 @@
 				ADBF7F442A1CE68300552ACE /* KthLargestElementInAStream.swift */,
 				AD6669FA29B60A5900C1D36A /* KthMissingPositiveNumber.swift */,
 				ADD5A75228F9845700DAB4AF /* KthSmallestElementInABST.swift */,
+				ADCCB8652BEE4E9C000B517B /* KthSmallestPrimeFraction.swift */,
 				AD7914512AE9A59200DA4F67 /* KthSymbolInGrammar.swift */,
 				AD145BBC2B1DEE0100FADB38 /* Largest3SameDigitNumberInString.swift */,
 				AD7150E829E2DEE700B71CCC /* LargestColorValueInADirectedGraph.swift */,
@@ -2612,6 +2615,7 @@
 				AD2E2CE92955CF6300C790D0 /* SignOfTheProductOfAnArray.swift in Sources */,
 				ADEB25C72B1F438100783C6E /* CountOfMatchesInTournament.swift in Sources */,
 				AD1FADFD2B42F7920025BB9F /* AssignCookies.swift in Sources */,
+				ADCCB8662BEE4E9C000B517B /* KthSmallestPrimeFraction.swift in Sources */,
 				ADD274E22976BB0E0034B90A /* LemonadeChange.swift in Sources */,
 				ADF290F829016FDF00A8AA6D /* FindPeakElement.swift in Sources */,
 				AD3B8BE52AA0F2B200923BC4 /* MinimumNumberOfTapsToOpenToWaterAGarden.swift in Sources */,
