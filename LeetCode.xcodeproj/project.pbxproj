@@ -446,6 +446,7 @@
 		ADB4B01A2A94DDD100440492 /* ExcelSheetColumnTitle.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB4B0192A94DDD100440492 /* ExcelSheetColumnTitle.swift */; };
 		ADB53A3A28BA4AB300C937F7 /* FindAllAnagramsInAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB53A3928BA4AB300C937F7 /* FindAllAnagramsInAString.swift */; };
 		ADB53A3C28BA4BB200C937F7 /* LongestRepeatingCharacterReplacement.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB53A3B28BA4BB200C937F7 /* LongestRepeatingCharacterReplacement.swift */; };
+		ADB577DC2BFF7D0900AA3281 /* TheNumberOfBeautifulSubsets.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB577DB2BFF7D0800AA3281 /* TheNumberOfBeautifulSubsets.swift */; };
 		ADB7F328292CEE17005905FC /* ThreeSumClosest.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB7F327292CEE17005905FC /* ThreeSumClosest.swift */; };
 		ADB7F32A292CF06C005905FC /* MinimumWindowSubstring.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB7F329292CF06C005905FC /* MinimumWindowSubstring.swift */; };
 		ADB872512B10DA9000068F62 /* MaximumNumberOfCoinsYouCanGet.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB872502B10DA9000068F62 /* MaximumNumberOfCoinsYouCanGet.swift */; };
@@ -1113,6 +1114,7 @@
 		ADB4B0192A94DDD100440492 /* ExcelSheetColumnTitle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExcelSheetColumnTitle.swift; sourceTree = "<group>"; };
 		ADB53A3928BA4AB300C937F7 /* FindAllAnagramsInAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindAllAnagramsInAString.swift; sourceTree = "<group>"; };
 		ADB53A3B28BA4BB200C937F7 /* LongestRepeatingCharacterReplacement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestRepeatingCharacterReplacement.swift; sourceTree = "<group>"; };
+		ADB577DB2BFF7D0800AA3281 /* TheNumberOfBeautifulSubsets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TheNumberOfBeautifulSubsets.swift; sourceTree = "<group>"; };
 		ADB7F327292CEE17005905FC /* ThreeSumClosest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreeSumClosest.swift; sourceTree = "<group>"; };
 		ADB7F329292CF06C005905FC /* MinimumWindowSubstring.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumWindowSubstring.swift; sourceTree = "<group>"; };
 		ADB872502B10DA9000068F62 /* MaximumNumberOfCoinsYouCanGet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumNumberOfCoinsYouCanGet.swift; sourceTree = "<group>"; };
@@ -2001,6 +2003,7 @@
 				ADCBBD8329212779006787B4 /* TaskScheduler.swift */,
 				ADAB402F2A978348005361C5 /* TextJustification.swift */,
 				AD4BDEB028A7E03200E61565 /* TheKWeakestRowsInAMatrix.swift */,
+				ADB577DB2BFF7D0800AA3281 /* TheNumberOfBeautifulSubsets.swift */,
 				AD3DEE94298FD71F00DD88B5 /* TheSkylineProblem.swift */,
 				AD933EF128E46CAA00B1B2DA /* ThreeSum.swift */,
 				ADB7F327292CEE17005905FC /* ThreeSumClosest.swift */,
@@ -2727,6 +2730,7 @@
 				ADFBF95C2BFB85C10035EA3E /* SumOfAllSubsetXORTotals.swift in Sources */,
 				ADD2F0C229645ADB003B0038 /* DeleteColumnsToMakeSorted.swift in Sources */,
 				AD035F2A2BF3A700008E1A6F /* PathWithMaximumGold.swift in Sources */,
+				ADB577DC2BFF7D0900AA3281 /* TheNumberOfBeautifulSubsets.swift in Sources */,
 				AD86E25729001496007E2A8D /* FindFirstAndLastPositionOfElementInSortedArray.swift in Sources */,
 				ADD9772028C7BD520028FCB0 /* LinkedListCycle.swift in Sources */,
 				AD844B0D28CA209C008E1AEF /* ValidParentheses.swift in Sources */,
