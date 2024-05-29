@@ -435,6 +435,7 @@
 		ADAF390A2ABB629C00C9CAD1 /* MinimumOperationsToReduceXToZero.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAF39092ABB629C00C9CAD1 /* MinimumOperationsToReduceXToZero.swift */; };
 		ADAFABDE2B14B6E100F53133 /* KnightDialer.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAFABDD2B14B6E100F53133 /* KnightDialer.swift */; };
 		ADB002742B0A3743003199E7 /* ReductionOperationsToMakeTheArrayElementsEqual.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB002732B0A3743003199E7 /* ReductionOperationsToMakeTheArrayElementsEqual.swift */; };
+		ADB073AB2C07993300E47010 /* NumberOfStepsToReduceANumberInBinaryRepresentationToOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB073AA2C07993300E47010 /* NumberOfStepsToReduceANumberInBinaryRepresentationToOne.swift */; };
 		ADB0D9FF2960587A0016CA62 /* DesignParkingSystem.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB0D9FE2960587A0016CA62 /* DesignParkingSystem.swift */; };
 		ADB0DA01296059E10016CA62 /* RangeSumQueryImmutable.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB0DA00296059E10016CA62 /* RangeSumQueryImmutable.swift */; };
 		ADB0DA512BDBE85900059D53 /* MinimumFallingPathSum2.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB0DA502BDBE85900059D53 /* MinimumFallingPathSum2.swift */; };
@@ -1108,6 +1109,7 @@
 		ADAF39092ABB629C00C9CAD1 /* MinimumOperationsToReduceXToZero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumOperationsToReduceXToZero.swift; sourceTree = "<group>"; };
 		ADAFABDD2B14B6E100F53133 /* KnightDialer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KnightDialer.swift; sourceTree = "<group>"; };
 		ADB002732B0A3743003199E7 /* ReductionOperationsToMakeTheArrayElementsEqual.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReductionOperationsToMakeTheArrayElementsEqual.swift; sourceTree = "<group>"; };
+		ADB073AA2C07993300E47010 /* NumberOfStepsToReduceANumberInBinaryRepresentationToOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfStepsToReduceANumberInBinaryRepresentationToOne.swift; sourceTree = "<group>"; };
 		ADB0D9FE2960587A0016CA62 /* DesignParkingSystem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignParkingSystem.swift; sourceTree = "<group>"; };
 		ADB0DA00296059E10016CA62 /* RangeSumQueryImmutable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RangeSumQueryImmutable.swift; sourceTree = "<group>"; };
 		ADB0DA502BDBE85900059D53 /* MinimumFallingPathSum2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumFallingPathSum2.swift; sourceTree = "<group>"; };
@@ -1838,6 +1840,7 @@
 				AD361C4C28E1C929002962BB /* NumberOfOneBits.swift */,
 				AD4F07292985905C00FBFD05 /* NumberOfOperationsToMakeNetworkConnected.swift */,
 				AD5749192906A0A7008E89BE /* NumberOfProvinces.swift */,
+				ADB073AA2C07993300E47010 /* NumberOfStepsToReduceANumberInBinaryRepresentationToOne.swift */,
 				ADC46DAF28A922C7003B926E /* NumberOfStepsRoReduceANumberToZero.swift */,
 				AD03A4E12BC41EDB007E95FC /* NumberOfStudentsUnableToEatLunch.swift */,
 				ADA7A5E82B668A0B00306043 /* NumberOfSubmatricesThatSumToTarget.swift */,
@@ -2502,6 +2505,7 @@
 				AD4BDEB128A7E03200E61565 /* TheKWeakestRowsInAMatrix.swift in Sources */,
 				ADE79408290DA7D700D0D035 /* WordSearch.swift in Sources */,
 				AD1850E22B7CFB2200B31027 /* RearrangeArrayElementsBySign.swift in Sources */,
+				ADB073AB2C07993300E47010 /* NumberOfStepsToReduceANumberInBinaryRepresentationToOne.swift in Sources */,
 				ADC65A3C2B2F2BE00081C4CA /* DesignAFoodRatingSystem.swift in Sources */,
 				AD7F8B642A11074B00213368 /* MaximizeScoreAfterNOperations.swift in Sources */,
 				AD361C4B28E1C883002962BB /* PowerOfTwo.swift in Sources */,
