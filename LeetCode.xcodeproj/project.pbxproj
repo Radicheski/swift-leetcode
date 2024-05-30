@@ -140,6 +140,7 @@
 		AD361C4B28E1C883002962BB /* PowerOfTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD361C4A28E1C883002962BB /* PowerOfTwo.swift */; };
 		AD361C4D28E1C929002962BB /* NumberOfOneBits.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD361C4C28E1C929002962BB /* NumberOfOneBits.swift */; };
 		AD366CAE29E5C4E800A3991E /* RemovingStarsFromAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD366CAD29E5C4E800A3991E /* RemovingStarsFromAString.swift */; };
+		AD367E242C08D4590001D731 /* CountTripletsThatCanFormTwoArraysOfEqualXOR.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD367E232C08D4590001D731 /* CountTripletsThatCanFormTwoArraysOfEqualXOR.swift */; };
 		AD36EA9A2B458DE000372E13 /* NumberOfLaserBeamsInABank.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD36EA992B458DE000372E13 /* NumberOfLaserBeamsInABank.swift */; };
 		AD3793202BB319330047D1E0 /* FirstMissingPositive.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD37931F2BB319330047D1E0 /* FirstMissingPositive.swift */; };
 		AD3831002A5452D5003B68D8 /* SingleNumber2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3830FF2A5452D5003B68D8 /* SingleNumber2.swift */; };
@@ -814,6 +815,7 @@
 		AD361C4A28E1C883002962BB /* PowerOfTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PowerOfTwo.swift; sourceTree = "<group>"; };
 		AD361C4C28E1C929002962BB /* NumberOfOneBits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfOneBits.swift; sourceTree = "<group>"; };
 		AD366CAD29E5C4E800A3991E /* RemovingStarsFromAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemovingStarsFromAString.swift; sourceTree = "<group>"; };
+		AD367E232C08D4590001D731 /* CountTripletsThatCanFormTwoArraysOfEqualXOR.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountTripletsThatCanFormTwoArraysOfEqualXOR.swift; sourceTree = "<group>"; };
 		AD36EA992B458DE000372E13 /* NumberOfLaserBeamsInABank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfLaserBeamsInABank.swift; sourceTree = "<group>"; };
 		AD37931F2BB319330047D1E0 /* FirstMissingPositive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstMissingPositive.swift; sourceTree = "<group>"; };
 		AD3830FF2A5452D5003B68D8 /* SingleNumber2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleNumber2.swift; sourceTree = "<group>"; };
@@ -1500,6 +1502,7 @@
 				AD9A8EFB2BB773B7007A12CF /* CountSubarraysWhereMaxElementAppearsAtLeastKTimes.swift */,
 				AD63B81329B363D200E41605 /* CountSubarraysWithFixedBounds.swift */,
 				ADF7AF11297ECC9B000B34DA /* CountSubIslands.swift */,
+				AD367E232C08D4590001D731 /* CountTripletsThatCanFormTwoArraysOfEqualXOR.swift */,
 				AD29A71829CF2CDF00A5E1F0 /* CountUnreachablePairsOfNodesInAnUndirectedGraph.swift */,
 				ADB9FAF62AED4049009C0D9C /* CountVowelsPermutation.swift */,
 				AD88BEEC2A0FB87F000ECB08 /* CountWaysToBuildGoodStrings.swift */,
@@ -2605,6 +2608,7 @@
 				ADF58E1228C6236D000E08DB /* ValidAnagram.swift in Sources */,
 				ADB9AE8E28FAD19D008FBC6A /* LowestCommonAncestorOfABinaryTree.swift in Sources */,
 				AD2FF7A728B50D3F0027AFB6 /* LowestCommonAncestorOfABinarySearchTree.swift in Sources */,
+				AD367E242C08D4590001D731 /* CountTripletsThatCanFormTwoArraysOfEqualXOR.swift in Sources */,
 				AD1421F72B8B7DB20070BD74 /* GreatestCommonDivisorTraversal.swift in Sources */,
 				AD3326FF29B8A213006715FD /* KokoEatingBananas.swift in Sources */,
 				AD607B9F298807C300426C95 /* ShortestPathWithAlternatingColors.swift in Sources */,
