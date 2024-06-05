@@ -537,6 +537,7 @@
 		ADD2F0C229645ADB003B0038 /* DeleteColumnsToMakeSorted.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD2F0C129645ADB003B0038 /* DeleteColumnsToMakeSorted.swift */; };
 		ADD2F9182A3DF45300AC9783 /* MakeArrayStrictlyIncreasing.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD2F9172A3DF45300AC9783 /* MakeArrayStrictlyIncreasing.swift */; };
 		ADD51E832A12586C00B9ED49 /* SwappingNodesInALinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD51E822A12586C00B9ED49 /* SwappingNodesInALinkedList.swift */; };
+		ADD553E92C10B50000F15B6A /* FindCommonCharacters.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD553E82C10B50000F15B6A /* FindCommonCharacters.swift */; };
 		ADD5A75328F9845700DAB4AF /* KthSmallestElementInABST.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD5A75228F9845700DAB4AF /* KthSmallestElementInABST.swift */; };
 		ADD5A75528F984F900DAB4AF /* BinarySearchTreeIterator.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD5A75428F984F900DAB4AF /* BinarySearchTreeIterator.swift */; };
 		ADD5D3F328A3120A00BD5BCC /* RansomNote.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD5D3E628A3114600BD5BCC /* RansomNote.swift */; };
@@ -1215,6 +1216,7 @@
 		ADD2F0C129645ADB003B0038 /* DeleteColumnsToMakeSorted.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeleteColumnsToMakeSorted.swift; sourceTree = "<group>"; };
 		ADD2F9172A3DF45300AC9783 /* MakeArrayStrictlyIncreasing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakeArrayStrictlyIncreasing.swift; sourceTree = "<group>"; };
 		ADD51E822A12586C00B9ED49 /* SwappingNodesInALinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwappingNodesInALinkedList.swift; sourceTree = "<group>"; };
+		ADD553E82C10B50000F15B6A /* FindCommonCharacters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindCommonCharacters.swift; sourceTree = "<group>"; };
 		ADD5A75228F9845700DAB4AF /* KthSmallestElementInABST.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KthSmallestElementInABST.swift; sourceTree = "<group>"; };
 		ADD5A75428F984F900DAB4AF /* BinarySearchTreeIterator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinarySearchTreeIterator.swift; sourceTree = "<group>"; };
 		ADD5D3E628A3114600BD5BCC /* RansomNote.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RansomNote.swift; sourceTree = "<group>"; };
@@ -1572,6 +1574,7 @@
 				AD0978962B8A4E99008453AB /* FindAllPeopleWithSecret.swift */,
 				AD3994392B8F8F9000611744 /* FindBottomLeftTreeValue.swift */,
 				AD6E241429814E9D0012D133 /* FindClosestNodeToGivenTwoNodes.swift */,
+				ADD553E82C10B50000F15B6A /* FindCommonCharacters.swift */,
 				AD0567C02A90ECDF006DE235 /* FindCriticalAndPseudoCriticalEdgesInMinimumSpanningTree.swift */,
 				AD27DB0C29AE2038007BAD2B /* FindDuplicateSubtrees.swift */,
 				AD6EC99229868F8900FA64B1 /* FindEventualSafeStates.swift */,
@@ -2627,6 +2630,7 @@
 				AD967DDB28C36AC0005408E7 /* ReshapeTheMatrix.swift in Sources */,
 				ADB1E8182930DD23001D88CB /* InsertInterval.swift in Sources */,
 				AD607BA32988090900426C95 /* ShortestPathVisitingAllNodes.swift in Sources */,
+				ADD553E92C10B50000F15B6A /* FindCommonCharacters.swift in Sources */,
 				AD145BBD2B1DEE0100FADB38 /* Largest3SameDigitNumberInString.swift in Sources */,
 				AD96A68D295C7C0C001F0AB6 /* DecryptStringFromAlphabetToIntegerMapping.swift in Sources */,
 				AD2B731D295DCF1F00334288 /* ConvertBinaryNumberInALinkedListToInteger.swift in Sources */,
