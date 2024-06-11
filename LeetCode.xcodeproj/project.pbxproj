@@ -456,6 +456,7 @@
 		ADB53A3A28BA4AB300C937F7 /* FindAllAnagramsInAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB53A3928BA4AB300C937F7 /* FindAllAnagramsInAString.swift */; };
 		ADB53A3C28BA4BB200C937F7 /* LongestRepeatingCharacterReplacement.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB53A3B28BA4BB200C937F7 /* LongestRepeatingCharacterReplacement.swift */; };
 		ADB577DC2BFF7D0900AA3281 /* TheNumberOfBeautifulSubsets.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB577DB2BFF7D0800AA3281 /* TheNumberOfBeautifulSubsets.swift */; };
+		ADB5CB3E2C18788F00D3777E /* RelativeSortArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB5CB3D2C18788F00D3777E /* RelativeSortArray.swift */; };
 		ADB7F328292CEE17005905FC /* ThreeSumClosest.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB7F327292CEE17005905FC /* ThreeSumClosest.swift */; };
 		ADB7F32A292CF06C005905FC /* MinimumWindowSubstring.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB7F329292CF06C005905FC /* MinimumWindowSubstring.swift */; };
 		ADB872512B10DA9000068F62 /* MaximumNumberOfCoinsYouCanGet.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB872502B10DA9000068F62 /* MaximumNumberOfCoinsYouCanGet.swift */; };
@@ -1139,6 +1140,7 @@
 		ADB53A3928BA4AB300C937F7 /* FindAllAnagramsInAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindAllAnagramsInAString.swift; sourceTree = "<group>"; };
 		ADB53A3B28BA4BB200C937F7 /* LongestRepeatingCharacterReplacement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestRepeatingCharacterReplacement.swift; sourceTree = "<group>"; };
 		ADB577DB2BFF7D0800AA3281 /* TheNumberOfBeautifulSubsets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TheNumberOfBeautifulSubsets.swift; sourceTree = "<group>"; };
+		ADB5CB3D2C18788F00D3777E /* RelativeSortArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RelativeSortArray.swift; sourceTree = "<group>"; };
 		ADB7F327292CEE17005905FC /* ThreeSumClosest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreeSumClosest.swift; sourceTree = "<group>"; };
 		ADB7F329292CF06C005905FC /* MinimumWindowSubstring.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumWindowSubstring.swift; sourceTree = "<group>"; };
 		ADB872502B10DA9000068F62 /* MaximumNumberOfCoinsYouCanGet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumNumberOfCoinsYouCanGet.swift; sourceTree = "<group>"; };
@@ -1928,6 +1930,7 @@
 				AD42FF3629D4AA1F00B569EB /* ReducingDishes.swift */,
 				ADB002732B0A3743003199E7 /* ReductionOperationsToMakeTheArrayElementsEqual.swift */,
 				AD98C90B2BEBE86100A92C22 /* RelativeRanks.swift */,
+				ADB5CB3D2C18788F00D3777E /* RelativeSortArray.swift */,
 				ADA364282ACAE9BC00EBE7F1 /* RemoveColoredPiecesIfBothNeighborsAreTheSameColor.swift */,
 				ADE6A4D12AC25BE700313E81 /* RemoveDuplicateLetters.swift */,
 				ADADF18928C8FF030021B192 /* RemoveDuplicatesFromSortedList.swift */,
@@ -2429,6 +2432,7 @@
 				AD96A68B295C7B6E001F0AB6 /* ToLowerCase.swift in Sources */,
 				ADA8F8EB2AF7F48B00A71525 /* FindTheWinnerOfAnArrayGame.swift in Sources */,
 				AD1BBB5628BB832B000032DD /* TwoSum.swift in Sources */,
+				ADB5CB3E2C18788F00D3777E /* RelativeSortArray.swift in Sources */,
 				AD42AF9D2B63D1560076F181 /* OutOfBoundaryPaths.swift in Sources */,
 				AD0233C92B5FF73800090594 /* MaximumLengthOfAConcatenatedStringWithUniqueCharacters.swift in Sources */,
 				ADD265932954849E0097DD23 /* FindNearestPointThatHasTheSameXOrYCoordinate.swift in Sources */,
