@@ -176,6 +176,7 @@
 		AD40251C29E7424B00BE3D15 /* SimplifyPath.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD40251B29E7424B00BE3D15 /* SimplifyPath.swift */; };
 		AD40A0292BCFF39000AA622A /* SmallestStringStartingFromLeaf.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD40A0282BCFF39000AA622A /* SmallestStringStartingFromLeaf.swift */; };
 		AD4130DC2C148E6400E5B72C /* ContinuousSubarraySum.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4130DB2C148E6400E5B72C /* ContinuousSubarraySum.swift */; };
+		AD41B0162C26F60D00A53604 /* CountNumberOfNiceSubarrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD41B0152C26F60D00A53604 /* CountNumberOfNiceSubarrays.swift */; };
 		AD4255A92B20A4C1002990CA /* CalculateMoneyInLeetcodeBank.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4255A82B20A4C1002990CA /* CalculateMoneyInLeetcodeBank.swift */; };
 		AD426F402B4459EF00E38B61 /* ConvertAnArrayIntoA2DArrayWithConditions.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD426F3F2B4459EF00E38B61 /* ConvertAnArrayIntoA2DArrayWithConditions.swift */; };
 		AD42AF9D2B63D1560076F181 /* OutOfBoundaryPaths.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD42AF9C2B63D1560076F181 /* OutOfBoundaryPaths.swift */; };
@@ -866,6 +867,7 @@
 		AD40251B29E7424B00BE3D15 /* SimplifyPath.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimplifyPath.swift; sourceTree = "<group>"; };
 		AD40A0282BCFF39000AA622A /* SmallestStringStartingFromLeaf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallestStringStartingFromLeaf.swift; sourceTree = "<group>"; };
 		AD4130DB2C148E6400E5B72C /* ContinuousSubarraySum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContinuousSubarraySum.swift; sourceTree = "<group>"; };
+		AD41B0152C26F60D00A53604 /* CountNumberOfNiceSubarrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountNumberOfNiceSubarrays.swift; sourceTree = "<group>"; };
 		AD4255A82B20A4C1002990CA /* CalculateMoneyInLeetcodeBank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculateMoneyInLeetcodeBank.swift; sourceTree = "<group>"; };
 		AD426F3F2B4459EF00E38B61 /* ConvertAnArrayIntoA2DArrayWithConditions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConvertAnArrayIntoA2DArrayWithConditions.swift; sourceTree = "<group>"; };
 		AD42AF9C2B63D1560076F181 /* OutOfBoundaryPaths.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OutOfBoundaryPaths.swift; sourceTree = "<group>"; };
@@ -1528,6 +1530,7 @@
 				ADF6F0C32B0CD3F5007F93A6 /* CountNicePairsInAnArray.swift */,
 				AD3035E12AF3D9DA000D642D /* CountNodesEqualToAverageOfSubtree.swift */,
 				AD2B19072AFD0899002ECE07 /* CountNumberOfHomogenousSubstrings.swift */,
+				AD41B0152C26F60D00A53604 /* CountNumberOfNiceSubarrays.swift */,
 				ADEF265429966DC000F41404 /* CountNumberOfWaysToPlaceHouses.swift */,
 				AD69BA102951D67B00986792 /* CountOddNumbersInAnIntervalRange.swift */,
 				ADEB25C62B1F438100783C6E /* CountOfMatchesInTournament.swift */,
@@ -2850,6 +2853,7 @@
 				AD4BDEAF28A7DF2F00E61565 /* ListNode.swift in Sources */,
 				AD23533129CA2177008B5563 /* NumberOfZeroFilledSubarrays.swift in Sources */,
 				AD08C63729C87CDD0090A40C /* CanPlaceFlowers.swift in Sources */,
+				AD41B0162C26F60D00A53604 /* CountNumberOfNiceSubarrays.swift in Sources */,
 				AD69520C2A2380370060C92F /* MinimumCostToCutAStick.swift in Sources */,
 				AD8957252B6D16C900A314FF /* SequentialDigits.swift in Sources */,
 				AD3BD2F82BF6477100F629B5 /* EvaluateBooleanBinaryTree.swift in Sources */,
