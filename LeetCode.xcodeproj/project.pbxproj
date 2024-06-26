@@ -21,6 +21,7 @@
 		AD03A4E22BC41EDB007E95FC /* NumberOfStudentsUnableToEatLunch.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD03A4E12BC41EDB007E95FC /* NumberOfStudentsUnableToEatLunch.swift */; };
 		AD03EE682C0B758C006DCE46 /* ScoreOfAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD03EE672C0B758C006DCE46 /* ScoreOfAString.swift */; };
 		AD0467A62B84DF6C0082233D /* MissingNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0467A52B84DF6C0082233D /* MissingNumber.swift */; };
+		AD04C0872C2C999E00DD77D9 /* BalanceABinarySearchTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD04C0862C2C999E00DD77D9 /* BalanceABinarySearchTree.swift */; };
 		AD0525122BE938D500507C0E /* RemoveNodesFromLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0525112BE938D500507C0E /* RemoveNodesFromLinkedList.swift */; };
 		AD0567C12A90ECDF006DE235 /* FindCriticalAndPseudoCriticalEdgesInMinimumSpanningTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0567C02A90ECDF006DE235 /* FindCriticalAndPseudoCriticalEdgesInMinimumSpanningTree.swift */; };
 		AD05D58D298038CF00B35E1B /* AsFarFromLandAsPossible.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD05D58C298038CF00B35E1B /* AsFarFromLandAsPossible.swift */; };
@@ -714,6 +715,7 @@
 		AD03A4E12BC41EDB007E95FC /* NumberOfStudentsUnableToEatLunch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfStudentsUnableToEatLunch.swift; sourceTree = "<group>"; };
 		AD03EE672C0B758C006DCE46 /* ScoreOfAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreOfAString.swift; sourceTree = "<group>"; };
 		AD0467A52B84DF6C0082233D /* MissingNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissingNumber.swift; sourceTree = "<group>"; };
+		AD04C0862C2C999E00DD77D9 /* BalanceABinarySearchTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BalanceABinarySearchTree.swift; sourceTree = "<group>"; };
 		AD0525112BE938D500507C0E /* RemoveNodesFromLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveNodesFromLinkedList.swift; sourceTree = "<group>"; };
 		AD0567C02A90ECDF006DE235 /* FindCriticalAndPseudoCriticalEdgesInMinimumSpanningTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindCriticalAndPseudoCriticalEdgesInMinimumSpanningTree.swift; sourceTree = "<group>"; };
 		AD05D58C298038CF00B35E1B /* AsFarFromLandAsPossible.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsFarFromLandAsPossible.swift; sourceTree = "<group>"; };
@@ -1457,6 +1459,7 @@
 				AD69BA122951D6EE00986792 /* AverageSalaryExcludingTheMinimumAndMaximumSalary.swift */,
 				ADDCF94828BCD57200E7CA46 /* BackspaceStringCompare.swift */,
 				ADCEB3C82B95EE3500E583BA /* BagOfTokens.swift */,
+				AD04C0862C2C999E00DD77D9 /* BalanceABinarySearchTree.swift */,
 				ADAA5A3929225FDC003EE31E /* BalancedBinaryTree.swift */,
 				ADF4710B29326C9D007A320F /* BasicCalculator2.swift */,
 				ADD95B48296B15FD00A66DDF /* BestPokerHand.swift */,
@@ -2469,6 +2472,7 @@
 				AD8E99D1299BC18A00032CCB /* MinimumAreaRectangle2.swift in Sources */,
 				AD6992EA2AD6CC86007F95C8 /* NumberOfFlowersInFullBloom.swift in Sources */,
 				ADF9B02228EC4CF8003975A6 /* WordPattern.swift in Sources */,
+				AD04C0872C2C999E00DD77D9 /* BalanceABinarySearchTree.swift in Sources */,
 				ADF9488028F6E07B006630E0 /* ConvertSortedArrayToBinarySearchTree.swift in Sources */,
 				AD4BDEA828A7DAB300E61565 /* RomanToInteger.swift in Sources */,
 				ADCEB3C92B95EE3500E583BA /* BagOfTokens.swift in Sources */,
