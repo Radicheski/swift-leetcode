@@ -203,6 +203,7 @@
 		AD4B182D2966FE0600262815 /* AddBinary.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4B182C2966FE0600262815 /* AddBinary.swift */; };
 		AD4B182F2966FE7400262815 /* AddToArrayFormOfInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4B182E2966FE7400262815 /* AddToArrayFormOfInteger.swift */; };
 		AD4B1831296749B700262815 /* MinimumNumberOfArrowsToBurstBalloons.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4B1830296749B700262815 /* MinimumNumberOfArrowsToBurstBalloons.swift */; };
+		AD4B7EDA2C30341F00DFA06E /* AllAncestorsOfANodeInADirectedAcyclicGraph.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4B7ED92C30341E00DFA06E /* AllAncestorsOfANodeInADirectedAcyclicGraph.swift */; };
 		AD4BDEA828A7DAB300E61565 /* RomanToInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4BDEA728A7DAB300E61565 /* RomanToInteger.swift */; };
 		AD4BDEAA28A7DDA700E61565 /* FizzBuzz.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4BDEA928A7DDA700E61565 /* FizzBuzz.swift */; };
 		AD4BDEAC28A7DE3200E61565 /* MiddleOfTheLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4BDEAB28A7DE3200E61565 /* MiddleOfTheLinkedList.swift */; };
@@ -899,6 +900,7 @@
 		AD4B182C2966FE0600262815 /* AddBinary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddBinary.swift; sourceTree = "<group>"; };
 		AD4B182E2966FE7400262815 /* AddToArrayFormOfInteger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddToArrayFormOfInteger.swift; sourceTree = "<group>"; };
 		AD4B1830296749B700262815 /* MinimumNumberOfArrowsToBurstBalloons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberOfArrowsToBurstBalloons.swift; sourceTree = "<group>"; };
+		AD4B7ED92C30341E00DFA06E /* AllAncestorsOfANodeInADirectedAcyclicGraph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllAncestorsOfANodeInADirectedAcyclicGraph.swift; sourceTree = "<group>"; };
 		AD4BDEA728A7DAB300E61565 /* RomanToInteger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RomanToInteger.swift; sourceTree = "<group>"; };
 		AD4BDEA928A7DDA700E61565 /* FizzBuzz.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FizzBuzz.swift; sourceTree = "<group>"; };
 		AD4BDEAB28A7DE3200E61565 /* MiddleOfTheLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MiddleOfTheLinkedList.swift; sourceTree = "<group>"; };
@@ -1449,6 +1451,7 @@
 				AD4B182E2966FE7400262815 /* AddToArrayFormOfInteger.swift */,
 				ADA580D128F043B20039F9BF /* AddTwoNumbers.swift */,
 				ADF243C6297443210006F2A4 /* AddTwoNumbers2.swift */,
+				AD4B7ED92C30341E00DFA06E /* AllAncestorsOfANodeInADirectedAcyclicGraph.swift */,
 				AD9BEA5C2A5D761F0041D02B /* AllNodesDistanceKInBinaryTree.swift */,
 				AD1FCE0629095D9700A9B623 /* AllPathsFromSourceToTarget.swift */,
 				AD29CAE82A6D69070046FB4F /* AllPossibleFullBinaryTrees.swift */,
@@ -2686,6 +2689,7 @@
 				AD7DC46428CE023F00631E4A /* InvertBinaryTree.swift in Sources */,
 				ADF58E1228C6236D000E08DB /* ValidAnagram.swift in Sources */,
 				ADB9AE8E28FAD19D008FBC6A /* LowestCommonAncestorOfABinaryTree.swift in Sources */,
+				AD4B7EDA2C30341F00DFA06E /* AllAncestorsOfANodeInADirectedAcyclicGraph.swift in Sources */,
 				AD2FF7A728B50D3F0027AFB6 /* LowestCommonAncestorOfABinarySearchTree.swift in Sources */,
 				AD367E242C08D4590001D731 /* CountTripletsThatCanFormTwoArraysOfEqualXOR.swift in Sources */,
 				AD1421F72B8B7DB20070BD74 /* GreatestCommonDivisorTraversal.swift in Sources */,
