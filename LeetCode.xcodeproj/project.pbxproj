@@ -107,6 +107,7 @@
 		AD2E2CEB2955CFF500C790D0 /* CanMakeArithmeticProgressionFromSequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2E2CEA2955CFF500C790D0 /* CanMakeArithmeticProgressionFromSequence.swift */; };
 		AD2E2CED2955D08200C790D0 /* CheckIfOneStringSwapCanMakeStringsEqual.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2E2CEC2955D08200C790D0 /* CheckIfOneStringSwapCanMakeStringsEqual.swift */; };
 		AD2E9A5729FBEDE60062304D /* SimilarStringGroups.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2E9A5629FBEDE60062304D /* SimilarStringGroups.swift */; };
+		AD2F35512C372EE90002BEDB /* MergeNodesInBetweenZeros.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2F35502C372EE90002BEDB /* MergeNodesInBetweenZeros.swift */; };
 		AD2F3732292F8B8B00F4F680 /* ImplementTriePrefixTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2F3731292F8B8B00F4F680 /* ImplementTriePrefixTree.swift */; };
 		AD2FF7A528B506F90027AFB6 /* ValidateBinarySearchTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2FF7A428B506F90027AFB6 /* ValidateBinarySearchTree.swift */; };
 		AD2FF7A728B50D3F0027AFB6 /* LowestCommonAncestorOfABinarySearchTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2FF7A628B50D3F0027AFB6 /* LowestCommonAncestorOfABinarySearchTree.swift */; };
@@ -807,6 +808,7 @@
 		AD2E2CEA2955CFF500C790D0 /* CanMakeArithmeticProgressionFromSequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CanMakeArithmeticProgressionFromSequence.swift; sourceTree = "<group>"; };
 		AD2E2CEC2955D08200C790D0 /* CheckIfOneStringSwapCanMakeStringsEqual.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckIfOneStringSwapCanMakeStringsEqual.swift; sourceTree = "<group>"; };
 		AD2E9A5629FBEDE60062304D /* SimilarStringGroups.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimilarStringGroups.swift; sourceTree = "<group>"; };
+		AD2F35502C372EE90002BEDB /* MergeNodesInBetweenZeros.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeNodesInBetweenZeros.swift; sourceTree = "<group>"; };
 		AD2F3731292F8B8B00F4F680 /* ImplementTriePrefixTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImplementTriePrefixTree.swift; sourceTree = "<group>"; };
 		AD2FF7A428B506F90027AFB6 /* ValidateBinarySearchTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidateBinarySearchTree.swift; sourceTree = "<group>"; };
 		AD2FF7A628B50D3F0027AFB6 /* LowestCommonAncestorOfABinarySearchTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LowestCommonAncestorOfABinarySearchTree.swift; sourceTree = "<group>"; };
@@ -1817,6 +1819,7 @@
 				AD76BE012BAB856100BA57B1 /* MergeInBetweenLinkedLists.swift */,
 				ADEFCB5128E5B74800F62033 /* MergeIntervals.swift */,
 				ADC5773429BE06CB009DEB71 /* MergeKSortedLists.swift */,
+				AD2F35502C372EE90002BEDB /* MergeNodesInBetweenZeros.swift */,
 				AD9914A928C0DBD500BCFDAB /* MergeSortedArray.swift */,
 				AD9A0D89295B5CA0009B9BB5 /* MergeStringsAlternately.swift */,
 				ADC5823928DB2CA9006D9591 /* MergeTwoBinaryTrees.swift */,
@@ -2282,6 +2285,7 @@
 				AD3C92F028F19E7F00E90724 /* IntersectionOfTwoLinkedLists.swift in Sources */,
 				AD743E862AB21D5A00B1D79A /* Candy.swift in Sources */,
 				ADEFCB5428E5B7E000F62033 /* DesignHashMap.swift in Sources */,
+				AD2F35512C372EE90002BEDB /* MergeNodesInBetweenZeros.swift in Sources */,
 				AD7B3DB229893F4800DB46E4 /* WaterAndJugProblem.swift in Sources */,
 				AD8A1EEE29044B8100ABA3F6 /* IntervalListIntersections.swift in Sources */,
 				AD4BDEAC28A7DE3200E61565 /* MiddleOfTheLinkedList.swift in Sources */,
