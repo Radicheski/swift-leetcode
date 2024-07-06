@@ -614,6 +614,7 @@
 		ADE5763F2A603B3200608F67 /* CourseSchedule.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE5763E2A603B3200608F67 /* CourseSchedule.swift */; };
 		ADE5AD262B125B1100C27F45 /* SumOfAbsoluteDifferencesInASortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE5AD252B125B1100C27F45 /* SumOfAbsoluteDifferencesInASortedArray.swift */; };
 		ADE5E9DC2B3C41DF00511842 /* MinimumTimeToMakeRopeColorful.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE5E9DB2B3C41DF00511842 /* MinimumTimeToMakeRopeColorful.swift */; };
+		ADE63B6E2C396D8C00FEC0EA /* PassThePillow.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE63B6D2C396D8C00FEC0EA /* PassThePillow.swift */; };
 		ADE650E6291BD1880038FDD1 /* SpiralMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE650E5291BD1880038FDD1 /* SpiralMatrix.swift */; };
 		ADE650E8291BD2740038FDD1 /* WhereWillTheBallFall.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE650E7291BD2740038FDD1 /* WhereWillTheBallFall.swift */; };
 		ADE6679129DAF5AB00E5F90B /* BoatsToSavePeople.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE6679029DAF5AB00E5F90B /* BoatsToSavePeople.swift */; };
@@ -1317,6 +1318,7 @@
 		ADE5763E2A603B3200608F67 /* CourseSchedule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseSchedule.swift; sourceTree = "<group>"; };
 		ADE5AD252B125B1100C27F45 /* SumOfAbsoluteDifferencesInASortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOfAbsoluteDifferencesInASortedArray.swift; sourceTree = "<group>"; };
 		ADE5E9DB2B3C41DF00511842 /* MinimumTimeToMakeRopeColorful.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumTimeToMakeRopeColorful.swift; sourceTree = "<group>"; };
+		ADE63B6D2C396D8C00FEC0EA /* PassThePillow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PassThePillow.swift; sourceTree = "<group>"; };
 		ADE650E5291BD1880038FDD1 /* SpiralMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpiralMatrix.swift; sourceTree = "<group>"; };
 		ADE650E7291BD2740038FDD1 /* WhereWillTheBallFall.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhereWillTheBallFall.swift; sourceTree = "<group>"; };
 		ADE6679029DAF5AB00E5F90B /* BoatsToSavePeople.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoatsToSavePeople.swift; sourceTree = "<group>"; };
@@ -1946,6 +1948,7 @@
 				AD9F7E1B2A8BB4EC007AC176 /* PartitionList.swift */,
 				AD967DDC28C36B3D005408E7 /* PascalsTriangle.swift */,
 				AD4DCBF628E70C6300A81C5F /* PascalsTriangle2.swift */,
+				ADE63B6D2C396D8C00FEC0EA /* PassThePillow.swift */,
 				AD4AD21F2C1F46FF0004FFB4 /* PatchingArray.swift */,
 				AD578EED2B37020300D56E74 /* PathCrossing.swift */,
 				AD7DC46528CE02A600631E4A /* PathSum.swift */,
@@ -2277,6 +2280,7 @@
 				ADEFCB5028E5B6A500F62033 /* SortColors.swift in Sources */,
 				AD68299E2AB4976C00ECEDFB /* MinCostToConnectAllPoints.swift in Sources */,
 				AD59FDCE2A9D7076007CC7AC /* MinimumPenaltyForAShop.swift in Sources */,
+				ADE63B6E2C396D8C00FEC0EA /* PassThePillow.swift in Sources */,
 				AD4AD2202C1F46FF0004FFB4 /* PatchingArray.swift in Sources */,
 				ADE247A02AA2226A006CD210 /* CountingBits.swift in Sources */,
 				AD8792322BDD3E4C00A2FC57 /* FreedomTrail.swift in Sources */,
