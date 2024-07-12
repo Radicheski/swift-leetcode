@@ -675,6 +675,7 @@
 		ADF4710A29326C18007A320F /* AsteroidCollision.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF4710929326C18007A320F /* AsteroidCollision.swift */; };
 		ADF4710C29326C9D007A320F /* BasicCalculator2.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF4710B29326C9D007A320F /* BasicCalculator2.swift */; };
 		ADF49E5A2A49B183000821A2 /* TotalCostToHireKWorkers.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF49E592A49B183000821A2 /* TotalCostToHireKWorkers.swift */; };
+		ADF553432C41B159001800B2 /* MaximumScoreFromRemovingSubstrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF553422C41B159001800B2 /* MaximumScoreFromRemovingSubstrings.swift */; };
 		ADF58E1028C622D7000E08DB /* FirstUniqueCharacterInAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF58E0F28C622D7000E08DB /* FirstUniqueCharacterInAString.swift */; };
 		ADF58E1228C6236D000E08DB /* ValidAnagram.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF58E1128C6236D000E08DB /* ValidAnagram.swift */; };
 		ADF5BF6F28CF7A3F00668B2D /* ListNodeTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF5BF6E28CF7A3F00668B2D /* ListNodeTest.swift */; };
@@ -1383,6 +1384,7 @@
 		ADF4710929326C18007A320F /* AsteroidCollision.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsteroidCollision.swift; sourceTree = "<group>"; };
 		ADF4710B29326C9D007A320F /* BasicCalculator2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicCalculator2.swift; sourceTree = "<group>"; };
 		ADF49E592A49B183000821A2 /* TotalCostToHireKWorkers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TotalCostToHireKWorkers.swift; sourceTree = "<group>"; };
+		ADF553422C41B159001800B2 /* MaximumScoreFromRemovingSubstrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumScoreFromRemovingSubstrings.swift; sourceTree = "<group>"; };
 		ADF58E0F28C622D7000E08DB /* FirstUniqueCharacterInAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstUniqueCharacterInAString.swift; sourceTree = "<group>"; };
 		ADF58E1128C6236D000E08DB /* ValidAnagram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidAnagram.swift; sourceTree = "<group>"; };
 		ADF5BF6E28CF7A3F00668B2D /* ListNodeTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListNodeTest.swift; sourceTree = "<group>"; };
@@ -1817,6 +1819,7 @@
 				ADFA93142BCA05D000676522 /* MaximalRectangle.swift */,
 				AD980B522A7295B10055B5D3 /* MaximumRunningTimeOfNComputers.swift */,
 				AD43BBA82B35E0DF00672B9B /* MaximumScoreAfterSplittingAString.swift */,
+				ADF553422C41B159001800B2 /* MaximumScoreFromRemovingSubstrings.swift */,
 				AD264CB82AE5715D00F8D6E6 /* MaximumScoreOfAGoodSubarray.swift */,
 				ADE04C2F2C00D69900EC037A /* MaximumScoreWordsFormedByLetters.swift */,
 				ADBEEB6928BF84F90069B4BB /* MaximumSubarray.swift */,
@@ -2567,6 +2570,7 @@
 				ADE650E6291BD1880038FDD1 /* SpiralMatrix.swift in Sources */,
 				ADCE60A52B61395600F28171 /* PseudoPalindromicPathsInABinaryTree.swift in Sources */,
 				ADD5D3F528A3147200BD5BCC /* PalindromeLinkedList.swift in Sources */,
+				ADF553432C41B159001800B2 /* MaximumScoreFromRemovingSubstrings.swift in Sources */,
 				ADF0EB93291A7F31000B73A4 /* MaxPointsOnALine.swift in Sources */,
 				ADEB5A6428CB7792004D8EAC /* BinaryTreePostorderTraversal.swift in Sources */,
 				AD40251C29E7424B00BE3D15 /* SimplifyPath.swift in Sources */,
