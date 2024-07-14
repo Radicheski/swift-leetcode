@@ -572,6 +572,7 @@
 		ADD6AF4528D8833C00D74CFB /* PermutationInString.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD6AF4428D8833C00D74CFB /* PermutationInString.swift */; };
 		ADD71D4B2938C471005189E6 /* DeleteAndEarn.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD71D4A2938C471005189E6 /* DeleteAndEarn.swift */; };
 		ADD728D52BE13143008FE309 /* NumberOfWonderfulSubstrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD728D42BE13143008FE309 /* NumberOfWonderfulSubstrings.swift */; };
+		ADD88B222C440D8D00B1AB1A /* NumberOfAtoms.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD88B212C440D8D00B1AB1A /* NumberOfAtoms.swift */; };
 		ADD8E82F28FC3AA000EEBB3C /* FindTheTownJudge.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD8E82E28FC3AA000EEBB3C /* FindTheTownJudge.swift */; };
 		ADD8E83128FC3B3C00EEBB3C /* MinimumNumberOfVerticesToReachAllNodes.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD8E83028FC3B3C00EEBB3C /* MinimumNumberOfVerticesToReachAllNodes.swift */; };
 		ADD8E83328FC3BD200EEBB3C /* KeysAndRooms.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD8E83228FC3BD200EEBB3C /* KeysAndRooms.swift */; };
@@ -1282,6 +1283,7 @@
 		ADD6AF4428D8833C00D74CFB /* PermutationInString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PermutationInString.swift; sourceTree = "<group>"; };
 		ADD71D4A2938C471005189E6 /* DeleteAndEarn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeleteAndEarn.swift; sourceTree = "<group>"; };
 		ADD728D42BE13143008FE309 /* NumberOfWonderfulSubstrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfWonderfulSubstrings.swift; sourceTree = "<group>"; };
+		ADD88B212C440D8D00B1AB1A /* NumberOfAtoms.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfAtoms.swift; sourceTree = "<group>"; };
 		ADD8E82E28FC3AA000EEBB3C /* FindTheTownJudge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheTownJudge.swift; sourceTree = "<group>"; };
 		ADD8E83028FC3B3C00EEBB3C /* MinimumNumberOfVerticesToReachAllNodes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberOfVerticesToReachAllNodes.swift; sourceTree = "<group>"; };
 		ADD8E83228FC3BD200EEBB3C /* KeysAndRooms.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeysAndRooms.swift; sourceTree = "<group>"; };
@@ -1919,6 +1921,7 @@
 				AD339A12297AD0E000E3856D /* NonDecreasingSubsequences.swift */,
 				ADDC47DE28E861E40099DDC5 /* NonOverlappingIntervals.swift */,
 				AD1AB3572936659A00BDF5A5 /* NthTribonacciNumber.swift */,
+				ADD88B212C440D8D00B1AB1A /* NumberOfAtoms.swift */,
 				AD74DB43297DA594003C5807 /* NumberOfClosedIslands.swift */,
 				AD5C663D2B3B1FCB007D2DFA /* NumberOfDiceRollsWithTargetSum.swift */,
 				ADF7AF0F297ECBEF000B34DA /* NumberOfEnclaves.swift */,
@@ -2246,6 +2249,7 @@
 				ADF9B02428EC4D82003975A6 /* PartitionLabels.swift in Sources */,
 				ADCE27B529ED6D1800540EBD /* KidsWithTheGreatestNumberOfCandies.swift in Sources */,
 				AD1BA377295F19AF00A2A529 /* SortIntegersByTheNumberOf1Bits.swift in Sources */,
+				ADD88B222C440D8D00B1AB1A /* NumberOfAtoms.swift in Sources */,
 				AD7475D929F800B200CD014E /* SmallestNumberInInfiniteSet.swift in Sources */,
 				AD39943A2B8F8F9000611744 /* FindBottomLeftTreeValue.swift in Sources */,
 				AD3ED08428D34EBD0080829A /* RotateArray.swift in Sources */,
