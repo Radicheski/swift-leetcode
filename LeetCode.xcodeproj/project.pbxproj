@@ -165,6 +165,7 @@
 		AD3C90C82B9B59BC001F115E /* CountElementsWithMaximumFrequency.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3C90C72B9B59BC001F115E /* CountElementsWithMaximumFrequency.swift */; };
 		AD3C92F028F19E7F00E90724 /* IntersectionOfTwoLinkedLists.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3C92EF28F19E7F00E90724 /* IntersectionOfTwoLinkedLists.swift */; };
 		AD3C92F228F19F2600E90724 /* RemoveDuplicatesFromSortedList2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3C92F128F19F2600E90724 /* RemoveDuplicatesFromSortedList2.swift */; };
+		AD3D6F172C4930FF006E8D2D /* NumberOfGoodLeafNodesPairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3D6F162C4930FF006E8D2D /* NumberOfGoodLeafNodesPairs.swift */; };
 		AD3DBB052BED1E3C009A607C /* MaximizeHappinessOfSelectedChildren.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3DBB042BED1E3C009A607C /* MaximizeHappinessOfSelectedChildren.swift */; };
 		AD3DD0E62AB9215F00ABED04 /* FindTheDuplicateNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3DD0E52AB9215F00ABED04 /* FindTheDuplicateNumber.swift */; };
 		AD3DEE95298FD71F00DD88B5 /* TheSkylineProblem.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3DEE94298FD71F00DD88B5 /* TheSkylineProblem.swift */; };
@@ -878,6 +879,7 @@
 		AD3C90C72B9B59BC001F115E /* CountElementsWithMaximumFrequency.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountElementsWithMaximumFrequency.swift; sourceTree = "<group>"; };
 		AD3C92EF28F19E7F00E90724 /* IntersectionOfTwoLinkedLists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntersectionOfTwoLinkedLists.swift; sourceTree = "<group>"; };
 		AD3C92F128F19F2600E90724 /* RemoveDuplicatesFromSortedList2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveDuplicatesFromSortedList2.swift; sourceTree = "<group>"; };
+		AD3D6F162C4930FF006E8D2D /* NumberOfGoodLeafNodesPairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfGoodLeafNodesPairs.swift; sourceTree = "<group>"; };
 		AD3DBB042BED1E3C009A607C /* MaximizeHappinessOfSelectedChildren.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximizeHappinessOfSelectedChildren.swift; sourceTree = "<group>"; };
 		AD3DD0E52AB9215F00ABED04 /* FindTheDuplicateNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheDuplicateNumber.swift; sourceTree = "<group>"; };
 		AD3DEE94298FD71F00DD88B5 /* TheSkylineProblem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TheSkylineProblem.swift; sourceTree = "<group>"; };
@@ -1934,6 +1936,7 @@
 				AD5C663D2B3B1FCB007D2DFA /* NumberOfDiceRollsWithTargetSum.swift */,
 				ADF7AF0F297ECBEF000B34DA /* NumberOfEnclaves.swift */,
 				AD6992E92AD6CC86007F95C8 /* NumberOfFlowersInFullBloom.swift */,
+				AD3D6F162C4930FF006E8D2D /* NumberOfGoodLeafNodesPairs.swift */,
 				AD4CED262ACB91B300DCD389 /* NumberOfGoodPairs.swift */,
 				ADF243C8297456480006F2A4 /* NumberOfGoodPaths.swift */,
 				AD9509B62A3F3EAA006BC652 /* NumberOfIncreasingPathsInAGrid.swift */,
@@ -2474,6 +2477,7 @@
 				AD8273242C33602700A5DD70 /* ThreeConsecutiveOdds.swift in Sources */,
 				AD61AC3F29D70AA600A4C392 /* NumberOfWaysOfCuttingAPizza.swift in Sources */,
 				AD0EAE3E2AD576C400E25C63 /* MinimumNumberOfOperationsToMakeArrayContinuous.swift in Sources */,
+				AD3D6F172C4930FF006E8D2D /* NumberOfGoodLeafNodesPairs.swift in Sources */,
 				ADECE5FE29A63EA600A6FB04 /* CapacityToShipPackagesWithinDDays.swift in Sources */,
 				AD57491A2906A0A7008E89BE /* NumberOfProvinces.swift in Sources */,
 				ADCC4FF32BA0913400C7D21B /* RemoveZeroSumConsecutiveNodesFromLinkedList.swift in Sources */,
