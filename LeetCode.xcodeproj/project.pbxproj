@@ -376,6 +376,7 @@
 		AD8DF5A42ABC6DE1006DF0B0 /* MedianOfTwoSortedArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8DF5A32ABC6DE1006DF0B0 /* MedianOfTwoSortedArrays.swift */; };
 		AD8E74F12C3C810200310B97 /* WaterBottles.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8E74F02C3C810200310B97 /* WaterBottles.swift */; };
 		AD8E99D1299BC18A00032CCB /* MinimumAreaRectangle2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8E99D0299BC18A00032CCB /* MinimumAreaRectangle2.swift */; };
+		AD8EEEDF2C552FC0007A2F04 /* MinimumCostToConvertString1.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8EEEDE2C552FC0007A2F04 /* MinimumCostToConvertString1.swift */; };
 		AD8F5BEF29E1952200E29DB1 /* CloneGraph.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8F5BEE29E1952200E29DB1 /* CloneGraph.swift */; };
 		AD8F5BF129E1954D00E29DB1 /* Node.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8F5BF029E1954D00E29DB1 /* Node.swift */; };
 		AD90565328C4C6A700886275 /* ValidSudoku.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD90565228C4C6A600886275 /* ValidSudoku.swift */; };
@@ -1097,6 +1098,7 @@
 		AD8DF5A32ABC6DE1006DF0B0 /* MedianOfTwoSortedArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MedianOfTwoSortedArrays.swift; sourceTree = "<group>"; };
 		AD8E74F02C3C810200310B97 /* WaterBottles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaterBottles.swift; sourceTree = "<group>"; };
 		AD8E99D0299BC18A00032CCB /* MinimumAreaRectangle2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumAreaRectangle2.swift; sourceTree = "<group>"; };
+		AD8EEEDE2C552FC0007A2F04 /* MinimumCostToConvertString1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumCostToConvertString1.swift; sourceTree = "<group>"; };
 		AD8F5BEE29E1952200E29DB1 /* CloneGraph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloneGraph.swift; sourceTree = "<group>"; };
 		AD8F5BF029E1954D00E29DB1 /* Node.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Node.swift; sourceTree = "<group>"; };
 		AD90565228C4C6A600886275 /* ValidSudoku.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidSudoku.swift; sourceTree = "<group>"; };
@@ -1887,6 +1889,7 @@
 				ADC489472B385B6A00DEA8C0 /* MinimumChangesToMakeAlternatingBinaryString.swift */,
 				AD3E51F42B9BDE8D009AAF63 /* MinimumCommonValue.swift */,
 				AD5ED47A29D3382200F6A4DC /* MinimumCostForTickets.swift */,
+				AD8EEEDE2C552FC0007A2F04 /* MinimumCostToConvertString1.swift */,
 				AD69520B2A2380370060C92F /* MinimumCostToCutAStick.swift */,
 				ADAC8C782BEFB0A1004E123B /* MinimumCostToHireKWorkers.swift */,
 				AD60E4A52A436D20007828B7 /* MinimumCostToMakeArrayEqual.swift */,
@@ -2704,6 +2707,7 @@
 				ADB0DA512BDBE85900059D53 /* MinimumFallingPathSum2.swift in Sources */,
 				ADBC320E299D00A6006E808D /* CherryPickup2.swift in Sources */,
 				ADF9806A28AC0309004BB6EC /* RunningSumOf1dArray.swift in Sources */,
+				AD8EEEDF2C552FC0007A2F04 /* MinimumCostToConvertString1.swift in Sources */,
 				AD8C969C2A62E17500717FED /* MaximumNumberOfEventsThatCanBeAttended2.swift in Sources */,
 				ADFE35B72C28544D00795D65 /* LongestContinuousSubarrayWithAbsoluteDiffLessThanOrEqualToLimit.swift in Sources */,
 				AD07CAFA28F587CE00B2E73A /* MinimumRemoveToMakeValidParentheses.swift in Sources */,
