@@ -287,6 +287,7 @@
 		AD6B62DA2AF2BF920078A37A /* FindModeInBinarySearchTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6B62D92AF2BF920078A37A /* FindModeInBinarySearchTree.swift */; };
 		AD6BF880290EBE4F00C10525 /* HouseRobber2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6BF87F290EBE4F00C10525 /* HouseRobber2.swift */; };
 		AD6BF882290EBEF200C10525 /* JumpGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6BF881290EBEF200C10525 /* JumpGame.swift */; };
+		AD6C44AF2C5C0D7600A01671 /* NumberOfSeniorCitizens.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6C44AE2C5C0D7600A01671 /* NumberOfSeniorCitizens.swift */; };
 		AD6C46FA290801150011A77C /* PopulatingNextRightPointersInEachNode2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6C46F9290801150011A77C /* PopulatingNextRightPointersInEachNode2.swift */; };
 		AD6C46FC2908019A0011A77C /* SubtreeOfAnotherTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6C46FB2908019A0011A77C /* SubtreeOfAnotherTree.swift */; };
 		AD6CB3DC2C35D46F0011A382 /* Minimum DifferenceBetweenLargestAndSmallestValueInThreeMoves.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6CB3DB2C35D46F0011A382 /* Minimum DifferenceBetweenLargestAndSmallestValueInThreeMoves.swift */; };
@@ -1013,6 +1014,7 @@
 		AD6B62D92AF2BF920078A37A /* FindModeInBinarySearchTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindModeInBinarySearchTree.swift; sourceTree = "<group>"; };
 		AD6BF87F290EBE4F00C10525 /* HouseRobber2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HouseRobber2.swift; sourceTree = "<group>"; };
 		AD6BF881290EBEF200C10525 /* JumpGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpGame.swift; sourceTree = "<group>"; };
+		AD6C44AE2C5C0D7600A01671 /* NumberOfSeniorCitizens.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfSeniorCitizens.swift; sourceTree = "<group>"; };
 		AD6C46F9290801150011A77C /* PopulatingNextRightPointersInEachNode2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopulatingNextRightPointersInEachNode2.swift; sourceTree = "<group>"; };
 		AD6C46FB2908019A0011A77C /* SubtreeOfAnotherTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubtreeOfAnotherTree.swift; sourceTree = "<group>"; };
 		AD6CB3DB2C35D46F0011A382 /* Minimum DifferenceBetweenLargestAndSmallestValueInThreeMoves.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Minimum DifferenceBetweenLargestAndSmallestValueInThreeMoves.swift"; sourceTree = "<group>"; };
@@ -1980,6 +1982,7 @@
 				AD361C4C28E1C929002962BB /* NumberOfOneBits.swift */,
 				AD4F07292985905C00FBFD05 /* NumberOfOperationsToMakeNetworkConnected.swift */,
 				AD5749192906A0A7008E89BE /* NumberOfProvinces.swift */,
+				AD6C44AE2C5C0D7600A01671 /* NumberOfSeniorCitizens.swift */,
 				ADB073AA2C07993300E47010 /* NumberOfStepsToReduceANumberInBinaryRepresentationToOne.swift */,
 				ADC46DAF28A922C7003B926E /* NumberOfStepsRoReduceANumberToZero.swift */,
 				AD03A4E12BC41EDB007E95FC /* NumberOfStudentsUnableToEatLunch.swift */,
@@ -2554,6 +2557,7 @@
 				AD35997D2913DFBE0082AC68 /* NumberOfLongestIncreasingSubsequence.swift in Sources */,
 				ADF22B82292BA54000DF8FCA /* PartitionEqualSubsetSum.swift in Sources */,
 				AD4B182F2966FE7400262815 /* AddToArrayFormOfInteger.swift in Sources */,
+				AD6C44AF2C5C0D7600A01671 /* NumberOfSeniorCitizens.swift in Sources */,
 				AD75563128EEF013004B7039 /* RepeatedDNASequences.swift in Sources */,
 				ADD2F9182A3DF45300AC9783 /* MakeArrayStrictlyIncreasing.swift in Sources */,
 				ADF1D2412A06874C00385B0E /* NumberOfSubsequencesThatSatisfyTheGivenSumCondition.swift in Sources */,
