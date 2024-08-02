@@ -372,6 +372,7 @@
 		AD8A1EEE29044B8100ABA3F6 /* IntervalListIntersections.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8A1EED29044B8100ABA3F6 /* IntervalListIntersections.swift */; };
 		AD8A1EF029044C5C00ABA3F6 /* ContainerWithMostWater.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8A1EEF29044C5C00ABA3F6 /* ContainerWithMostWater.swift */; };
 		AD8AF1DD299A642C002C7C1C /* ImageSmoother.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8AF1DC299A642C002C7C1C /* ImageSmoother.swift */; };
+		AD8C4DAC2C5D662F00C9D5B1 /* MinimumSwapsToGroupAllOnesTogether2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8C4DAB2C5D662F00C9D5B1 /* MinimumSwapsToGroupAllOnesTogether2.swift */; };
 		AD8C5AD028E074A000E821D7 /* HouseRobber.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8C5ACF28E074A000E821D7 /* HouseRobber.swift */; };
 		AD8C5AD228E0751A00E821D7 /* Triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8C5AD128E0751A00E821D7 /* Triangle.swift */; };
 		AD8C969C2A62E17500717FED /* MaximumNumberOfEventsThatCanBeAttended2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8C969B2A62E17500717FED /* MaximumNumberOfEventsThatCanBeAttended2.swift */; };
@@ -1099,6 +1100,7 @@
 		AD8A1EED29044B8100ABA3F6 /* IntervalListIntersections.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntervalListIntersections.swift; sourceTree = "<group>"; };
 		AD8A1EEF29044C5C00ABA3F6 /* ContainerWithMostWater.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainerWithMostWater.swift; sourceTree = "<group>"; };
 		AD8AF1DC299A642C002C7C1C /* ImageSmoother.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSmoother.swift; sourceTree = "<group>"; };
+		AD8C4DAB2C5D662F00C9D5B1 /* MinimumSwapsToGroupAllOnesTogether2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumSwapsToGroupAllOnesTogether2.swift; sourceTree = "<group>"; };
 		AD8C5ACF28E074A000E821D7 /* HouseRobber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HouseRobber.swift; sourceTree = "<group>"; };
 		AD8C5AD128E0751A00E821D7 /* Triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Triangle.swift; sourceTree = "<group>"; };
 		AD8C969B2A62E17500717FED /* MaximumNumberOfEventsThatCanBeAttended2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumNumberOfEventsThatCanBeAttended2.swift; sourceTree = "<group>"; };
@@ -1942,6 +1944,7 @@
 				ADE988FE29CB633700A41CE0 /* MinimumScoreOfAPathBetweenTwoCities.swift */,
 				AD2D4D352905620C00D3234A /* MinimumSizeSubarraySum.swift */,
 				AD9720702A713A4D0001BF09 /* MinimumSpeedToArriveOnTime.swift */,
+				AD8C4DAB2C5D662F00C9D5B1 /* MinimumSwapsToGroupAllOnesTogether2.swift */,
 				ADD124A7296EE72500E05EAB /* MinimumTimeToCollectAllApplesInATree.swift */,
 				AD94460629B75D9E00A9C5AE /* MinimumTimeToCompleteTrips.swift */,
 				ADE5E9DB2B3C41DF00511842 /* MinimumTimeToMakeRopeColorful.swift */,
@@ -2965,6 +2968,7 @@
 				ADD9772028C7BD520028FCB0 /* LinkedListCycle.swift in Sources */,
 				ADE5A4332C47028D001551A4 /* StepByStepDirectionsFromABinaryTreeNodeToAnother.swift in Sources */,
 				AD844B0D28CA209C008E1AEF /* ValidParentheses.swift in Sources */,
+				AD8C4DAC2C5D662F00C9D5B1 /* MinimumSwapsToGroupAllOnesTogether2.swift in Sources */,
 				AD35C3962A07F99D00ABC066 /* FindTheLongestValidObstacleCourseAtEachPosition.swift in Sources */,
 				ADF31932291141650038DE57 /* ArithmeticSlices.swift in Sources */,
 				AD64D09D29F5A50800A9B9DF /* RestoreTheArray.swift in Sources */,
