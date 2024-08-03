@@ -111,6 +111,7 @@
 		AD2E2CE92955CF6300C790D0 /* SignOfTheProductOfAnArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2E2CE82955CF6300C790D0 /* SignOfTheProductOfAnArray.swift */; };
 		AD2E2CEB2955CFF500C790D0 /* CanMakeArithmeticProgressionFromSequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2E2CEA2955CFF500C790D0 /* CanMakeArithmeticProgressionFromSequence.swift */; };
 		AD2E2CED2955D08200C790D0 /* CheckIfOneStringSwapCanMakeStringsEqual.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2E2CEC2955D08200C790D0 /* CheckIfOneStringSwapCanMakeStringsEqual.swift */; };
+		AD2E56622C5DAE2B0005CCC2 /* MakeTwoArraysEqualByReversingSubarrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2E56612C5DAE2B0005CCC2 /* MakeTwoArraysEqualByReversingSubarrays.swift */; };
 		AD2E9A5729FBEDE60062304D /* SimilarStringGroups.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2E9A5629FBEDE60062304D /* SimilarStringGroups.swift */; };
 		AD2F35512C372EE90002BEDB /* MergeNodesInBetweenZeros.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2F35502C372EE90002BEDB /* MergeNodesInBetweenZeros.swift */; };
 		AD2F3732292F8B8B00F4F680 /* ImplementTriePrefixTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2F3731292F8B8B00F4F680 /* ImplementTriePrefixTree.swift */; };
@@ -839,6 +840,7 @@
 		AD2E2CE82955CF6300C790D0 /* SignOfTheProductOfAnArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignOfTheProductOfAnArray.swift; sourceTree = "<group>"; };
 		AD2E2CEA2955CFF500C790D0 /* CanMakeArithmeticProgressionFromSequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CanMakeArithmeticProgressionFromSequence.swift; sourceTree = "<group>"; };
 		AD2E2CEC2955D08200C790D0 /* CheckIfOneStringSwapCanMakeStringsEqual.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckIfOneStringSwapCanMakeStringsEqual.swift; sourceTree = "<group>"; };
+		AD2E56612C5DAE2B0005CCC2 /* MakeTwoArraysEqualByReversingSubarrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakeTwoArraysEqualByReversingSubarrays.swift; sourceTree = "<group>"; };
 		AD2E9A5629FBEDE60062304D /* SimilarStringGroups.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimilarStringGroups.swift; sourceTree = "<group>"; };
 		AD2F35502C372EE90002BEDB /* MergeNodesInBetweenZeros.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeNodesInBetweenZeros.swift; sourceTree = "<group>"; };
 		AD2F3731292F8B8B00F4F680 /* ImplementTriePrefixTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImplementTriePrefixTree.swift; sourceTree = "<group>"; };
@@ -1837,6 +1839,7 @@
 				ADA4C4532ACEE1A4004A14E0 /* MajorityElement2.swift */,
 				ADD2F9172A3DF45300AC9783 /* MakeArrayStrictlyIncreasing.swift */,
 				ADFA6B8B2BC06E9F002ED6B1 /* MakeTheStringGreat.swift */,
+				AD2E56612C5DAE2B0005CCC2 /* MakeTwoArraysEqualByReversingSubarrays.swift */,
 				AD6E215829474A8100D538ED /* MatrixBlockSum.swift */,
 				AD3883EA2959C060005F0B28 /* MatrixDiagonalSum.swift */,
 				AD45D00028D9DCD000544C0A /* MaxAreaOfIsland.swift */,
@@ -2483,6 +2486,7 @@
 				AD5CBBE828B251D700495544 /* NaryTreePreorderTraversal.swift in Sources */,
 				ADFFEB1D2B34618000BB0DA4 /* WidestVerticalAreaBetweenTwoPointsContainingNoPoints.swift in Sources */,
 				AD7E57A92B2737D50026B458 /* ElementAppearingMoreThan25InSortedArray.swift in Sources */,
+				AD2E56622C5DAE2B0005CCC2 /* MakeTwoArraysEqualByReversingSubarrays.swift in Sources */,
 				AD3793202BB319330047D1E0 /* FirstMissingPositive.swift in Sources */,
 				ADADA529295324F700CBB58C /* SubtractTheProductAndSumOfDigitsOfAnInteger.swift in Sources */,
 				AD6C46FC2908019A0011A77C /* SubtreeOfAnotherTree.swift in Sources */,
