@@ -316,6 +316,7 @@
 		AD74DB46297DAFAD003C5807 /* PalindromePartitioning.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD74DB45297DAFAD003C5807 /* PalindromePartitioning.swift */; };
 		AD75563128EEF013004B7039 /* RepeatedDNASequences.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD75563028EEF013004B7039 /* RepeatedDNASequences.swift */; };
 		AD75563328EEF0A3004B7039 /* LongestPalindromicSubstring.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD75563228EEF0A3004B7039 /* LongestPalindromicSubstring.swift */; };
+		AD7683CB2C615C08000B0F56 /* KthDistinctStringInAnArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7683CA2C615C08000B0F56 /* KthDistinctStringInAnArray.swift */; };
 		AD76BE022BAB856100BA57B1 /* MergeInBetweenLinkedLists.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD76BE012BAB856100BA57B1 /* MergeInBetweenLinkedLists.swift */; };
 		AD78E35A2AEED8A800627825 /* PoorPigs.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD78E3592AEED8A800627825 /* PoorPigs.swift */; };
 		AD7914522AE9A59200DA4F67 /* KthSymbolInGrammar.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7914512AE9A59200DA4F67 /* KthSymbolInGrammar.swift */; };
@@ -1046,6 +1047,7 @@
 		AD74DB45297DAFAD003C5807 /* PalindromePartitioning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalindromePartitioning.swift; sourceTree = "<group>"; };
 		AD75563028EEF013004B7039 /* RepeatedDNASequences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepeatedDNASequences.swift; sourceTree = "<group>"; };
 		AD75563228EEF0A3004B7039 /* LongestPalindromicSubstring.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestPalindromicSubstring.swift; sourceTree = "<group>"; };
+		AD7683CA2C615C08000B0F56 /* KthDistinctStringInAnArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KthDistinctStringInAnArray.swift; sourceTree = "<group>"; };
 		AD76BE012BAB856100BA57B1 /* MergeInBetweenLinkedLists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeInBetweenLinkedLists.swift; sourceTree = "<group>"; };
 		AD78E3592AEED8A800627825 /* PoorPigs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PoorPigs.swift; sourceTree = "<group>"; };
 		AD7914512AE9A59200DA4F67 /* KthSymbolInGrammar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KthSymbolInGrammar.swift; sourceTree = "<group>"; };
@@ -1783,6 +1785,7 @@
 				AD9622AA2A6C1CFE00087578 /* KnightProbabilityInChessboard.swift */,
 				AD3326FE29B8A213006715FD /* KokoEatingBananas.swift */,
 				AD1321732A41E02100BE8D1D /* KRadiusSubarrayAverages.swift */,
+				AD7683CA2C615C08000B0F56 /* KthDistinctStringInAnArray.swift */,
 				AD32C95E28FD75C300305E77 /* KthLargestElementInAnArray.swift */,
 				ADBF7F442A1CE68300552ACE /* KthLargestElementInAStream.swift */,
 				AD6669FA29B60A5900C1D36A /* KthMissingPositiveNumber.swift */,
@@ -2376,6 +2379,7 @@
 				ADEFCB5428E5B7E000F62033 /* DesignHashMap.swift in Sources */,
 				AD2F35512C372EE90002BEDB /* MergeNodesInBetweenZeros.swift in Sources */,
 				AD7B3DB229893F4800DB46E4 /* WaterAndJugProblem.swift in Sources */,
+				AD7683CB2C615C08000B0F56 /* KthDistinctStringInAnArray.swift in Sources */,
 				AD8A1EEE29044B8100ABA3F6 /* IntervalListIntersections.swift in Sources */,
 				AD4BDEAC28A7DE3200E61565 /* MiddleOfTheLinkedList.swift in Sources */,
 				AD0C4DD72986D4DA00D15379 /* LFUCacheProblem.swift in Sources */,
