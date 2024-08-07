@@ -308,6 +308,7 @@
 		AD71F3272A02C0FF003F0668 /* FindTheDifferenceOfTwoArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD71F3262A02C0FF003F0668 /* FindTheDifferenceOfTwoArrays.swift */; };
 		AD7201D32A8D2C3600E9D656 /* SlidingWindowMaximum.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7201D22A8D2C3600E9D656 /* SlidingWindowMaximum.swift */; };
 		AD72611B2A5AD74B00BE11D2 /* SubstringWithLargestVariance.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD72611A2A5AD74B00BE11D2 /* SubstringWithLargestVariance.swift */; };
+		AD7269532C63F9D1006CE913 /* IntegerToEnglishWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7269522C63F9D1006CE913 /* IntegerToEnglishWords.swift */; };
 		AD727CD329F98DC300FDD2A2 /* AddDigits.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD727CD229F98DC300FDD2A2 /* AddDigits.swift */; };
 		AD73521A2B5E8CE900C07B9B /* SetMismatch.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7352192B5E8CE900C07B9B /* SetMismatch.swift */; };
 		AD743E862AB21D5A00B1D79A /* Candy.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD743E852AB21D5A00B1D79A /* Candy.swift */; };
@@ -1040,6 +1041,7 @@
 		AD71F3262A02C0FF003F0668 /* FindTheDifferenceOfTwoArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheDifferenceOfTwoArrays.swift; sourceTree = "<group>"; };
 		AD7201D22A8D2C3600E9D656 /* SlidingWindowMaximum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlidingWindowMaximum.swift; sourceTree = "<group>"; };
 		AD72611A2A5AD74B00BE11D2 /* SubstringWithLargestVariance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubstringWithLargestVariance.swift; sourceTree = "<group>"; };
+		AD7269522C63F9D1006CE913 /* IntegerToEnglishWords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntegerToEnglishWords.swift; sourceTree = "<group>"; };
 		AD727CD229F98DC300FDD2A2 /* AddDigits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddDigits.swift; sourceTree = "<group>"; };
 		AD7352192B5E8CE900C07B9B /* SetMismatch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetMismatch.swift; sourceTree = "<group>"; };
 		AD743E852AB21D5A00B1D79A /* Candy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Candy.swift; sourceTree = "<group>"; };
@@ -1764,6 +1766,7 @@
 				ADB1E8172930DD23001D88CB /* InsertInterval.swift */,
 				AD39B0CA28CF4B7B008FECE7 /* InsertIntoABinarySearchTree.swift */,
 				AD8733E22916D41A00E18F7B /* IntegerBreak.swift */,
+				AD7269522C63F9D1006CE913 /* IntegerToEnglishWords.swift */,
 				ADE692A22A99023F00E24608 /* InterleavingString.swift */,
 				ADA51D8E2B9DE4C500F0D836 /* IntersectionOfTwoArrays.swift */,
 				ADF865EE28C224C700885B7A /* IntersectionOfTwoArrays2.swift */,
@@ -2458,6 +2461,7 @@
 				AD8C5AD028E074A000E821D7 /* HouseRobber.swift in Sources */,
 				ADFF4B3A2B4ECEA2008ECDDA /* AmountOfTimeForBinaryTreeToBeInfected.swift in Sources */,
 				ADEB80862C484CD800315728 /* DeleteNodesAndReturnForest.swift in Sources */,
+				AD7269532C63F9D1006CE913 /* IntegerToEnglishWords.swift in Sources */,
 				AD9914AA28C0DBD500BCFDAB /* MergeSortedArray.swift in Sources */,
 				AD9E484129DDDF4800593016 /* MinimizeMaximumOfArray.swift in Sources */,
 				ADD71D4B2938C471005189E6 /* DeleteAndEarn.swift in Sources */,
