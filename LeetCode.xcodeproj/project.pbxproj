@@ -473,6 +473,7 @@
 		ADAD46C82A45D08B00274BA7 /* LongestArithmeticSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAD46C72A45D08B00274BA7 /* LongestArithmeticSubsequence.swift */; };
 		ADADA529295324F700CBB58C /* SubtractTheProductAndSumOfDigitsOfAnInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADADA528295324F700CBB58C /* SubtractTheProductAndSumOfDigitsOfAnInteger.swift */; };
 		ADADF18A28C8FF030021B192 /* RemoveDuplicatesFromSortedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADADF18928C8FF030021B192 /* RemoveDuplicatesFromSortedList.swift */; };
+		ADAE1E112C6D395400D046F1 /* FindKthSmallestPairDistance.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAE1E102C6D395400D046F1 /* FindKthSmallestPairDistance.swift */; };
 		ADAEFAE72AD2EA930034A042 /* MaxDotProductOfTwoSubsequences.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAEFAE62AD2EA930034A042 /* MaxDotProductOfTwoSubsequences.swift */; };
 		ADAF390A2ABB629C00C9CAD1 /* MinimumOperationsToReduceXToZero.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAF39092ABB629C00C9CAD1 /* MinimumOperationsToReduceXToZero.swift */; };
 		ADAFABDE2B14B6E100F53133 /* KnightDialer.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAFABDD2B14B6E100F53133 /* KnightDialer.swift */; };
@@ -1210,6 +1211,7 @@
 		ADAD46C72A45D08B00274BA7 /* LongestArithmeticSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestArithmeticSubsequence.swift; sourceTree = "<group>"; };
 		ADADA528295324F700CBB58C /* SubtractTheProductAndSumOfDigitsOfAnInteger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubtractTheProductAndSumOfDigitsOfAnInteger.swift; sourceTree = "<group>"; };
 		ADADF18928C8FF030021B192 /* RemoveDuplicatesFromSortedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveDuplicatesFromSortedList.swift; sourceTree = "<group>"; };
+		ADAE1E102C6D395400D046F1 /* FindKthSmallestPairDistance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindKthSmallestPairDistance.swift; sourceTree = "<group>"; };
 		ADAEFAE62AD2EA930034A042 /* MaxDotProductOfTwoSubsequences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxDotProductOfTwoSubsequences.swift; sourceTree = "<group>"; };
 		ADAF39092ABB629C00C9CAD1 /* MinimumOperationsToReduceXToZero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumOperationsToReduceXToZero.swift; sourceTree = "<group>"; };
 		ADAFABDD2B14B6E100F53133 /* KnightDialer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KnightDialer.swift; sourceTree = "<group>"; };
@@ -1712,6 +1714,7 @@
 				AD9FF2062BD568CD00E923A8 /* FindIfPathExistsInGraph.swift */,
 				ADFBDBBA2AD89178000D4997 /* FindInMountainArray.swift */,
 				AD0E7EEA2A4B51C4001B088E /* FindKPairsWithSmallestSums.swift */,
+				ADAE1E102C6D395400D046F1 /* FindKthSmallestPairDistance.swift */,
 				ADF7A6E12AE7EA5E001BDE5C /* FindLargestValueInEachTreeRow.swift */,
 				ADF290F529016CF700A8AA6D /* FindMinimumInRotatedSortedArray.swift */,
 				AD6B62D92AF2BF920078A37A /* FindModeInBinarySearchTree.swift */,
@@ -2416,6 +2419,7 @@
 				ADE650E8291BD2740038FDD1 /* WhereWillTheBallFall.swift in Sources */,
 				ADC14A812A3102B300512188 /* MinimumFlipsToMakeAORBEqualToC.swift in Sources */,
 				AD6E84872BDED00B005CD83C /* SumOfDistancesInTree.swift in Sources */,
+				ADAE1E112C6D395400D046F1 /* FindKthSmallestPairDistance.swift in Sources */,
 				AD3CE8E02C5984B800A64691 /* MinimumDeletionsToMakeStringBalanced.swift in Sources */,
 				AD1CCC98299E5C86006A130E /* MaximumTastinessOfCandyBasket.swift in Sources */,
 				ADA7A5E92B668A0B00306043 /* NumberOfSubmatricesThatSumToTarget.swift in Sources */,
