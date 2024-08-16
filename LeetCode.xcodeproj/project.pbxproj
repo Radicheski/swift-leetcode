@@ -56,6 +56,7 @@
 		AD13E4C42A31F899000E2C82 /* CountNegativeNumbersInASortedMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD13E4C32A31F899000E2C82 /* CountNegativeNumbersInASortedMatrix.swift */; };
 		AD1421F72B8B7DB20070BD74 /* GreatestCommonDivisorTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1421F62B8B7DB20070BD74 /* GreatestCommonDivisorTraversal.swift */; };
 		AD145BBD2B1DEE0100FADB38 /* Largest3SameDigitNumberInString.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD145BBC2B1DEE0100FADB38 /* Largest3SameDigitNumberInString.swift */; };
+		AD14D41F2C6FE0180071F091 /* MaximumDistanceInArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD14D41E2C6FE0180071F091 /* MaximumDistanceInArrays.swift */; };
 		AD1560082AEA9E9200018BDB /* BinaryTreesWithFactors.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1560072AEA9E9200018BDB /* BinaryTreesWithFactors.swift */; };
 		AD15817F2985A7330087B1BE /* DataStreamAsDisjointIntervals.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD15817E2985A7330087B1BE /* DataStreamAsDisjointIntervals.swift */; };
 		AD159C802BD14EBA0070FD96 /* IslandPerimeter.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD159C7F2BD14EBA0070FD96 /* IslandPerimeter.swift */; };
@@ -794,6 +795,7 @@
 		AD13E4C32A31F899000E2C82 /* CountNegativeNumbersInASortedMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountNegativeNumbersInASortedMatrix.swift; sourceTree = "<group>"; };
 		AD1421F62B8B7DB20070BD74 /* GreatestCommonDivisorTraversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GreatestCommonDivisorTraversal.swift; sourceTree = "<group>"; };
 		AD145BBC2B1DEE0100FADB38 /* Largest3SameDigitNumberInString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Largest3SameDigitNumberInString.swift; sourceTree = "<group>"; };
+		AD14D41E2C6FE0180071F091 /* MaximumDistanceInArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumDistanceInArrays.swift; sourceTree = "<group>"; };
 		AD1560072AEA9E9200018BDB /* BinaryTreesWithFactors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryTreesWithFactors.swift; sourceTree = "<group>"; };
 		AD15817E2985A7330087B1BE /* DataStreamAsDisjointIntervals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataStreamAsDisjointIntervals.swift; sourceTree = "<group>"; };
 		AD159C7F2BD14EBA0070FD96 /* IslandPerimeter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IslandPerimeter.swift; sourceTree = "<group>"; };
@@ -1873,6 +1875,7 @@
 				AD2481F42A5832E800780C84 /* MaximizeTheConfusionOfAnExam.swift */,
 				ADA4798A28CCCEF800C23FF0 /* MaximumDepthOfBinaryTree.swift */,
 				ADA0D1BE2B50231700D96295 /* MaximumDifferenceBetweenNodeAndAncestor.swift */,
+				AD14D41E2C6FE0180071F091 /* MaximumDistanceInArrays.swift */,
 				ADE4C5A52B04F21200EA154A /* MaximumElementAfterDecreasingAndRearranging.swift */,
 				AD9147DC29685B47007F9218 /* MaximumIceCreamBars.swift */,
 				AD0233C82B5FF73800090594 /* MaximumLengthOfAConcatenatedStringWithUniqueCharacters.swift */,
@@ -2434,6 +2437,7 @@
 				ADBC9C1728EDAA4E00459081 /* GroupAnagrams.swift in Sources */,
 				ADD15DCE2AFA5AC00064D449 /* EliminateMaximumNumberOfMonsters.swift in Sources */,
 				AD00F44828B96FB900A77B9C /* UniquePaths.swift in Sources */,
+				AD14D41F2C6FE0180071F091 /* MaximumDistanceInArrays.swift in Sources */,
 				AD3DEE95298FD71F00DD88B5 /* TheSkylineProblem.swift in Sources */,
 				ADD26591295483C20097DD23 /* LargestPerimeterTriangle.swift in Sources */,
 				ADA364292ACAE9BC00EBE7F1 /* RemoveColoredPiecesIfBothNeighborsAreTheSameColor.swift in Sources */,
