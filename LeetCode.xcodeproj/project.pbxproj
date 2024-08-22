@@ -395,6 +395,7 @@
 		AD8FC9C42C5AEB2400ED473A /* FillingBookcaseShelves.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8FC9C32C5AEB2400ED473A /* FillingBookcaseShelves.swift */; };
 		AD90565328C4C6A700886275 /* ValidSudoku.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD90565228C4C6A600886275 /* ValidSudoku.swift */; };
 		AD90565528C4C71600886275 /* SearchA2DMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD90565428C4C71600886275 /* SearchA2DMatrix.swift */; };
+		AD90E7042C77C47300712174 /* NumberComplement.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD90E7032C77C47300712174 /* NumberComplement.swift */; };
 		AD91340D2BFA40510048EBB3 /* FindTheMaximumSumOfNodeValues.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD91340C2BFA40510048EBB3 /* FindTheMaximumSumOfNodeValues.swift */; };
 		AD9147D92968525A007F9218 /* DailyTemperatures.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9147D82968525A007F9218 /* DailyTemperatures.swift */; };
 		AD9147DB2968530B007F9218 /* LengthOfLastWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9147DA2968530B007F9218 /* LengthOfLastWord.swift */; };
@@ -1136,6 +1137,7 @@
 		AD8FC9C32C5AEB2400ED473A /* FillingBookcaseShelves.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FillingBookcaseShelves.swift; sourceTree = "<group>"; };
 		AD90565228C4C6A600886275 /* ValidSudoku.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidSudoku.swift; sourceTree = "<group>"; };
 		AD90565428C4C71600886275 /* SearchA2DMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchA2DMatrix.swift; sourceTree = "<group>"; };
+		AD90E7032C77C47300712174 /* NumberComplement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberComplement.swift; sourceTree = "<group>"; };
 		AD91340C2BFA40510048EBB3 /* FindTheMaximumSumOfNodeValues.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheMaximumSumOfNodeValues.swift; sourceTree = "<group>"; };
 		AD9147D82968525A007F9218 /* DailyTemperatures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyTemperatures.swift; sourceTree = "<group>"; };
 		AD9147DA2968530B007F9218 /* LengthOfLastWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LengthOfLastWord.swift; sourceTree = "<group>"; };
@@ -2003,6 +2005,7 @@
 				AD339A12297AD0E000E3856D /* NonDecreasingSubsequences.swift */,
 				ADDC47DE28E861E40099DDC5 /* NonOverlappingIntervals.swift */,
 				AD1AB3572936659A00BDF5A5 /* NthTribonacciNumber.swift */,
+				AD90E7032C77C47300712174 /* NumberComplement.swift */,
 				ADD88B212C440D8D00B1AB1A /* NumberOfAtoms.swift */,
 				AD74DB43297DA594003C5807 /* NumberOfClosedIslands.swift */,
 				AD5C663D2B3B1FCB007D2DFA /* NumberOfDiceRollsWithTargetSum.swift */,
@@ -2549,6 +2552,7 @@
 				AD4F2F4329D9A3FA00836092 /* SuccessfulPairsOfSpellsAndPotions.swift in Sources */,
 				ADCB1CE52A55D04B00B040F6 /* LongestSubarrayOfOnesAfterDeletingOneElement.swift in Sources */,
 				AD9CFC0F2BB850E700E46E0D /* SubarraysWithKDifferentIntegers.swift in Sources */,
+				AD90E7042C77C47300712174 /* NumberComplement.swift in Sources */,
 				AD9509B72A3F3EAA006BC652 /* NumberOfIncreasingPathsInAGrid.swift in Sources */,
 				AD8DF5A42ABC6DE1006DF0B0 /* MedianOfTwoSortedArrays.swift in Sources */,
 				AD6C46FA290801150011A77C /* PopulatingNextRightPointersInEachNode2.swift in Sources */,
