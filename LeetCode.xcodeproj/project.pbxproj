@@ -597,6 +597,7 @@
 		ADD62A922B3D92340096F235 /* StringCompression2.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD62A912B3D92340096F235 /* StringCompression2.swift */; };
 		ADD67EA529796DDA00402175 /* DesignAuthenticationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD67EA429796DDA00402175 /* DesignAuthenticationManager.swift */; };
 		ADD67EA7297972A100402175 /* SubarraySumsDivisibleByK.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD67EA6297972A100402175 /* SubarraySumsDivisibleByK.swift */; };
+		ADD6A2BF2C794AFD00769F5D /* FractionAdditionAndSubtraction.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD6A2BE2C794AFD00769F5D /* FractionAdditionAndSubtraction.swift */; };
 		ADD6AF4328D882B500D74CFB /* LongestSubstringWithoutRepeatingCharacters.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD6AF4228D882B500D74CFB /* LongestSubstringWithoutRepeatingCharacters.swift */; };
 		ADD6AF4528D8833C00D74CFB /* PermutationInString.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD6AF4428D8833C00D74CFB /* PermutationInString.swift */; };
 		ADD71D4B2938C471005189E6 /* DeleteAndEarn.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD71D4A2938C471005189E6 /* DeleteAndEarn.swift */; };
@@ -1340,6 +1341,7 @@
 		ADD62A912B3D92340096F235 /* StringCompression2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringCompression2.swift; sourceTree = "<group>"; };
 		ADD67EA429796DDA00402175 /* DesignAuthenticationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignAuthenticationManager.swift; sourceTree = "<group>"; };
 		ADD67EA6297972A100402175 /* SubarraySumsDivisibleByK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubarraySumsDivisibleByK.swift; sourceTree = "<group>"; };
+		ADD6A2BE2C794AFD00769F5D /* FractionAdditionAndSubtraction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FractionAdditionAndSubtraction.swift; sourceTree = "<group>"; };
 		ADD6AF4228D882B500D74CFB /* LongestSubstringWithoutRepeatingCharacters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestSubstringWithoutRepeatingCharacters.swift; sourceTree = "<group>"; };
 		ADD6AF4428D8833C00D74CFB /* PermutationInString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PermutationInString.swift; sourceTree = "<group>"; };
 		ADD71D4A2938C471005189E6 /* DeleteAndEarn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeleteAndEarn.swift; sourceTree = "<group>"; };
@@ -1757,6 +1759,7 @@
 				ADE4CBD9297812270039E5B3 /* FlattenNestedListIterator.swift */,
 				ADD274E32976C35C0034B90A /* FlipStringToMonotoneIncreasing.swift */,
 				AD820F5828B6529700BA068E /* FloodFill.swift */,
+				ADD6A2BE2C794AFD00769F5D /* FractionAdditionAndSubtraction.swift */,
 				AD8792312BDD3E4C00A2FC57 /* FreedomTrail.swift */,
 				AD0387192B08DAF700390BA2 /* FrequencyOfTheMostFrequentElement.swift */,
 				ADE85E952A9B94D10089026A /* FrogJump.swift */,
@@ -2506,6 +2509,7 @@
 				AD2D4D362905620C00D3234A /* MinimumSizeSubarraySum.swift in Sources */,
 				AD86C56A29C092D00011A9BC /* SumRootToLeafNumbers.swift in Sources */,
 				AD6E215B29474B3000D538ED /* RangeSumQuery2DImmutable.swift in Sources */,
+				ADD6A2BF2C794AFD00769F5D /* FractionAdditionAndSubtraction.swift in Sources */,
 				ADD982A82992715E0084722F /* FruitIntoBaskets.swift in Sources */,
 				AD0C3C9C2C42A08B0008F815 /* RobotCollisions.swift in Sources */,
 				AD31D25A290BFA770030D330 /* CombinationSum2.swift in Sources */,
