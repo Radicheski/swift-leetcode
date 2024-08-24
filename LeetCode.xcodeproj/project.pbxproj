@@ -189,6 +189,7 @@
 		AD4002D0297C4C9C004FDB72 /* RestoreIPAddresses.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4002CF297C4C9C004FDB72 /* RestoreIPAddresses.swift */; };
 		AD40251C29E7424B00BE3D15 /* SimplifyPath.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD40251B29E7424B00BE3D15 /* SimplifyPath.swift */; };
 		AD40A0292BCFF39000AA622A /* SmallestStringStartingFromLeaf.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD40A0282BCFF39000AA622A /* SmallestStringStartingFromLeaf.swift */; };
+		AD4111852C7A207800AE0077 /* FindTheClosestPalindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4111842C7A207800AE0077 /* FindTheClosestPalindrome.swift */; };
 		AD4130DC2C148E6400E5B72C /* ContinuousSubarraySum.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4130DB2C148E6400E5B72C /* ContinuousSubarraySum.swift */; };
 		AD41B0162C26F60D00A53604 /* CountNumberOfNiceSubarrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD41B0152C26F60D00A53604 /* CountNumberOfNiceSubarrays.swift */; };
 		AD4255A92B20A4C1002990CA /* CalculateMoneyInLeetcodeBank.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4255A82B20A4C1002990CA /* CalculateMoneyInLeetcodeBank.swift */; };
@@ -932,6 +933,7 @@
 		AD4002CF297C4C9C004FDB72 /* RestoreIPAddresses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestoreIPAddresses.swift; sourceTree = "<group>"; };
 		AD40251B29E7424B00BE3D15 /* SimplifyPath.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimplifyPath.swift; sourceTree = "<group>"; };
 		AD40A0282BCFF39000AA622A /* SmallestStringStartingFromLeaf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallestStringStartingFromLeaf.swift; sourceTree = "<group>"; };
+		AD4111842C7A207800AE0077 /* FindTheClosestPalindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheClosestPalindrome.swift; sourceTree = "<group>"; };
 		AD4130DB2C148E6400E5B72C /* ContinuousSubarraySum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContinuousSubarraySum.swift; sourceTree = "<group>"; };
 		AD41B0152C26F60D00A53604 /* CountNumberOfNiceSubarrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountNumberOfNiceSubarrays.swift; sourceTree = "<group>"; };
 		AD4255A82B20A4C1002990CA /* CalculateMoneyInLeetcodeBank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculateMoneyInLeetcodeBank.swift; sourceTree = "<group>"; };
@@ -1735,6 +1737,7 @@
 				AD46A7542B7E47ED005A7047 /* FindPolygonWithTheLargestPerimeter.swift */,
 				ADBA5AF92A335484008934B2 /* FindSmallestLetterGreaterThanTarget.swift */,
 				AD1847F92C542C77003A848D /* FindTheCityWithTheSmallestNumberOfNeighborsAtAThresholdDistance.swift */,
+				AD4111842C7A207800AE0077 /* FindTheClosestPalindrome.swift */,
 				AD9A0D8D295B5DBE009B9BB5 /* FindTheDifference.swift */,
 				AD71F3262A02C0FF003F0668 /* FindTheDifferenceOfTwoArrays.swift */,
 				AD3DD0E52AB9215F00ABED04 /* FindTheDuplicateNumber.swift */,
@@ -2384,6 +2387,7 @@
 				AD2C245C297178770000DBF8 /* LongestPathWithDifferentAdjacentCharacters.swift in Sources */,
 				AD9BEA5D2A5D761F0041D02B /* AllNodesDistanceKInBinaryTree.swift in Sources */,
 				ADF9488428F6F91E006630E0 /* BinaryTreeZigzagLevelOrderTraversal.swift in Sources */,
+				AD4111852C7A207800AE0077 /* FindTheClosestPalindrome.swift in Sources */,
 				ADEBFC182B76538300C952A5 /* LargestDivisibleSubset.swift in Sources */,
 				AD8733DF2916D30C00E18F7B /* EditDistance.swift in Sources */,
 				ADF243C7297443210006F2A4 /* AddTwoNumbers2.swift in Sources */,
