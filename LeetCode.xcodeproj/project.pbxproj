@@ -381,6 +381,7 @@
 		AD8A1EEE29044B8100ABA3F6 /* IntervalListIntersections.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8A1EED29044B8100ABA3F6 /* IntervalListIntersections.swift */; };
 		AD8A1EF029044C5C00ABA3F6 /* ContainerWithMostWater.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8A1EEF29044C5C00ABA3F6 /* ContainerWithMostWater.swift */; };
 		AD8AF1DD299A642C002C7C1C /* ImageSmoother.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8AF1DC299A642C002C7C1C /* ImageSmoother.swift */; };
+		AD8B71092C863B350029D971 /* FindTheStudentThatWillReplaceTheChalk.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8B71082C863B350029D971 /* FindTheStudentThatWillReplaceTheChalk.swift */; };
 		AD8C4DAC2C5D662F00C9D5B1 /* MinimumSwapsToGroupAllOnesTogether2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8C4DAB2C5D662F00C9D5B1 /* MinimumSwapsToGroupAllOnesTogether2.swift */; };
 		AD8C5AD028E074A000E821D7 /* HouseRobber.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8C5ACF28E074A000E821D7 /* HouseRobber.swift */; };
 		AD8C5AD228E0751A00E821D7 /* Triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8C5AD128E0751A00E821D7 /* Triangle.swift */; };
@@ -1128,6 +1129,7 @@
 		AD8A1EED29044B8100ABA3F6 /* IntervalListIntersections.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntervalListIntersections.swift; sourceTree = "<group>"; };
 		AD8A1EEF29044C5C00ABA3F6 /* ContainerWithMostWater.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainerWithMostWater.swift; sourceTree = "<group>"; };
 		AD8AF1DC299A642C002C7C1C /* ImageSmoother.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSmoother.swift; sourceTree = "<group>"; };
+		AD8B71082C863B350029D971 /* FindTheStudentThatWillReplaceTheChalk.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheStudentThatWillReplaceTheChalk.swift; sourceTree = "<group>"; };
 		AD8C4DAB2C5D662F00C9D5B1 /* MinimumSwapsToGroupAllOnesTogether2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumSwapsToGroupAllOnesTogether2.swift; sourceTree = "<group>"; };
 		AD8C5ACF28E074A000E821D7 /* HouseRobber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HouseRobber.swift; sourceTree = "<group>"; };
 		AD8C5AD128E0751A00E821D7 /* Triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Triangle.swift; sourceTree = "<group>"; };
@@ -1756,6 +1758,7 @@
 				AD5358032AF12BEF00C65D10 /* FindTheOriginalArrayOfPrefixXor.swift */,
 				AD1901E22BA1D9E400E7AAA2 /* FindThePivotInteger.swift */,
 				AD3E989D2BF4EA8500A19F30 /* FindTheSafestPathInAGrid.swift */,
+				AD8B71082C863B350029D971 /* FindTheStudentThatWillReplaceTheChalk.swift */,
 				ADD8E82E28FC3AA000EEBB3C /* FindTheTownJudge.swift */,
 				ADA8F8EA2AF7F48B00A71525 /* FindTheWinnerOfAnArrayGame.swift */,
 				AD07CAFB28F5886700B2E73A /* FindTheWinnerOfTheCircularGame.swift */,
@@ -2643,6 +2646,7 @@
 				ADBEEB6828BF847B0069B4BB /* ContainsDuplicate.swift in Sources */,
 				ADFB15912C84930B00BC3401 /* Convert1DArrayInto2DArray.swift in Sources */,
 				AD068C4C28DDC23400D4EB76 /* ConcatenationOfConsecutiveBinaryNumbers.swift in Sources */,
+				AD8B71092C863B350029D971 /* FindTheStudentThatWillReplaceTheChalk.swift in Sources */,
 				AD0467A62B84DF6C0082233D /* MissingNumber.swift in Sources */,
 				AD344F80294B427400DCAA09 /* LongestPalindromicSubsequence.swift in Sources */,
 				AD9622AB2A6C1CFE00087578 /* KnightProbabilityInChessboard.swift in Sources */,
