@@ -651,6 +651,7 @@
 		ADE247A02AA2226A006CD210 /* CountingBits.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE2479F2AA2226A006CD210 /* CountingBits.swift */; };
 		ADE2D7862AD1955300DBAFDD /* BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE2D7852AD1955300DBAFDD /* BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.swift */; };
 		ADE3DB292AA3724400F87668 /* ExtraCharactersInAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE3DB282AA3724400F87668 /* ExtraCharactersInAString.swift */; };
+		ADE40C3B2C923A4A00F8C427 /* MinimumBitFlipsToConvertNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE40C3A2C923A4A00F8C427 /* MinimumBitFlipsToConvertNumber.swift */; };
 		ADE4404429D5ED860090902A /* ScrambleString.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE4404329D5ED860090902A /* ScrambleString.swift */; };
 		ADE4724E28EAFE7D00B5E8D1 /* AddStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE4724D28EAFE7D00B5E8D1 /* AddStrings.swift */; };
 		ADE4C5A62B04F21200EA154A /* MaximumElementAfterDecreasingAndRearranging.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE4C5A52B04F21200EA154A /* MaximumElementAfterDecreasingAndRearranging.swift */; };
@@ -1406,6 +1407,7 @@
 		ADE2479F2AA2226A006CD210 /* CountingBits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountingBits.swift; sourceTree = "<group>"; };
 		ADE2D7852AD1955300DBAFDD /* BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.swift; sourceTree = "<group>"; };
 		ADE3DB282AA3724400F87668 /* ExtraCharactersInAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtraCharactersInAString.swift; sourceTree = "<group>"; };
+		ADE40C3A2C923A4A00F8C427 /* MinimumBitFlipsToConvertNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumBitFlipsToConvertNumber.swift; sourceTree = "<group>"; };
 		ADE4404329D5ED860090902A /* ScrambleString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrambleString.swift; sourceTree = "<group>"; };
 		ADE4724D28EAFE7D00B5E8D1 /* AddStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddStrings.swift; sourceTree = "<group>"; };
 		ADE4C5A52B04F21200EA154A /* MaximumElementAfterDecreasingAndRearranging.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumElementAfterDecreasingAndRearranging.swift; sourceTree = "<group>"; };
@@ -1966,6 +1968,7 @@
 				AD93826D2B0B793700E80ED6 /* MinimumAmountOfTimeToCollectGarbage.swift */,
 				AD8E99D0299BC18A00032CCB /* MinimumAreaRectangle2.swift */,
 				AD8188F72A77CE8200665143 /* MinimumASCIIDeleteSumForTwoStrings.swift */,
+				ADE40C3A2C923A4A00F8C427 /* MinimumBitFlipsToConvertNumber.swift */,
 				ADC489472B385B6A00DEA8C0 /* MinimumChangesToMakeAlternatingBinaryString.swift */,
 				AD3E51F42B9BDE8D009AAF63 /* MinimumCommonValue.swift */,
 				AD5ED47A29D3382200F6A4DC /* MinimumCostForTickets.swift */,
@@ -2845,6 +2848,7 @@
 				AD180B3829434FBE001F5866 /* UniqueBinarySearchTrees.swift in Sources */,
 				AD46A7552B7E47ED005A7047 /* FindPolygonWithTheLargestPerimeter.swift in Sources */,
 				ADEB5A6028CB76F4004D8EAC /* BinaryTreePreorderTraversal.swift in Sources */,
+				ADE40C3B2C923A4A00F8C427 /* MinimumBitFlipsToConvertNumber.swift in Sources */,
 				AD820F5B28B65A1C00BA068E /* NumberOfIslands.swift in Sources */,
 				AD4B182D2966FE0600262815 /* AddBinary.swift in Sources */,
 				AD03A4E22BC41EDB007E95FC /* NumberOfStudentsUnableToEatLunch.swift in Sources */,
