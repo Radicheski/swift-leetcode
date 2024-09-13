@@ -683,6 +683,7 @@
 		ADEB80862C484CD800315728 /* DeleteNodesAndReturnForest.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEB80852C484CD800315728 /* DeleteNodesAndReturnForest.swift */; };
 		ADEBFC182B76538300C952A5 /* LargestDivisibleSubset.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEBFC172B76538300C952A5 /* LargestDivisibleSubset.swift */; };
 		ADEC4C722A04870400976373 /* MaximumNumberOfVowelsInASubstringOfGivenLength.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEC4C712A04870400976373 /* MaximumNumberOfVowelsInASubstringOfGivenLength.swift */; };
+		ADEC51E12C937E6C00C44930 /* CountTheNumberOfConsistentStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEC51E02C937E6C00C44930 /* CountTheNumberOfConsistentStrings.swift */; };
 		ADEC59F9292E412F006B2532 /* SameTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEC59F8292E412F006B2532 /* SameTree.swift */; };
 		ADEC7FBC293E176E00BF0086 /* BestSightseeingPair.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEC7FBB293E176E00BF0086 /* BestSightseeingPair.swift */; };
 		ADEC7FBE293E17D200BF0086 /* BestTimeToBuyAndSellStock2.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEC7FBD293E17D200BF0086 /* BestTimeToBuyAndSellStock2.swift */; };
@@ -1439,6 +1440,7 @@
 		ADEB80852C484CD800315728 /* DeleteNodesAndReturnForest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeleteNodesAndReturnForest.swift; sourceTree = "<group>"; };
 		ADEBFC172B76538300C952A5 /* LargestDivisibleSubset.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargestDivisibleSubset.swift; sourceTree = "<group>"; };
 		ADEC4C712A04870400976373 /* MaximumNumberOfVowelsInASubstringOfGivenLength.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumNumberOfVowelsInASubstringOfGivenLength.swift; sourceTree = "<group>"; };
+		ADEC51E02C937E6C00C44930 /* CountTheNumberOfConsistentStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountTheNumberOfConsistentStrings.swift; sourceTree = "<group>"; };
 		ADEC59F8292E412F006B2532 /* SameTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SameTree.swift; sourceTree = "<group>"; };
 		ADEC7FBB293E176E00BF0086 /* BestSightseeingPair.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BestSightseeingPair.swift; sourceTree = "<group>"; };
 		ADEC7FBD293E17D200BF0086 /* BestTimeToBuyAndSellStock2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BestTimeToBuyAndSellStock2.swift; sourceTree = "<group>"; };
@@ -1672,6 +1674,7 @@
 				AD9A8EFB2BB773B7007A12CF /* CountSubarraysWhereMaxElementAppearsAtLeastKTimes.swift */,
 				AD63B81329B363D200E41605 /* CountSubarraysWithFixedBounds.swift */,
 				ADF7AF11297ECC9B000B34DA /* CountSubIslands.swift */,
+				ADEC51E02C937E6C00C44930 /* CountTheNumberOfConsistentStrings.swift */,
 				AD367E232C08D4590001D731 /* CountTripletsThatCanFormTwoArraysOfEqualXOR.swift */,
 				AD29A71829CF2CDF00A5E1F0 /* CountUnreachablePairsOfNodesInAnUndirectedGraph.swift */,
 				ADB9FAF62AED4049009C0D9C /* CountVowelsPermutation.swift */,
@@ -3078,6 +3081,7 @@
 				AD8C4DAC2C5D662F00C9D5B1 /* MinimumSwapsToGroupAllOnesTogether2.swift in Sources */,
 				AD35C3962A07F99D00ABC066 /* FindTheLongestValidObstacleCourseAtEachPosition.swift in Sources */,
 				ADF31932291141650038DE57 /* ArithmeticSlices.swift in Sources */,
+				ADEC51E12C937E6C00C44930 /* CountTheNumberOfConsistentStrings.swift in Sources */,
 				AD64D09D29F5A50800A9B9DF /* RestoreTheArray.swift in Sources */,
 				ADC806242A0EBBF300900451 /* SolvingQuestionsWithBrainpower.swift in Sources */,
 				ADD1C41C28B3CA3F00E63642 /* FirstBadVersion.swift in Sources */,
