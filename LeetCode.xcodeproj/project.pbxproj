@@ -442,6 +442,7 @@
 		AD9BC3962C4BDD5600B983A4 /* FindValidMatrixGivenRowAndColumnSums.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9BC3952C4BDD5600B983A4 /* FindValidMatrixGivenRowAndColumnSums.swift */; };
 		AD9BEA5D2A5D761F0041D02B /* AllNodesDistanceKInBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9BEA5C2A5D761F0041D02B /* AllNodesDistanceKInBinaryTree.swift */; };
 		AD9CBFC929A1313A0017BAD8 /* UniqueSubstringsInWraparoundString.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9CBFC829A1313A0017BAD8 /* UniqueSubstringsInWraparoundString.swift */; };
+		AD9CFBE02C976A6100D3B8B9 /* FindTheLongestSubstringContainingVowelsInEvenCounts.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9CFBDF2C976A6100D3B8B9 /* FindTheLongestSubstringContainingVowelsInEvenCounts.swift */; };
 		AD9CFC0F2BB850E700E46E0D /* SubarraysWithKDifferentIntegers.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9CFC0E2BB850E700E46E0D /* SubarraysWithKDifferentIntegers.swift */; };
 		AD9D45C12B4AE1E000DD2F91 /* ArithmeticSlices2_Subsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9D45C02B4AE1E000DD2F91 /* ArithmeticSlices2_Subsequence.swift */; };
 		AD9E484129DDDF4800593016 /* MinimizeMaximumOfArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9E484029DDDF4800593016 /* MinimizeMaximumOfArray.swift */; };
@@ -1200,6 +1201,7 @@
 		AD9BC3952C4BDD5600B983A4 /* FindValidMatrixGivenRowAndColumnSums.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindValidMatrixGivenRowAndColumnSums.swift; sourceTree = "<group>"; };
 		AD9BEA5C2A5D761F0041D02B /* AllNodesDistanceKInBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllNodesDistanceKInBinaryTree.swift; sourceTree = "<group>"; };
 		AD9CBFC829A1313A0017BAD8 /* UniqueSubstringsInWraparoundString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniqueSubstringsInWraparoundString.swift; sourceTree = "<group>"; };
+		AD9CFBDF2C976A6100D3B8B9 /* FindTheLongestSubstringContainingVowelsInEvenCounts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheLongestSubstringContainingVowelsInEvenCounts.swift; sourceTree = "<group>"; };
 		AD9CFC0E2BB850E700E46E0D /* SubarraysWithKDifferentIntegers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubarraysWithKDifferentIntegers.swift; sourceTree = "<group>"; };
 		AD9D45C02B4AE1E000DD2F91 /* ArithmeticSlices2_Subsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArithmeticSlices2_Subsequence.swift; sourceTree = "<group>"; };
 		AD9E484029DDDF4800593016 /* MinimizeMaximumOfArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimizeMaximumOfArray.swift; sourceTree = "<group>"; };
@@ -1775,6 +1777,7 @@
 				AD3DD0E52AB9215F00ABED04 /* FindTheDuplicateNumber.swift */,
 				AD4AC1A62A4099D700F4620D /* FindTheHighestAltitude.swift */,
 				AD4386D02961AE4C003FA0BD /* FindTheIndexOfTheFirstOccurrenceInAString.swift */,
+				AD9CFBDF2C976A6100D3B8B9 /* FindTheLongestSubstringContainingVowelsInEvenCounts.swift */,
 				AD35C3952A07F99D00ABC066 /* FindTheLongestValidObstacleCourseAtEachPosition.swift */,
 				AD91340C2BFA40510048EBB3 /* FindTheMaximumSumOfNodeValues.swift */,
 				AD0AFE0D2C387F4A0095C213 /* FindTheMinimumAndMaximumNumberOfNodesBetweenCriticalPoints.swift */,
@@ -2490,6 +2493,7 @@
 				AD8F5BF129E1954D00E29DB1 /* Node.swift in Sources */,
 				ADCFF0DA2B18B3FA0026EBA8 /* MinimumOneBitOperationsToMakeIntegersZero.swift in Sources */,
 				ADA3E8612C4AF244003A2409 /* LuckyNumbersInAMatrix.swift in Sources */,
+				AD9CFBE02C976A6100D3B8B9 /* FindTheLongestSubstringContainingVowelsInEvenCounts.swift in Sources */,
 				AD8273262C33615C00A5DD70 /* MinimumNumberOfDaysToMakeMBouquets.swift in Sources */,
 				AD98C90C2BEBE86100A92C22 /* RelativeRanks.swift in Sources */,
 				ADBC9C1728EDAA4E00459081 /* GroupAnagrams.swift in Sources */,
