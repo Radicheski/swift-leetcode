@@ -354,6 +354,7 @@
 		AD820F5B28B65A1C00BA068E /* NumberOfIslands.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD820F5A28B65A1C00BA068E /* NumberOfIslands.swift */; };
 		AD8273242C33602700A5DD70 /* ThreeConsecutiveOdds.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8273232C33602700A5DD70 /* ThreeConsecutiveOdds.swift */; };
 		AD8273262C33615C00A5DD70 /* MinimumNumberOfDaysToMakeMBouquets.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8273252C33615C00A5DD70 /* MinimumNumberOfDaysToMakeMBouquets.swift */; };
+		AD83E71D2C9B53470043F0B3 /* LargestNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD83E71C2C9B53470043F0B3 /* LargestNumber.swift */; };
 		AD844B0D28CA209C008E1AEF /* ValidParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD844B0C28CA209C008E1AEF /* ValidParentheses.swift */; };
 		AD844B0F28CA20F4008E1AEF /* ImplementQueueUsingStacks.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD844B0E28CA20F4008E1AEF /* ImplementQueueUsingStacks.swift */; };
 		AD84D9522923AC0B00891349 /* DiameterOfBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD84D9512923AC0B00891349 /* DiameterOfBinaryTree.swift */; };
@@ -1115,6 +1116,7 @@
 		AD820F5A28B65A1C00BA068E /* NumberOfIslands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfIslands.swift; sourceTree = "<group>"; };
 		AD8273232C33602700A5DD70 /* ThreeConsecutiveOdds.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreeConsecutiveOdds.swift; sourceTree = "<group>"; };
 		AD8273252C33615C00A5DD70 /* MinimumNumberOfDaysToMakeMBouquets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberOfDaysToMakeMBouquets.swift; sourceTree = "<group>"; };
+		AD83E71C2C9B53470043F0B3 /* LargestNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargestNumber.swift; sourceTree = "<group>"; };
 		AD844B0C28CA209C008E1AEF /* ValidParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidParentheses.swift; sourceTree = "<group>"; };
 		AD844B0E28CA20F4008E1AEF /* ImplementQueueUsingStacks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImplementQueueUsingStacks.swift; sourceTree = "<group>"; };
 		AD84D9512923AC0B00891349 /* DiameterOfBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiameterOfBinaryTree.swift; sourceTree = "<group>"; };
@@ -1868,6 +1870,7 @@
 				AD8CBCA52BF0FAB20036A478 /* LargestLocalValuesInAMatrix.swift */,
 				ADA50F772B21EAB90002964A /* LargestOddNumberInString.swift */,
 				ADEBFC172B76538300C952A5 /* LargestDivisibleSubset.swift */,
+				AD83E71C2C9B53470043F0B3 /* LargestNumber.swift */,
 				ADD26590295483C20097DD23 /* LargestPerimeterTriangle.swift */,
 				AD637E612BE3BFB40025265F /* LargestPositiveIntegerThatExistsWithItsNegative.swift */,
 				AD858F0E2B1369EA00BEF246 /* LargestSubmatrixWithRearrangements.swift */,
@@ -2648,6 +2651,7 @@
 				AD57DCB62BA5E07F0074DB7F /* ContiguousArray.swift in Sources */,
 				ADC5823C28DB2DBA006D9591 /* PopulatingNextRightPointersInEachNode.swift in Sources */,
 				ADE1BD2528DC7C2A008ED566 /* ZeroOneMatrix.swift in Sources */,
+				AD83E71D2C9B53470043F0B3 /* LargestNumber.swift in Sources */,
 				AD6A030B290AADB300988758 /* Subsets2.swift in Sources */,
 				AD9A0D8C295B5D17009B9BB5 /* GoalParserInterpretation.swift in Sources */,
 				ADDA52F12A66BAE8006B6ECA /* LRUCacheTest.swift in Sources */,
