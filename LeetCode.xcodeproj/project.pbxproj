@@ -207,6 +207,7 @@
 		AD4386CF2961ADBA003FA0BD /* MonotonicArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4386CE2961ADBA003FA0BD /* MonotonicArray.swift */; };
 		AD4386D12961AE4C003FA0BD /* FindTheIndexOfTheFirstOccurrenceInAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4386D02961AE4C003FA0BD /* FindTheIndexOfTheFirstOccurrenceInAString.swift */; };
 		AD43BBA92B35E0DF00672B9B /* MaximumScoreAfterSplittingAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD43BBA82B35E0DF00672B9B /* MaximumScoreAfterSplittingAString.swift */; };
+		AD4488362CA04B6200FBFA8F /* KthSmallestInLexicographicalOrder.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4488352CA04B6200FBFA8F /* KthSmallestInLexicographicalOrder.swift */; };
 		AD45D00128D9DCD000544C0A /* MaxAreaOfIsland.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD45D00028D9DCD000544C0A /* MaxAreaOfIsland.swift */; };
 		AD46A7552B7E47ED005A7047 /* FindPolygonWithTheLargestPerimeter.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD46A7542B7E47ED005A7047 /* FindPolygonWithTheLargestPerimeter.swift */; };
 		AD4789C12AF52F0A0060440B /* BuildAnArrayWithStackOperations.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4789C02AF52F0A0060440B /* BuildAnArrayWithStackOperations.swift */; };
@@ -972,6 +973,7 @@
 		AD4386CE2961ADBA003FA0BD /* MonotonicArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MonotonicArray.swift; sourceTree = "<group>"; };
 		AD4386D02961AE4C003FA0BD /* FindTheIndexOfTheFirstOccurrenceInAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheIndexOfTheFirstOccurrenceInAString.swift; sourceTree = "<group>"; };
 		AD43BBA82B35E0DF00672B9B /* MaximumScoreAfterSplittingAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumScoreAfterSplittingAString.swift; sourceTree = "<group>"; };
+		AD4488352CA04B6200FBFA8F /* KthSmallestInLexicographicalOrder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KthSmallestInLexicographicalOrder.swift; sourceTree = "<group>"; };
 		AD45D00028D9DCD000544C0A /* MaxAreaOfIsland.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxAreaOfIsland.swift; sourceTree = "<group>"; };
 		AD46A7542B7E47ED005A7047 /* FindPolygonWithTheLargestPerimeter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindPolygonWithTheLargestPerimeter.swift; sourceTree = "<group>"; };
 		AD4789C02AF52F0A0060440B /* BuildAnArrayWithStackOperations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuildAnArrayWithStackOperations.swift; sourceTree = "<group>"; };
@@ -1870,6 +1872,7 @@
 				ADBF7F442A1CE68300552ACE /* KthLargestElementInAStream.swift */,
 				AD6669FA29B60A5900C1D36A /* KthMissingPositiveNumber.swift */,
 				ADD5A75228F9845700DAB4AF /* KthSmallestElementInABST.swift */,
+				AD4488352CA04B6200FBFA8F /* KthSmallestInLexicographicalOrder.swift */,
 				ADCCB8652BEE4E9C000B517B /* KthSmallestPrimeFraction.swift */,
 				AD7914512AE9A59200DA4F67 /* KthSymbolInGrammar.swift */,
 				AD145BBC2B1DEE0100FADB38 /* Largest3SameDigitNumberInString.swift */,
@@ -2829,6 +2832,7 @@
 				AD76BE022BAB856100BA57B1 /* MergeInBetweenLinkedLists.swift in Sources */,
 				AD617F2D298D2CBA00708E31 /* IsGraphBipartite.swift in Sources */,
 				AD7B3DB4298978B400DB46E4 /* BestTeamWithNoConflicts.swift in Sources */,
+				AD4488362CA04B6200FBFA8F /* KthSmallestInLexicographicalOrder.swift in Sources */,
 				ADCE36662A890E6F00B6015B /* CheckIfThereIsAValidPartitionForTheArray.swift in Sources */,
 				AD4BDEB128A7E03200E61565 /* TheKWeakestRowsInAMatrix.swift in Sources */,
 				ADB8E7DE2C4D305D00240281 /* BuildAMatrixWithConditions.swift in Sources */,
