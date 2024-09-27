@@ -48,6 +48,7 @@
 		AD0C3C9C2C42A08B0008F815 /* RobotCollisions.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0C3C9B2C42A08B0008F815 /* RobotCollisions.swift */; };
 		AD0C4DD72986D4DA00D15379 /* LFUCacheProblem.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0C4DD62986D4DA00D15379 /* LFUCacheProblem.swift */; };
 		AD0DF7282BA32E9B001F036F /* BinarySubarraysWithSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0DF7272BA32E9B001F036F /* BinarySubarraysWithSum.swift */; };
+		AD0E52772CA7428A00106153 /* MyCalendarII.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0E52762CA7428A00106153 /* MyCalendarII.swift */; };
 		AD0E7EEB2A4B51C4001B088E /* FindKPairsWithSmallestSums.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0E7EEA2A4B51C4001B088E /* FindKPairsWithSmallestSums.swift */; };
 		AD0EAE3E2AD576C400E25C63 /* MinimumNumberOfOperationsToMakeArrayContinuous.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0EAE3D2AD576C400E25C63 /* MinimumNumberOfOperationsToMakeArrayContinuous.swift */; };
 		AD0EEE8C2A471B44009C9AD5 /* TallestBillboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0EEE8B2A471B44009C9AD5 /* TallestBillboard.swift */; };
@@ -816,6 +817,7 @@
 		AD0C3C9B2C42A08B0008F815 /* RobotCollisions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RobotCollisions.swift; sourceTree = "<group>"; };
 		AD0C4DD62986D4DA00D15379 /* LFUCacheProblem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LFUCacheProblem.swift; sourceTree = "<group>"; };
 		AD0DF7272BA32E9B001F036F /* BinarySubarraysWithSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinarySubarraysWithSum.swift; sourceTree = "<group>"; };
+		AD0E52762CA7428A00106153 /* MyCalendarII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCalendarII.swift; sourceTree = "<group>"; };
 		AD0E7EEA2A4B51C4001B088E /* FindKPairsWithSmallestSums.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindKPairsWithSmallestSums.swift; sourceTree = "<group>"; };
 		AD0EAE3D2AD576C400E25C63 /* MinimumNumberOfOperationsToMakeArrayContinuous.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberOfOperationsToMakeArrayContinuous.swift; sourceTree = "<group>"; };
 		AD0EEE8B2A471B44009C9AD5 /* TallestBillboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TallestBillboard.swift; sourceTree = "<group>"; };
@@ -1585,7 +1587,6 @@
 		ADD5D3ED28A3120600BD5BCC /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
-				AD4BDEAD28A7DF2100E61565 /* Commons */,
 				AD4B182C2966FE0600262815 /* AddBinary.swift */,
 				AD727CD229F98DC300FDD2A2 /* AddDigits.swift */,
 				AD0A384D2BCEB154007B512F /* AddOneRowoTree.swift */,
@@ -1633,9 +1634,9 @@
 				ADF677AE2917E870007CB647 /* BitwiseANDOfNumbersRange.swift */,
 				ADE6679029DAF5AB00E5F90B /* BoatsToSavePeople.swift */,
 				ADE976D42A5324C600069C5A /* BuddyStrings.swift */,
+				ADB8E7DD2C4D305D00240281 /* BuildAMatrixWithConditions.swift */,
 				AD4789C02AF52F0A0060440B /* BuildAnArrayWithStackOperations.swift */,
 				ADE2D7852AD1955300DBAFDD /* BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.swift */,
-				ADB8E7DD2C4D305D00240281 /* BuildAMatrixWithConditions.swift */,
 				ADBFE64829FAA2E000545A35 /* BulbSwitcher.swift */,
 				AD1BBB5728BB83CD000032DD /* BullsAndCows.swift */,
 				AD899FD6292913F9001DD001 /* BusRoutes.swift */,
@@ -1716,11 +1717,10 @@
 				AD96A68C295C7C0C001F0AB6 /* DecryptStringFromAlphabetToIntegerMapping.swift */,
 				ADD71D4A2938C471005189E6 /* DeleteAndEarn.swift */,
 				ADD2F0C129645ADB003B0038 /* DeleteColumnsToMakeSorted.swift */,
-				ADEB80852C484CD800315728 /* DeleteNodesAndReturnForest.swift */,
-				AD0525112BE938D500507C0E /* RemoveNodesFromLinkedList.swift */,
 				ADF7D86D2BF7A6B5001CD6FD /* DeleteLeavesWithAGivenValue.swift */,
-				ADC11ED92C8B910800BB834B /* DeleteNodesFromLinkedListPresentInArray.swift */,
 				ADE2438728F835D900D3AB3F /* DeleteNodeInABST.swift */,
+				ADEB80852C484CD800315728 /* DeleteNodesAndReturnForest.swift */,
+				ADC11ED92C8B910800BB834B /* DeleteNodesFromLinkedListPresentInArray.swift */,
 				AD4C668329152EBF00C86C85 /* DeleteOperationForTwoStrings.swift */,
 				ADBD218729980DED00ECD987 /* DesignAddAndSearchWordsDataStructure.swift */,
 				ADC65A3B2B2F2BE00081C4CA /* DesignAFoodRatingSystem.swift */,
@@ -1882,10 +1882,10 @@
 				AD7914512AE9A59200DA4F67 /* KthSymbolInGrammar.swift */,
 				AD145BBC2B1DEE0100FADB38 /* Largest3SameDigitNumberInString.swift */,
 				AD7150E829E2DEE700B71CCC /* LargestColorValueInADirectedGraph.swift */,
-				AD8CBCA52BF0FAB20036A478 /* LargestLocalValuesInAMatrix.swift */,
-				ADA50F772B21EAB90002964A /* LargestOddNumberInString.swift */,
 				ADEBFC172B76538300C952A5 /* LargestDivisibleSubset.swift */,
+				AD8CBCA52BF0FAB20036A478 /* LargestLocalValuesInAMatrix.swift */,
 				AD83E71C2C9B53470043F0B3 /* LargestNumber.swift */,
+				ADA50F772B21EAB90002964A /* LargestOddNumberInString.swift */,
 				ADD26590295483C20097DD23 /* LargestPerimeterTriangle.swift */,
 				AD637E612BE3BFB40025265F /* LargestPositiveIntegerThatExistsWithItsNegative.swift */,
 				AD858F0E2B1369EA00BEF246 /* LargestSubmatrixWithRearrangements.swift */,
@@ -1930,8 +1930,8 @@
 				ADB9AE8D28FAD19D008FBC6A /* LowestCommonAncestorOfABinaryTree.swift */,
 				ADDA52F02A66BAE8006B6ECA /* LRUCacheTest.swift */,
 				ADA3E8602C4AF244003A2409 /* LuckyNumbersInAMatrix.swift */,
-				ADDE330A2C24C77D00ABCE59 /* MagneticForceBetweenTwoBalls.swift */,
 				AD0717F62C66CC5000B54944 /* MagicSquaresInGrid.swift */,
+				ADDE330A2C24C77D00ABCE59 /* MagneticForceBetweenTwoBalls.swift */,
 				AD933EEF28E46C2300B1B2DA /* MajorityElement.swift */,
 				ADA4C4532ACEE1A4004A14E0 /* MajorityElement2.swift */,
 				ADD2F9172A3DF45300AC9783 /* MakeArrayStrictlyIncreasing.swift */,
@@ -1942,6 +1942,7 @@
 				AD45D00028D9DCD000544C0A /* MaxAreaOfIsland.swift */,
 				ADAEFAE62AD2EA930034A042 /* MaxDotProductOfTwoSubsequences.swift */,
 				AD617F28298D2B4200708E31 /* MaximalNetworkRank.swift */,
+				ADFA93142BCA05D000676522 /* MaximalRectangle.swift */,
 				AD86268F2949F15700027B1A /* MaximalSquare.swift */,
 				AD3DBB042BED1E3C009A607C /* MaximizeHappinessOfSelectedChildren.swift */,
 				AD7F8B632A11074B00213368 /* MaximizeScoreAfterNOperations.swift */,
@@ -1966,7 +1967,6 @@
 				AD86B4842B28816B00A65358 /* MaximumProductOfTwoElementsInAnArray.swift */,
 				ADF22B83292BA5AC00DF8FCA /* MaximumProductSubarray.swift */,
 				AD66415C2B49A8E800980F81 /* MaximumProfitInJobScheduling.swift */,
-				ADFA93142BCA05D000676522 /* MaximalRectangle.swift */,
 				AD980B522A7295B10055B5D3 /* MaximumRunningTimeOfNComputers.swift */,
 				AD43BBA82B35E0DF00672B9B /* MaximumScoreAfterSplittingAString.swift */,
 				ADF553422C41B159001800B2 /* MaximumScoreFromRemovingSubstrings.swift */,
@@ -1999,6 +1999,7 @@
 				AD9E484029DDDF4800593016 /* MinimizeMaximumOfArray.swift */,
 				AD1693272B078D330036EF08 /* MinimizeMaximumPairSumInArray.swift */,
 				AD99A0F62A84055400F51F91 /* MinimizeTheMaximumDifferenceOfPairs.swift */,
+				AD6CB3DB2C35D46F0011A382 /* Minimum DifferenceBetweenLargestAndSmallestValueInThreeMoves.swift */,
 				AD93826D2B0B793700E80ED6 /* MinimumAmountOfTimeToCollectGarbage.swift */,
 				AD8E99D0299BC18A00032CCB /* MinimumAreaRectangle2.swift */,
 				AD8188F72A77CE8200665143 /* MinimumASCIIDeleteSumForTwoStrings.swift */,
@@ -2013,7 +2014,6 @@
 				AD3F2D852AB0909D00004550 /* MinimumDeletionsToMakeCharacterFrequenciesUnique.swift */,
 				AD3CE8DF2C5984B800A64691 /* MinimumDeletionsToMakeStringBalanced.swift */,
 				AD653F622A5C2EEB00C7CCE8 /* MinimumDepthOfBinaryTree.swift */,
-				AD6CB3DB2C35D46F0011A382 /* Minimum DifferenceBetweenLargestAndSmallestValueInThreeMoves.swift */,
 				ADCA48672B3F063D0046A40E /* MinimumDifficultyOfAJobSchedule.swift */,
 				ADBB49D5299FA5DC00634482 /* MinimumDistanceBetweenBSTNodes.swift */,
 				ADBA3B9E2946224500F9F52F /* MinimumFallingPathSum.swift */,
@@ -2042,7 +2042,6 @@
 				ADAF39092ABB629C00C9CAD1 /* MinimumOperationsToReduceXToZero.swift */,
 				AD86268D2949F0E700027B1A /* MinimumPathSum.swift */,
 				AD59FDCD2A9D7076007CC7AC /* MinimumPenaltyForAShop.swift */,
-				ADDB16212C22172F0015AA15 /* MostProfitAssigningWork.swift */,
 				AD07CAF928F587CE00B2E73A /* MinimumRemoveToMakeValidParentheses.swift */,
 				AD1B6E3D2A9FAA4A0094AEEC /* MinimumReplacementsToSortTheArray.swift */,
 				ADC8E5352965AEEA00D6351F /* MinimumRoundsToCompleteAllTasks.swift */,
@@ -2060,10 +2059,12 @@
 				AD0467A52B84DF6C0082233D /* MissingNumber.swift */,
 				AD8FB3972C824EFA0015EB64 /* ModifyGraphEdgeWeights.swift */,
 				AD4386CE2961ADBA003FA0BD /* MonotonicArray.swift */,
+				ADDB16212C22172F0015AA15 /* MostProfitAssigningWork.swift */,
 				ADE4DF382933824900DF9FEB /* MostStonesRemovedWithSameRowOrColumn.swift */,
 				ADF0631628D4902300546CCC /* MoveZeroes.swift */,
 				ADBC9C1428EDA96B00459081 /* MultiplyStrings.swift */,
 				AD339A10297ABD9F00E3856D /* MyCalendarI.swift */,
+				AD0E52762CA7428A00106153 /* MyCalendarII.swift */,
 				ADCDCE522995212B007E0500 /* NamingACompany.swift */,
 				AD015019296C3B9500C763CC /* NaryTreeLevelOrderTraversal.swift */,
 				ADF2D8342C7D080C004ABD66 /* NaryTreePostorderTraversal.swift */,
@@ -2095,8 +2096,8 @@
 				AD4F07292985905C00FBFD05 /* NumberOfOperationsToMakeNetworkConnected.swift */,
 				AD5749192906A0A7008E89BE /* NumberOfProvinces.swift */,
 				AD6C44AE2C5C0D7600A01671 /* NumberOfSeniorCitizens.swift */,
-				ADB073AA2C07993300E47010 /* NumberOfStepsToReduceANumberInBinaryRepresentationToOne.swift */,
 				ADC46DAF28A922C7003B926E /* NumberOfStepsRoReduceANumberToZero.swift */,
+				ADB073AA2C07993300E47010 /* NumberOfStepsToReduceANumberInBinaryRepresentationToOne.swift */,
 				AD03A4E12BC41EDB007E95FC /* NumberOfStudentsUnableToEatLunch.swift */,
 				ADA7A5E82B668A0B00306043 /* NumberOfSubmatricesThatSumToTarget.swift */,
 				ADF1D2402A06874C00385B0E /* NumberOfSubsequencesThatSatisfyTheGivenSumCondition.swift */,
@@ -2171,6 +2172,7 @@
 				AD20386C2BC814C300D25C59 /* RemoveKDigits.swift */,
 				ADD9772128C7BED80028FCB0 /* RemoveLinkedListElements.swift */,
 				ADF06E1829FED7FF00AA8183 /* RemoveMaxNumberOfEdgesToKeepGraphFullyTraversable.swift */,
+				AD0525112BE938D500507C0E /* RemoveNodesFromLinkedList.swift */,
 				ADA94B8F28D7434D00D07819 /* RemoveNthNodeFromEndOfList.swift */,
 				ADCC4FF22BA0913400C7D21B /* RemoveZeroSumConsecutiveNodesFromLinkedList.swift */,
 				AD366CAD29E5C4E800A3991E /* RemovingStarsFromAString.swift */,
@@ -2234,8 +2236,8 @@
 				AD7201D22A8D2C3600E9D656 /* SlidingWindowMaximum.swift */,
 				AD7475D829F800B200CD014E /* SmallestNumberInInfiniteSet.swift */,
 				AD2C245929716C570000DBF8 /* SmallestRange2.swift */,
-				ADF3E7022A64416400431162 /* SmallestSufficientTeam.swift */,
 				AD40A0282BCFF39000AA622A /* SmallestStringStartingFromLeaf.swift */,
+				ADF3E7022A64416400431162 /* SmallestSufficientTeam.swift */,
 				AD05D58E29805ABD00B35E1B /* SnakesAndLadders.swift */,
 				ADB1C5052A35F6CA0000385B /* SnapshotArrayTest.swift */,
 				ADC806232A0EBBF300900451 /* SolvingQuestionsWithBrainpower.swift */,
@@ -2346,6 +2348,7 @@
 				AD13690C2C94E7730045DD15 /* XORQueriesOfASubarray.swift */,
 				ADE1BD2428DC7C2A008ED566 /* ZeroOneMatrix.swift */,
 				AD617F2E298D43E600708E31 /* ZigzagConversion.swift */,
+				AD4BDEAD28A7DF2100E61565 /* Commons */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -2513,6 +2516,7 @@
 				AD6E84872BDED00B005CD83C /* SumOfDistancesInTree.swift in Sources */,
 				ADAE1E112C6D395400D046F1 /* FindKthSmallestPairDistance.swift in Sources */,
 				AD3CE8E02C5984B800A64691 /* MinimumDeletionsToMakeStringBalanced.swift in Sources */,
+				AD0E52772CA7428A00106153 /* MyCalendarII.swift in Sources */,
 				AD1CCC98299E5C86006A130E /* MaximumTastinessOfCandyBasket.swift in Sources */,
 				ADA7A5E92B668A0B00306043 /* NumberOfSubmatricesThatSumToTarget.swift in Sources */,
 				AD6F7C3A2BE537E10076CCED /* CompareVersionNumbers.swift in Sources */,
