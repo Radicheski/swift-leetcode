@@ -335,6 +335,7 @@
 		AD75563128EEF013004B7039 /* RepeatedDNASequences.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD75563028EEF013004B7039 /* RepeatedDNASequences.swift */; };
 		AD75563328EEF0A3004B7039 /* LongestPalindromicSubstring.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD75563228EEF0A3004B7039 /* LongestPalindromicSubstring.swift */; };
 		AD7683CB2C615C08000B0F56 /* KthDistinctStringInAnArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7683CA2C615C08000B0F56 /* KthDistinctStringInAnArray.swift */; };
+		AD7697BE2CAC8D350050E1B0 /* CheckIfArrayPairsAreDivisibleByK.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7697BD2CAC8D350050E1B0 /* CheckIfArrayPairsAreDivisibleByK.swift */; };
 		AD76BE022BAB856100BA57B1 /* MergeInBetweenLinkedLists.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD76BE012BAB856100BA57B1 /* MergeInBetweenLinkedLists.swift */; };
 		AD78E35A2AEED8A800627825 /* PoorPigs.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD78E3592AEED8A800627825 /* PoorPigs.swift */; };
 		AD7914522AE9A59200DA4F67 /* KthSymbolInGrammar.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7914512AE9A59200DA4F67 /* KthSymbolInGrammar.swift */; };
@@ -1107,6 +1108,7 @@
 		AD75563028EEF013004B7039 /* RepeatedDNASequences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepeatedDNASequences.swift; sourceTree = "<group>"; };
 		AD75563228EEF0A3004B7039 /* LongestPalindromicSubstring.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestPalindromicSubstring.swift; sourceTree = "<group>"; };
 		AD7683CA2C615C08000B0F56 /* KthDistinctStringInAnArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KthDistinctStringInAnArray.swift; sourceTree = "<group>"; };
+		AD7697BD2CAC8D350050E1B0 /* CheckIfArrayPairsAreDivisibleByK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckIfArrayPairsAreDivisibleByK.swift; sourceTree = "<group>"; };
 		AD76BE012BAB856100BA57B1 /* MergeInBetweenLinkedLists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeInBetweenLinkedLists.swift; sourceTree = "<group>"; };
 		AD78E3592AEED8A800627825 /* PoorPigs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PoorPigs.swift; sourceTree = "<group>"; };
 		AD7914512AE9A59200DA4F67 /* KthSymbolInGrammar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KthSymbolInGrammar.swift; sourceTree = "<group>"; };
@@ -1659,6 +1661,7 @@
 				ADFF1B082957165600D55D2C /* CheckIfItIsAStraightLine.swift */,
 				ADB1A705298EBC180059F3C9 /* CheckIfMatrixIsXMatrix.swift */,
 				AD2E2CEC2955D08200C790D0 /* CheckIfOneStringSwapCanMakeStringsEqual.swift */,
+				AD7697BD2CAC8D350050E1B0 /* CheckIfArrayPairsAreDivisibleByK.swift */,
 				ADCE36652A890E6F00B6015B /* CheckIfThereIsAValidPartitionForTheArray.swift */,
 				ADF0D5E72B1A067000AA58CB /* CheckIfTwoStringArraysAreEquivalent.swift */,
 				AD2C00B529FDADBF0008E7D8 /* CheckingExistenceOfEdgeLengthLimitedPaths.swift */,
@@ -2627,6 +2630,7 @@
 				ADF290F629016CF700A8AA6D /* FindMinimumInRotatedSortedArray.swift in Sources */,
 				ADEFAB38295097B000560F1D /* PerfectSquares.swift in Sources */,
 				AD7150E929E2DEE700B71CCC /* LargestColorValueInADirectedGraph.swift in Sources */,
+				AD7697BE2CAC8D350050E1B0 /* CheckIfArrayPairsAreDivisibleByK.swift in Sources */,
 				AD2C00B629FDADBF0008E7D8 /* CheckingExistenceOfEdgeLengthLimitedPaths.swift in Sources */,
 				AD5CBBE828B251D700495544 /* NaryTreePreorderTraversal.swift in Sources */,
 				ADFFEB1D2B34618000BB0DA4 /* WidestVerticalAreaBetweenTwoPointsContainingNoPoints.swift in Sources */,
