@@ -206,6 +206,7 @@
 		AD4311452982966300E127A6 /* ShortestBridge.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4311442982966300E127A6 /* ShortestBridge.swift */; };
 		AD4311472982975500E127A6 /* NearestExitFromEntranceInMaze.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4311462982975500E127A6 /* NearestExitFromEntranceInMaze.swift */; };
 		AD4311492982AB0500E127A6 /* CheapestFlightsWithinKStops.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4311482982AB0500E127A6 /* CheapestFlightsWithinKStops.swift */; };
+		AD4351E02CB5D72000F98740 /* MinimumNumberOfSwapsToMakeTheStringBalanced.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4351DF2CB5D72000F98740 /* MinimumNumberOfSwapsToMakeTheStringBalanced.swift */; };
 		AD4373DF2CA87B5E0018ADCE /* DesignCircularDeque.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4373DE2CA87B5E0018ADCE /* DesignCircularDeque.swift */; };
 		AD4386CF2961ADBA003FA0BD /* MonotonicArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4386CE2961ADBA003FA0BD /* MonotonicArray.swift */; };
 		AD4386D12961AE4C003FA0BD /* FindTheIndexOfTheFirstOccurrenceInAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4386D02961AE4C003FA0BD /* FindTheIndexOfTheFirstOccurrenceInAString.swift */; };
@@ -983,6 +984,7 @@
 		AD4311442982966300E127A6 /* ShortestBridge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShortestBridge.swift; sourceTree = "<group>"; };
 		AD4311462982975500E127A6 /* NearestExitFromEntranceInMaze.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NearestExitFromEntranceInMaze.swift; sourceTree = "<group>"; };
 		AD4311482982AB0500E127A6 /* CheapestFlightsWithinKStops.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheapestFlightsWithinKStops.swift; sourceTree = "<group>"; };
+		AD4351DF2CB5D72000F98740 /* MinimumNumberOfSwapsToMakeTheStringBalanced.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberOfSwapsToMakeTheStringBalanced.swift; sourceTree = "<group>"; };
 		AD4373DE2CA87B5E0018ADCE /* DesignCircularDeque.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignCircularDeque.swift; sourceTree = "<group>"; };
 		AD4386CE2961ADBA003FA0BD /* MonotonicArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MonotonicArray.swift; sourceTree = "<group>"; };
 		AD4386D02961AE4C003FA0BD /* FindTheIndexOfTheFirstOccurrenceInAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheIndexOfTheFirstOccurrenceInAString.swift; sourceTree = "<group>"; };
@@ -2058,6 +2060,7 @@
 				ADABE4E62BE0132500B1C1AE /* MinimumNumberOfOperationsToMakeArrayXOREqualToK.swift */,
 				AD0B81B02C62AC98009D7A18 /* MinimumNumberOfPushesToTypeWord2.swift */,
 				AD67B8B62B52B699001FA175 /* MinimumNumberOfStepsToMakeTwoStringsAnagram.swift */,
+				AD4351DF2CB5D72000F98740 /* MinimumNumberOfSwapsToMakeTheStringBalanced.swift */,
 				AD3B8BE42AA0F2B200923BC4 /* MinimumNumberOfTapsToOpenToWaterAGarden.swift */,
 				ADD8E83028FC3B3C00EEBB3C /* MinimumNumberOfVerticesToReachAllNodes.swift */,
 				ADCFF0D92B18B3FA0026EBA8 /* MinimumOneBitOperationsToMakeIntegersZero.swift */,
@@ -3040,6 +3043,7 @@
 				ADF3E7032A64416400431162 /* SmallestSufficientTeam.swift in Sources */,
 				AD2E9A5729FBEDE60062304D /* SimilarStringGroups.swift in Sources */,
 				AD6EC99329868F8900FA64B1 /* FindEventualSafeStates.swift in Sources */,
+				AD4351E02CB5D72000F98740 /* MinimumNumberOfSwapsToMakeTheStringBalanced.swift in Sources */,
 				AD188AA32A76913E00EF81F4 /* StrangePrinter.swift in Sources */,
 				AD6B62DA2AF2BF920078A37A /* FindModeInBinarySearchTree.swift in Sources */,
 				AD22CFC729A39D4F007684C6 /* MinimumNumberOfKConsecutiveBitFlips.swift in Sources */,
