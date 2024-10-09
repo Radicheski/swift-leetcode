@@ -7,7 +7,7 @@
 
 import XCTest
 
-final class Minimum_DifferenceBetweenLargestAndSmallestValueInThreeMoves: XCTestCase {
+final class MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves: XCTestCase {
     
     private let solution = Solution()
     
