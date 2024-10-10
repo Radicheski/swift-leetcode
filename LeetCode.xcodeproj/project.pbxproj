@@ -48,6 +48,7 @@
 		AD0C3C9C2C42A08B0008F815 /* RobotCollisions.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0C3C9B2C42A08B0008F815 /* RobotCollisions.swift */; };
 		AD0C4DD72986D4DA00D15379 /* LFUCacheProblem.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0C4DD62986D4DA00D15379 /* LFUCacheProblem.swift */; };
 		AD0DF7282BA32E9B001F036F /* BinarySubarraysWithSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0DF7272BA32E9B001F036F /* BinarySubarraysWithSum.swift */; };
+		AD0E13AB2CB75173004F3D94 /* MaximumWidthRamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0E13AA2CB75172004F3D94 /* MaximumWidthRamp.swift */; };
 		AD0E52772CA7428A00106153 /* MyCalendarII.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0E52762CA7428A00106153 /* MyCalendarII.swift */; };
 		AD0E7EEB2A4B51C4001B088E /* FindKPairsWithSmallestSums.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0E7EEA2A4B51C4001B088E /* FindKPairsWithSmallestSums.swift */; };
 		AD0EAE3E2AD576C400E25C63 /* MinimumNumberOfOperationsToMakeArrayContinuous.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0EAE3D2AD576C400E25C63 /* MinimumNumberOfOperationsToMakeArrayContinuous.swift */; };
@@ -827,6 +828,7 @@
 		AD0C3C9B2C42A08B0008F815 /* RobotCollisions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RobotCollisions.swift; sourceTree = "<group>"; };
 		AD0C4DD62986D4DA00D15379 /* LFUCacheProblem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LFUCacheProblem.swift; sourceTree = "<group>"; };
 		AD0DF7272BA32E9B001F036F /* BinarySubarraysWithSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinarySubarraysWithSum.swift; sourceTree = "<group>"; };
+		AD0E13AA2CB75172004F3D94 /* MaximumWidthRamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumWidthRamp.swift; sourceTree = "<group>"; };
 		AD0E52762CA7428A00106153 /* MyCalendarII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCalendarII.swift; sourceTree = "<group>"; };
 		AD0E7EEA2A4B51C4001B088E /* FindKPairsWithSmallestSums.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindKPairsWithSmallestSums.swift; sourceTree = "<group>"; };
 		AD0EAE3D2AD576C400E25C63 /* MinimumNumberOfOperationsToMakeArrayContinuous.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberOfOperationsToMakeArrayContinuous.swift; sourceTree = "<group>"; };
@@ -1591,6 +1593,7 @@
 		ADD5D3D328A3111C00BD5BCC = {
 			isa = PBXGroup;
 			children = (
+				AD0E13AA2CB75172004F3D94 /* MaximumWidthRamp.swift */,
 				ADD5D3ED28A3120600BD5BCC /* LeetCode */,
 				ADD5D3DD28A3111C00BD5BCC /* Products */,
 			);
@@ -2708,6 +2711,7 @@
 				ADC5823C28DB2DBA006D9591 /* PopulatingNextRightPointersInEachNode.swift in Sources */,
 				ADE1BD2528DC7C2A008ED566 /* ZeroOneMatrix.swift in Sources */,
 				AD83E71D2C9B53470043F0B3 /* LargestNumber.swift in Sources */,
+				AD0E13AB2CB75173004F3D94 /* MaximumWidthRamp.swift in Sources */,
 				AD6A030B290AADB300988758 /* Subsets2.swift in Sources */,
 				AD9A0D8C295B5D17009B9BB5 /* GoalParserInterpretation.swift in Sources */,
 				ADDA52F12A66BAE8006B6ECA /* LRUCacheTest.swift in Sources */,
