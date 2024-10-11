@@ -623,6 +623,7 @@
 		ADD5A75528F984F900DAB4AF /* BinarySearchTreeIterator.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD5A75428F984F900DAB4AF /* BinarySearchTreeIterator.swift */; };
 		ADD5D3F328A3120A00BD5BCC /* RansomNote.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD5D3E628A3114600BD5BCC /* RansomNote.swift */; };
 		ADD5D3F528A3147200BD5BCC /* PalindromeLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD5D3F428A3147200BD5BCC /* PalindromeLinkedList.swift */; };
+		ADD5DE052CB9CED200EFCF88 /* TheNumberOfTheSmallestUnoccupiedChair.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD5DE042CB9CED200EFCF88 /* TheNumberOfTheSmallestUnoccupiedChair.swift */; };
 		ADD62A922B3D92340096F235 /* StringCompression2.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD62A912B3D92340096F235 /* StringCompression2.swift */; };
 		ADD67EA529796DDA00402175 /* DesignAuthenticationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD67EA429796DDA00402175 /* DesignAuthenticationManager.swift */; };
 		ADD67EA7297972A100402175 /* SubarraySumsDivisibleByK.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD67EA6297972A100402175 /* SubarraySumsDivisibleByK.swift */; };
@@ -1404,6 +1405,7 @@
 		ADD5D3E628A3114600BD5BCC /* RansomNote.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RansomNote.swift; sourceTree = "<group>"; };
 		ADD5D3EC28A3120600BD5BCC /* testLeetcode.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testLeetcode.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		ADD5D3F428A3147200BD5BCC /* PalindromeLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalindromeLinkedList.swift; sourceTree = "<group>"; };
+		ADD5DE042CB9CED200EFCF88 /* TheNumberOfTheSmallestUnoccupiedChair.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TheNumberOfTheSmallestUnoccupiedChair.swift; sourceTree = "<group>"; };
 		ADD62A912B3D92340096F235 /* StringCompression2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringCompression2.swift; sourceTree = "<group>"; };
 		ADD67EA429796DDA00402175 /* DesignAuthenticationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignAuthenticationManager.swift; sourceTree = "<group>"; };
 		ADD67EA6297972A100402175 /* SubarraySumsDivisibleByK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubarraySumsDivisibleByK.swift; sourceTree = "<group>"; };
@@ -2332,6 +2334,7 @@
 				ADAB402F2A978348005361C5 /* TextJustification.swift */,
 				AD4BDEB028A7E03200E61565 /* TheKWeakestRowsInAMatrix.swift */,
 				ADB577DB2BFF7D0800AA3281 /* TheNumberOfBeautifulSubsets.swift */,
+				ADD5DE042CB9CED200EFCF88 /* TheNumberOfTheSmallestUnoccupiedChair.swift */,
 				AD3DEE94298FD71F00DD88B5 /* TheSkylineProblem.swift */,
 				AD8273232C33602700A5DD70 /* ThreeConsecutiveOdds.swift */,
 				AD933EF128E46CAA00B1B2DA /* ThreeSum.swift */,
@@ -2769,6 +2772,7 @@
 				ADDE330B2C24C77D00ABCE59 /* MagneticForceBetweenTwoBalls.swift in Sources */,
 				AD3E13812BB217C8002C9356 /* FindAllDuplicatesInAnArray.swift in Sources */,
 				AD96A68B295C7B6E001F0AB6 /* ToLowerCase.swift in Sources */,
+				ADD5DE052CB9CED200EFCF88 /* TheNumberOfTheSmallestUnoccupiedChair.swift in Sources */,
 				ADA8F8EB2AF7F48B00A71525 /* FindTheWinnerOfAnArrayGame.swift in Sources */,
 				AD1BBB5628BB832B000032DD /* TwoSum.swift in Sources */,
 				ADB5CB3E2C18788F00D3777E /* RelativeSortArray.swift in Sources */,
