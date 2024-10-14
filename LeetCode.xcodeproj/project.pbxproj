@@ -297,6 +297,7 @@
 		AD66415D2B49A8E800980F81 /* MaximumProfitInJobScheduling.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD66415C2B49A8E800980F81 /* MaximumProfitInJobScheduling.swift */; };
 		AD66475B2C1734F500FED774 /* HeightChecker.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD66475A2C1734F500FED774 /* HeightChecker.swift */; };
 		AD6669FB29B60A5900C1D36A /* KthMissingPositiveNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6669FA29B60A5900C1D36A /* KthMissingPositiveNumber.swift */; };
+		AD67B70E2CBDA5AB0098F859 /* MaximalScoreAfterApplyingKOperations.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD67B70D2CBDA5AB0098F859 /* MaximalScoreAfterApplyingKOperations.swift */; };
 		AD67B8B72B52B699001FA175 /* MinimumNumberOfStepsToMakeTwoStringsAnagram.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD67B8B62B52B699001FA175 /* MinimumNumberOfStepsToMakeTwoStringsAnagram.swift */; };
 		AD68299E2AB4976C00ECEDFB /* MinCostToConnectAllPoints.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD68299D2AB4976C00ECEDFB /* MinCostToConnectAllPoints.swift */; };
 		AD68F83B2B6F04500030AA7E /* PartitionArrayForMaximumSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD68F83A2B6F04500030AA7E /* PartitionArrayForMaximumSum.swift */; };
@@ -1080,6 +1081,7 @@
 		AD66415C2B49A8E800980F81 /* MaximumProfitInJobScheduling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumProfitInJobScheduling.swift; sourceTree = "<group>"; };
 		AD66475A2C1734F500FED774 /* HeightChecker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeightChecker.swift; sourceTree = "<group>"; };
 		AD6669FA29B60A5900C1D36A /* KthMissingPositiveNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KthMissingPositiveNumber.swift; sourceTree = "<group>"; };
+		AD67B70D2CBDA5AB0098F859 /* MaximalScoreAfterApplyingKOperations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximalScoreAfterApplyingKOperations.swift; sourceTree = "<group>"; };
 		AD67B8B62B52B699001FA175 /* MinimumNumberOfStepsToMakeTwoStringsAnagram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberOfStepsToMakeTwoStringsAnagram.swift; sourceTree = "<group>"; };
 		AD68299D2AB4976C00ECEDFB /* MinCostToConnectAllPoints.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinCostToConnectAllPoints.swift; sourceTree = "<group>"; };
 		AD68F83A2B6F04500030AA7E /* PartitionArrayForMaximumSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartitionArrayForMaximumSum.swift; sourceTree = "<group>"; };
@@ -1979,6 +1981,7 @@
 				ADAEFAE62AD2EA930034A042 /* MaxDotProductOfTwoSubsequences.swift */,
 				AD617F28298D2B4200708E31 /* MaximalNetworkRank.swift */,
 				ADFA93142BCA05D000676522 /* MaximalRectangle.swift */,
+				AD67B70D2CBDA5AB0098F859 /* MaximalScoreAfterApplyingKOperations.swift */,
 				AD86268F2949F15700027B1A /* MaximalSquare.swift */,
 				AD3DBB042BED1E3C009A607C /* MaximizeHappinessOfSelectedChildren.swift */,
 				AD7F8B632A11074B00213368 /* MaximizeScoreAfterNOperations.swift */,
@@ -2813,6 +2816,7 @@
 				AD1884A02B46E43E004E03C0 /* MinimumNumberOfOperationsToMakeArrayEmpty.swift in Sources */,
 				AD8A1EF029044C5C00ABA3F6 /* ContainerWithMostWater.swift in Sources */,
 				ADE2438828F835D900D3AB3F /* DeleteNodeInABST.swift in Sources */,
+				AD67B70E2CBDA5AB0098F859 /* MaximalScoreAfterApplyingKOperations.swift in Sources */,
 				ADE79406290DA6D800D0D035 /* GenerateParentheses.swift in Sources */,
 				AD637E622BE3BFB40025265F /* LargestPositiveIntegerThatExistsWithItsNegative.swift in Sources */,
 				AD60EA0B2BBF1F1500E00942 /* MaximumNestingDepthOfTheParentheses.swift in Sources */,
