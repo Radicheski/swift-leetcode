@@ -50,6 +50,7 @@
 		AD0C11E02CC19A26002BDC97 /* MaximumSwap.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0C11DF2CC19A26002BDC97 /* MaximumSwap.swift */; };
 		AD0C3C9C2C42A08B0008F815 /* RobotCollisions.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0C3C9B2C42A08B0008F815 /* RobotCollisions.swift */; };
 		AD0C4DD72986D4DA00D15379 /* LFUCacheProblem.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0C4DD62986D4DA00D15379 /* LFUCacheProblem.swift */; };
+		AD0D76262CC9884D00808035 /* CousinsInBinaryTree2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0D76252CC9884D00808035 /* CousinsInBinaryTree2.swift */; };
 		AD0DF7282BA32E9B001F036F /* BinarySubarraysWithSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0DF7272BA32E9B001F036F /* BinarySubarraysWithSum.swift */; };
 		AD0E13AB2CB75173004F3D94 /* MaximumWidthRamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0E13AA2CB75172004F3D94 /* MaximumWidthRamp.swift */; };
 		AD0E52772CA7428A00106153 /* MyCalendarII.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0E52762CA7428A00106153 /* MyCalendarII.swift */; };
@@ -842,6 +843,7 @@
 		AD0C11DF2CC19A26002BDC97 /* MaximumSwap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumSwap.swift; sourceTree = "<group>"; };
 		AD0C3C9B2C42A08B0008F815 /* RobotCollisions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RobotCollisions.swift; sourceTree = "<group>"; };
 		AD0C4DD62986D4DA00D15379 /* LFUCacheProblem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LFUCacheProblem.swift; sourceTree = "<group>"; };
+		AD0D76252CC9884D00808035 /* CousinsInBinaryTree2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CousinsInBinaryTree2.swift; sourceTree = "<group>"; };
 		AD0DF7272BA32E9B001F036F /* BinarySubarraysWithSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinarySubarraysWithSum.swift; sourceTree = "<group>"; };
 		AD0E13AA2CB75172004F3D94 /* MaximumWidthRamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumWidthRamp.swift; sourceTree = "<group>"; };
 		AD0E52762CA7428A00106153 /* MyCalendarII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCalendarII.swift; sourceTree = "<group>"; };
@@ -1756,6 +1758,7 @@
 				AD88BEEC2A0FB87F000ECB08 /* CountWaysToBuildGoodStrings.swift */,
 				ADE5763E2A603B3200608F67 /* CourseSchedule.swift */,
 				AD899FD42929136E001DD001 /* CourseSchedule2.swift */,
+				AD0D76252CC9884D00808035 /* CousinsInBinaryTree2.swift */,
 				ADA93B382C3F0C6A0068A232 /* CrawlerLogFolder.swift */,
 				AD2420382C45DBFE0020F78B /* CreateBinaryTreeFromDescriptions.swift */,
 				ADBADD852BA08D160043E945 /* CustomSortString.swift */,
@@ -2757,6 +2760,7 @@
 				AD2DA83B29BB4FB5008FC73B /* LinkedListRandomNode.swift in Sources */,
 				ADF7D86E2BF7A6B5001CD6FD /* DeleteLeavesWithAGivenValue.swift in Sources */,
 				ADF4710A29326C18007A320F /* AsteroidCollision.swift in Sources */,
+				AD0D76262CC9884D00808035 /* CousinsInBinaryTree2.swift in Sources */,
 				AD3C90C82B9B59BC001F115E /* CountElementsWithMaximumFrequency.swift in Sources */,
 				ADEB5A6228CB7730004D8EAC /* BinaryTreeInorderTraversal.swift in Sources */,
 				AD979E7C29F4178800850BE9 /* MinimumInsertionStepsToMakeAStringPalindrome.swift in Sources */,
