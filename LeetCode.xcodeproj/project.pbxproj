@@ -314,6 +314,7 @@
 		AD69BA132951D6EE00986792 /* AverageSalaryExcludingTheMinimumAndMaximumSalary.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD69BA122951D6EE00986792 /* AverageSalaryExcludingTheMinimumAndMaximumSalary.swift */; };
 		AD6A0309290AACAB00988758 /* Subsets.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6A0308290AACAB00988758 /* Subsets.swift */; };
 		AD6A030B290AADB300988758 /* Subsets2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6A030A290AADB300988758 /* Subsets2.swift */; };
+		AD6A80B62CCE7B8C00755E00 /* CountSquareSubmatricesWithAllOnes.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6A80B52CCE7B8C00755E00 /* CountSquareSubmatricesWithAllOnes.swift */; };
 		AD6B62DA2AF2BF920078A37A /* FindModeInBinarySearchTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6B62D92AF2BF920078A37A /* FindModeInBinarySearchTree.swift */; };
 		AD6BF880290EBE4F00C10525 /* HouseRobber2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6BF87F290EBE4F00C10525 /* HouseRobber2.swift */; };
 		AD6BF882290EBEF200C10525 /* JumpGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6BF881290EBEF200C10525 /* JumpGame.swift */; };
@@ -1110,6 +1111,7 @@
 		AD69BA122951D6EE00986792 /* AverageSalaryExcludingTheMinimumAndMaximumSalary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AverageSalaryExcludingTheMinimumAndMaximumSalary.swift; sourceTree = "<group>"; };
 		AD6A0308290AACAB00988758 /* Subsets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Subsets.swift; sourceTree = "<group>"; };
 		AD6A030A290AADB300988758 /* Subsets2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Subsets2.swift; sourceTree = "<group>"; };
+		AD6A80B52CCE7B8C00755E00 /* CountSquareSubmatricesWithAllOnes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountSquareSubmatricesWithAllOnes.swift; sourceTree = "<group>"; };
 		AD6B62D92AF2BF920078A37A /* FindModeInBinarySearchTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindModeInBinarySearchTree.swift; sourceTree = "<group>"; };
 		AD6BF87F290EBE4F00C10525 /* HouseRobber2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HouseRobber2.swift; sourceTree = "<group>"; };
 		AD6BF881290EBEF200C10525 /* JumpGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpGame.swift; sourceTree = "<group>"; };
@@ -1754,6 +1756,7 @@
 				ADEF265429966DC000F41404 /* CountNumberOfWaysToPlaceHouses.swift */,
 				AD69BA102951D67B00986792 /* CountOddNumbersInAnIntervalRange.swift */,
 				ADEB25C62B1F438100783C6E /* CountOfMatchesInTournament.swift */,
+				AD6A80B52CCE7B8C00755E00 /* CountSquareSubmatricesWithAllOnes.swift */,
 				AD9A8EFB2BB773B7007A12CF /* CountSubarraysWhereMaxElementAppearsAtLeastKTimes.swift */,
 				AD63B81329B363D200E41605 /* CountSubarraysWithFixedBounds.swift */,
 				ADF7AF11297ECC9B000B34DA /* CountSubIslands.swift */,
@@ -3122,6 +3125,7 @@
 				AD3342F22CBBF4C000A196B6 /* SmallestRangeCoveringElementsFromKLists.swift in Sources */,
 				ADFA93152BCA05D000676522 /* MaximalRectangle.swift in Sources */,
 				AD95D5172972D47F000EEFF6 /* LexicographicallySmallestEquivalentString.swift in Sources */,
+				AD6A80B62CCE7B8C00755E00 /* CountSquareSubmatricesWithAllOnes.swift in Sources */,
 				ADB81A042C1CC314003C0ACD /* MinimumIncrementToMakeArrayUnique.swift in Sources */,
 				AD4255A92B20A4C1002990CA /* CalculateMoneyInLeetcodeBank.swift in Sources */,
 				AD39EEF22CBEF75B0058BC42 /* SeparateBlackAndWhiteBalls.swift in Sources */,
