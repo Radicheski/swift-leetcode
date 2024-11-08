@@ -74,6 +74,7 @@
 		AD16FA35296D8E06001E3E65 /* NextGreaterElement3.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD16FA34296D8E06001E3E65 /* NextGreaterElement3.swift */; };
 		AD17B4F12CD5AA3000FFB903 /* CircularSentence.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD17B4F02CD5AA3000FFB903 /* CircularSentence.swift */; };
 		AD17DA472B2B23AF00AA83F5 /* DifferenceBetweenOnesAndZerosInRowAndColumn.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD17DA462B2B23AF00AA83F5 /* DifferenceBetweenOnesAndZerosInRowAndColumn.swift */; };
+		AD17FFCE2CDEA1E400F624F8 /* MaximumXORForEachQuery.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD17FFCD2CDEA1E400F624F8 /* MaximumXORForEachQuery.swift */; };
 		AD180B3629434F1F001F5866 /* UglyNumber2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD180B3529434F1F001F5866 /* UglyNumber2.swift */; };
 		AD180B3829434FBE001F5866 /* UniqueBinarySearchTrees.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD180B3729434FBE001F5866 /* UniqueBinarySearchTrees.swift */; };
 		AD1847FA2C542C77003A848D /* FindTheCityWithTheSmallestNumberOfNeighborsAtAThresholdDistance.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1847F92C542C77003A848D /* FindTheCityWithTheSmallestNumberOfNeighborsAtAThresholdDistance.swift */; };
@@ -882,6 +883,7 @@
 		AD16FA34296D8E06001E3E65 /* NextGreaterElement3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextGreaterElement3.swift; sourceTree = "<group>"; };
 		AD17B4F02CD5AA3000FFB903 /* CircularSentence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircularSentence.swift; sourceTree = "<group>"; };
 		AD17DA462B2B23AF00AA83F5 /* DifferenceBetweenOnesAndZerosInRowAndColumn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DifferenceBetweenOnesAndZerosInRowAndColumn.swift; sourceTree = "<group>"; };
+		AD17FFCD2CDEA1E400F624F8 /* MaximumXORForEachQuery.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumXORForEachQuery.swift; sourceTree = "<group>"; };
 		AD180B3529434F1F001F5866 /* UglyNumber2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UglyNumber2.swift; sourceTree = "<group>"; };
 		AD180B3729434FBE001F5866 /* UniqueBinarySearchTrees.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniqueBinarySearchTrees.swift; sourceTree = "<group>"; };
 		AD1847F92C542C77003A848D /* FindTheCityWithTheSmallestNumberOfNeighborsAtAThresholdDistance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheCityWithTheSmallestNumberOfNeighborsAtAThresholdDistance.swift; sourceTree = "<group>"; };
@@ -2083,6 +2085,7 @@
 				AD23E1902A349B2800A66AEB /* MaximumValueAtAGivenIndexInABoundedArray.swift */,
 				AD7D379C29EADF370094EEA6 /* MaximumValueOfKCoinsFromPiles.swift */,
 				AD3931DD29F1C4B10076C379 /* MaximumWidthOfBinaryTree.swift */,
+				AD17FFCD2CDEA1E400F624F8 /* MaximumXORForEachQuery.swift */,
 				ADF0EB92291A7F31000B73A4 /* MaxPointsOnALine.swift */,
 				AD8DF5A32ABC6DE1006DF0B0 /* MedianOfTwoSortedArrays.swift */,
 				AD0740B82B823B6F0028E827 /* MeetingRooms3.swift */,
@@ -3260,6 +3263,7 @@
 				AD2DF6F72C58442300534F33 /* CountNumberOfTeams.swift in Sources */,
 				AD9A8EFC2BB773B7007A12CF /* CountSubarraysWhereMaxElementAppearsAtLeastKTimes.swift in Sources */,
 				ADD5A75528F984F900DAB4AF /* BinarySearchTreeIterator.swift in Sources */,
+				AD17FFCE2CDEA1E400F624F8 /* MaximumXORForEachQuery.swift in Sources */,
 				ADFE121528D1EA470063013C /* SearchInsertPosition.swift in Sources */,
 				ADB9508C2AFBEC0D006684C7 /* DetermineIfACelIsReachableAtAGivenTime.swift in Sources */,
 				AD967DDD28C36B3D005408E7 /* PascalsTriangle.swift in Sources */,
