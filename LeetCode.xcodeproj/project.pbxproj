@@ -640,6 +640,7 @@
 		ADD274E22976BB0E0034B90A /* LemonadeChange.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD274E12976BB0E0034B90A /* LemonadeChange.swift */; };
 		ADD274E42976C35C0034B90A /* FlipStringToMonotoneIncreasing.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD274E32976C35C0034B90A /* FlipStringToMonotoneIncreasing.swift */; };
 		ADD27D5528D0A150002F114F /* TwoSum4.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD27D5428D0A150002F114F /* TwoSum4.swift */; };
+		ADD2DC572CE52B6600225BC2 /* CountTheNumberOfFairPairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD2DC562CE52B6600225BC2 /* CountTheNumberOfFairPairs.swift */; };
 		ADD2F0BE2964551F003B0038 /* EvaluateReversePolishNotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD2F0BD2964551F003B0038 /* EvaluateReversePolishNotation.swift */; };
 		ADD2F0C02964562C003B0038 /* PlusOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD2F0BF2964562C003B0038 /* PlusOne.swift */; };
 		ADD2F0C229645ADB003B0038 /* DeleteColumnsToMakeSorted.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD2F0C129645ADB003B0038 /* DeleteColumnsToMakeSorted.swift */; };
@@ -1453,6 +1454,7 @@
 		ADD274E12976BB0E0034B90A /* LemonadeChange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LemonadeChange.swift; sourceTree = "<group>"; };
 		ADD274E32976C35C0034B90A /* FlipStringToMonotoneIncreasing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlipStringToMonotoneIncreasing.swift; sourceTree = "<group>"; };
 		ADD27D5428D0A150002F114F /* TwoSum4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSum4.swift; sourceTree = "<group>"; };
+		ADD2DC562CE52B6600225BC2 /* CountTheNumberOfFairPairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountTheNumberOfFairPairs.swift; sourceTree = "<group>"; };
 		ADD2F0BD2964551F003B0038 /* EvaluateReversePolishNotation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EvaluateReversePolishNotation.swift; sourceTree = "<group>"; };
 		ADD2F0BF2964562C003B0038 /* PlusOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlusOne.swift; sourceTree = "<group>"; };
 		ADD2F0C129645ADB003B0038 /* DeleteColumnsToMakeSorted.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeleteColumnsToMakeSorted.swift; sourceTree = "<group>"; };
@@ -1794,6 +1796,7 @@
 				AD63B81329B363D200E41605 /* CountSubarraysWithFixedBounds.swift */,
 				ADF7AF11297ECC9B000B34DA /* CountSubIslands.swift */,
 				ADEC51E02C937E6C00C44930 /* CountTheNumberOfConsistentStrings.swift */,
+				ADD2DC562CE52B6600225BC2 /* CountTheNumberOfFairPairs.swift */,
 				AD367E232C08D4590001D731 /* CountTripletsThatCanFormTwoArraysOfEqualXOR.swift */,
 				AD29A71829CF2CDF00A5E1F0 /* CountUnreachablePairsOfNodesInAnUndirectedGraph.swift */,
 				ADB9FAF62AED4049009C0D9C /* CountVowelsPermutation.swift */,
@@ -3217,6 +3220,7 @@
 				ADAEBFC42CE0EBFE00BFF29A /* MinimumArrayEnd.swift in Sources */,
 				ADA7A4F92B306F8000FD2F77 /* MaximumProductDifferenceBetweenTwoPairs.swift in Sources */,
 				AD5CBBEC28B254A000495544 /* TreeNode.swift in Sources */,
+				ADD2DC572CE52B6600225BC2 /* CountTheNumberOfFairPairs.swift in Sources */,
 				AD74CBA52A96819300F08479 /* ReorganizeString.swift in Sources */,
 				AD0A39672AB32C9E003BCCFA /* ReconstructItinerary.swift in Sources */,
 				ADABE4E72BE0132500B1C1AE /* MinimumNumberOfOperationsToMakeArrayXOREqualToK.swift in Sources */,
