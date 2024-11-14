@@ -651,6 +651,7 @@
 		ADD5A75528F984F900DAB4AF /* BinarySearchTreeIterator.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD5A75428F984F900DAB4AF /* BinarySearchTreeIterator.swift */; };
 		ADD5D3F328A3120A00BD5BCC /* RansomNote.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD5D3E628A3114600BD5BCC /* RansomNote.swift */; };
 		ADD5D3F528A3147200BD5BCC /* PalindromeLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD5D3F428A3147200BD5BCC /* PalindromeLinkedList.swift */; };
+		ADD5D9432CE6837800BF4DD0 /* MinimizedMaximumOfProductsDistributedToAnyStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD5D9422CE6837800BF4DD0 /* MinimizedMaximumOfProductsDistributedToAnyStore.swift */; };
 		ADD5DE052CB9CED200EFCF88 /* TheNumberOfTheSmallestUnoccupiedChair.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD5DE042CB9CED200EFCF88 /* TheNumberOfTheSmallestUnoccupiedChair.swift */; };
 		ADD62A922B3D92340096F235 /* StringCompression2.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD62A912B3D92340096F235 /* StringCompression2.swift */; };
 		ADD67EA529796DDA00402175 /* DesignAuthenticationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD67EA429796DDA00402175 /* DesignAuthenticationManager.swift */; };
@@ -1466,6 +1467,7 @@
 		ADD5D3E628A3114600BD5BCC /* RansomNote.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RansomNote.swift; sourceTree = "<group>"; };
 		ADD5D3EC28A3120600BD5BCC /* testLeetcode.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testLeetcode.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		ADD5D3F428A3147200BD5BCC /* PalindromeLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalindromeLinkedList.swift; sourceTree = "<group>"; };
+		ADD5D9422CE6837800BF4DD0 /* MinimizedMaximumOfProductsDistributedToAnyStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimizedMaximumOfProductsDistributedToAnyStore.swift; sourceTree = "<group>"; };
 		ADD5DE042CB9CED200EFCF88 /* TheNumberOfTheSmallestUnoccupiedChair.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TheNumberOfTheSmallestUnoccupiedChair.swift; sourceTree = "<group>"; };
 		ADD62A912B3D92340096F235 /* StringCompression2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringCompression2.swift; sourceTree = "<group>"; };
 		ADD67EA429796DDA00402175 /* DesignAuthenticationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignAuthenticationManager.swift; sourceTree = "<group>"; };
@@ -2112,6 +2114,7 @@
 				AD00F44528B96F2600A77B9C /* MinCostClimbingStairs.swift */,
 				AD68299D2AB4976C00ECEDFB /* MinCostToConnectAllPoints.swift */,
 				AD7D9CDC29A91C4C00E0D269 /* MinimizeDeviationInArray.swift */,
+				ADD5D9422CE6837800BF4DD0 /* MinimizedMaximumOfProductsDistributedToAnyStore.swift */,
 				AD9E484029DDDF4800593016 /* MinimizeMaximumOfArray.swift */,
 				AD1693272B078D330036EF08 /* MinimizeMaximumPairSumInArray.swift */,
 				AD99A0F62A84055400F51F91 /* MinimizeTheMaximumDifferenceOfPairs.swift */,
@@ -2624,6 +2627,7 @@
 				AD4AD2202C1F46FF0004FFB4 /* PatchingArray.swift in Sources */,
 				ADE247A02AA2226A006CD210 /* CountingBits.swift in Sources */,
 				AD8792322BDD3E4C00A2FC57 /* FreedomTrail.swift in Sources */,
+				ADD5D9432CE6837800BF4DD0 /* MinimizedMaximumOfProductsDistributedToAnyStore.swift in Sources */,
 				ADB7F328292CEE17005905FC /* ThreeSumClosest.swift in Sources */,
 				ADD5A75328F9845700DAB4AF /* KthSmallestElementInABST.swift in Sources */,
 				AD20386D2BC814C300D25C59 /* RemoveKDigits.swift in Sources */,
