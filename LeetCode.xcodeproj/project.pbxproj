@@ -171,6 +171,7 @@
 		AD367E242C08D4590001D731 /* CountTripletsThatCanFormTwoArraysOfEqualXOR.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD367E232C08D4590001D731 /* CountTripletsThatCanFormTwoArraysOfEqualXOR.swift */; };
 		AD36EA9A2B458DE000372E13 /* NumberOfLaserBeamsInABank.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD36EA992B458DE000372E13 /* NumberOfLaserBeamsInABank.swift */; };
 		AD3793202BB319330047D1E0 /* FirstMissingPositive.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD37931F2BB319330047D1E0 /* FirstMissingPositive.swift */; };
+		AD3830842CE7A4360034DB3E /* ShortestSubarrayToBeRemovedToMakeArraySorted.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3830832CE7A4350034DB3E /* ShortestSubarrayToBeRemovedToMakeArraySorted.swift */; };
 		AD3831002A5452D5003B68D8 /* SingleNumber2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3830FF2A5452D5003B68D8 /* SingleNumber2.swift */; };
 		AD38799E29C1E0480071B127 /* CheckCompletenessOfABinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD38799D29C1E0480071B127 /* CheckCompletenessOfABinaryTree.swift */; };
 		AD3883EB2959C060005F0B28 /* MatrixDiagonalSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3883EA2959C060005F0B28 /* MatrixDiagonalSum.swift */; };
@@ -986,6 +987,7 @@
 		AD367E232C08D4590001D731 /* CountTripletsThatCanFormTwoArraysOfEqualXOR.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountTripletsThatCanFormTwoArraysOfEqualXOR.swift; sourceTree = "<group>"; };
 		AD36EA992B458DE000372E13 /* NumberOfLaserBeamsInABank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfLaserBeamsInABank.swift; sourceTree = "<group>"; };
 		AD37931F2BB319330047D1E0 /* FirstMissingPositive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstMissingPositive.swift; sourceTree = "<group>"; };
+		AD3830832CE7A4350034DB3E /* ShortestSubarrayToBeRemovedToMakeArraySorted.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShortestSubarrayToBeRemovedToMakeArraySorted.swift; sourceTree = "<group>"; };
 		AD3830FF2A5452D5003B68D8 /* SingleNumber2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleNumber2.swift; sourceTree = "<group>"; };
 		AD38799D29C1E0480071B127 /* CheckCompletenessOfABinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckCompletenessOfABinaryTree.swift; sourceTree = "<group>"; };
 		AD3883EA2959C060005F0B28 /* MatrixDiagonalSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatrixDiagonalSum.swift; sourceTree = "<group>"; };
@@ -2357,6 +2359,7 @@
 				AD886DA22A4DEFFF00A4DAF0 /* ShortestPathToGetAllKeys.swift */,
 				AD607BA22988090900426C95 /* ShortestPathVisitingAllNodes.swift */,
 				AD607B9E298807C300426C95 /* ShortestPathWithAlternatingColors.swift */,
+				AD3830832CE7A4350034DB3E /* ShortestSubarrayToBeRemovedToMakeArraySorted.swift */,
 				ADAEBFC52CE0EC6800BFF29A /* ShortestSubarrayWithORAtLeastK2.swift */,
 				AD3306EB29191AF6005FE669 /* ShuffleAnArray.swift */,
 				ADF1BDB929911FC500A87869 /* ShuffleTheArray.swift */,
@@ -2584,6 +2587,7 @@
 				ADBADD862BA08D160043E945 /* CustomSortString.swift in Sources */,
 				AD50CF942B90FBC0009DB72E /* EvenOddTree.swift in Sources */,
 				ADD51E832A12586C00B9ED49 /* SwappingNodesInALinkedList.swift in Sources */,
+				AD3830842CE7A4360034DB3E /* ShortestSubarrayToBeRemovedToMakeArraySorted.swift in Sources */,
 				ADE988FF29CB633700A41CE0 /* MinimumScoreOfAPathBetweenTwoCities.swift in Sources */,
 				AD6E241529814E9D0012D133 /* FindClosestNodeToGivenTwoNodes.swift in Sources */,
 				ADA00C172B7FC56C001A58C4 /* LeastNumberOfUniqueIntegersAfterKRemovals.swift in Sources */,
