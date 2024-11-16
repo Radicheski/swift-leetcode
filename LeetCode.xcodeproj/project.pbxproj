@@ -475,6 +475,7 @@
 		AD9ABD352BD3E36100364FA2 /* FindAllGroupsOfFarmland.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9ABD342BD3E36100364FA2 /* FindAllGroupsOfFarmland.swift */; };
 		AD9B070728B049DF00ADFB43 /* LinkedListCycle2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9B070628B049DF00ADFB43 /* LinkedListCycle2.swift */; };
 		AD9BC3962C4BDD5600B983A4 /* FindValidMatrixGivenRowAndColumnSums.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9BC3952C4BDD5600B983A4 /* FindValidMatrixGivenRowAndColumnSums.swift */; };
+		AD9BDA152CE8B9AB0046BED7 /* FindThePowerOfKSizeSubarrays1.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9BDA142CE8B9AB0046BED7 /* FindThePowerOfKSizeSubarrays1.swift */; };
 		AD9BEA5D2A5D761F0041D02B /* AllNodesDistanceKInBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9BEA5C2A5D761F0041D02B /* AllNodesDistanceKInBinaryTree.swift */; };
 		AD9CBFC929A1313A0017BAD8 /* UniqueSubstringsInWraparoundString.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9CBFC829A1313A0017BAD8 /* UniqueSubstringsInWraparoundString.swift */; };
 		AD9CFBE02C976A6100D3B8B9 /* FindTheLongestSubstringContainingVowelsInEvenCounts.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9CFBDF2C976A6100D3B8B9 /* FindTheLongestSubstringContainingVowelsInEvenCounts.swift */; };
@@ -1291,6 +1292,7 @@
 		AD9ABD342BD3E36100364FA2 /* FindAllGroupsOfFarmland.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindAllGroupsOfFarmland.swift; sourceTree = "<group>"; };
 		AD9B070628B049DF00ADFB43 /* LinkedListCycle2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkedListCycle2.swift; sourceTree = "<group>"; };
 		AD9BC3952C4BDD5600B983A4 /* FindValidMatrixGivenRowAndColumnSums.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindValidMatrixGivenRowAndColumnSums.swift; sourceTree = "<group>"; };
+		AD9BDA142CE8B9AB0046BED7 /* FindThePowerOfKSizeSubarrays1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindThePowerOfKSizeSubarrays1.swift; sourceTree = "<group>"; };
 		AD9BEA5C2A5D761F0041D02B /* AllNodesDistanceKInBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllNodesDistanceKInBinaryTree.swift; sourceTree = "<group>"; };
 		AD9CBFC829A1313A0017BAD8 /* UniqueSubstringsInWraparoundString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniqueSubstringsInWraparoundString.swift; sourceTree = "<group>"; };
 		AD9CFBDF2C976A6100D3B8B9 /* FindTheLongestSubstringContainingVowelsInEvenCounts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheLongestSubstringContainingVowelsInEvenCounts.swift; sourceTree = "<group>"; };
@@ -1912,6 +1914,7 @@
 				AD0AFE0D2C387F4A0095C213 /* FindTheMinimumAndMaximumNumberOfNodesBetweenCriticalPoints.swift */,
 				AD5358032AF12BEF00C65D10 /* FindTheOriginalArrayOfPrefixXor.swift */,
 				AD1901E22BA1D9E400E7AAA2 /* FindThePivotInteger.swift */,
+				AD9BDA142CE8B9AB0046BED7 /* FindThePowerOfKSizeSubarrays1.swift */,
 				AD3E989D2BF4EA8500A19F30 /* FindTheSafestPathInAGrid.swift */,
 				AD8B71082C863B350029D971 /* FindTheStudentThatWillReplaceTheChalk.swift */,
 				ADD8E82E28FC3AA000EEBB3C /* FindTheTownJudge.swift */,
@@ -2983,6 +2986,7 @@
 				AD2D8D8F2CD2C3AF006378B1 /* MinimumNumberOfRemovalsToMakeMountainArray.swift in Sources */,
 				AD5D200E2B41D01800C03107 /* LargestSubstringBetweenTwoEqualCharacters.swift in Sources */,
 				ADE6679129DAF5AB00E5F90B /* BoatsToSavePeople.swift in Sources */,
+				AD9BDA152CE8B9AB0046BED7 /* FindThePowerOfKSizeSubarrays1.swift in Sources */,
 				ADF5BF6F28CF7A3F00668B2D /* ListNodeTest.swift in Sources */,
 				AD29A71929CF2CDF00A5E1F0 /* CountUnreachablePairsOfNodesInAnUndirectedGraph.swift in Sources */,
 				ADD62A922B3D92340096F235 /* StringCompression2.swift in Sources */,
