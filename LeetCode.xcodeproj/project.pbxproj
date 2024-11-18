@@ -228,6 +228,7 @@
 		AD4488362CA04B6200FBFA8F /* KthSmallestInLexicographicalOrder.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4488352CA04B6200FBFA8F /* KthSmallestInLexicographicalOrder.swift */; };
 		AD45389F2CA48E7900F8E1CB /* SumOfPrefixScoresOfStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD45389E2CA48E7900F8E1CB /* SumOfPrefixScoresOfStrings.swift */; };
 		AD45D00128D9DCD000544C0A /* MaxAreaOfIsland.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD45D00028D9DCD000544C0A /* MaxAreaOfIsland.swift */; };
+		AD46A1332CEBC7660077B323 /* DefuseTheBomb.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD46A1322CEBC7660077B323 /* DefuseTheBomb.swift */; };
 		AD46A7552B7E47ED005A7047 /* FindPolygonWithTheLargestPerimeter.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD46A7542B7E47ED005A7047 /* FindPolygonWithTheLargestPerimeter.swift */; };
 		AD4789C12AF52F0A0060440B /* BuildAnArrayWithStackOperations.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4789C02AF52F0A0060440B /* BuildAnArrayWithStackOperations.swift */; };
 		AD48552529AD24B4009F9148 /* ConstructQuadTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD48552429AD24B4009F9148 /* ConstructQuadTree.swift */; };
@@ -1046,6 +1047,7 @@
 		AD4488352CA04B6200FBFA8F /* KthSmallestInLexicographicalOrder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KthSmallestInLexicographicalOrder.swift; sourceTree = "<group>"; };
 		AD45389E2CA48E7900F8E1CB /* SumOfPrefixScoresOfStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOfPrefixScoresOfStrings.swift; sourceTree = "<group>"; };
 		AD45D00028D9DCD000544C0A /* MaxAreaOfIsland.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxAreaOfIsland.swift; sourceTree = "<group>"; };
+		AD46A1322CEBC7660077B323 /* DefuseTheBomb.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefuseTheBomb.swift; sourceTree = "<group>"; };
 		AD46A7542B7E47ED005A7047 /* FindPolygonWithTheLargestPerimeter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindPolygonWithTheLargestPerimeter.swift; sourceTree = "<group>"; };
 		AD4789C02AF52F0A0060440B /* BuildAnArrayWithStackOperations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuildAnArrayWithStackOperations.swift; sourceTree = "<group>"; };
 		AD48552429AD24B4009F9148 /* ConstructQuadTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstructQuadTree.swift; sourceTree = "<group>"; };
@@ -1821,6 +1823,7 @@
 				ADDCF94A28BCD5F400E7CA46 /* DecodeString.swift */,
 				AD862E3E2912919C008F93B1 /* DecodeWays.swift */,
 				AD96A68C295C7C0C001F0AB6 /* DecryptStringFromAlphabetToIntegerMapping.swift */,
+				AD46A1322CEBC7660077B323 /* DefuseTheBomb.swift */,
 				ADD71D4A2938C471005189E6 /* DeleteAndEarn.swift */,
 				AD3A7EAE2CD588E700108E66 /* DeleteCharactersToMakeFancyString.swift */,
 				ADD2F0C129645ADB003B0038 /* DeleteColumnsToMakeSorted.swift */,
@@ -2739,6 +2742,7 @@
 				AD9914AA28C0DBD500BCFDAB /* MergeSortedArray.swift in Sources */,
 				AD9E484129DDDF4800593016 /* MinimizeMaximumOfArray.swift in Sources */,
 				ADD71D4B2938C471005189E6 /* DeleteAndEarn.swift in Sources */,
+				AD46A1332CEBC7660077B323 /* DefuseTheBomb.swift in Sources */,
 				AD0567C12A90ECDF006DE235 /* FindCriticalAndPseudoCriticalEdgesInMinimumSpanningTree.swift in Sources */,
 				AD5695322B2A015100715A45 /* SpecialPositionsInABinaryMatrix.swift in Sources */,
 				AD63BB6F2B16169200C39209 /* NumberOfWaysToDivideALongCorridor.swift in Sources */,
