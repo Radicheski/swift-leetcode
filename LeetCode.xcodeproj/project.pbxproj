@@ -429,6 +429,7 @@
 		AD8C969C2A62E17500717FED /* MaximumNumberOfEventsThatCanBeAttended2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8C969B2A62E17500717FED /* MaximumNumberOfEventsThatCanBeAttended2.swift */; };
 		AD8CBCA62BF0FAB20036A478 /* LargestLocalValuesInAMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8CBCA52BF0FAB20036A478 /* LargestLocalValuesInAMatrix.swift */; };
 		AD8D07222B541E0C009E4C27 /* DetermineIfTwoStringsAreClose.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8D07212B541E0C009E4C27 /* DetermineIfTwoStringsAreClose.swift */; };
+		AD8DCC0F2CED1D3800753D43 /* MaximumSumOfDistinctSubarraysWithLengthK.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8DCC0E2CED1D3800753D43 /* MaximumSumOfDistinctSubarraysWithLengthK.swift */; };
 		AD8DF5A42ABC6DE1006DF0B0 /* MedianOfTwoSortedArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8DF5A32ABC6DE1006DF0B0 /* MedianOfTwoSortedArrays.swift */; };
 		AD8E74F12C3C810200310B97 /* WaterBottles.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8E74F02C3C810200310B97 /* WaterBottles.swift */; };
 		AD8E8C1B2CDAAA0E00E6F703 /* MinimumNumberOfChangesToMakeBinaryStringBeautiful.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8E8C1A2CDAAA0D00E6F703 /* MinimumNumberOfChangesToMakeBinaryStringBeautiful.swift */; };
@@ -1248,6 +1249,7 @@
 		AD8C969B2A62E17500717FED /* MaximumNumberOfEventsThatCanBeAttended2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumNumberOfEventsThatCanBeAttended2.swift; sourceTree = "<group>"; };
 		AD8CBCA52BF0FAB20036A478 /* LargestLocalValuesInAMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargestLocalValuesInAMatrix.swift; sourceTree = "<group>"; };
 		AD8D07212B541E0C009E4C27 /* DetermineIfTwoStringsAreClose.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetermineIfTwoStringsAreClose.swift; sourceTree = "<group>"; };
+		AD8DCC0E2CED1D3800753D43 /* MaximumSumOfDistinctSubarraysWithLengthK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumSumOfDistinctSubarraysWithLengthK.swift; sourceTree = "<group>"; };
 		AD8DF5A32ABC6DE1006DF0B0 /* MedianOfTwoSortedArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MedianOfTwoSortedArrays.swift; sourceTree = "<group>"; };
 		AD8E74F02C3C810200310B97 /* WaterBottles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaterBottles.swift; sourceTree = "<group>"; };
 		AD8E8C1A2CDAAA0D00E6F703 /* MinimumNumberOfChangesToMakeBinaryStringBeautiful.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberOfChangesToMakeBinaryStringBeautiful.swift; sourceTree = "<group>"; };
@@ -2101,6 +2103,7 @@
 				ADBEEB6928BF84F90069B4BB /* MaximumSubarray.swift */,
 				AD32C9632A1E7F7D00A8CAC6 /* MaximumSubsequenceScore.swift */,
 				AD852694293BA3ED0096B9D2 /* MaximumSumCircularSubarray.swift */,
+				AD8DCC0E2CED1D3800753D43 /* MaximumSumOfDistinctSubarraysWithLengthK.swift */,
 				AD0C11DF2CC19A26002BDC97 /* MaximumSwap.swift */,
 				AD1CCC97299E5C86006A130E /* MaximumTastinessOfCandyBasket.swift */,
 				ADB7F8D62C2F3DDD00A973D9 /* MaximumTotalImportanceOfRoads.swift */,
@@ -3385,6 +3388,7 @@
 				AD71F6EC2CCD09B100D23E78 /* HeightOfBinaryTreeAfterSubtreeRemovalQueries.swift in Sources */,
 				AD9A0D8A295B5CA0009B9BB5 /* MergeStringsAlternately.swift in Sources */,
 				ADDF8A15293F68A700B0783F /* BestTimeToBuyAndSellStockWithCooldown.swift in Sources */,
+				AD8DCC0F2CED1D3800753D43 /* MaximumSumOfDistinctSubarraysWithLengthK.swift in Sources */,
 				ADBFE64929FAA2E000545A35 /* BulbSwitcher.swift in Sources */,
 				AD57D27E2C90F3A10078A25F /* InsertGreatestCommonDivisorsInLinkedList.swift in Sources */,
 			);
