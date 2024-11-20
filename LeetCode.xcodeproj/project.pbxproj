@@ -268,6 +268,7 @@
 		AD5065612B1B60FA009455AE /* FindWordsThatCanBeFormedByCharacters.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5065602B1B60FA009455AE /* FindWordsThatCanBeFormedByCharacters.swift */; };
 		AD50CF942B90FBC0009DB72E /* EvenOddTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD50CF932B90FBC0009DB72E /* EvenOddTree.swift */; };
 		AD5358042AF12BEF00C65D10 /* FindTheOriginalArrayOfPrefixXor.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5358032AF12BEF00C65D10 /* FindTheOriginalArrayOfPrefixXor.swift */; };
+		AD54CC392CEE109C00D45A99 /* TakeKOfEachCharacterFromLeftAndRight.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD54CC382CEE109C00D45A99 /* TakeKOfEachCharacterFromLeftAndRight.swift */; };
 		AD5695322B2A015100715A45 /* SpecialPositionsInABinaryMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5695312B2A015100715A45 /* SpecialPositionsInABinaryMatrix.swift */; };
 		AD5709B52983F456006A523C /* ConcatenatedWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5709B42983F456006A523C /* ConcatenatedWords.swift */; };
 		AD57491A2906A0A7008E89BE /* NumberOfProvinces.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5749192906A0A7008E89BE /* NumberOfProvinces.swift */; };
@@ -1088,6 +1089,7 @@
 		AD5065602B1B60FA009455AE /* FindWordsThatCanBeFormedByCharacters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindWordsThatCanBeFormedByCharacters.swift; sourceTree = "<group>"; };
 		AD50CF932B90FBC0009DB72E /* EvenOddTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EvenOddTree.swift; sourceTree = "<group>"; };
 		AD5358032AF12BEF00C65D10 /* FindTheOriginalArrayOfPrefixXor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheOriginalArrayOfPrefixXor.swift; sourceTree = "<group>"; };
+		AD54CC382CEE109C00D45A99 /* TakeKOfEachCharacterFromLeftAndRight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TakeKOfEachCharacterFromLeftAndRight.swift; sourceTree = "<group>"; };
 		AD5695312B2A015100715A45 /* SpecialPositionsInABinaryMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpecialPositionsInABinaryMatrix.swift; sourceTree = "<group>"; };
 		AD5709B42983F456006A523C /* ConcatenatedWords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConcatenatedWords.swift; sourceTree = "<group>"; };
 		AD5749192906A0A7008E89BE /* NumberOfProvinces.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfProvinces.swift; sourceTree = "<group>"; };
@@ -2446,6 +2448,7 @@
 				ADCCEEC228F2F0D900B85A54 /* SwapNodesInPairs.swift */,
 				ADD51E822A12586C00B9ED49 /* SwappingNodesInALinkedList.swift */,
 				ADA4798C28CCCFF900C23FF0 /* SymmetricTree.swift */,
+				AD54CC382CEE109C00D45A99 /* TakeKOfEachCharacterFromLeftAndRight.swift */,
 				AD0EEE8B2A471B44009C9AD5 /* TallestBillboard.swift */,
 				ADCBBD8329212779006787B4 /* TaskScheduler.swift */,
 				ADAB402F2A978348005361C5 /* TextJustification.swift */,
@@ -2968,6 +2971,7 @@
 				ADFF1B092957165600D55D2C /* CheckIfItIsAStraightLine.swift in Sources */,
 				ADE650E6291BD1880038FDD1 /* SpiralMatrix.swift in Sources */,
 				ADCE60A52B61395600F28171 /* PseudoPalindromicPathsInABinaryTree.swift in Sources */,
+				AD54CC392CEE109C00D45A99 /* TakeKOfEachCharacterFromLeftAndRight.swift in Sources */,
 				ADD5D3F528A3147200BD5BCC /* PalindromeLinkedList.swift in Sources */,
 				ADF553432C41B159001800B2 /* MaximumScoreFromRemovingSubstrings.swift in Sources */,
 				ADF0EB93291A7F31000B73A4 /* MaxPointsOnALine.swift in Sources */,
