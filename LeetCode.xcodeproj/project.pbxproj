@@ -307,6 +307,7 @@
 		AD638E6C2A9CC08700641464 /* ImplementStackUsingQueues.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD638E6B2A9CC08700641464 /* ImplementStackUsingQueues.swift */; };
 		AD63B81429B363D200E41605 /* CountSubarraysWithFixedBounds.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD63B81329B363D200E41605 /* CountSubarraysWithFixedBounds.swift */; };
 		AD63BB6F2B16169200C39209 /* NumberOfWaysToDivideALongCorridor.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD63BB6E2B16169200C39209 /* NumberOfWaysToDivideALongCorridor.swift */; };
+		AD6451622CF10BBA0094C2BA /* FlipColumnsForMaximumNumberOfEqualRows.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6451612CF10BBA0094C2BA /* FlipColumnsForMaximumNumberOfEqualRows.swift */; };
 		AD649F282AC4539600AB0D45 /* DecodedStringAtIndex.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD649F272AC4539600AB0D45 /* DecodedStringAtIndex.swift */; };
 		AD64A7F32CDD478500D1EF4B /* LargestCombinationWithBitwiseANDGreaterThanZero.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD64A7F22CDD478500D1EF4B /* LargestCombinationWithBitwiseANDGreaterThanZero.swift */; };
 		AD64D09D29F5A50800A9B9DF /* RestoreTheArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD64D09C29F5A50800A9B9DF /* RestoreTheArray.swift */; };
@@ -1129,6 +1130,7 @@
 		AD638E6B2A9CC08700641464 /* ImplementStackUsingQueues.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImplementStackUsingQueues.swift; sourceTree = "<group>"; };
 		AD63B81329B363D200E41605 /* CountSubarraysWithFixedBounds.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountSubarraysWithFixedBounds.swift; sourceTree = "<group>"; };
 		AD63BB6E2B16169200C39209 /* NumberOfWaysToDivideALongCorridor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfWaysToDivideALongCorridor.swift; sourceTree = "<group>"; };
+		AD6451612CF10BBA0094C2BA /* FlipColumnsForMaximumNumberOfEqualRows.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlipColumnsForMaximumNumberOfEqualRows.swift; sourceTree = "<group>"; };
 		AD649F272AC4539600AB0D45 /* DecodedStringAtIndex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DecodedStringAtIndex.swift; sourceTree = "<group>"; };
 		AD64A7F22CDD478500D1EF4B /* LargestCombinationWithBitwiseANDGreaterThanZero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargestCombinationWithBitwiseANDGreaterThanZero.swift; sourceTree = "<group>"; };
 		AD64D09C29F5A50800A9B9DF /* RestoreTheArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestoreTheArray.swift; sourceTree = "<group>"; };
@@ -1677,7 +1679,6 @@
 		ADD5D3D328A3111C00BD5BCC = {
 			isa = PBXGroup;
 			children = (
-				AD0E13AA2CB75172004F3D94 /* MaximumWidthRamp.swift */,
 				ADD5D3ED28A3120600BD5BCC /* LeetCode */,
 				ADD5D3DD28A3111C00BD5BCC /* Products */,
 			);
@@ -1940,6 +1941,7 @@
 				ADF58E0F28C622D7000E08DB /* FirstUniqueCharacterInAString.swift */,
 				AD4BDEA928A7DDA700E61565 /* FizzBuzz.swift */,
 				ADE4CBD9297812270039E5B3 /* FlattenNestedListIterator.swift */,
+				AD6451612CF10BBA0094C2BA /* FlipColumnsForMaximumNumberOfEqualRows.swift */,
 				ADCDEADC2CCADDF500C2B64E /* FlipEquivalentBinaryTrees.swift */,
 				ADD274E32976C35C0034B90A /* FlipStringToMonotoneIncreasing.swift */,
 				AD820F5828B6529700BA068E /* FloodFill.swift */,
@@ -2116,6 +2118,7 @@
 				AD23E1902A349B2800A66AEB /* MaximumValueAtAGivenIndexInABoundedArray.swift */,
 				AD7D379C29EADF370094EEA6 /* MaximumValueOfKCoinsFromPiles.swift */,
 				AD3931DD29F1C4B10076C379 /* MaximumWidthOfBinaryTree.swift */,
+				AD0E13AA2CB75172004F3D94 /* MaximumWidthRamp.swift */,
 				AD17FFCD2CDEA1E400F624F8 /* MaximumXORForEachQuery.swift */,
 				ADF0EB92291A7F31000B73A4 /* MaxPointsOnALine.swift */,
 				AD8DF5A32ABC6DE1006DF0B0 /* MedianOfTwoSortedArrays.swift */,
@@ -3017,6 +3020,7 @@
 				ADFC86222A850E11001BABCF /* SearchInRotatedSortedArray2.swift in Sources */,
 				AD32C95F28FD75C300305E77 /* KthLargestElementInAnArray.swift in Sources */,
 				ADD8E83328FC3BD200EEBB3C /* KeysAndRooms.swift in Sources */,
+				AD6451622CF10BBA0094C2BA /* FlipColumnsForMaximumNumberOfEqualRows.swift in Sources */,
 				ADCDCE7029BF482200B6368C /* DesignUndergroundSystem.swift in Sources */,
 				AD35803F2CC7231400D2F9C0 /* KthLargestSumInABinaryTree.swift in Sources */,
 				ADF0631928D490D000546CCC /* TwoSum2.swift in Sources */,
