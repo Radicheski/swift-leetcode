@@ -580,6 +580,7 @@
 		ADBD27A72C407519009C6503 /* ReverseSubstringsBetweenEachPairOfParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBD27A62C407519009C6503 /* ReverseSubstringsBetweenEachPairOfParentheses.swift */; };
 		ADBDF86D2CA34E7900C55865 /* FindTheLengthOfTheLongestCommonPrefix.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBDF86C2CA34E7900C55865 /* FindTheLengthOfTheLongestCommonPrefix.swift */; };
 		ADBE3D5F2AAF3473005494AA /* GroupThePeopleGivenTheGroupSizeTheyBelongTo.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBE3D5E2AAF3473005494AA /* GroupThePeopleGivenTheGroupSizeTheyBelongTo.swift */; };
+		ADBED2682CF20BC2007BA267 /* RotatingTheBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBED2672CF20BC2007BA267 /* RotatingTheBox.swift */; };
 		ADBEEB6828BF847B0069B4BB /* ContainsDuplicate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBEEB6728BF847B0069B4BB /* ContainsDuplicate.swift */; };
 		ADBEEB6A28BF84F90069B4BB /* MaximumSubarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBEEB6928BF84F90069B4BB /* MaximumSubarray.swift */; };
 		ADBF7F452A1CE68300552ACE /* KthLargestElementInAStream.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBF7F442A1CE68300552ACE /* KthLargestElementInAStream.swift */; };
@@ -1403,6 +1404,7 @@
 		ADBD27A62C407519009C6503 /* ReverseSubstringsBetweenEachPairOfParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseSubstringsBetweenEachPairOfParentheses.swift; sourceTree = "<group>"; };
 		ADBDF86C2CA34E7900C55865 /* FindTheLengthOfTheLongestCommonPrefix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheLengthOfTheLongestCommonPrefix.swift; sourceTree = "<group>"; };
 		ADBE3D5E2AAF3473005494AA /* GroupThePeopleGivenTheGroupSizeTheyBelongTo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupThePeopleGivenTheGroupSizeTheyBelongTo.swift; sourceTree = "<group>"; };
+		ADBED2672CF20BC2007BA267 /* RotatingTheBox.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotatingTheBox.swift; sourceTree = "<group>"; };
 		ADBEEB6728BF847B0069B4BB /* ContainsDuplicate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainsDuplicate.swift; sourceTree = "<group>"; };
 		ADBEEB6928BF84F90069B4BB /* MaximumSubarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumSubarray.swift; sourceTree = "<group>"; };
 		ADBF7F442A1CE68300552ACE /* KthLargestElementInAStream.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KthLargestElementInAStream.swift; sourceTree = "<group>"; };
@@ -2353,6 +2355,7 @@
 				AD4DCBF828E70EE600A81C5F /* RotateImage.swift */,
 				AD3F37272975669400082B5E /* RotateList.swift */,
 				AD0274482CD799BB0074C95C /* RotateString.swift */,
+				ADBED2672CF20BC2007BA267 /* RotatingTheBox.swift */,
 				ADE1BD2628DC7CAF008ED566 /* RottingOranges.swift */,
 				ADF9806928AC0309004BB6EC /* RunningSumOf1dArray.swift */,
 				ADEC59F8292E412F006B2532 /* SameTree.swift */,
@@ -2715,6 +2718,7 @@
 				AD31D258290BF9A10030D330 /* CombinationSum.swift in Sources */,
 				AD6DEDDF2B267980009D02D7 /* TransposeMatrix.swift in Sources */,
 				AD3C92F228F19F2600E90724 /* RemoveDuplicatesFromSortedList2.swift in Sources */,
+				ADBED2682CF20BC2007BA267 /* RotatingTheBox.swift in Sources */,
 				AD33093829AF790400415596 /* SortAnArray.swift in Sources */,
 				AD15817F2985A7330087B1BE /* DataStreamAsDisjointIntervals.swift in Sources */,
 				AD638E6C2A9CC08700641464 /* ImplementStackUsingQueues.swift in Sources */,
