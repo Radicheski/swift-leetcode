@@ -561,6 +561,7 @@
 		ADB7F328292CEE17005905FC /* ThreeSumClosest.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB7F327292CEE17005905FC /* ThreeSumClosest.swift */; };
 		ADB7F32A292CF06C005905FC /* MinimumWindowSubstring.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB7F329292CF06C005905FC /* MinimumWindowSubstring.swift */; };
 		ADB7F8D72C2F3DDD00A973D9 /* MaximumTotalImportanceOfRoads.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB7F8D62C2F3DDD00A973D9 /* MaximumTotalImportanceOfRoads.swift */; };
+		ADB811CA2CF38CD6001A4E03 /* MaximumMatrixSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB811C92CF38CD6001A4E03 /* MaximumMatrixSum.swift */; };
 		ADB81A042C1CC314003C0ACD /* MinimumIncrementToMakeArrayUnique.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB81A032C1CC314003C0ACD /* MinimumIncrementToMakeArrayUnique.swift */; };
 		ADB872512B10DA9000068F62 /* MaximumNumberOfCoinsYouCanGet.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB872502B10DA9000068F62 /* MaximumNumberOfCoinsYouCanGet.swift */; };
 		ADB8E7DE2C4D305D00240281 /* BuildAMatrixWithConditions.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB8E7DD2C4D305D00240281 /* BuildAMatrixWithConditions.swift */; };
@@ -1385,6 +1386,7 @@
 		ADB7F327292CEE17005905FC /* ThreeSumClosest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreeSumClosest.swift; sourceTree = "<group>"; };
 		ADB7F329292CF06C005905FC /* MinimumWindowSubstring.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumWindowSubstring.swift; sourceTree = "<group>"; };
 		ADB7F8D62C2F3DDD00A973D9 /* MaximumTotalImportanceOfRoads.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumTotalImportanceOfRoads.swift; sourceTree = "<group>"; };
+		ADB811C92CF38CD6001A4E03 /* MaximumMatrixSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumMatrixSum.swift; sourceTree = "<group>"; };
 		ADB81A032C1CC314003C0ACD /* MinimumIncrementToMakeArrayUnique.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumIncrementToMakeArrayUnique.swift; sourceTree = "<group>"; };
 		ADB872502B10DA9000068F62 /* MaximumNumberOfCoinsYouCanGet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumNumberOfCoinsYouCanGet.swift; sourceTree = "<group>"; };
 		ADB8E7DD2C4D305D00240281 /* BuildAMatrixWithConditions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuildAMatrixWithConditions.swift; sourceTree = "<group>"; };
@@ -2092,6 +2094,7 @@
 				AD243DAE2A9A35A400E6292C /* MaximumLengthOfPairChain.swift */,
 				ADD1B03E293CC386006136E8 /* MaximumLengthOfSubarrayWithPositiveProduct.swift */,
 				AD3567F62A3B422F000ECEBB /* MaximumLevelSumOfABinaryTree.swift */,
+				ADB811C92CF38CD6001A4E03 /* MaximumMatrixSum.swift */,
 				AD60EA0A2BBF1F1500E00942 /* MaximumNestingDepthOfTheParentheses.swift */,
 				AD0064622A519E8400E39FC0 /* MaximumNumberOfAchievableTransferRequests.swift */,
 				ADB872502B10DA9000068F62 /* MaximumNumberOfCoinsYouCanGet.swift */,
@@ -3371,6 +3374,7 @@
 				AD69BA132951D6EE00986792 /* AverageSalaryExcludingTheMinimumAndMaximumSalary.swift in Sources */,
 				AD29CAE92A6D69070046FB4F /* AllPossibleFullBinaryTrees.swift in Sources */,
 				AD7201D32A8D2C3600E9D656 /* SlidingWindowMaximum.swift in Sources */,
+				ADB811CA2CF38CD6001A4E03 /* MaximumMatrixSum.swift in Sources */,
 				AD2AE83C2BF8DFBB009EFA13 /* DistributeCoinsInBinaryTree.swift in Sources */,
 				AD5CBBEA28B2547F00495544 /* BinaryTreeLevelOrderTraversal.swift in Sources */,
 				ADA580D228F043B20039F9BF /* AddTwoNumbers.swift in Sources */,
