@@ -233,6 +233,7 @@
 		AD4789C12AF52F0A0060440B /* BuildAnArrayWithStackOperations.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4789C02AF52F0A0060440B /* BuildAnArrayWithStackOperations.swift */; };
 		AD48552529AD24B4009F9148 /* ConstructQuadTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD48552429AD24B4009F9148 /* ConstructQuadTree.swift */; };
 		AD4874112A0C68C000515AF7 /* UncrossedLines.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4874102A0C68C000515AF7 /* UncrossedLines.swift */; };
+		AD489E352CF502CE00817B2B /* SlidingPuzzle.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD489E342CF502CE00817B2B /* SlidingPuzzle.swift */; };
 		AD48DC9F2940B78E006F912B /* TrappingRainWater.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD48DC9E2940B78E006F912B /* TrappingRainWater.swift */; };
 		AD49BCB12CD0128D0031B387 /* LongestSquareStreakInAnArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD49BCB02CD0128D0031B387 /* LongestSquareStreakInAnArray.swift */; };
 		AD4A52F829A4E84B00210E4B /* SingleElementInASortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4A52F729A4E84B00210E4B /* SingleElementInASortedArray.swift */; };
@@ -1058,6 +1059,7 @@
 		AD4789C02AF52F0A0060440B /* BuildAnArrayWithStackOperations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuildAnArrayWithStackOperations.swift; sourceTree = "<group>"; };
 		AD48552429AD24B4009F9148 /* ConstructQuadTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstructQuadTree.swift; sourceTree = "<group>"; };
 		AD4874102A0C68C000515AF7 /* UncrossedLines.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UncrossedLines.swift; sourceTree = "<group>"; };
+		AD489E342CF502CE00817B2B /* SlidingPuzzle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlidingPuzzle.swift; sourceTree = "<group>"; };
 		AD48DC9E2940B78E006F912B /* TrappingRainWater.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrappingRainWater.swift; sourceTree = "<group>"; };
 		AD49BCB02CD0128D0031B387 /* LongestSquareStreakInAnArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestSquareStreakInAnArray.swift; sourceTree = "<group>"; };
 		AD4A52F729A4E84B00210E4B /* SingleElementInASortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleElementInASortedArray.swift; sourceTree = "<group>"; };
@@ -2396,6 +2398,7 @@
 				AD325C4028E32B230039107E /* SingleNumber.swift */,
 				AD3830FF2A5452D5003B68D8 /* SingleNumber2.swift */,
 				ADFBF5D02C0A6B9C00F0BD5C /* SingleNumber3.swift */,
+				AD489E342CF502CE00817B2B /* SlidingPuzzle.swift */,
 				AD7201D22A8D2C3600E9D656 /* SlidingWindowMaximum.swift */,
 				AD7475D829F800B200CD014E /* SmallestNumberInInfiniteSet.swift */,
 				AD2C245929716C570000DBF8 /* SmallestRange2.swift */,
@@ -2898,6 +2901,7 @@
 				ADD2F9182A3DF45300AC9783 /* MakeArrayStrictlyIncreasing.swift in Sources */,
 				ADF1D2412A06874C00385B0E /* NumberOfSubsequencesThatSatisfyTheGivenSumCondition.swift in Sources */,
 				ADE2D7862AD1955300DBAFDD /* BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.swift in Sources */,
+				AD489E352CF502CE00817B2B /* SlidingPuzzle.swift in Sources */,
 				AD0EEE8C2A471B44009C9AD5 /* TallestBillboard.swift in Sources */,
 				AD32C9642A1E7F7E00A8CAC6 /* MaximumSubsequenceScore.swift in Sources */,
 				AD32EB3D2962FBFD0019636B /* RepeatedSubstringPattern.swift in Sources */,
