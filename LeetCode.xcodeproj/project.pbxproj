@@ -526,6 +526,7 @@
 		ADAA00402ADAFA6300CD0E67 /* PaintingTheWalls.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAA003F2ADAFA6300CD0E67 /* PaintingTheWalls.swift */; };
 		ADAA5A3A29225FDC003EE31E /* BalancedBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAA5A3929225FDC003EE31E /* BalancedBinaryTree.swift */; };
 		ADAAA51E2CD95DF50017448A /* StringCompression3.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAAA51D2CD95DF50017448A /* StringCompression3.swift */; };
+		ADAB148C2CF6501600C2C640 /* FindChampion2.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAB148B2CF6501600C2C640 /* FindChampion2.swift */; };
 		ADAB40302A978348005361C5 /* TextJustification.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAB402F2A978348005361C5 /* TextJustification.swift */; };
 		ADABE4E72BE0132500B1C1AE /* MinimumNumberOfOperationsToMakeArrayXOREqualToK.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADABE4E62BE0132500B1C1AE /* MinimumNumberOfOperationsToMakeArrayXOREqualToK.swift */; };
 		ADAC8C792BEFB0A1004E123B /* MinimumCostToHireKWorkers.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAC8C782BEFB0A1004E123B /* MinimumCostToHireKWorkers.swift */; };
@@ -1352,6 +1353,7 @@
 		ADAA003F2ADAFA6300CD0E67 /* PaintingTheWalls.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaintingTheWalls.swift; sourceTree = "<group>"; };
 		ADAA5A3929225FDC003EE31E /* BalancedBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BalancedBinaryTree.swift; sourceTree = "<group>"; };
 		ADAAA51D2CD95DF50017448A /* StringCompression3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringCompression3.swift; sourceTree = "<group>"; };
+		ADAB148B2CF6501600C2C640 /* FindChampion2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindChampion2.swift; sourceTree = "<group>"; };
 		ADAB402F2A978348005361C5 /* TextJustification.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextJustification.swift; sourceTree = "<group>"; };
 		ADABE4E62BE0132500B1C1AE /* MinimumNumberOfOperationsToMakeArrayXOREqualToK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberOfOperationsToMakeArrayXOREqualToK.swift; sourceTree = "<group>"; };
 		ADAC8C782BEFB0A1004E123B /* MinimumCostToHireKWorkers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumCostToHireKWorkers.swift; sourceTree = "<group>"; };
@@ -1896,6 +1898,7 @@
 				AD0978962B8A4E99008453AB /* FindAllPeopleWithSecret.swift */,
 				AD3994392B8F8F9000611744 /* FindBottomLeftTreeValue.swift */,
 				AD7ACE762C2DF46100862F4B /* FindCenterOfStarGraph.swift */,
+				ADAB148B2CF6501600C2C640 /* FindChampion2.swift */,
 				AD6E241429814E9D0012D133 /* FindClosestNodeToGivenTwoNodes.swift */,
 				ADD553E82C10B50000F15B6A /* FindCommonCharacters.swift */,
 				AD0567C02A90ECDF006DE235 /* FindCriticalAndPseudoCriticalEdgesInMinimumSpanningTree.swift */,
@@ -3112,6 +3115,7 @@
 				ADE40C3B2C923A4A00F8C427 /* MinimumBitFlipsToConvertNumber.swift in Sources */,
 				AD820F5B28B65A1C00BA068E /* NumberOfIslands.swift in Sources */,
 				AD4B182D2966FE0600262815 /* AddBinary.swift in Sources */,
+				ADAB148C2CF6501600C2C640 /* FindChampion2.swift in Sources */,
 				AD03A4E22BC41EDB007E95FC /* NumberOfStudentsUnableToEatLunch.swift in Sources */,
 				AD86268E2949F0E700027B1A /* MinimumPathSum.swift in Sources */,
 				AD623EE02AC86A83009D289A /* OneThreeTwoPattern.swift in Sources */,
