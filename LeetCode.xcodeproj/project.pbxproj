@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		AD0064632A519E8400E39FC0 /* MaximumNumberOfAchievableTransferRequests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0064622A519E8400E39FC0 /* MaximumNumberOfAchievableTransferRequests.swift */; };
+		AD009DD12CF7A45700AD7301 /* ShortestDistanceAfterRoadAdditionQueries1.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD009DD02CF7A45700AD7301 /* ShortestDistanceAfterRoadAdditionQueries1.swift */; };
 		AD00F44628B96F2600A77B9C /* MinCostClimbingStairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD00F44528B96F2600A77B9C /* MinCostClimbingStairs.swift */; };
 		AD00F44828B96FB900A77B9C /* UniquePaths.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD00F44728B96FB900A77B9C /* UniquePaths.swift */; };
 		AD015018296C3A8500C763CC /* ArithmeticSubarrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD015017296C3A8500C763CC /* ArithmeticSubarrays.swift */; };
@@ -835,6 +836,7 @@
 
 /* Begin PBXFileReference section */
 		AD0064622A519E8400E39FC0 /* MaximumNumberOfAchievableTransferRequests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumNumberOfAchievableTransferRequests.swift; sourceTree = "<group>"; };
+		AD009DD02CF7A45700AD7301 /* ShortestDistanceAfterRoadAdditionQueries1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShortestDistanceAfterRoadAdditionQueries1.swift; sourceTree = "<group>"; };
 		AD00F44528B96F2600A77B9C /* MinCostClimbingStairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinCostClimbingStairs.swift; sourceTree = "<group>"; };
 		AD00F44728B96FB900A77B9C /* UniquePaths.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniquePaths.swift; sourceTree = "<group>"; };
 		AD015017296C3A8500C763CC /* ArithmeticSubarrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArithmeticSubarrays.swift; sourceTree = "<group>"; };
@@ -2384,6 +2386,7 @@
 				ADB9AE8F28FAD463008FBC6A /* SerializeAndDeserializeBinaryTree.swift */,
 				AD7352192B5E8CE900C07B9B /* SetMismatch.swift */,
 				AD4311442982966300E127A6 /* ShortestBridge.swift */,
+				AD009DD02CF7A45700AD7301 /* ShortestDistanceAfterRoadAdditionQueries1.swift */,
 				AD2C283F2C9E0A3600EB8EF3 /* ShortestPalindrome.swift */,
 				AD1FCE0229095C0300A9B623 /* ShortestPathInBinaryMatrix.swift */,
 				AD886DA22A4DEFFF00A4DAF0 /* ShortestPathToGetAllKeys.swift */,
@@ -2687,6 +2690,7 @@
 				AD4B1831296749B700262815 /* MinimumNumberOfArrowsToBurstBalloons.swift in Sources */,
 				ADAFABDE2B14B6E100F53133 /* KnightDialer.swift in Sources */,
 				AD5A29E62C68FD0700BD1550 /* MinimumNumberOfDaysToDisconnectIsland.swift in Sources */,
+				AD009DD12CF7A45700AD7301 /* ShortestDistanceAfterRoadAdditionQueries1.swift in Sources */,
 				AD78E35A2AEED8A800627825 /* PoorPigs.swift in Sources */,
 				AD0525122BE938D500507C0E /* RemoveNodesFromLinkedList.swift in Sources */,
 				AD07CAF828F5877E00B2E73A /* MinStack.swift in Sources */,
