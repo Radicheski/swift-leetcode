@@ -33,6 +33,7 @@
 		AD068C4C28DDC23400D4EB76 /* ConcatenationOfConsecutiveBinaryNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD068C4B28DDC23400D4EB76 /* ConcatenationOfConsecutiveBinaryNumbers.swift */; };
 		AD06A28A2BD8045700151E4E /* MinimumHeightTrees.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD06A2892BD8045700151E4E /* MinimumHeightTrees.swift */; };
 		AD06B6C129F06799005BF5B8 /* LongestZigZagPathInABinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD06B6C029F06799005BF5B8 /* LongestZigZagPathInABinaryTree.swift */; };
+		AD06B7472CF8F2590010584A /* MinimumObstacleRemovalToReachCorner.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD06B7462CF8F2590010584A /* MinimumObstacleRemovalToReachCorner.swift */; };
 		AD0717F72C66CC5000B54944 /* MagicSquaresInGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0717F62C66CC5000B54944 /* MagicSquaresInGrid.swift */; };
 		AD0740B92B823B6F0028E827 /* MeetingRooms3.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0740B82B823B6F0028E827 /* MeetingRooms3.swift */; };
 		AD078AAD2B4D766C003A968F /* LeafSimilarTrees.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD078AAC2B4D766C003A968F /* LeafSimilarTrees.swift */; };
@@ -861,6 +862,7 @@
 		AD068C4B28DDC23400D4EB76 /* ConcatenationOfConsecutiveBinaryNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConcatenationOfConsecutiveBinaryNumbers.swift; sourceTree = "<group>"; };
 		AD06A2892BD8045700151E4E /* MinimumHeightTrees.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumHeightTrees.swift; sourceTree = "<group>"; };
 		AD06B6C029F06799005BF5B8 /* LongestZigZagPathInABinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestZigZagPathInABinaryTree.swift; sourceTree = "<group>"; };
+		AD06B7462CF8F2590010584A /* MinimumObstacleRemovalToReachCorner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumObstacleRemovalToReachCorner.swift; sourceTree = "<group>"; };
 		AD0717F62C66CC5000B54944 /* MagicSquaresInGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagicSquaresInGrid.swift; sourceTree = "<group>"; };
 		AD0740B82B823B6F0028E827 /* MeetingRooms3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingRooms3.swift; sourceTree = "<group>"; };
 		AD078AAC2B4D766C003A968F /* LeafSimilarTrees.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeafSimilarTrees.swift; sourceTree = "<group>"; };
@@ -2195,6 +2197,7 @@
 				AD4351DF2CB5D72000F98740 /* MinimumNumberOfSwapsToMakeTheStringBalanced.swift */,
 				AD3B8BE42AA0F2B200923BC4 /* MinimumNumberOfTapsToOpenToWaterAGarden.swift */,
 				ADD8E83028FC3B3C00EEBB3C /* MinimumNumberOfVerticesToReachAllNodes.swift */,
+				AD06B7462CF8F2590010584A /* MinimumObstacleRemovalToReachCorner.swift */,
 				ADCFF0D92B18B3FA0026EBA8 /* MinimumOneBitOperationsToMakeIntegersZero.swift */,
 				ADAF39092ABB629C00C9CAD1 /* MinimumOperationsToReduceXToZero.swift */,
 				AD86268D2949F0E700027B1A /* MinimumPathSum.swift */,
@@ -3112,6 +3115,7 @@
 				AD80F1BB2C26279A00B234E0 /* GrumpyBookstoreOwner.swift in Sources */,
 				ADDA879C2BC56CD800BB1145 /* TimeNeededToBuyTickets.swift in Sources */,
 				AD4F660A298A8E020015FB4B /* OpenTheLock.swift in Sources */,
+				AD06B7472CF8F2590010584A /* MinimumObstacleRemovalToReachCorner.swift in Sources */,
 				ADBDF86D2CA34E7900C55865 /* FindTheLengthOfTheLongestCommonPrefix.swift in Sources */,
 				AD180B3829434FBE001F5866 /* UniqueBinarySearchTrees.swift in Sources */,
 				AD46A7552B7E47ED005A7047 /* FindPolygonWithTheLargestPerimeter.swift in Sources */,
