@@ -491,6 +491,7 @@
 		AD9CFC0F2BB850E700E46E0D /* SubarraysWithKDifferentIntegers.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9CFC0E2BB850E700E46E0D /* SubarraysWithKDifferentIntegers.swift */; };
 		AD9D38332CC3313100658941 /* FindKthBitInNthBinaryString.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9D38322CC3313100658941 /* FindKthBitInNthBinaryString.swift */; };
 		AD9D45C12B4AE1E000DD2F91 /* ArithmeticSlices2_Subsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9D45C02B4AE1E000DD2F91 /* ArithmeticSlices2_Subsequence.swift */; };
+		AD9DA8112CFA58A300A13229 /* MinimumTimeToVisitACellInAGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9DA8102CFA58A300A13229 /* MinimumTimeToVisitACellInAGrid.swift */; };
 		AD9E484129DDDF4800593016 /* MinimizeMaximumOfArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9E484029DDDF4800593016 /* MinimizeMaximumOfArray.swift */; };
 		AD9F7E1C2A8BB4EC007AC176 /* PartitionList.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9F7E1B2A8BB4EC007AC176 /* PartitionList.swift */; };
 		AD9FF2072BD568CD00E923A8 /* FindIfPathExistsInGraph.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9FF2062BD568CD00E923A8 /* FindIfPathExistsInGraph.swift */; };
@@ -1320,6 +1321,7 @@
 		AD9CFC0E2BB850E700E46E0D /* SubarraysWithKDifferentIntegers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubarraysWithKDifferentIntegers.swift; sourceTree = "<group>"; };
 		AD9D38322CC3313100658941 /* FindKthBitInNthBinaryString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindKthBitInNthBinaryString.swift; sourceTree = "<group>"; };
 		AD9D45C02B4AE1E000DD2F91 /* ArithmeticSlices2_Subsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArithmeticSlices2_Subsequence.swift; sourceTree = "<group>"; };
+		AD9DA8102CFA58A300A13229 /* MinimumTimeToVisitACellInAGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumTimeToVisitACellInAGrid.swift; sourceTree = "<group>"; };
 		AD9E484029DDDF4800593016 /* MinimizeMaximumOfArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimizeMaximumOfArray.swift; sourceTree = "<group>"; };
 		AD9F7E1B2A8BB4EC007AC176 /* PartitionList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartitionList.swift; sourceTree = "<group>"; };
 		AD9FF2062BD568CD00E923A8 /* FindIfPathExistsInGraph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindIfPathExistsInGraph.swift; sourceTree = "<group>"; };
@@ -2213,6 +2215,7 @@
 				ADD124A7296EE72500E05EAB /* MinimumTimeToCollectAllApplesInATree.swift */,
 				AD94460629B75D9E00A9C5AE /* MinimumTimeToCompleteTrips.swift */,
 				ADE5E9DB2B3C41DF00511842 /* MinimumTimeToMakeRopeColorful.swift */,
+				AD9DA8102CFA58A300A13229 /* MinimumTimeToVisitACellInAGrid.swift */,
 				ADCBBC132B1CB9E20082E7D2 /* MinimumTimeVisitingAllPoints.swift */,
 				ADA0D34E2CD40B13007810ED /* MinimumTotalDistanceTraveled.swift */,
 				ADB7F329292CF06C005905FC /* MinimumWindowSubstring.swift */,
@@ -3011,6 +3014,7 @@
 				AD74DB46297DAFAD003C5807 /* PalindromePartitioning.swift in Sources */,
 				AD886DA32A4DEFFF00A4DAF0 /* ShortestPathToGetAllKeys.swift in Sources */,
 				AD338AB12B23406B0031BF81 /* ConstructStringFromBinaryTree.swift in Sources */,
+				AD9DA8112CFA58A300A13229 /* MinimumTimeToVisitACellInAGrid.swift in Sources */,
 				AD8188F82A77CE8200665143 /* MinimumASCIIDeleteSumForTwoStrings.swift in Sources */,
 				AD2E2CED2955D08200C790D0 /* CheckIfOneStringSwapCanMakeStringsEqual.swift in Sources */,
 				AD8626902949F15700027B1A /* MaximalSquare.swift in Sources */,
