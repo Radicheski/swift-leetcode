@@ -25,6 +25,7 @@
 		AD03EE682C0B758C006DCE46 /* ScoreOfAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD03EE672C0B758C006DCE46 /* ScoreOfAString.swift */; };
 		AD0467A62B84DF6C0082233D /* MissingNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0467A52B84DF6C0082233D /* MissingNumber.swift */; };
 		AD04C0872C2C999E00DD77D9 /* BalanceABinarySearchTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD04C0862C2C999E00DD77D9 /* BalanceABinarySearchTree.swift */; };
+		AD04E5CE2CFE43A10023AE5A /* CheckIfAWordOccursAsAPrefixOfAnyWordInASentence.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD04E5CD2CFE43A10023AE5A /* CheckIfAWordOccursAsAPrefixOfAnyWordInASentence.swift */; };
 		AD04EF362CC6DA910088A1E5 /* SplitAStringIntoTheMaxNumberOfUniqueSubstrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD04EF352CC6DA910088A1E5 /* SplitAStringIntoTheMaxNumberOfUniqueSubstrings.swift */; };
 		AD0525122BE938D500507C0E /* RemoveNodesFromLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0525112BE938D500507C0E /* RemoveNodesFromLinkedList.swift */; };
 		AD0567C12A90ECDF006DE235 /* FindCriticalAndPseudoCriticalEdgesInMinimumSpanningTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0567C02A90ECDF006DE235 /* FindCriticalAndPseudoCriticalEdgesInMinimumSpanningTree.swift */; };
@@ -857,6 +858,7 @@
 		AD03EE672C0B758C006DCE46 /* ScoreOfAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreOfAString.swift; sourceTree = "<group>"; };
 		AD0467A52B84DF6C0082233D /* MissingNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissingNumber.swift; sourceTree = "<group>"; };
 		AD04C0862C2C999E00DD77D9 /* BalanceABinarySearchTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BalanceABinarySearchTree.swift; sourceTree = "<group>"; };
+		AD04E5CD2CFE43A10023AE5A /* CheckIfAWordOccursAsAPrefixOfAnyWordInASentence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckIfAWordOccursAsAPrefixOfAnyWordInASentence.swift; sourceTree = "<group>"; };
 		AD04EF352CC6DA910088A1E5 /* SplitAStringIntoTheMaxNumberOfUniqueSubstrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplitAStringIntoTheMaxNumberOfUniqueSubstrings.swift; sourceTree = "<group>"; };
 		AD0525112BE938D500507C0E /* RemoveNodesFromLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveNodesFromLinkedList.swift; sourceTree = "<group>"; };
 		AD0567C02A90ECDF006DE235 /* FindCriticalAndPseudoCriticalEdgesInMinimumSpanningTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindCriticalAndPseudoCriticalEdgesInMinimumSpanningTree.swift; sourceTree = "<group>"; };
@@ -1777,6 +1779,7 @@
 				AD4311482982AB0500E127A6 /* CheapestFlightsWithinKStops.swift */,
 				AD38799D29C1E0480071B127 /* CheckCompletenessOfABinaryTree.swift */,
 				AD7697BD2CAC8D350050E1B0 /* CheckIfArrayPairsAreDivisibleByK.swift */,
+				AD04E5CD2CFE43A10023AE5A /* CheckIfAWordOccursAsAPrefixOfAnyWordInASentence.swift */,
 				ADFF1B082957165600D55D2C /* CheckIfItIsAStraightLine.swift */,
 				ADB1A705298EBC180059F3C9 /* CheckIfMatrixIsXMatrix.swift */,
 				AD5220222CFCCB9A00F9DE9E /* CheckIfNAndItsDoubleExist.swift */,
@@ -2980,6 +2983,7 @@
 				ADE2438828F835D900D3AB3F /* DeleteNodeInABST.swift in Sources */,
 				AD67B70E2CBDA5AB0098F859 /* MaximalScoreAfterApplyingKOperations.swift in Sources */,
 				ADE79406290DA6D800D0D035 /* GenerateParentheses.swift in Sources */,
+				AD04E5CE2CFE43A10023AE5A /* CheckIfAWordOccursAsAPrefixOfAnyWordInASentence.swift in Sources */,
 				AD637E622BE3BFB40025265F /* LargestPositiveIntegerThatExistsWithItsNegative.swift in Sources */,
 				AD60EA0B2BBF1F1500E00942 /* MaximumNestingDepthOfTheParentheses.swift in Sources */,
 				AD1BBB5828BB83CD000032DD /* BullsAndCows.swift in Sources */,
