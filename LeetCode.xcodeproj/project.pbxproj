@@ -86,6 +86,7 @@
 		AD188AA22C060E72006D47B3 /* GetEqualSubstringWithinBudget.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD188AA12C060E72006D47B3 /* GetEqualSubstringWithinBudget.swift */; };
 		AD188AA32A76913E00EF81F4 /* StrangePrinter.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD188AA22A76913E00EF81F4 /* StrangePrinter.swift */; };
 		AD1901E32BA1D9E400E7AAA2 /* FindThePivotInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1901E22BA1D9E400E7AAA2 /* FindThePivotInteger.swift */; };
+		AD1A7E192D023D3900D0EFF8 /* MovePiecesToObtainAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1A7E182D023D3900D0EFF8 /* MovePiecesToObtainAString.swift */; };
 		AD1AB3582936659A00BDF5A5 /* NthTribonacciNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1AB3572936659A00BDF5A5 /* NthTribonacciNumber.swift */; };
 		AD1B6E3E2A9FAA4A0094AEEC /* MinimumReplacementsToSortTheArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1B6E3D2A9FAA4A0094AEEC /* MinimumReplacementsToSortTheArray.swift */; };
 		AD1BA377295F19AF00A2A529 /* SortIntegersByTheNumberOf1Bits.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1BA376295F19AF00A2A529 /* SortIntegersByTheNumberOf1Bits.swift */; };
@@ -921,6 +922,7 @@
 		AD188AA12C060E72006D47B3 /* GetEqualSubstringWithinBudget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetEqualSubstringWithinBudget.swift; sourceTree = "<group>"; };
 		AD188AA22A76913E00EF81F4 /* StrangePrinter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StrangePrinter.swift; sourceTree = "<group>"; };
 		AD1901E22BA1D9E400E7AAA2 /* FindThePivotInteger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindThePivotInteger.swift; sourceTree = "<group>"; };
+		AD1A7E182D023D3900D0EFF8 /* MovePiecesToObtainAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovePiecesToObtainAString.swift; sourceTree = "<group>"; };
 		AD1AB3572936659A00BDF5A5 /* NthTribonacciNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NthTribonacciNumber.swift; sourceTree = "<group>"; };
 		AD1B6E3D2A9FAA4A0094AEEC /* MinimumReplacementsToSortTheArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumReplacementsToSortTheArray.swift; sourceTree = "<group>"; };
 		AD1BA376295F19AF00A2A529 /* SortIntegersByTheNumberOf1Bits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortIntegersByTheNumberOf1Bits.swift; sourceTree = "<group>"; };
@@ -2240,6 +2242,7 @@
 				ADEC91832CE3E14A001E8CE1 /* MostBeautifulItemForEachQuery.swift */,
 				ADDB16212C22172F0015AA15 /* MostProfitAssigningWork.swift */,
 				ADE4DF382933824900DF9FEB /* MostStonesRemovedWithSameRowOrColumn.swift */,
+				AD1A7E182D023D3900D0EFF8 /* MovePiecesToObtainAString.swift */,
 				ADF0631628D4902300546CCC /* MoveZeroes.swift */,
 				ADBC9C1428EDA96B00459081 /* MultiplyStrings.swift */,
 				AD339A10297ABD9F00E3856D /* MyCalendarI.swift */,
@@ -3169,6 +3172,7 @@
 				AD6000632AA8FBB900818D78 /* SplitLinkedListInParts.swift in Sources */,
 				ADA5884C2A59BCF900DB623B /* PutMarblesInBags.swift in Sources */,
 				ADFBDBBB2AD89178000D4997 /* FindInMountainArray.swift in Sources */,
+				AD1A7E192D023D3900D0EFF8 /* MovePiecesToObtainAString.swift in Sources */,
 				ADF0631728D4902300546CCC /* MoveZeroes.swift in Sources */,
 				ADE5E9DC2B3C41DF00511842 /* MinimumTimeToMakeRopeColorful.swift in Sources */,
 				AD17DA472B2B23AF00AA83F5 /* DifferenceBetweenOnesAndZerosInRowAndColumn.swift in Sources */,
