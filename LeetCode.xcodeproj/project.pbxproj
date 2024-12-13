@@ -491,6 +491,7 @@
 		AD9A8EFC2BB773B7007A12CF /* CountSubarraysWhereMaxElementAppearsAtLeastKTimes.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9A8EFB2BB773B7007A12CF /* CountSubarraysWhereMaxElementAppearsAtLeastKTimes.swift */; };
 		AD9ABD352BD3E36100364FA2 /* FindAllGroupsOfFarmland.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9ABD342BD3E36100364FA2 /* FindAllGroupsOfFarmland.swift */; };
 		AD9B070728B049DF00ADFB43 /* LinkedListCycle2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9B070628B049DF00ADFB43 /* LinkedListCycle2.swift */; };
+		AD9B5A432D0CC54D00D86394 /* FindScoreOfAnArrayAfterMarkingAllElements.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9B5A422D0CC54D00D86394 /* FindScoreOfAnArrayAfterMarkingAllElements.swift */; };
 		AD9BC3962C4BDD5600B983A4 /* FindValidMatrixGivenRowAndColumnSums.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9BC3952C4BDD5600B983A4 /* FindValidMatrixGivenRowAndColumnSums.swift */; };
 		AD9BDA152CE8B9AB0046BED7 /* FindThePowerOfKSizeSubarrays1.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9BDA142CE8B9AB0046BED7 /* FindThePowerOfKSizeSubarrays1.swift */; };
 		AD9BEA5D2A5D761F0041D02B /* AllNodesDistanceKInBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9BEA5C2A5D761F0041D02B /* AllNodesDistanceKInBinaryTree.swift */; };
@@ -1334,6 +1335,7 @@
 		AD9A8EFB2BB773B7007A12CF /* CountSubarraysWhereMaxElementAppearsAtLeastKTimes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountSubarraysWhereMaxElementAppearsAtLeastKTimes.swift; sourceTree = "<group>"; };
 		AD9ABD342BD3E36100364FA2 /* FindAllGroupsOfFarmland.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindAllGroupsOfFarmland.swift; sourceTree = "<group>"; };
 		AD9B070628B049DF00ADFB43 /* LinkedListCycle2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkedListCycle2.swift; sourceTree = "<group>"; };
+		AD9B5A422D0CC54D00D86394 /* FindScoreOfAnArrayAfterMarkingAllElements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindScoreOfAnArrayAfterMarkingAllElements.swift; sourceTree = "<group>"; };
 		AD9BC3952C4BDD5600B983A4 /* FindValidMatrixGivenRowAndColumnSums.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindValidMatrixGivenRowAndColumnSums.swift; sourceTree = "<group>"; };
 		AD9BDA142CE8B9AB0046BED7 /* FindThePowerOfKSizeSubarrays1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindThePowerOfKSizeSubarrays1.swift; sourceTree = "<group>"; };
 		AD9BEA5C2A5D761F0041D02B /* AllNodesDistanceKInBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllNodesDistanceKInBinaryTree.swift; sourceTree = "<group>"; };
@@ -1957,6 +1959,7 @@
 				ADF9806B28AC03CF004BB6EC /* FindPivotIndex.swift */,
 				AD2565B02B555E3800E61E7D /* FindPlayersWithZeroOrOneLosses.swift */,
 				AD46A7542B7E47ED005A7047 /* FindPolygonWithTheLargestPerimeter.swift */,
+				AD9B5A422D0CC54D00D86394 /* FindScoreOfAnArrayAfterMarkingAllElements.swift */,
 				ADBA5AF92A335484008934B2 /* FindSmallestLetterGreaterThanTarget.swift */,
 				AD1847F92C542C77003A848D /* FindTheCityWithTheSmallestNumberOfNeighborsAtAThresholdDistance.swift */,
 				AD4111842C7A207800AE0077 /* FindTheClosestPalindrome.swift */,
@@ -3284,6 +3287,7 @@
 				AD3831002A5452D5003B68D8 /* SingleNumber2.swift in Sources */,
 				ADE1BD2728DC7CAF008ED566 /* RottingOranges.swift in Sources */,
 				AD29F18B2D0A19C8005C5308 /* MaximumBeautyOfAnArrayAfterApplyingOperation.swift in Sources */,
+				AD9B5A432D0CC54D00D86394 /* FindScoreOfAnArrayAfterMarkingAllElements.swift in Sources */,
 				ADCA119C2AE0320000D4FB27 /* ParallelCourses3.swift in Sources */,
 				AD64A7F32CDD478500D1EF4B /* LargestCombinationWithBitwiseANDGreaterThanZero.swift in Sources */,
 				ADE177C72CB2B5FA00B248B1 /* SentenceSimilarity3.swift in Sources */,
