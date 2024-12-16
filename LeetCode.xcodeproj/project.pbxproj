@@ -597,6 +597,7 @@
 		ADBC9C1728EDAA4E00459081 /* GroupAnagrams.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBC9C1628EDAA4E00459081 /* GroupAnagrams.swift */; };
 		ADBD218829980DED00ECD987 /* DesignAddAndSearchWordsDataStructure.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBD218729980DED00ECD987 /* DesignAddAndSearchWordsDataStructure.swift */; };
 		ADBD27A72C407519009C6503 /* ReverseSubstringsBetweenEachPairOfParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBD27A62C407519009C6503 /* ReverseSubstringsBetweenEachPairOfParentheses.swift */; };
+		ADBDCC6D2D10D04D001B1121 /* FinalArrayStateAfterKMultiplicationOperations1.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBDCC6C2D10D04D001B1121 /* FinalArrayStateAfterKMultiplicationOperations1.swift */; };
 		ADBDF86D2CA34E7900C55865 /* FindTheLengthOfTheLongestCommonPrefix.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBDF86C2CA34E7900C55865 /* FindTheLengthOfTheLongestCommonPrefix.swift */; };
 		ADBE3D5F2AAF3473005494AA /* GroupThePeopleGivenTheGroupSizeTheyBelongTo.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBE3D5E2AAF3473005494AA /* GroupThePeopleGivenTheGroupSizeTheyBelongTo.swift */; };
 		ADBED2682CF20BC2007BA267 /* RotatingTheBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBED2672CF20BC2007BA267 /* RotatingTheBox.swift */; };
@@ -1443,6 +1444,7 @@
 		ADBC9C1628EDAA4E00459081 /* GroupAnagrams.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupAnagrams.swift; sourceTree = "<group>"; };
 		ADBD218729980DED00ECD987 /* DesignAddAndSearchWordsDataStructure.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignAddAndSearchWordsDataStructure.swift; sourceTree = "<group>"; };
 		ADBD27A62C407519009C6503 /* ReverseSubstringsBetweenEachPairOfParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseSubstringsBetweenEachPairOfParentheses.swift; sourceTree = "<group>"; };
+		ADBDCC6C2D10D04D001B1121 /* FinalArrayStateAfterKMultiplicationOperations1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinalArrayStateAfterKMultiplicationOperations1.swift; sourceTree = "<group>"; };
 		ADBDF86C2CA34E7900C55865 /* FindTheLengthOfTheLongestCommonPrefix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheLengthOfTheLongestCommonPrefix.swift; sourceTree = "<group>"; };
 		ADBE3D5E2AAF3473005494AA /* GroupThePeopleGivenTheGroupSizeTheyBelongTo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupThePeopleGivenTheGroupSizeTheyBelongTo.swift; sourceTree = "<group>"; };
 		ADBED2672CF20BC2007BA267 /* RotatingTheBox.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotatingTheBox.swift; sourceTree = "<group>"; };
@@ -1934,6 +1936,7 @@
 				AD3C543B2A5061D000FAF190 /* FairDistributionOfCookies.swift */,
 				ADEE310428B7A5B400448525 /* FibonacciNumber.swift */,
 				AD8FC9C32C5AEB2400ED473A /* FillingBookcaseShelves.swift */,
+				ADBDCC6C2D10D04D001B1121 /* FinalArrayStateAfterKMultiplicationOperations1.swift */,
 				ADB53A3928BA4AB300C937F7 /* FindAllAnagramsInAString.swift */,
 				AD3E13802BB217C8002C9356 /* FindAllDuplicatesInAnArray.swift */,
 				AD9ABD342BD3E36100364FA2 /* FindAllGroupsOfFarmland.swift */,
@@ -3401,6 +3404,7 @@
 				AD6E215929474A8100D538ED /* MatrixBlockSum.swift in Sources */,
 				AD3DBB052BED1E3C009A607C /* MaximizeHappinessOfSelectedChildren.swift in Sources */,
 				ADCA48682B3F063D0046A40E /* MinimumDifficultyOfAJobSchedule.swift in Sources */,
+				ADBDCC6D2D10D04D001B1121 /* FinalArrayStateAfterKMultiplicationOperations1.swift in Sources */,
 				AD89C4B42C134B6B00C6EF05 /* ReplaceWords.swift in Sources */,
 				AD2075672CACCEFB004DF8EB /* RankTransformOfAnArray.swift in Sources */,
 				AD0AC56B28BE385B00D4608C /* LastStoneWeight.swift in Sources */,
