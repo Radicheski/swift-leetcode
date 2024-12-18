@@ -539,6 +539,7 @@
 		ADA948202B0398100057E932 /* UniqueLength3PalindromicSubsequences.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA9481F2B0398100057E932 /* UniqueLength3PalindromicSubsequences.swift */; };
 		ADA94B9028D7434D00D07819 /* RemoveNthNodeFromEndOfList.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA94B8F28D7434D00D07819 /* RemoveNthNodeFromEndOfList.swift */; };
 		ADA9AB522BDAA5E600986D9B /* LongestIdealSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA9AB512BDAA5E600986D9B /* LongestIdealSubsequence.swift */; };
+		ADA9DFFA2D137EBC00B8E1AD /* FinalPricesWithASpecialDiscountInAShop.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA9DFF92D137EBC00B8E1AD /* FinalPricesWithASpecialDiscountInAShop.swift */; };
 		ADAA00402ADAFA6300CD0E67 /* PaintingTheWalls.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAA003F2ADAFA6300CD0E67 /* PaintingTheWalls.swift */; };
 		ADAA5A3A29225FDC003EE31E /* BalancedBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAA5A3929225FDC003EE31E /* BalancedBinaryTree.swift */; };
 		ADAAA51E2CD95DF50017448A /* StringCompression3.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAAA51D2CD95DF50017448A /* StringCompression3.swift */; };
@@ -1387,6 +1388,7 @@
 		ADA9481F2B0398100057E932 /* UniqueLength3PalindromicSubsequences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniqueLength3PalindromicSubsequences.swift; sourceTree = "<group>"; };
 		ADA94B8F28D7434D00D07819 /* RemoveNthNodeFromEndOfList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveNthNodeFromEndOfList.swift; sourceTree = "<group>"; };
 		ADA9AB512BDAA5E600986D9B /* LongestIdealSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestIdealSubsequence.swift; sourceTree = "<group>"; };
+		ADA9DFF92D137EBC00B8E1AD /* FinalPricesWithASpecialDiscountInAShop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinalPricesWithASpecialDiscountInAShop.swift; sourceTree = "<group>"; };
 		ADAA003F2ADAFA6300CD0E67 /* PaintingTheWalls.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaintingTheWalls.swift; sourceTree = "<group>"; };
 		ADAA5A3929225FDC003EE31E /* BalancedBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BalancedBinaryTree.swift; sourceTree = "<group>"; };
 		ADAAA51D2CD95DF50017448A /* StringCompression3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringCompression3.swift; sourceTree = "<group>"; };
@@ -1944,6 +1946,7 @@
 				AD3E13802BB217C8002C9356 /* FindAllDuplicatesInAnArray.swift */,
 				AD9ABD342BD3E36100364FA2 /* FindAllGroupsOfFarmland.swift */,
 				AD0978962B8A4E99008453AB /* FindAllPeopleWithSecret.swift */,
+				ADA9DFF92D137EBC00B8E1AD /* FinalPricesWithASpecialDiscountInAShop.swift */,
 				AD3994392B8F8F9000611744 /* FindBottomLeftTreeValue.swift */,
 				AD7ACE762C2DF46100862F4B /* FindCenterOfStarGraph.swift */,
 				ADAB148B2CF6501600C2C640 /* FindChampion2.swift */,
@@ -2736,6 +2739,7 @@
 				AD3C92F028F19E7F00E90724 /* IntersectionOfTwoLinkedLists.swift in Sources */,
 				AD743E862AB21D5A00B1D79A /* Candy.swift in Sources */,
 				ADEFCB5428E5B7E000F62033 /* DesignHashMap.swift in Sources */,
+				ADA9DFFA2D137EBC00B8E1AD /* FinalPricesWithASpecialDiscountInAShop.swift in Sources */,
 				AD2F35512C372EE90002BEDB /* MergeNodesInBetweenZeros.swift in Sources */,
 				AD7B3DB229893F4800DB46E4 /* WaterAndJugProblem.swift in Sources */,
 				AD7683CB2C615C08000B0F56 /* KthDistinctStringInAnArray.swift in Sources */,
