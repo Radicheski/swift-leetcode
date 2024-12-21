@@ -16,6 +16,7 @@
 		AD01A8EA2B4C246C0056AF35 /* RangeSumOfBST.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD01A8E92B4C246C0056AF35 /* RangeSumOfBST.swift */; };
 		AD0233C92B5FF73800090594 /* MaximumLengthOfAConcatenatedStringWithUniqueCharacters.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0233C82B5FF73800090594 /* MaximumLengthOfAConcatenatedStringWithUniqueCharacters.swift */; };
 		AD0274492CD799BB0074C95C /* RotateString.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0274482CD799BB0074C95C /* RotateString.swift */; };
+		AD032B432D16DFDF00548B53 /* MaximumNumberOfKDivisibleComponents.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD032B422D16DFDF00548B53 /* MaximumNumberOfKDivisibleComponents.swift */; };
 		AD035F2A2BF3A700008E1A6F /* PathWithMaximumGold.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD035F292BF3A700008E1A6F /* PathWithMaximumGold.swift */; };
 		AD03742C2CC0431B00C3CBC8 /* LongestHappyString.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD03742B2CC0431B00C3CBC8 /* LongestHappyString.swift */; };
 		AD037C342A753411005299BE /* SoupServings.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD037C332A753411005299BE /* SoupServings.swift */; };
@@ -867,6 +868,7 @@
 		AD01A8E92B4C246C0056AF35 /* RangeSumOfBST.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RangeSumOfBST.swift; sourceTree = "<group>"; };
 		AD0233C82B5FF73800090594 /* MaximumLengthOfAConcatenatedStringWithUniqueCharacters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumLengthOfAConcatenatedStringWithUniqueCharacters.swift; sourceTree = "<group>"; };
 		AD0274482CD799BB0074C95C /* RotateString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateString.swift; sourceTree = "<group>"; };
+		AD032B422D16DFDF00548B53 /* MaximumNumberOfKDivisibleComponents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumNumberOfKDivisibleComponents.swift; sourceTree = "<group>"; };
 		AD035F292BF3A700008E1A6F /* PathWithMaximumGold.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathWithMaximumGold.swift; sourceTree = "<group>"; };
 		AD03742B2CC0431B00C3CBC8 /* LongestHappyString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestHappyString.swift; sourceTree = "<group>"; };
 		AD037C332A753411005299BE /* SoupServings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoupServings.swift; sourceTree = "<group>"; };
@@ -1946,11 +1948,11 @@
 				ADEE310428B7A5B400448525 /* FibonacciNumber.swift */,
 				AD8FC9C32C5AEB2400ED473A /* FillingBookcaseShelves.swift */,
 				ADBDCC6C2D10D04D001B1121 /* FinalArrayStateAfterKMultiplicationOperations1.swift */,
+				ADA9DFF92D137EBC00B8E1AD /* FinalPricesWithASpecialDiscountInAShop.swift */,
 				ADB53A3928BA4AB300C937F7 /* FindAllAnagramsInAString.swift */,
 				AD3E13802BB217C8002C9356 /* FindAllDuplicatesInAnArray.swift */,
 				AD9ABD342BD3E36100364FA2 /* FindAllGroupsOfFarmland.swift */,
 				AD0978962B8A4E99008453AB /* FindAllPeopleWithSecret.swift */,
-				ADA9DFF92D137EBC00B8E1AD /* FinalPricesWithASpecialDiscountInAShop.swift */,
 				AD3994392B8F8F9000611744 /* FindBottomLeftTreeValue.swift */,
 				AD7ACE762C2DF46100862F4B /* FindCenterOfStarGraph.swift */,
 				ADAB148B2CF6501600C2C640 /* FindChampion2.swift */,
@@ -2149,6 +2151,7 @@
 				AD3DBB042BED1E3C009A607C /* MaximizeHappinessOfSelectedChildren.swift */,
 				AD7F8B632A11074B00213368 /* MaximizeScoreAfterNOperations.swift */,
 				AD2481F42A5832E800780C84 /* MaximizeTheConfusionOfAnExam.swift */,
+				AD044E0D2D0EFAC40009EB31 /* MaximumAveragePassRatio.swift */,
 				AD29F18A2D0A19C8005C5308 /* MaximumBeautyOfAnArrayAfterApplyingOperation.swift */,
 				ADA4798A28CCCEF800C23FF0 /* MaximumDepthOfBinaryTree.swift */,
 				ADA0D1BE2B50231700D96295 /* MaximumDifferenceBetweenNodeAndAncestor.swift */,
@@ -2165,11 +2168,11 @@
 				ADB872502B10DA9000068F62 /* MaximumNumberOfCoinsYouCanGet.swift */,
 				AD8C969B2A62E17500717FED /* MaximumNumberOfEventsThatCanBeAttended2.swift */,
 				ADA017E02D03819F00A76A02 /* MaximumNumberOfIntegersToChooseFromARange1.swift */,
+				AD032B422D16DFDF00548B53 /* MaximumNumberOfKDivisibleComponents.swift */,
 				ADC9D7ED2CD17AD5006F227A /* MaximumNumberOfMovesInAGrid.swift */,
 				ADFBD2932C70C452001819BD /* MaximumNumberOfPointsWithCost.swift */,
 				ADEC4C712A04870400976373 /* MaximumNumberOfVowelsInASubstringOfGivenLength.swift */,
 				ADDADA8D2B9164EE00306DE5 /* MaximumOddBinaryNumber.swift */,
-				AD044E0D2D0EFAC40009EB31 /* MaximumAveragePassRatio.swift */,
 				ADA7A4F82B306F8000FD2F77 /* MaximumProductDifferenceBetweenTwoPairs.swift */,
 				AD86B4842B28816B00A65358 /* MaximumProductOfTwoElementsInAnArray.swift */,
 				ADF22B83292BA5AC00DF8FCA /* MaximumProductSubarray.swift */,
@@ -3192,6 +3195,7 @@
 				AD23E1912A349B2800A66AEB /* MaximumValueAtAGivenIndexInABoundedArray.swift in Sources */,
 				AD80F1BB2C26279A00B234E0 /* GrumpyBookstoreOwner.swift in Sources */,
 				AD5220232CFCCB9A00F9DE9E /* CheckIfNAndItsDoubleExist.swift in Sources */,
+				AD032B432D16DFDF00548B53 /* MaximumNumberOfKDivisibleComponents.swift in Sources */,
 				ADDA879C2BC56CD800BB1145 /* TimeNeededToBuyTickets.swift in Sources */,
 				AD4F660A298A8E020015FB4B /* OpenTheLock.swift in Sources */,
 				AD06B7472CF8F2590010584A /* MinimumObstacleRemovalToReachCorner.swift in Sources */,
