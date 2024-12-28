@@ -519,6 +519,7 @@
 		ADA0D34F2CD40B13007810ED /* MinimumTotalDistanceTraveled.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA0D34E2CD40B13007810ED /* MinimumTotalDistanceTraveled.swift */; };
 		ADA173A029200D66006D0F09 /* OddEvenLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA1739F29200D66006D0F09 /* OddEvenLinkedList.swift */; };
 		ADA173A229200E39006D0F09 /* SortList.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA173A129200E39006D0F09 /* SortList.swift */; };
+		ADA1F1B42D2021C600BB76B8 /* MaximumSumOf3NonOverlappingSubarrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA1F1B32D2021C500BB76B8 /* MaximumSumOf3NonOverlappingSubarrays.swift */; };
 		ADA364292ACAE9BC00EBE7F1 /* RemoveColoredPiecesIfBothNeighborsAreTheSameColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA364282ACAE9BC00EBE7F1 /* RemoveColoredPiecesIfBothNeighborsAreTheSameColor.swift */; };
 		ADA376E22A4F01B3008783CC /* LastDayWhereYouCanStillCross.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA376E12A4F01B3008783CC /* LastDayWhereYouCanStillCross.swift */; };
 		ADA3E8612C4AF244003A2409 /* LuckyNumbersInAMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA3E8602C4AF244003A2409 /* LuckyNumbersInAMatrix.swift */; };
@@ -1375,6 +1376,7 @@
 		ADA0D34E2CD40B13007810ED /* MinimumTotalDistanceTraveled.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumTotalDistanceTraveled.swift; sourceTree = "<group>"; };
 		ADA1739F29200D66006D0F09 /* OddEvenLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OddEvenLinkedList.swift; sourceTree = "<group>"; };
 		ADA173A129200E39006D0F09 /* SortList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortList.swift; sourceTree = "<group>"; };
+		ADA1F1B32D2021C500BB76B8 /* MaximumSumOf3NonOverlappingSubarrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumSumOf3NonOverlappingSubarrays.swift; sourceTree = "<group>"; };
 		ADA364282ACAE9BC00EBE7F1 /* RemoveColoredPiecesIfBothNeighborsAreTheSameColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveColoredPiecesIfBothNeighborsAreTheSameColor.swift; sourceTree = "<group>"; };
 		ADA376E12A4F01B3008783CC /* LastDayWhereYouCanStillCross.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LastDayWhereYouCanStillCross.swift; sourceTree = "<group>"; };
 		ADA3E8602C4AF244003A2409 /* LuckyNumbersInAMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LuckyNumbersInAMatrix.swift; sourceTree = "<group>"; };
@@ -2195,6 +2197,7 @@
 				ADBEEB6928BF84F90069B4BB /* MaximumSubarray.swift */,
 				AD32C9632A1E7F7D00A8CAC6 /* MaximumSubsequenceScore.swift */,
 				AD852694293BA3ED0096B9D2 /* MaximumSumCircularSubarray.swift */,
+				ADA1F1B32D2021C500BB76B8 /* MaximumSumOf3NonOverlappingSubarrays.swift */,
 				AD8DCC0E2CED1D3800753D43 /* MaximumSumOfDistinctSubarraysWithLengthK.swift */,
 				AD0C11DF2CC19A26002BDC97 /* MaximumSwap.swift */,
 				AD1CCC97299E5C86006A130E /* MaximumTastinessOfCandyBasket.swift */,
@@ -2992,6 +2995,7 @@
 				AD703FED2A4C8F3900E15D53 /* PathWithMaximumProbability.swift in Sources */,
 				AD1B6E3E2A9FAA4A0094AEEC /* MinimumReplacementsToSortTheArray.swift in Sources */,
 				ADD67EA529796DDA00402175 /* DesignAuthenticationManager.swift in Sources */,
+				ADA1F1B42D2021C600BB76B8 /* MaximumSumOf3NonOverlappingSubarrays.swift in Sources */,
 				AD35997D2913DFBE0082AC68 /* NumberOfLongestIncreasingSubsequence.swift in Sources */,
 				ADF22B82292BA54000DF8FCA /* PartitionEqualSubsetSum.swift in Sources */,
 				AD4B182F2966FE7400262815 /* AddToArrayFormOfInteger.swift in Sources */,
