@@ -566,6 +566,7 @@
 		ADAF390A2ABB629C00C9CAD1 /* MinimumOperationsToReduceXToZero.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAF39092ABB629C00C9CAD1 /* MinimumOperationsToReduceXToZero.swift */; };
 		ADAFABDE2B14B6E100F53133 /* KnightDialer.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAFABDD2B14B6E100F53133 /* KnightDialer.swift */; };
 		ADB002742B0A3743003199E7 /* ReductionOperationsToMakeTheArrayElementsEqual.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB002732B0A3743003199E7 /* ReductionOperationsToMakeTheArrayElementsEqual.swift */; };
+		ADB035EF2D2C606600337EF8 /* MinimumNumberOfOperationsToMoveAllBallsToEachBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB035EE2D2C606600337EF8 /* MinimumNumberOfOperationsToMoveAllBallsToEachBox.swift */; };
 		ADB073AB2C07993300E47010 /* NumberOfStepsToReduceANumberInBinaryRepresentationToOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB073AA2C07993300E47010 /* NumberOfStepsToReduceANumberInBinaryRepresentationToOne.swift */; };
 		ADB0D9FF2960587A0016CA62 /* DesignParkingSystem.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB0D9FE2960587A0016CA62 /* DesignParkingSystem.swift */; };
 		ADB0DA01296059E10016CA62 /* RangeSumQueryImmutable.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB0DA00296059E10016CA62 /* RangeSumQueryImmutable.swift */; };
@@ -1426,6 +1427,7 @@
 		ADAF39092ABB629C00C9CAD1 /* MinimumOperationsToReduceXToZero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumOperationsToReduceXToZero.swift; sourceTree = "<group>"; };
 		ADAFABDD2B14B6E100F53133 /* KnightDialer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KnightDialer.swift; sourceTree = "<group>"; };
 		ADB002732B0A3743003199E7 /* ReductionOperationsToMakeTheArrayElementsEqual.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReductionOperationsToMakeTheArrayElementsEqual.swift; sourceTree = "<group>"; };
+		ADB035EE2D2C606600337EF8 /* MinimumNumberOfOperationsToMoveAllBallsToEachBox.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberOfOperationsToMoveAllBallsToEachBox.swift; sourceTree = "<group>"; };
 		ADB073AA2C07993300E47010 /* NumberOfStepsToReduceANumberInBinaryRepresentationToOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfStepsToReduceANumberInBinaryRepresentationToOne.swift; sourceTree = "<group>"; };
 		ADB0D9FE2960587A0016CA62 /* DesignParkingSystem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignParkingSystem.swift; sourceTree = "<group>"; };
 		ADB0DA00296059E10016CA62 /* RangeSumQueryImmutable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RangeSumQueryImmutable.swift; sourceTree = "<group>"; };
@@ -2273,6 +2275,7 @@
 				AD0EAE3D2AD576C400E25C63 /* MinimumNumberOfOperationsToMakeArrayContinuous.swift */,
 				AD18849F2B46E43E004E03C0 /* MinimumNumberOfOperationsToMakeArrayEmpty.swift */,
 				ADABE4E62BE0132500B1C1AE /* MinimumNumberOfOperationsToMakeArrayXOREqualToK.swift */,
+				ADB035EE2D2C606600337EF8 /* MinimumNumberOfOperationsToMoveAllBallsToEachBox.swift */,
 				ADFFB2BF2D1997E30019B8B7 /* MinimumNumberOfOperationsToSortABinaryTreeByLevel.swift */,
 				AD0B81B02C62AC98009D7A18 /* MinimumNumberOfPushesToTypeWord2.swift */,
 				AD2D8D8E2CD2C3AF006378B1 /* MinimumNumberOfRemovalsToMakeMountainArray.swift */,
@@ -3491,6 +3494,7 @@
 				AD8C4DAC2C5D662F00C9D5B1 /* MinimumSwapsToGroupAllOnesTogether2.swift in Sources */,
 				AD35C3962A07F99D00ABC066 /* FindTheLongestValidObstacleCourseAtEachPosition.swift in Sources */,
 				ADF31932291141650038DE57 /* ArithmeticSlices.swift in Sources */,
+				ADB035EF2D2C606600337EF8 /* MinimumNumberOfOperationsToMoveAllBallsToEachBox.swift in Sources */,
 				ADEC51E12C937E6C00C44930 /* CountTheNumberOfConsistentStrings.swift in Sources */,
 				AD64D09D29F5A50800A9B9DF /* RestoreTheArray.swift in Sources */,
 				ADC806242A0EBBF300900451 /* SolvingQuestionsWithBrainpower.swift in Sources */,
