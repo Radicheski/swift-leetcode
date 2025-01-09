@@ -275,6 +275,7 @@
 		AD4E5C1029DC79CB0013141B /* OptimalPartitionOfString.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4E5C0F29DC79CB0013141B /* OptimalPartitionOfString.swift */; };
 		AD4F072A2985905C00FBFD05 /* NumberOfOperationsToMakeNetworkConnected.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4F07292985905C00FBFD05 /* NumberOfOperationsToMakeNetworkConnected.swift */; };
 		AD4F2F4329D9A3FA00836092 /* SuccessfulPairsOfSpellsAndPotions.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4F2F4229D9A3FA00836092 /* SuccessfulPairsOfSpellsAndPotions.swift */; };
+		AD4F327E2D30511F00F19357 /* CountingWordsWithAGivenPrefix.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4F327D2D30511F00F19357 /* CountingWordsWithAGivenPrefix.swift */; };
 		AD4F6608298A8D230015FB4B /* MinimumGeneticMutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4F6607298A8D230015FB4B /* MinimumGeneticMutation.swift */; };
 		AD4F660A298A8E020015FB4B /* OpenTheLock.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4F6609298A8E020015FB4B /* OpenTheLock.swift */; };
 		AD4F660C298A91380015FB4B /* WordLadder.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4F660B298A91380015FB4B /* WordLadder.swift */; };
@@ -1138,6 +1139,7 @@
 		AD4E5C0F29DC79CB0013141B /* OptimalPartitionOfString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OptimalPartitionOfString.swift; sourceTree = "<group>"; };
 		AD4F07292985905C00FBFD05 /* NumberOfOperationsToMakeNetworkConnected.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfOperationsToMakeNetworkConnected.swift; sourceTree = "<group>"; };
 		AD4F2F4229D9A3FA00836092 /* SuccessfulPairsOfSpellsAndPotions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuccessfulPairsOfSpellsAndPotions.swift; sourceTree = "<group>"; };
+		AD4F327D2D30511F00F19357 /* CountingWordsWithAGivenPrefix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountingWordsWithAGivenPrefix.swift; sourceTree = "<group>"; };
 		AD4F6607298A8D230015FB4B /* MinimumGeneticMutation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumGeneticMutation.swift; sourceTree = "<group>"; };
 		AD4F6609298A8E020015FB4B /* OpenTheLock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OpenTheLock.swift; sourceTree = "<group>"; };
 		AD4F660B298A91380015FB4B /* WordLadder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordLadder.swift; sourceTree = "<group>"; };
@@ -1883,6 +1885,7 @@
 				ADCDE5D62AAE01910030B8F8 /* CountAllValidPickupAndDeliveryOptions.swift */,
 				AD3C90C72B9B59BC001F115E /* CountElementsWithMaximumFrequency.swift */,
 				ADE2479F2AA2226A006CD210 /* CountingBits.swift */,
+				AD4F327D2D30511F00F19357 /* CountingWordsWithAGivenPrefix.swift */,
 				AD13E4C32A31F899000E2C82 /* CountNegativeNumbersInASortedMatrix.swift */,
 				ADF6F0C32B0CD3F5007F93A6 /* CountNicePairsInAnArray.swift */,
 				AD3035E12AF3D9DA000D642D /* CountNodesEqualToAverageOfSubtree.swift */,
@@ -3064,6 +3067,7 @@
 				AD4BDEA828A7DAB300E61565 /* RomanToInteger.swift in Sources */,
 				ADCEB3C92B95EE3500E583BA /* BagOfTokens.swift in Sources */,
 				AD801F0C294893870098DF16 /* UniquePaths2.swift in Sources */,
+				AD4F327E2D30511F00F19357 /* CountingWordsWithAGivenPrefix.swift in Sources */,
 				AD91340D2BFA40510048EBB3 /* FindTheMaximumSumOfNodeValues.swift in Sources */,
 				ADF7A6E22AE7EA5E001BDE5C /* FindLargestValueInEachTreeRow.swift in Sources */,
 				AD45389F2CA48E7900F8E1CB /* SumOfPrefixScoresOfStrings.swift in Sources */,
