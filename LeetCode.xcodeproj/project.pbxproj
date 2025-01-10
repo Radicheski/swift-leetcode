@@ -689,6 +689,7 @@
 		ADD2F0C229645ADB003B0038 /* DeleteColumnsToMakeSorted.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD2F0C129645ADB003B0038 /* DeleteColumnsToMakeSorted.swift */; };
 		ADD2F9182A3DF45300AC9783 /* MakeArrayStrictlyIncreasing.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD2F9172A3DF45300AC9783 /* MakeArrayStrictlyIncreasing.swift */; };
 		ADD51E832A12586C00B9ED49 /* SwappingNodesInALinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD51E822A12586C00B9ED49 /* SwappingNodesInALinkedList.swift */; };
+		ADD52C182D31B40A00354576 /* WordSubsets.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD52C172D31B40A00354576 /* WordSubsets.swift */; };
 		ADD553E92C10B50000F15B6A /* FindCommonCharacters.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD553E82C10B50000F15B6A /* FindCommonCharacters.swift */; };
 		ADD5A75328F9845700DAB4AF /* KthSmallestElementInABST.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD5A75228F9845700DAB4AF /* KthSmallestElementInABST.swift */; };
 		ADD5A75528F984F900DAB4AF /* BinarySearchTreeIterator.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD5A75428F984F900DAB4AF /* BinarySearchTreeIterator.swift */; };
@@ -1553,6 +1554,7 @@
 		ADD2F0C129645ADB003B0038 /* DeleteColumnsToMakeSorted.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeleteColumnsToMakeSorted.swift; sourceTree = "<group>"; };
 		ADD2F9172A3DF45300AC9783 /* MakeArrayStrictlyIncreasing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakeArrayStrictlyIncreasing.swift; sourceTree = "<group>"; };
 		ADD51E822A12586C00B9ED49 /* SwappingNodesInALinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwappingNodesInALinkedList.swift; sourceTree = "<group>"; };
+		ADD52C172D31B40A00354576 /* WordSubsets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordSubsets.swift; sourceTree = "<group>"; };
 		ADD553E82C10B50000F15B6A /* FindCommonCharacters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindCommonCharacters.swift; sourceTree = "<group>"; };
 		ADD5A75228F9845700DAB4AF /* KthSmallestElementInABST.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KthSmallestElementInABST.swift; sourceTree = "<group>"; };
 		ADD5A75428F984F900DAB4AF /* BinarySearchTreeIterator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinarySearchTreeIterator.swift; sourceTree = "<group>"; };
@@ -2630,6 +2632,7 @@
 				AD4F660B298A91380015FB4B /* WordLadder.swift */,
 				ADF9B02128EC4CF8003975A6 /* WordPattern.swift */,
 				ADE79407290DA7D700D0D035 /* WordSearch.swift */,
+				ADD52C172D31B40A00354576 /* WordSubsets.swift */,
 				AD13690C2C94E7730045DD15 /* XORQueriesOfASubarray.swift */,
 				ADE1BD2428DC7C2A008ED566 /* ZeroOneMatrix.swift */,
 				AD617F2E298D43E600708E31 /* ZigzagConversion.swift */,
@@ -2803,6 +2806,7 @@
 				AD5A29E62C68FD0700BD1550 /* MinimumNumberOfDaysToDisconnectIsland.swift in Sources */,
 				AD009DD12CF7A45700AD7301 /* ShortestDistanceAfterRoadAdditionQueries1.swift in Sources */,
 				AD78E35A2AEED8A800627825 /* PoorPigs.swift in Sources */,
+				ADD52C182D31B40A00354576 /* WordSubsets.swift in Sources */,
 				AD0525122BE938D500507C0E /* RemoveNodesFromLinkedList.swift in Sources */,
 				AD07CAF828F5877E00B2E73A /* MinStack.swift in Sources */,
 				ADF1BDBA29911FC500A87869 /* ShuffleTheArray.swift in Sources */,
