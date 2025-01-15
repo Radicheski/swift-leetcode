@@ -766,6 +766,7 @@
 		ADE650E6291BD1880038FDD1 /* SpiralMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE650E5291BD1880038FDD1 /* SpiralMatrix.swift */; };
 		ADE650E8291BD2740038FDD1 /* WhereWillTheBallFall.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE650E7291BD2740038FDD1 /* WhereWillTheBallFall.swift */; };
 		ADE6679129DAF5AB00E5F90B /* BoatsToSavePeople.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE6679029DAF5AB00E5F90B /* BoatsToSavePeople.swift */; };
+		ADE6878A2D3857A2006F85B0 /* MinimizeXOR.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE687892D3857A2006F85B0 /* MinimizeXOR.swift */; };
 		ADE692A32A99023F00E24608 /* InterleavingString.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE692A22A99023F00E24608 /* InterleavingString.swift */; };
 		ADE6A4D22AC25BE700313E81 /* RemoveDuplicateLetters.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE6A4D12AC25BE700313E81 /* RemoveDuplicateLetters.swift */; };
 		ADE79404290DA55D00D0D035 /* LetterCombinationsOfAPhoneNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE79403290DA55D00D0D035 /* LetterCombinationsOfAPhoneNumber.swift */; };
@@ -1635,6 +1636,7 @@
 		ADE650E5291BD1880038FDD1 /* SpiralMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpiralMatrix.swift; sourceTree = "<group>"; };
 		ADE650E7291BD2740038FDD1 /* WhereWillTheBallFall.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhereWillTheBallFall.swift; sourceTree = "<group>"; };
 		ADE6679029DAF5AB00E5F90B /* BoatsToSavePeople.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoatsToSavePeople.swift; sourceTree = "<group>"; };
+		ADE687892D3857A2006F85B0 /* MinimizeXOR.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimizeXOR.swift; sourceTree = "<group>"; };
 		ADE692A22A99023F00E24608 /* InterleavingString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InterleavingString.swift; sourceTree = "<group>"; };
 		ADE6A4D12AC25BE700313E81 /* RemoveDuplicateLetters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveDuplicateLetters.swift; sourceTree = "<group>"; };
 		ADE79403290DA55D00D0D035 /* LetterCombinationsOfAPhoneNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LetterCombinationsOfAPhoneNumber.swift; sourceTree = "<group>"; };
@@ -2254,6 +2256,7 @@
 				AD9E484029DDDF4800593016 /* MinimizeMaximumOfArray.swift */,
 				AD1693272B078D330036EF08 /* MinimizeMaximumPairSumInArray.swift */,
 				AD99A0F62A84055400F51F91 /* MinimizeTheMaximumDifferenceOfPairs.swift */,
+				ADE687892D3857A2006F85B0 /* MinimizeXOR.swift */,
 				ADE8F4762CB70592009730BF /* MinimumAddToMakeParenthesesValid.swift */,
 				AD93826D2B0B793700E80ED6 /* MinimumAmountOfTimeToCollectGarbage.swift */,
 				AD8E99D0299BC18A00032CCB /* MinimumAreaRectangle2.swift */,
@@ -3209,6 +3212,7 @@
 				AD7F8B642A11074B00213368 /* MaximizeScoreAfterNOperations.swift in Sources */,
 				AD361C4B28E1C883002962BB /* PowerOfTwo.swift in Sources */,
 				ADE1DE572C11D8670002DBE0 /* HandOfStraights.swift in Sources */,
+				ADE6878A2D3857A2006F85B0 /* MinimizeXOR.swift in Sources */,
 				AD977EA829AA5B1E00129413 /* LongestArithmeticSubsequenceOfGivenDifference.swift in Sources */,
 				AD06B6C129F06799005BF5B8 /* LongestZigZagPathInABinaryTree.swift in Sources */,
 				ADF2C0B9294C964200557C7D /* WiggleSubsequence.swift in Sources */,
