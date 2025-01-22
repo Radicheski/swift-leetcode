@@ -11,6 +11,7 @@
 		AD009DD12CF7A45700AD7301 /* ShortestDistanceAfterRoadAdditionQueries1.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD009DD02CF7A45700AD7301 /* ShortestDistanceAfterRoadAdditionQueries1.swift */; };
 		AD00F44628B96F2600A77B9C /* MinCostClimbingStairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD00F44528B96F2600A77B9C /* MinCostClimbingStairs.swift */; };
 		AD00F44828B96FB900A77B9C /* UniquePaths.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD00F44728B96FB900A77B9C /* UniquePaths.swift */; };
+		AD011A612D419A8600105521 /* MapOfHighestPeak.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD011A602D419A8600105521 /* MapOfHighestPeak.swift */; };
 		AD015018296C3A8500C763CC /* ArithmeticSubarrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD015017296C3A8500C763CC /* ArithmeticSubarrays.swift */; };
 		AD01501A296C3B9500C763CC /* NaryTreeLevelOrderTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD015019296C3B9500C763CC /* NaryTreeLevelOrderTraversal.swift */; };
 		AD01A8EA2B4C246C0056AF35 /* RangeSumOfBST.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD01A8E92B4C246C0056AF35 /* RangeSumOfBST.swift */; };
@@ -886,6 +887,7 @@
 		AD009DD02CF7A45700AD7301 /* ShortestDistanceAfterRoadAdditionQueries1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShortestDistanceAfterRoadAdditionQueries1.swift; sourceTree = "<group>"; };
 		AD00F44528B96F2600A77B9C /* MinCostClimbingStairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinCostClimbingStairs.swift; sourceTree = "<group>"; };
 		AD00F44728B96FB900A77B9C /* UniquePaths.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniquePaths.swift; sourceTree = "<group>"; };
+		AD011A602D419A8600105521 /* MapOfHighestPeak.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapOfHighestPeak.swift; sourceTree = "<group>"; };
 		AD015017296C3A8500C763CC /* ArithmeticSubarrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArithmeticSubarrays.swift; sourceTree = "<group>"; };
 		AD015019296C3B9500C763CC /* NaryTreeLevelOrderTraversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NaryTreeLevelOrderTraversal.swift; sourceTree = "<group>"; };
 		AD01A8E92B4C246C0056AF35 /* RangeSumOfBST.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RangeSumOfBST.swift; sourceTree = "<group>"; };
@@ -2010,7 +2012,6 @@
 				ADAB148B2CF6501600C2C640 /* FindChampion2.swift */,
 				AD6E241429814E9D0012D133 /* FindClosestNodeToGivenTwoNodes.swift */,
 				ADD553E82C10B50000F15B6A /* FindCommonCharacters.swift */,
-				AD3A5B662D3EF25A00DDAA08 /* FirstCompletelyPaintedRowOrColumn.swift */,
 				AD0567C02A90ECDF006DE235 /* FindCriticalAndPseudoCriticalEdgesInMinimumSpanningTree.swift */,
 				AD27DB0C29AE2038007BAD2B /* FindDuplicateSubtrees.swift */,
 				AD6EC99229868F8900FA64B1 /* FindEventualSafeStates.swift */,
@@ -2019,7 +2020,6 @@
 				ADACB30C2CDBF8B500D97B62 /* FindIfArrayCanBeSorted.swift */,
 				AD9FF2062BD568CD00E923A8 /* FindIfPathExistsInGraph.swift */,
 				ADFBDBBA2AD89178000D4997 /* FindInMountainArray.swift */,
-				ADFFF6B42D3FF1CD00F84366 /* GridGame.swift */,
 				AD0E7EEA2A4B51C4001B088E /* FindKPairsWithSmallestSums.swift */,
 				AD9D38322CC3313100658941 /* FindKthBitInNthBinaryString.swift */,
 				ADAE1E102C6D395400D046F1 /* FindKthSmallestPairDistance.swift */,
@@ -2061,6 +2061,7 @@
 				AD9BC3952C4BDD5600B983A4 /* FindValidMatrixGivenRowAndColumnSums.swift */,
 				AD5065602B1B60FA009455AE /* FindWordsThatCanBeFormedByCharacters.swift */,
 				ADD1C41B28B3CA3F00E63642 /* FirstBadVersion.swift */,
+				AD3A5B662D3EF25A00DDAA08 /* FirstCompletelyPaintedRowOrColumn.swift */,
 				AD37931F2BB319330047D1E0 /* FirstMissingPositive.swift */,
 				ADF58E0F28C622D7000E08DB /* FirstUniqueCharacterInAString.swift */,
 				AD4BDEA928A7DDA700E61565 /* FizzBuzz.swift */,
@@ -2081,6 +2082,7 @@
 				AD9A0D8B295B5D17009B9BB5 /* GoalParserInterpretation.swift */,
 				AD4F660D298ABB490015FB4B /* GreatestCommonDivisorOfStrings.swift */,
 				AD1421F62B8B7DB20070BD74 /* GreatestCommonDivisorTraversal.swift */,
+				ADFFF6B42D3FF1CD00F84366 /* GridGame.swift */,
 				ADBC9C1628EDAA4E00459081 /* GroupAnagrams.swift */,
 				ADBE3D5E2AAF3473005494AA /* GroupThePeopleGivenTheGroupSizeTheyBelongTo.swift */,
 				AD80F1BA2C26279A00B234E0 /* GrumpyBookstoreOwner.swift */,
@@ -2195,6 +2197,7 @@
 				AD7CBBB62CAF2A9C00F92A01 /* MakeSumDivisibleByP.swift */,
 				ADFA6B8B2BC06E9F002ED6B1 /* MakeTheStringGreat.swift */,
 				AD2E56612C5DAE2B0005CCC2 /* MakeTwoArraysEqualByReversingSubarrays.swift */,
+				AD011A602D419A8600105521 /* MapOfHighestPeak.swift */,
 				AD6E215829474A8100D538ED /* MatrixBlockSum.swift */,
 				AD3883EA2959C060005F0B28 /* MatrixDiagonalSum.swift */,
 				AD45D00028D9DCD000544C0A /* MaxAreaOfIsland.swift */,
@@ -2263,7 +2266,6 @@
 				AD9A0D89295B5CA0009B9BB5 /* MergeStringsAlternately.swift */,
 				ADC5823928DB2CA9006D9591 /* MergeTwoBinaryTrees.swift */,
 				AD88EE2228AEA91A007E3D7C /* MergeTwoSortedLists.swift */,
-				ADF02F882D3BC595005EC69D /* MinimumCostToMakeAtLeastOneValidPathInAGrid.swift */,
 				AD4BDEAB28A7DE3200E61565 /* MiddleOfTheLinkedList.swift */,
 				AD00F44528B96F2600A77B9C /* MinCostClimbingStairs.swift */,
 				AD68299D2AB4976C00ECEDFB /* MinCostToConnectAllPoints.swift */,
@@ -2286,6 +2288,7 @@
 				AD69520B2A2380370060C92F /* MinimumCostToCutAStick.swift */,
 				ADAC8C782BEFB0A1004E123B /* MinimumCostToHireKWorkers.swift */,
 				AD60E4A52A436D20007828B7 /* MinimumCostToMakeArrayEqual.swift */,
+				ADF02F882D3BC595005EC69D /* MinimumCostToMakeAtLeastOneValidPathInAGrid.swift */,
 				AD3F2D852AB0909D00004550 /* MinimumDeletionsToMakeCharacterFrequenciesUnique.swift */,
 				AD3CE8DF2C5984B800A64691 /* MinimumDeletionsToMakeStringBalanced.swift */,
 				AD653F622A5C2EEB00C7CCE8 /* MinimumDepthOfBinaryTree.swift */,
@@ -3356,6 +3359,7 @@
 				ADAA5A3A29225FDC003EE31E /* BalancedBinaryTree.swift in Sources */,
 				ADC909CA295876F600115BF8 /* SumOfAllOddLengthSubarrays.swift in Sources */,
 				ADDCDE8C2C98D262001B2CCB /* MinimumTimeDifference.swift in Sources */,
+				AD011A612D419A8600105521 /* MapOfHighestPeak.swift in Sources */,
 				AD8777092B7BFFB3008E0B1B /* FindFirstPalindromicStringInTheArray.swift in Sources */,
 				ADBA3B9F2946224500F9F52F /* MinimumFallingPathSum.swift in Sources */,
 				AD7DC46428CE023F00631E4A /* InvertBinaryTree.swift in Sources */,
