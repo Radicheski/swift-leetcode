@@ -726,6 +726,7 @@
 		ADDADA8E2B9164EE00306DE5 /* MaximumOddBinaryNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADDADA8D2B9164EE00306DE5 /* MaximumOddBinaryNumber.swift */; };
 		ADDB16202C220EED0015AA15 /* SumOfSquareNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADDB161F2C220EED0015AA15 /* SumOfSquareNumbers.swift */; };
 		ADDB16222C22172F0015AA15 /* MostProfitAssigningWork.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADDB16212C22172F0015AA15 /* MostProfitAssigningWork.swift */; };
+		ADDB77B62D42E6C900491ECB /* CountServersThatCommunicate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADDB77B52D42E6C900491ECB /* CountServersThatCommunicate.swift */; };
 		ADDC21162CE2892A002ADC16 /* PrimeSubtractionOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADDC21152CE2892A002ADC16 /* PrimeSubtractionOperation.swift */; };
 		ADDC47DD28E85E7D0099DDC5 /* SearchA2DMatrix2.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADDC47DC28E85E7D0099DDC5 /* SearchA2DMatrix2.swift */; };
 		ADDC47DF28E861E40099DDC5 /* NonOverlappingIntervals.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADDC47DE28E861E40099DDC5 /* NonOverlappingIntervals.swift */; };
@@ -1603,6 +1604,7 @@
 		ADDADA8D2B9164EE00306DE5 /* MaximumOddBinaryNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumOddBinaryNumber.swift; sourceTree = "<group>"; };
 		ADDB161F2C220EED0015AA15 /* SumOfSquareNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOfSquareNumbers.swift; sourceTree = "<group>"; };
 		ADDB16212C22172F0015AA15 /* MostProfitAssigningWork.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MostProfitAssigningWork.swift; sourceTree = "<group>"; };
+		ADDB77B52D42E6C900491ECB /* CountServersThatCommunicate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountServersThatCommunicate.swift; sourceTree = "<group>"; };
 		ADDC21152CE2892A002ADC16 /* PrimeSubtractionOperation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrimeSubtractionOperation.swift; sourceTree = "<group>"; };
 		ADDC47DC28E85E7D0099DDC5 /* SearchA2DMatrix2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchA2DMatrix2.swift; sourceTree = "<group>"; };
 		ADDC47DE28E861E40099DDC5 /* NonOverlappingIntervals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NonOverlappingIntervals.swift; sourceTree = "<group>"; };
@@ -1923,6 +1925,7 @@
 				AD69BA102951D67B00986792 /* CountOddNumbersInAnIntervalRange.swift */,
 				ADEB25C62B1F438100783C6E /* CountOfMatchesInTournament.swift */,
 				AD5932C32D2F083F0025A268 /* CountPrefixAndSuffixPairs1.swift */,
+				ADDB77B52D42E6C900491ECB /* CountServersThatCommunicate.swift */,
 				AD6A80B52CCE7B8C00755E00 /* CountSquareSubmatricesWithAllOnes.swift */,
 				AD9A8EFB2BB773B7007A12CF /* CountSubarraysWhereMaxElementAppearsAtLeastKTimes.swift */,
 				AD63B81329B363D200E41605 /* CountSubarraysWithFixedBounds.swift */,
@@ -2867,6 +2870,7 @@
 				AD00F44828B96FB900A77B9C /* UniquePaths.swift in Sources */,
 				AD14D41F2C6FE0180071F091 /* MaximumDistanceInArrays.swift in Sources */,
 				ADEF81CC2CCC243F0098DFC8 /* RemoveSubFoldersFromTheFilesystem.swift in Sources */,
+				ADDB77B62D42E6C900491ECB /* CountServersThatCommunicate.swift in Sources */,
 				AD3DEE95298FD71F00DD88B5 /* TheSkylineProblem.swift in Sources */,
 				ADD26591295483C20097DD23 /* LargestPerimeterTriangle.swift in Sources */,
 				ADA364292ACAE9BC00EBE7F1 /* RemoveColoredPiecesIfBothNeighborsAreTheSameColor.swift in Sources */,
