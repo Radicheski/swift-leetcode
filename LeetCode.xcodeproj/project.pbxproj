@@ -301,6 +301,7 @@
 		AD59FDCE2A9D7076007CC7AC /* MinimumPenaltyForAShop.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD59FDCD2A9D7076007CC7AC /* MinimumPenaltyForAShop.swift */; };
 		AD5A193F2CAB3D5E00696827 /* DesignAStackWithIncrementOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5A193E2CAB3D5E00696827 /* DesignAStackWithIncrementOperation.swift */; };
 		AD5A29E62C68FD0700BD1550 /* MinimumNumberOfDaysToDisconnectIsland.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5A29E52C68FD0700BD1550 /* MinimumNumberOfDaysToDisconnectIsland.swift */; };
+		AD5ADFD52D464CB800EC3484 /* MaximumEmployeesToBeInvitedToAMeeting.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5ADFD42D464CB800EC3484 /* MaximumEmployeesToBeInvitedToAMeeting.swift */; };
 		AD5B38052B2C879F006A1887 /* DestinationCity.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5B38042B2C879F006A1887 /* DestinationCity.swift */; };
 		AD5C663E2B3B1FCB007D2DFA /* NumberOfDiceRollsWithTargetSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5C663D2B3B1FCB007D2DFA /* NumberOfDiceRollsWithTargetSum.swift */; };
 		AD5CBBE628B251A500495544 /* GenericNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5CBBE528B251A500495544 /* GenericNode.swift */; };
@@ -1179,6 +1180,7 @@
 		AD59FDCD2A9D7076007CC7AC /* MinimumPenaltyForAShop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumPenaltyForAShop.swift; sourceTree = "<group>"; };
 		AD5A193E2CAB3D5E00696827 /* DesignAStackWithIncrementOperation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignAStackWithIncrementOperation.swift; sourceTree = "<group>"; };
 		AD5A29E52C68FD0700BD1550 /* MinimumNumberOfDaysToDisconnectIsland.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberOfDaysToDisconnectIsland.swift; sourceTree = "<group>"; };
+		AD5ADFD42D464CB800EC3484 /* MaximumEmployeesToBeInvitedToAMeeting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumEmployeesToBeInvitedToAMeeting.swift; sourceTree = "<group>"; };
 		AD5B38042B2C879F006A1887 /* DestinationCity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DestinationCity.swift; sourceTree = "<group>"; };
 		AD5C663D2B3B1FCB007D2DFA /* NumberOfDiceRollsWithTargetSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfDiceRollsWithTargetSum.swift; sourceTree = "<group>"; };
 		AD5CBBE528B251A500495544 /* GenericNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GenericNode.swift; sourceTree = "<group>"; };
@@ -2222,6 +2224,7 @@
 				ADA0D1BE2B50231700D96295 /* MaximumDifferenceBetweenNodeAndAncestor.swift */,
 				AD14D41E2C6FE0180071F091 /* MaximumDistanceInArrays.swift */,
 				ADE4C5A52B04F21200EA154A /* MaximumElementAfterDecreasingAndRearranging.swift */,
+				AD5ADFD42D464CB800EC3484 /* MaximumEmployeesToBeInvitedToAMeeting.swift */,
 				AD9147DC29685B47007F9218 /* MaximumIceCreamBars.swift */,
 				AD0233C82B5FF73800090594 /* MaximumLengthOfAConcatenatedStringWithUniqueCharacters.swift */,
 				AD243DAE2A9A35A400E6292C /* MaximumLengthOfPairChain.swift */,
@@ -3021,6 +3024,7 @@
 				AD40A0292BCFF39000AA622A /* SmallestStringStartingFromLeaf.swift in Sources */,
 				ADF7AF10297ECBEF000B34DA /* NumberOfEnclaves.swift in Sources */,
 				ADDE9BEF2AC0668E00761968 /* ChampagneTower.swift in Sources */,
+				AD5ADFD52D464CB800EC3484 /* MaximumEmployeesToBeInvitedToAMeeting.swift in Sources */,
 				AD8273242C33602700A5DD70 /* ThreeConsecutiveOdds.swift in Sources */,
 				AD61AC3F29D70AA600A4C392 /* NumberOfWaysOfCuttingAPizza.swift in Sources */,
 				AD0EAE3E2AD576C400E25C63 /* MinimumNumberOfOperationsToMakeArrayContinuous.swift in Sources */,
