@@ -100,6 +100,7 @@
 		AD1BBB5828BB83CD000032DD /* BullsAndCows.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1BBB5728BB83CD000032DD /* BullsAndCows.swift */; };
 		AD1CBDDD2CFB405600F887E3 /* ValidArrangementOfPairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1CBDDC2CFB405600F887E3 /* ValidArrangementOfPairs.swift */; };
 		AD1CCC98299E5C86006A130E /* MaximumTastinessOfCandyBasket.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1CCC97299E5C86006A130E /* MaximumTastinessOfCandyBasket.swift */; };
+		AD1DFBF92D4AEFD9007C0C5A /* RedundantConnection.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1DFBF82D4AEFD9007C0C5A /* RedundantConnection.swift */; };
 		AD1FADFD2B42F7920025BB9F /* AssignCookies.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1FADFC2B42F7920025BB9F /* AssignCookies.swift */; };
 		AD1FCE0329095C0300A9B623 /* ShortestPathInBinaryMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1FCE0229095C0300A9B623 /* ShortestPathInBinaryMatrix.swift */; };
 		AD1FCE0529095CD800A9B623 /* SurroundedRegions.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1FCE0429095CD800A9B623 /* SurroundedRegions.swift */; };
@@ -981,6 +982,7 @@
 		AD1BBB5728BB83CD000032DD /* BullsAndCows.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BullsAndCows.swift; sourceTree = "<group>"; };
 		AD1CBDDC2CFB405600F887E3 /* ValidArrangementOfPairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidArrangementOfPairs.swift; sourceTree = "<group>"; };
 		AD1CCC97299E5C86006A130E /* MaximumTastinessOfCandyBasket.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumTastinessOfCandyBasket.swift; sourceTree = "<group>"; };
+		AD1DFBF82D4AEFD9007C0C5A /* RedundantConnection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RedundantConnection.swift; sourceTree = "<group>"; };
 		AD1FADFC2B42F7920025BB9F /* AssignCookies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssignCookies.swift; sourceTree = "<group>"; };
 		AD1FCE0229095C0300A9B623 /* ShortestPathInBinaryMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShortestPathInBinaryMatrix.swift; sourceTree = "<group>"; };
 		AD1FCE0429095CD800A9B623 /* SurroundedRegions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SurroundedRegions.swift; sourceTree = "<group>"; };
@@ -2473,6 +2475,7 @@
 				ADEEDDB62B406C1D0074DB7D /* RedistributeCharactersToMakeAllStringsEqual.swift */,
 				AD42FF3629D4AA1F00B569EB /* ReducingDishes.swift */,
 				ADB002732B0A3743003199E7 /* ReductionOperationsToMakeTheArrayElementsEqual.swift */,
+				AD1DFBF82D4AEFD9007C0C5A /* RedundantConnection.swift */,
 				AD6107972C67A759009411B1 /* RegionsCutBySlashes.swift */,
 				AD98C90B2BEBE86100A92C22 /* RelativeRanks.swift */,
 				ADB5CB3D2C18788F00D3777E /* RelativeSortArray.swift */,
@@ -3437,6 +3440,7 @@
 				AD6EC99329868F8900FA64B1 /* FindEventualSafeStates.swift in Sources */,
 				AD4351E02CB5D72000F98740 /* MinimumNumberOfSwapsToMakeTheStringBalanced.swift in Sources */,
 				AD188AA32A76913E00EF81F4 /* StrangePrinter.swift in Sources */,
+				AD1DFBF92D4AEFD9007C0C5A /* RedundantConnection.swift in Sources */,
 				AD6B62DA2AF2BF920078A37A /* FindModeInBinarySearchTree.swift in Sources */,
 				AD22CFC729A39D4F007684C6 /* MinimumNumberOfKConsecutiveBitFlips.swift in Sources */,
 				AD63B81429B363D200E41605 /* CountSubarraysWithFixedBounds.swift in Sources */,
