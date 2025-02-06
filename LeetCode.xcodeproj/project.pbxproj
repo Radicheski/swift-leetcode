@@ -550,6 +550,7 @@
 		ADA580D228F043B20039F9BF /* AddTwoNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA580D128F043B20039F9BF /* AddTwoNumbers.swift */; };
 		ADA5884C2A59BCF900DB623B /* PutMarblesInBags.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA5884B2A59BCF900DB623B /* PutMarblesInBags.swift */; };
 		ADA6ABB82AF5CBD700739593 /* LastMomentBeforeAllAntsFallOutOfAPlank.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA6ABB72AF5CBD700739593 /* LastMomentBeforeAllAntsFallOutOfAPlank.swift */; };
+		ADA704A02D54C9BC005E908B /* TupleWithSameProduct.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA7049F2D54C9BC005E908B /* TupleWithSameProduct.swift */; };
 		ADA7A4F92B306F8000FD2F77 /* MaximumProductDifferenceBetweenTwoPairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA7A4F82B306F8000FD2F77 /* MaximumProductDifferenceBetweenTwoPairs.swift */; };
 		ADA7A5E92B668A0B00306043 /* NumberOfSubmatricesThatSumToTarget.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA7A5E82B668A0B00306043 /* NumberOfSubmatricesThatSumToTarget.swift */; };
 		ADA812D82D18325400FE6191 /* FindBuildingWhereAliceAndBobCanMeet.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA812D72D18325400FE6191 /* FindBuildingWhereAliceAndBobCanMeet.swift */; };
@@ -1438,6 +1439,7 @@
 		ADA580D128F043B20039F9BF /* AddTwoNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddTwoNumbers.swift; sourceTree = "<group>"; };
 		ADA5884B2A59BCF900DB623B /* PutMarblesInBags.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PutMarblesInBags.swift; sourceTree = "<group>"; };
 		ADA6ABB72AF5CBD700739593 /* LastMomentBeforeAllAntsFallOutOfAPlank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LastMomentBeforeAllAntsFallOutOfAPlank.swift; sourceTree = "<group>"; };
+		ADA7049F2D54C9BC005E908B /* TupleWithSameProduct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TupleWithSameProduct.swift; sourceTree = "<group>"; };
 		ADA7A4F82B306F8000FD2F77 /* MaximumProductDifferenceBetweenTwoPairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumProductDifferenceBetweenTwoPairs.swift; sourceTree = "<group>"; };
 		ADA7A5E82B668A0B00306043 /* NumberOfSubmatricesThatSumToTarget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfSubmatricesThatSumToTarget.swift; sourceTree = "<group>"; };
 		ADA812D72D18325400FE6191 /* FindBuildingWhereAliceAndBobCanMeet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindBuildingWhereAliceAndBobCanMeet.swift; sourceTree = "<group>"; };
@@ -2666,6 +2668,7 @@
 				AD48DC9E2940B78E006F912B /* TrappingRainWater.swift */,
 				AD9F99232D3D0C1B0099401F /* TrappingRainWater2.swift */,
 				AD8C5AD128E0751A00E821D7 /* Triangle.swift */,
+				ADA7049F2D54C9BC005E908B /* TupleWithSameProduct.swift */,
 				AD42FC9D2D05C8D000CE3CC8 /* TwoBestNonOverlappingEvents.swift */,
 				ADB5389D2C73D14100EF30F9 /* TwoKeysKeyboard.swift */,
 				AD1BBB5528BB832B000032DD /* TwoSum.swift */,
@@ -3170,6 +3173,7 @@
 				AD8A1EF029044C5C00ABA3F6 /* ContainerWithMostWater.swift in Sources */,
 				ADE2438828F835D900D3AB3F /* DeleteNodeInABST.swift in Sources */,
 				AD67B70E2CBDA5AB0098F859 /* MaximalScoreAfterApplyingKOperations.swift in Sources */,
+				ADA704A02D54C9BC005E908B /* TupleWithSameProduct.swift in Sources */,
 				ADE79406290DA6D800D0D035 /* GenerateParentheses.swift in Sources */,
 				AD04E5CE2CFE43A10023AE5A /* CheckIfAWordOccursAsAPrefixOfAnyWordInASentence.swift in Sources */,
 				AD06B5D82D482CA90009114B /* CourseSchedule4.swift in Sources */,
