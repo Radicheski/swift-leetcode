@@ -342,6 +342,7 @@
 		AD66415D2B49A8E800980F81 /* MaximumProfitInJobScheduling.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD66415C2B49A8E800980F81 /* MaximumProfitInJobScheduling.swift */; };
 		AD66475B2C1734F500FED774 /* HeightChecker.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD66475A2C1734F500FED774 /* HeightChecker.swift */; };
 		AD6669FB29B60A5900C1D36A /* KthMissingPositiveNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6669FA29B60A5900C1D36A /* KthMissingPositiveNumber.swift */; };
+		AD66D7AF2D57ED97006A88D4 /* FindTheNumberOfDistinctColorsAmongTheBalls.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD66D7AE2D57ED97006A88D4 /* FindTheNumberOfDistinctColorsAmongTheBalls.swift */; };
 		AD6743372CFF8C3C00FD0A6E /* AddingSpacesToAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6743362CFF8C3C00FD0A6E /* AddingSpacesToAString.swift */; };
 		AD67B70E2CBDA5AB0098F859 /* MaximalScoreAfterApplyingKOperations.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD67B70D2CBDA5AB0098F859 /* MaximalScoreAfterApplyingKOperations.swift */; };
 		AD67B8B72B52B699001FA175 /* MinimumNumberOfStepsToMakeTwoStringsAnagram.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD67B8B62B52B699001FA175 /* MinimumNumberOfStepsToMakeTwoStringsAnagram.swift */; };
@@ -1231,6 +1232,7 @@
 		AD66415C2B49A8E800980F81 /* MaximumProfitInJobScheduling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumProfitInJobScheduling.swift; sourceTree = "<group>"; };
 		AD66475A2C1734F500FED774 /* HeightChecker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeightChecker.swift; sourceTree = "<group>"; };
 		AD6669FA29B60A5900C1D36A /* KthMissingPositiveNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KthMissingPositiveNumber.swift; sourceTree = "<group>"; };
+		AD66D7AE2D57ED97006A88D4 /* FindTheNumberOfDistinctColorsAmongTheBalls.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheNumberOfDistinctColorsAmongTheBalls.swift; sourceTree = "<group>"; };
 		AD6743362CFF8C3C00FD0A6E /* AddingSpacesToAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddingSpacesToAString.swift; sourceTree = "<group>"; };
 		AD67B70D2CBDA5AB0098F859 /* MaximalScoreAfterApplyingKOperations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximalScoreAfterApplyingKOperations.swift; sourceTree = "<group>"; };
 		AD67B8B62B52B699001FA175 /* MinimumNumberOfStepsToMakeTwoStringsAnagram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberOfStepsToMakeTwoStringsAnagram.swift; sourceTree = "<group>"; };
@@ -2078,6 +2080,7 @@
 				AD35C3952A07F99D00ABC066 /* FindTheLongestValidObstacleCourseAtEachPosition.swift */,
 				AD91340C2BFA40510048EBB3 /* FindTheMaximumSumOfNodeValues.swift */,
 				AD0AFE0D2C387F4A0095C213 /* FindTheMinimumAndMaximumNumberOfNodesBetweenCriticalPoints.swift */,
+				AD66D7AE2D57ED97006A88D4 /* FindTheNumberOfDistinctColorsAmongTheBalls.swift */,
 				AD5358032AF12BEF00C65D10 /* FindTheOriginalArrayOfPrefixXor.swift */,
 				AD1901E22BA1D9E400E7AAA2 /* FindThePivotInteger.swift */,
 				AD9BDA142CE8B9AB0046BED7 /* FindThePowerOfKSizeSubarrays1.swift */,
@@ -2801,6 +2804,7 @@
 				AD727CD329F98DC300FDD2A2 /* AddDigits.swift in Sources */,
 				AD844B0F28CA20F4008E1AEF /* ImplementQueueUsingStacks.swift in Sources */,
 				ADAA00402ADAFA6300CD0E67 /* PaintingTheWalls.swift in Sources */,
+				AD66D7AF2D57ED97006A88D4 /* FindTheNumberOfDistinctColorsAmongTheBalls.swift in Sources */,
 				AD3DD0E62AB9215F00ABED04 /* FindTheDuplicateNumber.swift in Sources */,
 				ADB7F8D72C2F3DDD00A973D9 /* MaximumTotalImportanceOfRoads.swift in Sources */,
 				ADBADD862BA08D160043E945 /* CustomSortString.swift in Sources */,
