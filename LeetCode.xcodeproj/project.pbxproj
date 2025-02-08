@@ -406,6 +406,7 @@
 		AD7B3DB4298978B400DB46E4 /* BestTeamWithNoConflicts.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7B3DB3298978B400DB46E4 /* BestTeamWithNoConflicts.swift */; };
 		AD7B6CA52C02602500BC148C /* WordBreak2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7B6CA42C02602500BC148C /* WordBreak2.swift */; };
 		AD7BC39129AB96E700669562 /* StreamOfCharacters.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7BC39029AB96E700669562 /* StreamOfCharacters.swift */; };
+		AD7C593E2D57F4A400AC444A /* DesignANumberContainerSystem.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7C593D2D57F4A400AC444A /* DesignANumberContainerSystem.swift */; };
 		AD7CBBB72CAF2A9C00F92A01 /* MakeSumDivisibleByP.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7CBBB62CAF2A9C00F92A01 /* MakeSumDivisibleByP.swift */; };
 		AD7D379D29EADF370094EEA6 /* MaximumValueOfKCoinsFromPiles.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7D379C29EADF370094EEA6 /* MaximumValueOfKCoinsFromPiles.swift */; };
 		AD7D69FA2C9F681200AEF314 /* LexicographicalNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7D69F92C9F681200AEF314 /* LexicographicalNumbers.swift */; };
@@ -1296,6 +1297,7 @@
 		AD7B3DB3298978B400DB46E4 /* BestTeamWithNoConflicts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BestTeamWithNoConflicts.swift; sourceTree = "<group>"; };
 		AD7B6CA42C02602500BC148C /* WordBreak2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordBreak2.swift; sourceTree = "<group>"; };
 		AD7BC39029AB96E700669562 /* StreamOfCharacters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StreamOfCharacters.swift; sourceTree = "<group>"; };
+		AD7C593D2D57F4A400AC444A /* DesignANumberContainerSystem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignANumberContainerSystem.swift; sourceTree = "<group>"; };
 		AD7CBBB62CAF2A9C00F92A01 /* MakeSumDivisibleByP.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakeSumDivisibleByP.swift; sourceTree = "<group>"; };
 		AD7D379C29EADF370094EEA6 /* MaximumValueOfKCoinsFromPiles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumValueOfKCoinsFromPiles.swift; sourceTree = "<group>"; };
 		AD7D69F92C9F681200AEF314 /* LexicographicalNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LexicographicalNumbers.swift; sourceTree = "<group>"; };
@@ -1989,6 +1991,7 @@
 				AD4C668329152EBF00C86C85 /* DeleteOperationForTwoStrings.swift */,
 				ADBD218729980DED00ECD987 /* DesignAddAndSearchWordsDataStructure.swift */,
 				ADC65A3B2B2F2BE00081C4CA /* DesignAFoodRatingSystem.swift */,
+				AD7C593D2D57F4A400AC444A /* DesignANumberContainerSystem.swift */,
 				AD5A193E2CAB3D5E00696827 /* DesignAStackWithIncrementOperation.swift */,
 				ADD67EA429796DDA00402175 /* DesignAuthenticationManager.swift */,
 				ADE0BD7A29C5F6D500F6E93F /* DesignBrowserHistory.swift */,
@@ -2853,6 +2856,7 @@
 				AD59FDCE2A9D7076007CC7AC /* MinimumPenaltyForAShop.swift in Sources */,
 				ADE63B6E2C396D8C00FEC0EA /* PassThePillow.swift in Sources */,
 				AD4AD2202C1F46FF0004FFB4 /* PatchingArray.swift in Sources */,
+				AD7C593E2D57F4A400AC444A /* DesignANumberContainerSystem.swift in Sources */,
 				ADE247A02AA2226A006CD210 /* CountingBits.swift in Sources */,
 				AD8792322BDD3E4C00A2FC57 /* FreedomTrail.swift in Sources */,
 				ADD5D9432CE6837800BF4DD0 /* MinimizedMaximumOfProductsDistributedToAnyStore.swift in Sources */,
