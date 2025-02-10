@@ -247,6 +247,7 @@
 		AD4386CF2961ADBA003FA0BD /* MonotonicArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4386CE2961ADBA003FA0BD /* MonotonicArray.swift */; };
 		AD4386D12961AE4C003FA0BD /* FindTheIndexOfTheFirstOccurrenceInAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4386D02961AE4C003FA0BD /* FindTheIndexOfTheFirstOccurrenceInAString.swift */; };
 		AD43BBA92B35E0DF00672B9B /* MaximumScoreAfterSplittingAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD43BBA82B35E0DF00672B9B /* MaximumScoreAfterSplittingAString.swift */; };
+		AD4437572D5A9D4000725ECF /* ClearDigits.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4437562D5A9D4000725ECF /* ClearDigits.swift */; };
 		AD4488362CA04B6200FBFA8F /* KthSmallestInLexicographicalOrder.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4488352CA04B6200FBFA8F /* KthSmallestInLexicographicalOrder.swift */; };
 		AD45389F2CA48E7900F8E1CB /* SumOfPrefixScoresOfStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD45389E2CA48E7900F8E1CB /* SumOfPrefixScoresOfStrings.swift */; };
 		AD45D00128D9DCD000544C0A /* MaxAreaOfIsland.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD45D00028D9DCD000544C0A /* MaxAreaOfIsland.swift */; };
@@ -1139,6 +1140,7 @@
 		AD4386CE2961ADBA003FA0BD /* MonotonicArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MonotonicArray.swift; sourceTree = "<group>"; };
 		AD4386D02961AE4C003FA0BD /* FindTheIndexOfTheFirstOccurrenceInAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheIndexOfTheFirstOccurrenceInAString.swift; sourceTree = "<group>"; };
 		AD43BBA82B35E0DF00672B9B /* MaximumScoreAfterSplittingAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumScoreAfterSplittingAString.swift; sourceTree = "<group>"; };
+		AD4437562D5A9D4000725ECF /* ClearDigits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClearDigits.swift; sourceTree = "<group>"; };
 		AD4488352CA04B6200FBFA8F /* KthSmallestInLexicographicalOrder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KthSmallestInLexicographicalOrder.swift; sourceTree = "<group>"; };
 		AD45389E2CA48E7900F8E1CB /* SumOfPrefixScoresOfStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOfPrefixScoresOfStrings.swift; sourceTree = "<group>"; };
 		AD45D00028D9DCD000544C0A /* MaxAreaOfIsland.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxAreaOfIsland.swift; sourceTree = "<group>"; };
@@ -1911,6 +1913,7 @@
 				AD2C00B529FDADBF0008E7D8 /* CheckingExistenceOfEdgeLengthLimitedPaths.swift */,
 				ADBC320D299D00A6006E808D /* CherryPickup2.swift */,
 				AD17B4F02CD5AA3000FFB903 /* CircularSentence.swift */,
+				AD4437562D5A9D4000725ECF /* ClearDigits.swift */,
 				ADEE310628B7A6BE00448525 /* ClimbingStairs.swift */,
 				AD8F5BEE29E1952200E29DB1 /* CloneGraph.swift */,
 				AD8733E02916D3BC00E18F7B /* CoinChange.swift */,
@@ -3527,6 +3530,7 @@
 				AD5065612B1B60FA009455AE /* FindWordsThatCanBeFormedByCharacters.swift in Sources */,
 				ADC46DB028A922C7003B926E /* NumberOfStepsRoReduceANumberToZero.swift in Sources */,
 				AD34FA9E2B6543C2009EB0AB /* KInversePairsArray.swift in Sources */,
+				AD4437572D5A9D4000725ECF /* ClearDigits.swift in Sources */,
 				AD852695293BA3ED0096B9D2 /* MaximumSumCircularSubarray.swift in Sources */,
 				AD42FF3729D4AA1F00B569EB /* ReducingDishes.swift in Sources */,
 				AD3F37282975669400082B5E /* RotateList.swift in Sources */,
