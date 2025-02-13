@@ -793,6 +793,7 @@
 		ADE79404290DA55D00D0D035 /* LetterCombinationsOfAPhoneNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE79403290DA55D00D0D035 /* LetterCombinationsOfAPhoneNumber.swift */; };
 		ADE79406290DA6D800D0D035 /* GenerateParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE79405290DA6D800D0D035 /* GenerateParentheses.swift */; };
 		ADE79408290DA7D700D0D035 /* WordSearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE79407290DA7D700D0D035 /* WordSearch.swift */; };
+		ADE7B2F72D5E46670039CAF3 /* MinimumOperationsToExceedThresholdValue2.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE7B2F62D5E46670039CAF3 /* MinimumOperationsToExceedThresholdValue2.swift */; };
 		ADE85E962A9B94D10089026A /* FrogJump.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE85E952A9B94D10089026A /* FrogJump.swift */; };
 		ADE8B85A294F432200699CEB /* CoinChange2.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE8B859294F432200699CEB /* CoinChange2.swift */; };
 		ADE8F4772CB70592009730BF /* MinimumAddToMakeParenthesesValid.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE8F4762CB70592009730BF /* MinimumAddToMakeParenthesesValid.swift */; };
@@ -1689,6 +1690,7 @@
 		ADE79403290DA55D00D0D035 /* LetterCombinationsOfAPhoneNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LetterCombinationsOfAPhoneNumber.swift; sourceTree = "<group>"; };
 		ADE79405290DA6D800D0D035 /* GenerateParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GenerateParentheses.swift; sourceTree = "<group>"; };
 		ADE79407290DA7D700D0D035 /* WordSearch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordSearch.swift; sourceTree = "<group>"; };
+		ADE7B2F62D5E46670039CAF3 /* MinimumOperationsToExceedThresholdValue2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumOperationsToExceedThresholdValue2.swift; sourceTree = "<group>"; };
 		ADE85E952A9B94D10089026A /* FrogJump.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrogJump.swift; sourceTree = "<group>"; };
 		ADE8B859294F432200699CEB /* CoinChange2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinChange2.swift; sourceTree = "<group>"; };
 		ADE8F4762CB70592009730BF /* MinimumAddToMakeParenthesesValid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumAddToMakeParenthesesValid.swift; sourceTree = "<group>"; };
@@ -1841,7 +1843,6 @@
 			children = (
 				AD4B182C2966FE0600262815 /* AddBinary.swift */,
 				AD727CD229F98DC300FDD2A2 /* AddDigits.swift */,
-				AD943FD42D5D3B73008E37BF /* MaxSumOfAPairWithEqualSumOfDigits.swift */,
 				AD6743362CFF8C3C00FD0A6E /* AddingSpacesToAString.swift */,
 				AD0A384D2BCEB154007B512F /* AddOneRowoTree.swift */,
 				ADE4724D28EAFE7D00B5E8D1 /* AddStrings.swift */,
@@ -2309,6 +2310,7 @@
 				AD0E13AA2CB75172004F3D94 /* MaximumWidthRamp.swift */,
 				AD17FFCD2CDEA1E400F624F8 /* MaximumXORForEachQuery.swift */,
 				ADF0EB92291A7F31000B73A4 /* MaxPointsOnALine.swift */,
+				AD943FD42D5D3B73008E37BF /* MaxSumOfAPairWithEqualSumOfDigits.swift */,
 				AD8DF5A32ABC6DE1006DF0B0 /* MedianOfTwoSortedArrays.swift */,
 				AD0740B82B823B6F0028E827 /* MeetingRooms3.swift */,
 				AD76BE012BAB856100BA57B1 /* MergeInBetweenLinkedLists.swift */,
@@ -2379,6 +2381,7 @@
 				ADD8E83028FC3B3C00EEBB3C /* MinimumNumberOfVerticesToReachAllNodes.swift */,
 				AD06B7462CF8F2590010584A /* MinimumObstacleRemovalToReachCorner.swift */,
 				ADCFF0D92B18B3FA0026EBA8 /* MinimumOneBitOperationsToMakeIntegersZero.swift */,
+				ADE7B2F62D5E46670039CAF3 /* MinimumOperationsToExceedThresholdValue2.swift */,
 				ADAF39092ABB629C00C9CAD1 /* MinimumOperationsToReduceXToZero.swift */,
 				AD86268D2949F0E700027B1A /* MinimumPathSum.swift */,
 				AD59FDCD2A9D7076007CC7AC /* MinimumPenaltyForAShop.swift */,
@@ -2888,6 +2891,7 @@
 				AD4BDEAC28A7DE3200E61565 /* MiddleOfTheLinkedList.swift in Sources */,
 				AD0C4DD72986D4DA00D15379 /* LFUCacheProblem.swift in Sources */,
 				ADFA10CD29991D7B00B7C873 /* MinimumFuelCostToReportToTheCapital.swift in Sources */,
+				ADE7B2F72D5E46670039CAF3 /* MinimumOperationsToExceedThresholdValue2.swift in Sources */,
 				AD0717F72C66CC5000B54944 /* MagicSquaresInGrid.swift in Sources */,
 				AD243DAF2A9A35A400E6292C /* MaximumLengthOfPairChain.swift in Sources */,
 				AD4C668229152DFC00C86C85 /* LongestCommonSubsequence.swift in Sources */,
