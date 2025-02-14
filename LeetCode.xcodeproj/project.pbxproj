@@ -115,6 +115,7 @@
 		AD23E1912A349B2800A66AEB /* MaximumValueAtAGivenIndexInABoundedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD23E1902A349B2800A66AEB /* MaximumValueAtAGivenIndexInABoundedArray.swift */; };
 		AD2420392C45DBFE0020F78B /* CreateBinaryTreeFromDescriptions.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2420382C45DBFE0020F78B /* CreateBinaryTreeFromDescriptions.swift */; };
 		AD243DAF2A9A35A400E6292C /* MaximumLengthOfPairChain.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD243DAE2A9A35A400E6292C /* MaximumLengthOfPairChain.swift */; };
+		AD24720B2D5F9908009896B1 /* ProductOfTheLastKNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD24720A2D5F9908009896B1 /* ProductOfTheLastKNumbers.swift */; };
 		AD2481F52A5832E800780C84 /* MaximizeTheConfusionOfAnExam.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2481F42A5832E800780C84 /* MaximizeTheConfusionOfAnExam.swift */; };
 		AD2565B12B555E3800E61E7D /* FindPlayersWithZeroOrOneLosses.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2565B02B555E3800E61E7D /* FindPlayersWithZeroOrOneLosses.swift */; };
 		AD2590C02A2629D700D3C838 /* DesignHashSet.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2590BF2A2629D700D3C838 /* DesignHashSet.swift */; };
@@ -1011,6 +1012,7 @@
 		AD23E1902A349B2800A66AEB /* MaximumValueAtAGivenIndexInABoundedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumValueAtAGivenIndexInABoundedArray.swift; sourceTree = "<group>"; };
 		AD2420382C45DBFE0020F78B /* CreateBinaryTreeFromDescriptions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateBinaryTreeFromDescriptions.swift; sourceTree = "<group>"; };
 		AD243DAE2A9A35A400E6292C /* MaximumLengthOfPairChain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumLengthOfPairChain.swift; sourceTree = "<group>"; };
+		AD24720A2D5F9908009896B1 /* ProductOfTheLastKNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductOfTheLastKNumbers.swift; sourceTree = "<group>"; };
 		AD2481F42A5832E800780C84 /* MaximizeTheConfusionOfAnExam.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximizeTheConfusionOfAnExam.swift; sourceTree = "<group>"; };
 		AD2565B02B555E3800E61E7D /* FindPlayersWithZeroOrOneLosses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindPlayersWithZeroOrOneLosses.swift; sourceTree = "<group>"; };
 		AD2590BF2A2629D700D3C838 /* DesignHashSet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignHashSet.swift; sourceTree = "<group>"; };
@@ -1843,6 +1845,7 @@
 			children = (
 				AD4B182C2966FE0600262815 /* AddBinary.swift */,
 				AD727CD229F98DC300FDD2A2 /* AddDigits.swift */,
+				AD24720A2D5F9908009896B1 /* ProductOfTheLastKNumbers.swift */,
 				AD6743362CFF8C3C00FD0A6E /* AddingSpacesToAString.swift */,
 				AD0A384D2BCEB154007B512F /* AddOneRowoTree.swift */,
 				ADE4724D28EAFE7D00B5E8D1 /* AddStrings.swift */,
@@ -2951,6 +2954,7 @@
 				AD1CBDDD2CFB405600F887E3 /* ValidArrangementOfPairs.swift in Sources */,
 				ADF02F872D3BC4CB005EC69D /* NeighboringBitwiseXOR.swift in Sources */,
 				AD638E6C2A9CC08700641464 /* ImplementStackUsingQueues.swift in Sources */,
+				AD24720B2D5F9908009896B1 /* ProductOfTheLastKNumbers.swift in Sources */,
 				AD71F3272A02C0FF003F0668 /* FindTheDifferenceOfTwoArrays.swift in Sources */,
 				AD943FD52D5D3B73008E37BF /* MaxSumOfAPairWithEqualSumOfDigits.swift in Sources */,
 				ADE8F4772CB70592009730BF /* MinimumAddToMakeParenthesesValid.swift in Sources */,
