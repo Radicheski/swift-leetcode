@@ -598,6 +598,7 @@
 		ADB1C5062A35F6CA0000385B /* SnapshotArrayTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB1C5052A35F6CA0000385B /* SnapshotArrayTest.swift */; };
 		ADB1E8182930DD23001D88CB /* InsertInterval.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB1E8172930DD23001D88CB /* InsertInterval.swift */; };
 		ADB1FB752B063A2E0001D251 /* FindUniqueBinaryString.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB1FB742B063A2E0001D251 /* FindUniqueBinaryString.swift */; };
+		ADB2BC2D2D609ED2000D9FC8 /* FindThePunishmentNumberOfAnInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB2BC2C2D609ED2000D9FC8 /* FindThePunishmentNumberOfAnInteger.swift */; };
 		ADB3E9F52D14A86A00A60E2E /* MaxChunksToMakeSorted.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB3E9F42D14A86A00A60E2E /* MaxChunksToMakeSorted.swift */; };
 		ADB40E5A28E9AF3D00D51F9C /* IncreasingTripletSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB40E5928E9AF3D00D51F9C /* IncreasingTripletSubsequence.swift */; };
 		ADB40E5C28E9B00B00D51F9C /* ProductOfArrayExceptSelf.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB40E5B28E9B00B00D51F9C /* ProductOfArrayExceptSelf.swift */; };
@@ -1495,6 +1496,7 @@
 		ADB1C5052A35F6CA0000385B /* SnapshotArrayTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SnapshotArrayTest.swift; sourceTree = "<group>"; };
 		ADB1E8172930DD23001D88CB /* InsertInterval.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsertInterval.swift; sourceTree = "<group>"; };
 		ADB1FB742B063A2E0001D251 /* FindUniqueBinaryString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindUniqueBinaryString.swift; sourceTree = "<group>"; };
+		ADB2BC2C2D609ED2000D9FC8 /* FindThePunishmentNumberOfAnInteger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindThePunishmentNumberOfAnInteger.swift; sourceTree = "<group>"; };
 		ADB3E9F42D14A86A00A60E2E /* MaxChunksToMakeSorted.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxChunksToMakeSorted.swift; sourceTree = "<group>"; };
 		ADB40E5928E9AF3D00D51F9C /* IncreasingTripletSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IncreasingTripletSubsequence.swift; sourceTree = "<group>"; };
 		ADB40E5B28E9B00B00D51F9C /* ProductOfArrayExceptSelf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductOfArrayExceptSelf.swift; sourceTree = "<group>"; };
@@ -1845,7 +1847,6 @@
 			children = (
 				AD4B182C2966FE0600262815 /* AddBinary.swift */,
 				AD727CD229F98DC300FDD2A2 /* AddDigits.swift */,
-				AD24720A2D5F9908009896B1 /* ProductOfTheLastKNumbers.swift */,
 				AD6743362CFF8C3C00FD0A6E /* AddingSpacesToAString.swift */,
 				AD0A384D2BCEB154007B512F /* AddOneRowoTree.swift */,
 				ADE4724D28EAFE7D00B5E8D1 /* AddStrings.swift */,
@@ -2103,6 +2104,7 @@
 				AD1901E22BA1D9E400E7AAA2 /* FindThePivotInteger.swift */,
 				AD9BDA142CE8B9AB0046BED7 /* FindThePowerOfKSizeSubarrays1.swift */,
 				ADF09FD42D36BBFD00F997D9 /* FindThePrefixCommonArrayOfTwoArrays.swift */,
+				ADB2BC2C2D609ED2000D9FC8 /* FindThePunishmentNumberOfAnInteger.swift */,
 				AD3E989D2BF4EA8500A19F30 /* FindTheSafestPathInAGrid.swift */,
 				AD8B71082C863B350029D971 /* FindTheStudentThatWillReplaceTheChalk.swift */,
 				ADD8E82E28FC3AA000EEBB3C /* FindTheTownJudge.swift */,
@@ -2503,6 +2505,7 @@
 				AD4ABE4E2A73E4040021E295 /* PredictTheWinner.swift */,
 				ADDC21152CE2892A002ADC16 /* PrimeSubtractionOperation.swift */,
 				ADB40E5B28E9B00B00D51F9C /* ProductOfArrayExceptSelf.swift */,
+				AD24720A2D5F9908009896B1 /* ProductOfTheLastKNumbers.swift */,
 				ADFCA5A129F2C70400B24EE9 /* ProfitableSchemes.swift */,
 				ADCE60A42B61395600F28171 /* PseudoPalindromicPathsInABinaryTree.swift */,
 				ADA5884B2A59BCF900DB623B /* PutMarblesInBags.swift */,
@@ -3478,6 +3481,7 @@
 				ADF36B002D58B91300D0F102 /* CountNumberOfBadPairs.swift in Sources */,
 				AD36EA9A2B458DE000372E13 /* NumberOfLaserBeamsInABank.swift in Sources */,
 				ADF4710C29326C9D007A320F /* BasicCalculator2.swift in Sources */,
+				ADB2BC2D2D609ED2000D9FC8 /* FindThePunishmentNumberOfAnInteger.swift in Sources */,
 				AD8AF1DD299A642C002C7C1C /* ImageSmoother.swift in Sources */,
 				ADA376E22A4F01B3008783CC /* LastDayWhereYouCanStillCross.swift in Sources */,
 				AD4DCBF728E70C6300A81C5F /* PascalsTriangle2.swift in Sources */,
