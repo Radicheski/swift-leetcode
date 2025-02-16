@@ -408,6 +408,7 @@
 		AD7B3DB4298978B400DB46E4 /* BestTeamWithNoConflicts.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7B3DB3298978B400DB46E4 /* BestTeamWithNoConflicts.swift */; };
 		AD7B6CA52C02602500BC148C /* WordBreak2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7B6CA42C02602500BC148C /* WordBreak2.swift */; };
 		AD7BC39129AB96E700669562 /* StreamOfCharacters.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7BC39029AB96E700669562 /* StreamOfCharacters.swift */; };
+		AD7C04022D61EC65007F3FF4 /* ConstructTheLexicographicallyLargestValidSequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7C04012D61EC65007F3FF4 /* ConstructTheLexicographicallyLargestValidSequence.swift */; };
 		AD7C593E2D57F4A400AC444A /* DesignANumberContainerSystem.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7C593D2D57F4A400AC444A /* DesignANumberContainerSystem.swift */; };
 		AD7CBBB72CAF2A9C00F92A01 /* MakeSumDivisibleByP.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7CBBB62CAF2A9C00F92A01 /* MakeSumDivisibleByP.swift */; };
 		AD7D379D29EADF370094EEA6 /* MaximumValueOfKCoinsFromPiles.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7D379C29EADF370094EEA6 /* MaximumValueOfKCoinsFromPiles.swift */; };
@@ -1306,6 +1307,7 @@
 		AD7B3DB3298978B400DB46E4 /* BestTeamWithNoConflicts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BestTeamWithNoConflicts.swift; sourceTree = "<group>"; };
 		AD7B6CA42C02602500BC148C /* WordBreak2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordBreak2.swift; sourceTree = "<group>"; };
 		AD7BC39029AB96E700669562 /* StreamOfCharacters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StreamOfCharacters.swift; sourceTree = "<group>"; };
+		AD7C04012D61EC65007F3FF4 /* ConstructTheLexicographicallyLargestValidSequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstructTheLexicographicallyLargestValidSequence.swift; sourceTree = "<group>"; };
 		AD7C593D2D57F4A400AC444A /* DesignANumberContainerSystem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignANumberContainerSystem.swift; sourceTree = "<group>"; };
 		AD7CBBB62CAF2A9C00F92A01 /* MakeSumDivisibleByP.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakeSumDivisibleByP.swift; sourceTree = "<group>"; };
 		AD7D379C29EADF370094EEA6 /* MaximumValueOfKCoinsFromPiles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumValueOfKCoinsFromPiles.swift; sourceTree = "<group>"; };
@@ -1942,6 +1944,7 @@
 				AD48552429AD24B4009F9148 /* ConstructQuadTree.swift */,
 				AD338AB02B23406B0031BF81 /* ConstructStringFromBinaryTree.swift */,
 				ADEB5A1A2D1201F8001932AE /* ConstructStringWithRepeatLimit.swift */,
+				AD7C04012D61EC65007F3FF4 /* ConstructTheLexicographicallyLargestValidSequence.swift */,
 				AD8A1EEF29044C5C00ABA3F6 /* ContainerWithMostWater.swift */,
 				ADBEEB6728BF847B0069B4BB /* ContainsDuplicate.swift */,
 				AD57DCB52BA5E07F0074DB7F /* ContiguousArray.swift */,
@@ -3423,6 +3426,7 @@
 				ADFB253F2CC2EA6000D6B595 /* CountNumberOfMaximumBitwiseORSubsets.swift in Sources */,
 				ADAAA51E2CD95DF50017448A /* StringCompression3.swift in Sources */,
 				AD4789C12AF52F0A0060440B /* BuildAnArrayWithStackOperations.swift in Sources */,
+				AD7C04022D61EC65007F3FF4 /* ConstructTheLexicographicallyLargestValidSequence.swift in Sources */,
 				ADFBD2942C70C452001819BD /* MaximumNumberOfPointsWithCost.swift in Sources */,
 				ADF58E1028C622D7000E08DB /* FirstUniqueCharacterInAString.swift in Sources */,
 				AD5C663E2B3B1FCB007D2DFA /* NumberOfDiceRollsWithTargetSum.swift in Sources */,
