@@ -625,6 +625,7 @@
 		ADB9FAF72AED4049009C0D9C /* CountVowelsPermutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB9FAF62AED4049009C0D9C /* CountVowelsPermutation.swift */; };
 		ADBA3B9F2946224500F9F52F /* MinimumFallingPathSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBA3B9E2946224500F9F52F /* MinimumFallingPathSum.swift */; };
 		ADBA5AFA2A335484008934B2 /* FindSmallestLetterGreaterThanTarget.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBA5AF92A335484008934B2 /* FindSmallestLetterGreaterThanTarget.swift */; };
+		ADBAB7772D6631860082328E /* TheKthLexicographicalStringOfAllHappyStringsOfLengthN.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBAB7762D6631860082328E /* TheKthLexicographicalStringOfAllHappyStringsOfLengthN.swift */; };
 		ADBADD862BA08D160043E945 /* CustomSortString.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBADD852BA08D160043E945 /* CustomSortString.swift */; };
 		ADBAE76629B4C33A0015CE87 /* JumpGame4.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBAE76529B4C33A0015CE87 /* JumpGame4.swift */; };
 		ADBB49D6299FA5DC00634482 /* MinimumDistanceBetweenBSTNodes.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBB49D5299FA5DC00634482 /* MinimumDistanceBetweenBSTNodes.swift */; };
@@ -1526,6 +1527,7 @@
 		ADB9FAF62AED4049009C0D9C /* CountVowelsPermutation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountVowelsPermutation.swift; sourceTree = "<group>"; };
 		ADBA3B9E2946224500F9F52F /* MinimumFallingPathSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumFallingPathSum.swift; sourceTree = "<group>"; };
 		ADBA5AF92A335484008934B2 /* FindSmallestLetterGreaterThanTarget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindSmallestLetterGreaterThanTarget.swift; sourceTree = "<group>"; };
+		ADBAB7762D6631860082328E /* TheKthLexicographicalStringOfAllHappyStringsOfLengthN.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TheKthLexicographicalStringOfAllHappyStringsOfLengthN.swift; sourceTree = "<group>"; };
 		ADBADD852BA08D160043E945 /* CustomSortString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomSortString.swift; sourceTree = "<group>"; };
 		ADBAE76529B4C33A0015CE87 /* JumpGame4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpGame4.swift; sourceTree = "<group>"; };
 		ADBB49D5299FA5DC00634482 /* MinimumDistanceBetweenBSTNodes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumDistanceBetweenBSTNodes.swift; sourceTree = "<group>"; };
@@ -2687,6 +2689,7 @@
 				AD35F5B22D1DA5D400181179 /* TargetSum.swift */,
 				ADCBBD8329212779006787B4 /* TaskScheduler.swift */,
 				ADAB402F2A978348005361C5 /* TextJustification.swift */,
+				ADBAB7762D6631860082328E /* TheKthLexicographicalStringOfAllHappyStringsOfLengthN.swift */,
 				AD4BDEB028A7E03200E61565 /* TheKWeakestRowsInAMatrix.swift */,
 				ADB577DB2BFF7D0800AA3281 /* TheNumberOfBeautifulSubsets.swift */,
 				ADD5DE042CB9CED200EFCF88 /* TheNumberOfTheSmallestUnoccupiedChair.swift */,
@@ -2981,6 +2984,7 @@
 				AD0740B92B823B6F0028E827 /* MeetingRooms3.swift in Sources */,
 				ADDAD6C92BE27DB800C96DF7 /* ReversePrefixOfWord.swift in Sources */,
 				ADF243C9297456480006F2A4 /* NumberOfGoodPaths.swift in Sources */,
+				ADBAB7772D6631860082328E /* TheKthLexicographicalStringOfAllHappyStringsOfLengthN.swift in Sources */,
 				ADAB40302A978348005361C5 /* TextJustification.swift in Sources */,
 				AD10502A2D33D3DA009D1ABD /* CheckIfAParenthesesStringCanBeValid.swift in Sources */,
 				ADB5389E2C73D14100EF30F9 /* TwoKeysKeyboard.swift in Sources */,
