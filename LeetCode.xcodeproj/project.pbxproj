@@ -228,6 +228,7 @@
 		AD3F20752C96478900540703 /* LongestSubarrayWithMaximumBitwiseAND.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3F20742C96478900540703 /* LongestSubarrayWithMaximumBitwiseAND.swift */; };
 		AD3F2D862AB0909D00004550 /* MinimumDeletionsToMakeCharacterFrequenciesUnique.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3F2D852AB0909D00004550 /* MinimumDeletionsToMakeCharacterFrequenciesUnique.swift */; };
 		AD3F37282975669400082B5E /* RotateList.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3F37272975669400082B5E /* RotateList.swift */; };
+		AD3F6D672D7071DE0094FC48 /* LengthOfLongestFibonacciSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3F6D662D7071DE0094FC48 /* LengthOfLongestFibonacciSubsequence.swift */; };
 		AD3F87B2298C221200750194 /* DistantBarcodes.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3F87B1298C221200750194 /* DistantBarcodes.swift */; };
 		AD4002D0297C4C9C004FDB72 /* RestoreIPAddresses.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4002CF297C4C9C004FDB72 /* RestoreIPAddresses.swift */; };
 		AD40251C29E7424B00BE3D15 /* SimplifyPath.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD40251B29E7424B00BE3D15 /* SimplifyPath.swift */; };
@@ -1136,6 +1137,7 @@
 		AD3F20742C96478900540703 /* LongestSubarrayWithMaximumBitwiseAND.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestSubarrayWithMaximumBitwiseAND.swift; sourceTree = "<group>"; };
 		AD3F2D852AB0909D00004550 /* MinimumDeletionsToMakeCharacterFrequenciesUnique.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumDeletionsToMakeCharacterFrequenciesUnique.swift; sourceTree = "<group>"; };
 		AD3F37272975669400082B5E /* RotateList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateList.swift; sourceTree = "<group>"; };
+		AD3F6D662D7071DE0094FC48 /* LengthOfLongestFibonacciSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LengthOfLongestFibonacciSubsequence.swift; sourceTree = "<group>"; };
 		AD3F87B1298C221200750194 /* DistantBarcodes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DistantBarcodes.swift; sourceTree = "<group>"; };
 		AD4002CF297C4C9C004FDB72 /* RestoreIPAddresses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestoreIPAddresses.swift; sourceTree = "<group>"; };
 		AD40251B29E7424B00BE3D15 /* SimplifyPath.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimplifyPath.swift; sourceTree = "<group>"; };
@@ -2230,6 +2232,7 @@
 				ADA00C162B7FC56C001A58C4 /* LeastNumberOfUniqueIntegersAfterKRemovals.swift */,
 				ADD274E12976BB0E0034B90A /* LemonadeChange.swift */,
 				AD9147DA2968530B007F9218 /* LengthOfLastWord.swift */,
+				AD3F6D662D7071DE0094FC48 /* LengthOfLongestFibonacciSubsequence.swift */,
 				AD5F8C022BB5A2B300921534 /* LengthOfLongestSubarrayWithAtMostKFrequency.swift */,
 				ADC482CF28DF217100EAE8CC /* LetterCasePermutation.swift */,
 				ADE79403290DA55D00D0D035 /* LetterCombinationsOfAPhoneNumber.swift */,
@@ -2962,6 +2965,7 @@
 				AD2AF1322C9A0FA3004E1F81 /* UncommonWordsFromTwoSentences.swift in Sources */,
 				ADBC9C1728EDAA4E00459081 /* GroupAnagrams.swift in Sources */,
 				ADD15DCE2AFA5AC00064D449 /* EliminateMaximumNumberOfMonsters.swift in Sources */,
+				AD3F6D672D7071DE0094FC48 /* LengthOfLongestFibonacciSubsequence.swift in Sources */,
 				AD96A3BD2C8A38B10062B6DA /* FindMissingObservations.swift in Sources */,
 				AD00F44828B96FB900A77B9C /* UniquePaths.swift in Sources */,
 				AD14D41F2C6FE0180071F091 /* MaximumDistanceInArrays.swift in Sources */,
