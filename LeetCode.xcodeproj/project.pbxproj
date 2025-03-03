@@ -585,6 +585,7 @@
 		ADABE4E72BE0132500B1C1AE /* MinimumNumberOfOperationsToMakeArrayXOREqualToK.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADABE4E62BE0132500B1C1AE /* MinimumNumberOfOperationsToMakeArrayXOREqualToK.swift */; };
 		ADAC8C792BEFB0A1004E123B /* MinimumCostToHireKWorkers.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAC8C782BEFB0A1004E123B /* MinimumCostToHireKWorkers.swift */; };
 		ADACB30D2CDBF8B500D97B62 /* FindIfArrayCanBeSorted.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADACB30C2CDBF8B500D97B62 /* FindIfArrayCanBeSorted.swift */; };
+		ADACED462D7654BC005390BE /* MergeTwo2DArraysBySummingValues.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADACED452D7654BC005390BE /* MergeTwo2DArraysBySummingValues.swift */; };
 		ADAD46C82A45D08B00274BA7 /* LongestArithmeticSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAD46C72A45D08B00274BA7 /* LongestArithmeticSubsequence.swift */; };
 		ADADA529295324F700CBB58C /* SubtractTheProductAndSumOfDigitsOfAnInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADADA528295324F700CBB58C /* SubtractTheProductAndSumOfDigitsOfAnInteger.swift */; };
 		ADADF18A28C8FF030021B192 /* RemoveDuplicatesFromSortedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADADF18928C8FF030021B192 /* RemoveDuplicatesFromSortedList.swift */; };
@@ -1496,6 +1497,7 @@
 		ADABE4E62BE0132500B1C1AE /* MinimumNumberOfOperationsToMakeArrayXOREqualToK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberOfOperationsToMakeArrayXOREqualToK.swift; sourceTree = "<group>"; };
 		ADAC8C782BEFB0A1004E123B /* MinimumCostToHireKWorkers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumCostToHireKWorkers.swift; sourceTree = "<group>"; };
 		ADACB30C2CDBF8B500D97B62 /* FindIfArrayCanBeSorted.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindIfArrayCanBeSorted.swift; sourceTree = "<group>"; };
+		ADACED452D7654BC005390BE /* MergeTwo2DArraysBySummingValues.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeTwo2DArraysBySummingValues.swift; sourceTree = "<group>"; };
 		ADAD46C72A45D08B00274BA7 /* LongestArithmeticSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestArithmeticSubsequence.swift; sourceTree = "<group>"; };
 		ADADA528295324F700CBB58C /* SubtractTheProductAndSumOfDigitsOfAnInteger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubtractTheProductAndSumOfDigitsOfAnInteger.swift; sourceTree = "<group>"; };
 		ADADF18928C8FF030021B192 /* RemoveDuplicatesFromSortedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveDuplicatesFromSortedList.swift; sourceTree = "<group>"; };
@@ -1873,7 +1875,6 @@
 			children = (
 				AD4B182C2966FE0600262815 /* AddBinary.swift */,
 				AD727CD229F98DC300FDD2A2 /* AddDigits.swift */,
-				ADD801C12D728CE400207BFF /* ApplyOperationsToAnArray.swift */,
 				AD6743362CFF8C3C00FD0A6E /* AddingSpacesToAString.swift */,
 				AD0A384D2BCEB154007B512F /* AddOneRowoTree.swift */,
 				ADE4724D28EAFE7D00B5E8D1 /* AddStrings.swift */,
@@ -1887,6 +1888,7 @@
 				AD29CAE82A6D69070046FB4F /* AllPossibleFullBinaryTrees.swift */,
 				ADFF4B392B4ECEA2008ECDDA /* AmountOfTimeForBinaryTreeToBeInfected.swift */,
 				ADF03E332C0E054F00A530AA /* AppendCharactersToStringToMakeSubsequence.swift */,
+				ADD801C12D728CE400207BFF /* ApplyOperationsToAnArray.swift */,
 				ADF31931291141650038DE57 /* ArithmeticSlices.swift */,
 				AD9D45C02B4AE1E000DD2F91 /* ArithmeticSlices2_Subsequence.swift */,
 				AD015017296C3A8500C763CC /* ArithmeticSubarrays.swift */,
@@ -2358,6 +2360,7 @@
 				AD2F35502C372EE90002BEDB /* MergeNodesInBetweenZeros.swift */,
 				AD9914A928C0DBD500BCFDAB /* MergeSortedArray.swift */,
 				AD9A0D89295B5CA0009B9BB5 /* MergeStringsAlternately.swift */,
+				ADACED452D7654BC005390BE /* MergeTwo2DArraysBySummingValues.swift */,
 				ADC5823928DB2CA9006D9591 /* MergeTwoBinaryTrees.swift */,
 				AD88EE2228AEA91A007E3D7C /* MergeTwoSortedLists.swift */,
 				AD4BDEAB28A7DE3200E61565 /* MiddleOfTheLinkedList.swift */,
@@ -2926,6 +2929,7 @@
 				ADBAE76629B4C33A0015CE87 /* JumpGame4.swift in Sources */,
 				ADB9AE9028FAD463008FBC6A /* SerializeAndDeserializeBinaryTree.swift in Sources */,
 				AD3C92F028F19E7F00E90724 /* IntersectionOfTwoLinkedLists.swift in Sources */,
+				ADACED462D7654BC005390BE /* MergeTwo2DArraysBySummingValues.swift in Sources */,
 				AD743E862AB21D5A00B1D79A /* Candy.swift in Sources */,
 				ADEFCB5428E5B7E000F62033 /* DesignHashMap.swift in Sources */,
 				ADA9DFFA2D137EBC00B8E1AD /* FinalPricesWithASpecialDiscountInAShop.swift in Sources */,
