@@ -738,6 +738,7 @@
 		ADD6AF4528D8833C00D74CFB /* PermutationInString.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD6AF4428D8833C00D74CFB /* PermutationInString.swift */; };
 		ADD71D4B2938C471005189E6 /* DeleteAndEarn.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD71D4A2938C471005189E6 /* DeleteAndEarn.swift */; };
 		ADD728D52BE13143008FE309 /* NumberOfWonderfulSubstrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD728D42BE13143008FE309 /* NumberOfWonderfulSubstrings.swift */; };
+		ADD801C22D728CE400207BFF /* ApplyOperationsToAnArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD801C12D728CE400207BFF /* ApplyOperationsToAnArray.swift */; };
 		ADD88B222C440D8D00B1AB1A /* NumberOfAtoms.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD88B212C440D8D00B1AB1A /* NumberOfAtoms.swift */; };
 		ADD8E82F28FC3AA000EEBB3C /* FindTheTownJudge.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD8E82E28FC3AA000EEBB3C /* FindTheTownJudge.swift */; };
 		ADD8E83128FC3B3C00EEBB3C /* MinimumNumberOfVerticesToReachAllNodes.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD8E83028FC3B3C00EEBB3C /* MinimumNumberOfVerticesToReachAllNodes.swift */; };
@@ -1649,6 +1650,7 @@
 		ADD6AF4428D8833C00D74CFB /* PermutationInString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PermutationInString.swift; sourceTree = "<group>"; };
 		ADD71D4A2938C471005189E6 /* DeleteAndEarn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeleteAndEarn.swift; sourceTree = "<group>"; };
 		ADD728D42BE13143008FE309 /* NumberOfWonderfulSubstrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfWonderfulSubstrings.swift; sourceTree = "<group>"; };
+		ADD801C12D728CE400207BFF /* ApplyOperationsToAnArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApplyOperationsToAnArray.swift; sourceTree = "<group>"; };
 		ADD88B212C440D8D00B1AB1A /* NumberOfAtoms.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfAtoms.swift; sourceTree = "<group>"; };
 		ADD8E82E28FC3AA000EEBB3C /* FindTheTownJudge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheTownJudge.swift; sourceTree = "<group>"; };
 		ADD8E83028FC3B3C00EEBB3C /* MinimumNumberOfVerticesToReachAllNodes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberOfVerticesToReachAllNodes.swift; sourceTree = "<group>"; };
@@ -1871,6 +1873,7 @@
 			children = (
 				AD4B182C2966FE0600262815 /* AddBinary.swift */,
 				AD727CD229F98DC300FDD2A2 /* AddDigits.swift */,
+				ADD801C12D728CE400207BFF /* ApplyOperationsToAnArray.swift */,
 				AD6743362CFF8C3C00FD0A6E /* AddingSpacesToAString.swift */,
 				AD0A384D2BCEB154007B512F /* AddOneRowoTree.swift */,
 				ADE4724D28EAFE7D00B5E8D1 /* AddStrings.swift */,
@@ -3072,6 +3075,7 @@
 				ADF290F629016CF700A8AA6D /* FindMinimumInRotatedSortedArray.swift in Sources */,
 				ADEFAB38295097B000560F1D /* PerfectSquares.swift in Sources */,
 				AD7150E929E2DEE700B71CCC /* LargestColorValueInADirectedGraph.swift in Sources */,
+				ADD801C22D728CE400207BFF /* ApplyOperationsToAnArray.swift in Sources */,
 				AD3A7EAF2CD588E700108E66 /* DeleteCharactersToMakeFancyString.swift in Sources */,
 				AD7697BE2CAC8D350050E1B0 /* CheckIfArrayPairsAreDivisibleByK.swift in Sources */,
 				AD2C00B629FDADBF0008E7D8 /* CheckingExistenceOfEdgeLengthLimitedPaths.swift in Sources */,
