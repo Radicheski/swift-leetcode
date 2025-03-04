@@ -704,6 +704,7 @@
 		ADCF6CB02B77A221008BC694 /* PalindromicSubstrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCF6CAF2B77A221008BC694 /* PalindromicSubstrings.swift */; };
 		ADCFF0DA2B18B3FA0026EBA8 /* MinimumOneBitOperationsToMakeIntegersZero.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCFF0D92B18B3FA0026EBA8 /* MinimumOneBitOperationsToMakeIntegersZero.swift */; };
 		ADD06F722D4D77C300E2B1D2 /* MakingALargeIsland.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD06F712D4D77C300E2B1D2 /* MakingALargeIsland.swift */; };
+		ADD085CF2D7700FF00C93C61 /* CheckIfNumberIsASumOfPowersOfThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD085CE2D7700FF00C93C61 /* CheckIfNumberIsASumOfPowersOfThree.swift */; };
 		ADD11B8D2D44F7F700921432 /* MakeLexicographicallySmallestArrayBySwappingElements.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD11B8C2D44F7F700921432 /* MakeLexicographicallySmallestArrayBySwappingElements.swift */; };
 		ADD124A6296EE14400E05EAB /* TimeNeededToInformAllEmployees.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD124A5296EE14400E05EAB /* TimeNeededToInformAllEmployees.swift */; };
 		ADD124A8296EE72500E05EAB /* MinimumTimeToCollectAllApplesInATree.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD124A7296EE72500E05EAB /* MinimumTimeToCollectAllApplesInATree.swift */; };
@@ -1617,6 +1618,7 @@
 		ADCF6CAF2B77A221008BC694 /* PalindromicSubstrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalindromicSubstrings.swift; sourceTree = "<group>"; };
 		ADCFF0D92B18B3FA0026EBA8 /* MinimumOneBitOperationsToMakeIntegersZero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumOneBitOperationsToMakeIntegersZero.swift; sourceTree = "<group>"; };
 		ADD06F712D4D77C300E2B1D2 /* MakingALargeIsland.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakingALargeIsland.swift; sourceTree = "<group>"; };
+		ADD085CE2D7700FF00C93C61 /* CheckIfNumberIsASumOfPowersOfThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckIfNumberIsASumOfPowersOfThree.swift; sourceTree = "<group>"; };
 		ADD11B8C2D44F7F700921432 /* MakeLexicographicallySmallestArrayBySwappingElements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakeLexicographicallySmallestArrayBySwappingElements.swift; sourceTree = "<group>"; };
 		ADD124A5296EE14400E05EAB /* TimeNeededToInformAllEmployees.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeNeededToInformAllEmployees.swift; sourceTree = "<group>"; };
 		ADD124A7296EE72500E05EAB /* MinimumTimeToCollectAllApplesInATree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumTimeToCollectAllApplesInATree.swift; sourceTree = "<group>"; };
@@ -1948,6 +1950,7 @@
 				ADFF1B082957165600D55D2C /* CheckIfItIsAStraightLine.swift */,
 				ADB1A705298EBC180059F3C9 /* CheckIfMatrixIsXMatrix.swift */,
 				AD5220222CFCCB9A00F9DE9E /* CheckIfNAndItsDoubleExist.swift */,
+				ADD085CE2D7700FF00C93C61 /* CheckIfNumberIsASumOfPowersOfThree.swift */,
 				AD2E2CEC2955D08200C790D0 /* CheckIfOneStringSwapCanMakeStringsEqual.swift */,
 				ADCE36652A890E6F00B6015B /* CheckIfThereIsAValidPartitionForTheArray.swift */,
 				ADF0D5E72B1A067000AA58CB /* CheckIfTwoStringArraysAreEquivalent.swift */,
@@ -3321,6 +3324,7 @@
 				AD27DB0D29AE2038007BAD2B /* FindDuplicateSubtrees.swift in Sources */,
 				AD8D07222B541E0C009E4C27 /* DetermineIfTwoStringsAreClose.swift in Sources */,
 				AD66415D2B49A8E800980F81 /* MaximumProfitInJobScheduling.swift in Sources */,
+				ADD085CF2D7700FF00C93C61 /* CheckIfNumberIsASumOfPowersOfThree.swift in Sources */,
 				AD94460729B75D9E00A9C5AE /* MinimumTimeToCompleteTrips.swift in Sources */,
 				AD6669FB29B60A5900C1D36A /* KthMissingPositiveNumber.swift in Sources */,
 				AD2D8D8F2CD2C3AF006378B1 /* MinimumNumberOfRemovalsToMakeMountainArray.swift in Sources */,
