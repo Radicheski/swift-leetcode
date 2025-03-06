@@ -660,6 +660,7 @@
 		ADC482CE28DF20DA00EAE8CC /* Permutations.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC482CD28DF20DA00EAE8CC /* Permutations.swift */; };
 		ADC482D028DF217100EAE8CC /* LetterCasePermutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC482CF28DF217100EAE8CC /* LetterCasePermutation.swift */; };
 		ADC489482B385B6A00DEA8C0 /* MinimumChangesToMakeAlternatingBinaryString.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC489472B385B6A00DEA8C0 /* MinimumChangesToMakeAlternatingBinaryString.swift */; };
+		ADC53A952D7A421B007CA4FA /* FindMissingAndRepeatedValues.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC53A942D7A421A007CA4FA /* FindMissingAndRepeatedValues.swift */; };
 		ADC5773529BE06CB009DEB71 /* MergeKSortedLists.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC5773429BE06CB009DEB71 /* MergeKSortedLists.swift */; };
 		ADC5823A28DB2CA9006D9591 /* MergeTwoBinaryTrees.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC5823928DB2CA9006D9591 /* MergeTwoBinaryTrees.swift */; };
 		ADC5823C28DB2DBA006D9591 /* PopulatingNextRightPointersInEachNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC5823B28DB2DBA006D9591 /* PopulatingNextRightPointersInEachNode.swift */; };
@@ -1574,6 +1575,7 @@
 		ADC482CD28DF20DA00EAE8CC /* Permutations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Permutations.swift; sourceTree = "<group>"; };
 		ADC482CF28DF217100EAE8CC /* LetterCasePermutation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LetterCasePermutation.swift; sourceTree = "<group>"; };
 		ADC489472B385B6A00DEA8C0 /* MinimumChangesToMakeAlternatingBinaryString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumChangesToMakeAlternatingBinaryString.swift; sourceTree = "<group>"; };
+		ADC53A942D7A421A007CA4FA /* FindMissingAndRepeatedValues.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindMissingAndRepeatedValues.swift; sourceTree = "<group>"; };
 		ADC5773429BE06CB009DEB71 /* MergeKSortedLists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeKSortedLists.swift; sourceTree = "<group>"; };
 		ADC5823928DB2CA9006D9591 /* MergeTwoBinaryTrees.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeTwoBinaryTrees.swift; sourceTree = "<group>"; };
 		ADC5823B28DB2DBA006D9591 /* PopulatingNextRightPointersInEachNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopulatingNextRightPointersInEachNode.swift; sourceTree = "<group>"; };
@@ -2116,6 +2118,7 @@
 				ADF031C02D08CC61000A0060 /* FindLongestSpecialSubstringThatOccursThrice1.swift */,
 				AD2DE15E2D1AE71600BF0213 /* FindMinimumDiameterAfterMergingTwoTrees.swift */,
 				ADF290F529016CF700A8AA6D /* FindMinimumInRotatedSortedArray.swift */,
+				ADC53A942D7A421A007CA4FA /* FindMissingAndRepeatedValues.swift */,
 				AD96A3BC2C8A38B10062B6DA /* FindMissingObservations.swift */,
 				AD6B62D92AF2BF920078A37A /* FindModeInBinarySearchTree.swift */,
 				ADD265922954849E0097DD23 /* FindNearestPointThatHasTheSameXOrYCoordinate.swift */,
@@ -2865,6 +2868,7 @@
 				AD7475D929F800B200CD014E /* SmallestNumberInInfiniteSet.swift in Sources */,
 				ADCE9E4E2C9CB80200B9F560 /* DifferentWaysToAddParentheses.swift in Sources */,
 				AD39943A2B8F8F9000611744 /* FindBottomLeftTreeValue.swift in Sources */,
+				ADC53A952D7A421B007CA4FA /* FindMissingAndRepeatedValues.swift in Sources */,
 				AD3ED08428D34EBD0080829A /* RotateArray.swift in Sources */,
 				AD4B03B22A20DA2E008020F5 /* StoneGame2.swift in Sources */,
 				AD13E4C42A31F899000E2C82 /* CountNegativeNumbersInASortedMatrix.swift in Sources */,
