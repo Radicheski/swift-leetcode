@@ -177,6 +177,7 @@
 		AD339A0F297ABD3F00E3856D /* DesignCircularQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD339A0E297ABD3F00E3856D /* DesignCircularQueue.swift */; };
 		AD339A11297ABD9F00E3856D /* MyCalendarI.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD339A10297ABD9F00E3856D /* MyCalendarI.swift */; };
 		AD339A13297AD0E000E3856D /* NonDecreasingSubsequences.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD339A12297AD0E000E3856D /* NonDecreasingSubsequences.swift */; };
+		AD3426B72D7B481100B0809B /* ClosestPrimeNumbersInRange.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3426B62D7B481100B0809B /* ClosestPrimeNumbersInRange.swift */; };
 		AD344F80294B427400DCAA09 /* LongestPalindromicSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD344F7F294B427400DCAA09 /* LongestPalindromicSubsequence.swift */; };
 		AD34E3482A1F9D90006404A0 /* New21Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD34E3472A1F9D90006404A0 /* New21Game.swift */; };
 		AD34FA9E2B6543C2009EB0AB /* KInversePairsArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD34FA9D2B6543C2009EB0AB /* KInversePairsArray.swift */; };
@@ -1092,6 +1093,7 @@
 		AD339A0E297ABD3F00E3856D /* DesignCircularQueue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignCircularQueue.swift; sourceTree = "<group>"; };
 		AD339A10297ABD9F00E3856D /* MyCalendarI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCalendarI.swift; sourceTree = "<group>"; };
 		AD339A12297AD0E000E3856D /* NonDecreasingSubsequences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NonDecreasingSubsequences.swift; sourceTree = "<group>"; };
+		AD3426B62D7B481100B0809B /* ClosestPrimeNumbersInRange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClosestPrimeNumbersInRange.swift; sourceTree = "<group>"; };
 		AD344F7F294B427400DCAA09 /* LongestPalindromicSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestPalindromicSubsequence.swift; sourceTree = "<group>"; };
 		AD34E3472A1F9D90006404A0 /* New21Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = New21Game.swift; sourceTree = "<group>"; };
 		AD34FA9D2B6543C2009EB0AB /* KInversePairsArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KInversePairsArray.swift; sourceTree = "<group>"; };
@@ -1882,6 +1884,7 @@
 				AD4B182C2966FE0600262815 /* AddBinary.swift */,
 				AD727CD229F98DC300FDD2A2 /* AddDigits.swift */,
 				AD6743362CFF8C3C00FD0A6E /* AddingSpacesToAString.swift */,
+				AD3426B62D7B481100B0809B /* ClosestPrimeNumbersInRange.swift */,
 				AD0A384D2BCEB154007B512F /* AddOneRowoTree.swift */,
 				ADE4724D28EAFE7D00B5E8D1 /* AddStrings.swift */,
 				AD4B182E2966FE7400262815 /* AddToArrayFormOfInteger.swift */,
@@ -3699,6 +3702,7 @@
 				AD3946F72C567FA8001054D1 /* SecondMinimumTimeToReachDestination.swift in Sources */,
 				AD035F2A2BF3A700008E1A6F /* PathWithMaximumGold.swift in Sources */,
 				ADB577DC2BFF7D0900AA3281 /* TheNumberOfBeautifulSubsets.swift in Sources */,
+				AD3426B72D7B481100B0809B /* ClosestPrimeNumbersInRange.swift in Sources */,
 				AD86E25729001496007E2A8D /* FindFirstAndLastPositionOfElementInSortedArray.swift in Sources */,
 				ADD9772028C7BD520028FCB0 /* LinkedListCycle.swift in Sources */,
 				ADE5A4332C47028D001551A4 /* StepByStepDirectionsFromABinaryTreeNodeToAnother.swift in Sources */,
