@@ -385,6 +385,7 @@
 		AD70BE832D2DAD2800F04F42 /* StringMatchingInAnArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD70BE822D2DAD2800F04F42 /* StringMatchingInAnArray.swift */; };
 		AD71216B2D68CD9E00CF7916 /* FindElementsInAContaminatedBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD71216A2D68CD9E00CF7916 /* FindElementsInAContaminatedBinaryTree.swift */; };
 		AD7150E929E2DEE700B71CCC /* LargestColorValueInADirectedGraph.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7150E829E2DEE700B71CCC /* LargestColorValueInADirectedGraph.swift */; };
+		AD7179F32D7F3D5A0030B01E /* CountOfSubstringsContainingEveryVowelAndKConsonantsII.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7179F22D7F3D590030B01E /* CountOfSubstringsContainingEveryVowelAndKConsonantsII.swift */; };
 		AD7194882CEA0F09007222AF /* ShortestSubarrayWithSumAtLeastK.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7194872CEA0F09007222AF /* ShortestSubarrayWithSumAtLeastK.swift */; };
 		AD71F3272A02C0FF003F0668 /* FindTheDifferenceOfTwoArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD71F3262A02C0FF003F0668 /* FindTheDifferenceOfTwoArrays.swift */; };
 		AD71F6EC2CCD09B100D23E78 /* HeightOfBinaryTreeAfterSubtreeRemovalQueries.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD71F6EB2CCD09B100D23E78 /* HeightOfBinaryTreeAfterSubtreeRemovalQueries.swift */; };
@@ -1303,6 +1304,7 @@
 		AD70BE822D2DAD2800F04F42 /* StringMatchingInAnArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringMatchingInAnArray.swift; sourceTree = "<group>"; };
 		AD71216A2D68CD9E00CF7916 /* FindElementsInAContaminatedBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindElementsInAContaminatedBinaryTree.swift; sourceTree = "<group>"; };
 		AD7150E829E2DEE700B71CCC /* LargestColorValueInADirectedGraph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargestColorValueInADirectedGraph.swift; sourceTree = "<group>"; };
+		AD7179F22D7F3D590030B01E /* CountOfSubstringsContainingEveryVowelAndKConsonantsII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountOfSubstringsContainingEveryVowelAndKConsonantsII.swift; sourceTree = "<group>"; };
 		AD7194872CEA0F09007222AF /* ShortestSubarrayWithSumAtLeastK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShortestSubarrayWithSumAtLeastK.swift; sourceTree = "<group>"; };
 		AD71F3262A02C0FF003F0668 /* FindTheDifferenceOfTwoArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheDifferenceOfTwoArrays.swift; sourceTree = "<group>"; };
 		AD71F6EB2CCD09B100D23E78 /* HeightOfBinaryTreeAfterSubtreeRemovalQueries.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeightOfBinaryTreeAfterSubtreeRemovalQueries.swift; sourceTree = "<group>"; };
@@ -2016,6 +2018,7 @@
 				ADEF265429966DC000F41404 /* CountNumberOfWaysToPlaceHouses.swift */,
 				AD69BA102951D67B00986792 /* CountOddNumbersInAnIntervalRange.swift */,
 				ADEB25C62B1F438100783C6E /* CountOfMatchesInTournament.swift */,
+				AD7179F22D7F3D590030B01E /* CountOfSubstringsContainingEveryVowelAndKConsonantsII.swift */,
 				AD5932C32D2F083F0025A268 /* CountPrefixAndSuffixPairs1.swift */,
 				ADDB77B52D42E6C900491ECB /* CountServersThatCommunicate.swift */,
 				AD6A80B52CCE7B8C00755E00 /* CountSquareSubmatricesWithAllOnes.swift */,
@@ -3428,6 +3431,7 @@
 				ADD2F0BE2964551F003B0038 /* EvaluateReversePolishNotation.swift in Sources */,
 				ADAD46C82A45D08B00274BA7 /* LongestArithmeticSubsequence.swift in Sources */,
 				AD80B2DE2CEFE33C0056DB79 /* CountUnguardedCellsInTheGrid.swift in Sources */,
+				AD7179F32D7F3D5A0030B01E /* CountOfSubstringsContainingEveryVowelAndKConsonantsII.swift in Sources */,
 				ADD1C41A28B3C83500E63642 /* BinarySearch.swift in Sources */,
 				AD0AFE0E2C387F4A0095C213 /* FindTheMinimumAndMaximumNumberOfNodesBetweenCriticalPoints.swift in Sources */,
 				ADA08C5A28D5E8E700B816C2 /* ReverseString.swift in Sources */,
