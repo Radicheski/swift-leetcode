@@ -923,6 +923,7 @@
 		ADFF4B3A2B4ECEA2008ECDDA /* AmountOfTimeForBinaryTreeToBeInfected.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADFF4B392B4ECEA2008ECDDA /* AmountOfTimeForBinaryTreeToBeInfected.swift */; };
 		ADFF7707290FE66500C26081 /* JumpGame2.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADFF7706290FE66500C26081 /* JumpGame2.swift */; };
 		ADFFB2C02D1997E30019B8B7 /* MinimumNumberOfOperationsToSortABinaryTreeByLevel.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADFFB2BF2D1997E30019B8B7 /* MinimumNumberOfOperationsToSortABinaryTreeByLevel.swift */; };
+		ADFFB3322D832DCB00D2166E /* ZeroArrayTransformationII.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADFFB3312D832DCB00D2166E /* ZeroArrayTransformationII.swift */; };
 		ADFFEB1D2B34618000BB0DA4 /* WidestVerticalAreaBetweenTwoPointsContainingNoPoints.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADFFEB1C2B34618000BB0DA4 /* WidestVerticalAreaBetweenTwoPointsContainingNoPoints.swift */; };
 		ADFFF6B52D3FF1CD00F84366 /* GridGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADFFF6B42D3FF1CD00F84366 /* GridGame.swift */; };
 /* End PBXBuildFile section */
@@ -1845,6 +1846,7 @@
 		ADFF4B392B4ECEA2008ECDDA /* AmountOfTimeForBinaryTreeToBeInfected.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AmountOfTimeForBinaryTreeToBeInfected.swift; sourceTree = "<group>"; };
 		ADFF7706290FE66500C26081 /* JumpGame2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpGame2.swift; sourceTree = "<group>"; };
 		ADFFB2BF2D1997E30019B8B7 /* MinimumNumberOfOperationsToSortABinaryTreeByLevel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberOfOperationsToSortABinaryTreeByLevel.swift; sourceTree = "<group>"; };
+		ADFFB3312D832DCB00D2166E /* ZeroArrayTransformationII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZeroArrayTransformationII.swift; sourceTree = "<group>"; };
 		ADFFEB1C2B34618000BB0DA4 /* WidestVerticalAreaBetweenTwoPointsContainingNoPoints.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WidestVerticalAreaBetweenTwoPointsContainingNoPoints.swift; sourceTree = "<group>"; };
 		ADFFF6B42D3FF1CD00F84366 /* GridGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridGame.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -1894,7 +1896,6 @@
 				AD4B182C2966FE0600262815 /* AddBinary.swift */,
 				AD727CD229F98DC300FDD2A2 /* AddDigits.swift */,
 				AD6743362CFF8C3C00FD0A6E /* AddingSpacesToAString.swift */,
-				AD38B1F12D81DF2C008A121B /* MaximumCountOfPositiveIntegerAndNegativeInteger.swift */,
 				AD0A384D2BCEB154007B512F /* AddOneRowoTree.swift */,
 				ADE4724D28EAFE7D00B5E8D1 /* AddStrings.swift */,
 				AD4B182E2966FE7400262815 /* AddToArrayFormOfInteger.swift */,
@@ -2329,6 +2330,7 @@
 				ADFAA0822D5190A7007EF5FE /* MaximumAscendingSubarraySum.swift */,
 				AD044E0D2D0EFAC40009EB31 /* MaximumAveragePassRatio.swift */,
 				AD29F18A2D0A19C8005C5308 /* MaximumBeautyOfAnArrayAfterApplyingOperation.swift */,
+				AD38B1F12D81DF2C008A121B /* MaximumCountOfPositiveIntegerAndNegativeInteger.swift */,
 				ADA4798A28CCCEF800C23FF0 /* MaximumDepthOfBinaryTree.swift */,
 				ADA0D1BE2B50231700D96295 /* MaximumDifferenceBetweenNodeAndAncestor.swift */,
 				AD14D41E2C6FE0180071F091 /* MaximumDistanceInArrays.swift */,
@@ -2802,6 +2804,7 @@
 				ADE79407290DA7D700D0D035 /* WordSearch.swift */,
 				ADD52C172D31B40A00354576 /* WordSubsets.swift */,
 				AD13690C2C94E7730045DD15 /* XORQueriesOfASubarray.swift */,
+				ADFFB3312D832DCB00D2166E /* ZeroArrayTransformationII.swift */,
 				ADE1BD2428DC7C2A008ED566 /* ZeroOneMatrix.swift */,
 				AD617F2E298D43E600708E31 /* ZigzagConversion.swift */,
 				AD4BDEAD28A7DF2100E61565 /* Commons */,
@@ -3632,6 +3635,7 @@
 				AD5CBBEC28B254A000495544 /* TreeNode.swift in Sources */,
 				ADD2DC572CE52B6600225BC2 /* CountTheNumberOfFairPairs.swift in Sources */,
 				AD74CBA52A96819300F08479 /* ReorganizeString.swift in Sources */,
+				ADFFB3322D832DCB00D2166E /* ZeroArrayTransformationII.swift in Sources */,
 				AD0A39672AB32C9E003BCCFA /* ReconstructItinerary.swift in Sources */,
 				ADABE4E72BE0132500B1C1AE /* MinimumNumberOfOperationsToMakeArrayXOREqualToK.swift in Sources */,
 				AD5065612B1B60FA009455AE /* FindWordsThatCanBeFormedByCharacters.swift in Sources */,
