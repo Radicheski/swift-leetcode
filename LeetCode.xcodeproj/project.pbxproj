@@ -782,6 +782,7 @@
 		ADDF8A17293F690800B0783F /* BestTimeToBuyAndSellStockWithTransactionFee.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADDF8A16293F690800B0783F /* BestTimeToBuyAndSellStockWithTransactionFee.swift */; };
 		ADE04C302C00D69900EC037A /* MaximumScoreWordsFormedByLetters.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE04C2F2C00D69900EC037A /* MaximumScoreWordsFormedByLetters.swift */; };
 		ADE096752D87633D00069F19 /* HouseRobberIV.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE096742D87633D00069F19 /* HouseRobberIV.swift */; };
+		ADE096772D8766CF00069F19 /* MinimumTimeToRepairCars.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE096762D8766CF00069F19 /* MinimumTimeToRepairCars.swift */; };
 		ADE0BD7B29C5F6D500F6E93F /* DesignBrowserHistory.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE0BD7A29C5F6D500F6E93F /* DesignBrowserHistory.swift */; };
 		ADE1390D29A790B400B3699C /* IPO.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE1390C29A790B400B3699C /* IPO.swift */; };
 		ADE175DC28B117420022F308 /* BestTimeToBuyAndSellStock.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE175DB28B117420022F308 /* BestTimeToBuyAndSellStock.swift */; };
@@ -1707,6 +1708,7 @@
 		ADDF8A16293F690800B0783F /* BestTimeToBuyAndSellStockWithTransactionFee.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BestTimeToBuyAndSellStockWithTransactionFee.swift; sourceTree = "<group>"; };
 		ADE04C2F2C00D69900EC037A /* MaximumScoreWordsFormedByLetters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumScoreWordsFormedByLetters.swift; sourceTree = "<group>"; };
 		ADE096742D87633D00069F19 /* HouseRobberIV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HouseRobberIV.swift; sourceTree = "<group>"; };
+		ADE096762D8766CF00069F19 /* MinimumTimeToRepairCars.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumTimeToRepairCars.swift; sourceTree = "<group>"; };
 		ADE0BD7A29C5F6D500F6E93F /* DesignBrowserHistory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignBrowserHistory.swift; sourceTree = "<group>"; };
 		ADE1390C29A790B400B3699C /* IPO.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IPO.swift; sourceTree = "<group>"; };
 		ADE175DB28B117420022F308 /* BestTimeToBuyAndSellStock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BestTimeToBuyAndSellStock.swift; sourceTree = "<group>"; };
@@ -1900,8 +1902,6 @@
 				AD4B182C2966FE0600262815 /* AddBinary.swift */,
 				AD727CD229F98DC300FDD2A2 /* AddDigits.swift */,
 				AD6743362CFF8C3C00FD0A6E /* AddingSpacesToAString.swift */,
-				AD5A72272D848088005E7E58 /* MaximumCandiesAllocatedToKChildren.swift */,
-				ADE096742D87633D00069F19 /* HouseRobberIV.swift */,
 				AD0A384D2BCEB154007B512F /* AddOneRowoTree.swift */,
 				ADE4724D28EAFE7D00B5E8D1 /* AddStrings.swift */,
 				AD4B182E2966FE7400262815 /* AddToArrayFormOfInteger.swift */,
@@ -2209,6 +2209,7 @@
 				AD71F6EB2CCD09B100D23E78 /* HeightOfBinaryTreeAfterSubtreeRemovalQueries.swift */,
 				AD8C5ACF28E074A000E821D7 /* HouseRobber.swift */,
 				AD6BF87F290EBE4F00C10525 /* HouseRobber2.swift */,
+				ADE096742D87633D00069F19 /* HouseRobberIV.swift */,
 				AD8AF1DC299A642C002C7C1C /* ImageSmoother.swift */,
 				AD844B0E28CA20F4008E1AEF /* ImplementQueueUsingStacks.swift */,
 				AD638E6B2A9CC08700641464 /* ImplementStackUsingQueues.swift */,
@@ -2336,6 +2337,7 @@
 				ADFAA0822D5190A7007EF5FE /* MaximumAscendingSubarraySum.swift */,
 				AD044E0D2D0EFAC40009EB31 /* MaximumAveragePassRatio.swift */,
 				AD29F18A2D0A19C8005C5308 /* MaximumBeautyOfAnArrayAfterApplyingOperation.swift */,
+				AD5A72272D848088005E7E58 /* MaximumCandiesAllocatedToKChildren.swift */,
 				AD38B1F12D81DF2C008A121B /* MaximumCountOfPositiveIntegerAndNegativeInteger.swift */,
 				ADA4798A28CCCEF800C23FF0 /* MaximumDepthOfBinaryTree.swift */,
 				ADA0D1BE2B50231700D96295 /* MaximumDifferenceBetweenNodeAndAncestor.swift */,
@@ -2471,6 +2473,7 @@
 				ADD124A7296EE72500E05EAB /* MinimumTimeToCollectAllApplesInATree.swift */,
 				AD94460629B75D9E00A9C5AE /* MinimumTimeToCompleteTrips.swift */,
 				ADE5E9DB2B3C41DF00511842 /* MinimumTimeToMakeRopeColorful.swift */,
+				ADE096762D8766CF00069F19 /* MinimumTimeToRepairCars.swift */,
 				AD9DA8102CFA58A300A13229 /* MinimumTimeToVisitACellInAGrid.swift */,
 				ADCBBC132B1CB9E20082E7D2 /* MinimumTimeVisitingAllPoints.swift */,
 				ADA0D34E2CD40B13007810ED /* MinimumTotalDistanceTraveled.swift */,
@@ -3008,6 +3011,7 @@
 				ADCFF0DA2B18B3FA0026EBA8 /* MinimumOneBitOperationsToMakeIntegersZero.swift in Sources */,
 				ADA3E8612C4AF244003A2409 /* LuckyNumbersInAMatrix.swift in Sources */,
 				AD9CFBE02C976A6100D3B8B9 /* FindTheLongestSubstringContainingVowelsInEvenCounts.swift in Sources */,
+				ADE096772D8766CF00069F19 /* MinimumTimeToRepairCars.swift in Sources */,
 				AD8273262C33615C00A5DD70 /* MinimumNumberOfDaysToMakeMBouquets.swift in Sources */,
 				AD98C90C2BEBE86100A92C22 /* RelativeRanks.swift in Sources */,
 				AD2AF1322C9A0FA3004E1F81 /* UncommonWordsFromTwoSentences.swift in Sources */,
