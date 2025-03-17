@@ -730,6 +730,7 @@
 		ADD2F0C229645ADB003B0038 /* DeleteColumnsToMakeSorted.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD2F0C129645ADB003B0038 /* DeleteColumnsToMakeSorted.swift */; };
 		ADD2F9182A3DF45300AC9783 /* MakeArrayStrictlyIncreasing.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD2F9172A3DF45300AC9783 /* MakeArrayStrictlyIncreasing.swift */; };
 		ADD40B8F2D7DA96E0050B083 /* AlternatingGroupsII.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD40B8E2D7DA96E0050B083 /* AlternatingGroupsII.swift */; };
+		ADD4CBFA2D887F1100D4D8F2 /* DivideArrayIntoEqualPairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD4CBF92D887F1100D4D8F2 /* DivideArrayIntoEqualPairs.swift */; };
 		ADD51E832A12586C00B9ED49 /* SwappingNodesInALinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD51E822A12586C00B9ED49 /* SwappingNodesInALinkedList.swift */; };
 		ADD52C182D31B40A00354576 /* WordSubsets.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD52C172D31B40A00354576 /* WordSubsets.swift */; };
 		ADD553E92C10B50000F15B6A /* FindCommonCharacters.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD553E82C10B50000F15B6A /* FindCommonCharacters.swift */; };
@@ -1655,6 +1656,7 @@
 		ADD2F0C129645ADB003B0038 /* DeleteColumnsToMakeSorted.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeleteColumnsToMakeSorted.swift; sourceTree = "<group>"; };
 		ADD2F9172A3DF45300AC9783 /* MakeArrayStrictlyIncreasing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakeArrayStrictlyIncreasing.swift; sourceTree = "<group>"; };
 		ADD40B8E2D7DA96E0050B083 /* AlternatingGroupsII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlternatingGroupsII.swift; sourceTree = "<group>"; };
+		ADD4CBF92D887F1100D4D8F2 /* DivideArrayIntoEqualPairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DivideArrayIntoEqualPairs.swift; sourceTree = "<group>"; };
 		ADD51E822A12586C00B9ED49 /* SwappingNodesInALinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwappingNodesInALinkedList.swift; sourceTree = "<group>"; };
 		ADD52C172D31B40A00354576 /* WordSubsets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordSubsets.swift; sourceTree = "<group>"; };
 		ADD553E82C10B50000F15B6A /* FindCommonCharacters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindCommonCharacters.swift; sourceTree = "<group>"; };
@@ -1901,6 +1903,7 @@
 			children = (
 				AD4B182C2966FE0600262815 /* AddBinary.swift */,
 				AD727CD229F98DC300FDD2A2 /* AddDigits.swift */,
+				ADD4CBF92D887F1100D4D8F2 /* DivideArrayIntoEqualPairs.swift */,
 				AD6743362CFF8C3C00FD0A6E /* AddingSpacesToAString.swift */,
 				AD0A384D2BCEB154007B512F /* AddOneRowoTree.swift */,
 				ADE4724D28EAFE7D00B5E8D1 /* AddStrings.swift */,
@@ -3163,6 +3166,7 @@
 				AD75563328EEF0A3004B7039 /* LongestPalindromicSubstring.swift in Sources */,
 				ADA4C4542ACEE1A4004A14E0 /* MajorityElement2.swift in Sources */,
 				AD3306EC29191AF6005FE669 /* ShuffleAnArray.swift in Sources */,
+				ADD4CBFA2D887F1100D4D8F2 /* DivideArrayIntoEqualPairs.swift in Sources */,
 				AD5ED47B29D3382200F6A4DC /* MinimumCostForTickets.swift in Sources */,
 				ADFF7707290FE66500C26081 /* JumpGame2.swift in Sources */,
 				ADADF18A28C8FF030021B192 /* RemoveDuplicatesFromSortedList.swift in Sources */,
