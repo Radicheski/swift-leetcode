@@ -40,6 +40,7 @@
 		AD06B6C129F06799005BF5B8 /* LongestZigZagPathInABinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD06B6C029F06799005BF5B8 /* LongestZigZagPathInABinaryTree.swift */; };
 		AD06B7472CF8F2590010584A /* MinimumObstacleRemovalToReachCorner.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD06B7462CF8F2590010584A /* MinimumObstacleRemovalToReachCorner.swift */; };
 		AD0717F72C66CC5000B54944 /* MagicSquaresInGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0717F62C66CC5000B54944 /* MagicSquaresInGrid.swift */; };
+		AD072A6D2D89C25C00AF2F24 /* LongestNiceSubarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD072A6C2D89C25C00AF2F24 /* LongestNiceSubarray.swift */; };
 		AD0740B92B823B6F0028E827 /* MeetingRooms3.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0740B82B823B6F0028E827 /* MeetingRooms3.swift */; };
 		AD078AAD2B4D766C003A968F /* LeafSimilarTrees.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD078AAC2B4D766C003A968F /* LeafSimilarTrees.swift */; };
 		AD07CAF828F5877E00B2E73A /* MinStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD07CAF728F5877E00B2E73A /* MinStack.swift */; };
@@ -966,6 +967,7 @@
 		AD06B6C029F06799005BF5B8 /* LongestZigZagPathInABinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestZigZagPathInABinaryTree.swift; sourceTree = "<group>"; };
 		AD06B7462CF8F2590010584A /* MinimumObstacleRemovalToReachCorner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumObstacleRemovalToReachCorner.swift; sourceTree = "<group>"; };
 		AD0717F62C66CC5000B54944 /* MagicSquaresInGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagicSquaresInGrid.swift; sourceTree = "<group>"; };
+		AD072A6C2D89C25C00AF2F24 /* LongestNiceSubarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestNiceSubarray.swift; sourceTree = "<group>"; };
 		AD0740B82B823B6F0028E827 /* MeetingRooms3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingRooms3.swift; sourceTree = "<group>"; };
 		AD078AAC2B4D766C003A968F /* LeafSimilarTrees.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeafSimilarTrees.swift; sourceTree = "<group>"; };
 		AD07CAF728F5877E00B2E73A /* MinStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinStack.swift; sourceTree = "<group>"; };
@@ -1908,6 +1910,7 @@
 				AD0A384D2BCEB154007B512F /* AddOneRowoTree.swift */,
 				ADE4724D28EAFE7D00B5E8D1 /* AddStrings.swift */,
 				AD4B182E2966FE7400262815 /* AddToArrayFormOfInteger.swift */,
+				AD072A6C2D89C25C00AF2F24 /* LongestNiceSubarray.swift */,
 				ADA580D128F043B20039F9BF /* AddTwoNumbers.swift */,
 				ADF243C6297443210006F2A4 /* AddTwoNumbers2.swift */,
 				AD4B7ED92C30341E00DFA06E /* AllAncestorsOfANodeInADirectedAcyclicGraph.swift */,
@@ -3280,6 +3283,7 @@
 				AD04C0872C2C999E00DD77D9 /* BalanceABinarySearchTree.swift in Sources */,
 				ADF9488028F6E07B006630E0 /* ConvertSortedArrayToBinarySearchTree.swift in Sources */,
 				AD4BDEA828A7DAB300E61565 /* RomanToInteger.swift in Sources */,
+				AD072A6D2D89C25C00AF2F24 /* LongestNiceSubarray.swift in Sources */,
 				ADCEB3C92B95EE3500E583BA /* BagOfTokens.swift in Sources */,
 				AD801F0C294893870098DF16 /* UniquePaths2.swift in Sources */,
 				AD4F327E2D30511F00F19357 /* CountingWordsWithAGivenPrefix.swift in Sources */,
