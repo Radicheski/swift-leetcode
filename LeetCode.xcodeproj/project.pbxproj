@@ -437,6 +437,7 @@
 		AD80B2DE2CEFE33C0056DB79 /* CountUnguardedCellsInTheGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD80B2DD2CEFE33C0056DB79 /* CountUnguardedCellsInTheGrid.swift */; };
 		AD80F1BB2C26279A00B234E0 /* GrumpyBookstoreOwner.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD80F1BA2C26279A00B234E0 /* GrumpyBookstoreOwner.swift */; };
 		AD8188F82A77CE8200665143 /* MinimumASCIIDeleteSumForTwoStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8188F72A77CE8200665143 /* MinimumASCIIDeleteSumForTwoStrings.swift */; };
+		AD81A9102D8E259B00A4D9C9 /* FindAllPossibleRecipesFromGivenSupplies.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD81A90F2D8E259B00A4D9C9 /* FindAllPossibleRecipesFromGivenSupplies.swift */; };
 		AD820F5928B6529700BA068E /* FloodFill.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD820F5828B6529700BA068E /* FloodFill.swift */; };
 		AD820F5B28B65A1C00BA068E /* NumberOfIslands.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD820F5A28B65A1C00BA068E /* NumberOfIslands.swift */; };
 		AD8273242C33602700A5DD70 /* ThreeConsecutiveOdds.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8273232C33602700A5DD70 /* ThreeConsecutiveOdds.swift */; };
@@ -1366,6 +1367,7 @@
 		AD80B2DD2CEFE33C0056DB79 /* CountUnguardedCellsInTheGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountUnguardedCellsInTheGrid.swift; sourceTree = "<group>"; };
 		AD80F1BA2C26279A00B234E0 /* GrumpyBookstoreOwner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GrumpyBookstoreOwner.swift; sourceTree = "<group>"; };
 		AD8188F72A77CE8200665143 /* MinimumASCIIDeleteSumForTwoStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumASCIIDeleteSumForTwoStrings.swift; sourceTree = "<group>"; };
+		AD81A90F2D8E259B00A4D9C9 /* FindAllPossibleRecipesFromGivenSupplies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindAllPossibleRecipesFromGivenSupplies.swift; sourceTree = "<group>"; };
 		AD820F5828B6529700BA068E /* FloodFill.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FloodFill.swift; sourceTree = "<group>"; };
 		AD820F5A28B65A1C00BA068E /* NumberOfIslands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfIslands.swift; sourceTree = "<group>"; };
 		AD8273232C33602700A5DD70 /* ThreeConsecutiveOdds.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreeConsecutiveOdds.swift; sourceTree = "<group>"; };
@@ -1911,7 +1913,6 @@
 				AD727CD229F98DC300FDD2A2 /* AddDigits.swift */,
 				AD6743362CFF8C3C00FD0A6E /* AddingSpacesToAString.swift */,
 				AD0A384D2BCEB154007B512F /* AddOneRowoTree.swift */,
-				AD244FD02D8C67DA00EA36CF /* MinimumCostWalkInWeightedGraph.swift */,
 				ADE4724D28EAFE7D00B5E8D1 /* AddStrings.swift */,
 				AD4B182E2966FE7400262815 /* AddToArrayFormOfInteger.swift */,
 				ADA580D128F043B20039F9BF /* AddTwoNumbers.swift */,
@@ -2129,6 +2130,7 @@
 				AD3E13802BB217C8002C9356 /* FindAllDuplicatesInAnArray.swift */,
 				AD9ABD342BD3E36100364FA2 /* FindAllGroupsOfFarmland.swift */,
 				AD0978962B8A4E99008453AB /* FindAllPeopleWithSecret.swift */,
+				AD81A90F2D8E259B00A4D9C9 /* FindAllPossibleRecipesFromGivenSupplies.swift */,
 				AD3994392B8F8F9000611744 /* FindBottomLeftTreeValue.swift */,
 				ADA812D72D18325400FE6191 /* FindBuildingWhereAliceAndBobCanMeet.swift */,
 				AD7ACE762C2DF46100862F4B /* FindCenterOfStarGraph.swift */,
@@ -2431,6 +2433,7 @@
 				ADAC8C782BEFB0A1004E123B /* MinimumCostToHireKWorkers.swift */,
 				AD60E4A52A436D20007828B7 /* MinimumCostToMakeArrayEqual.swift */,
 				ADF02F882D3BC595005EC69D /* MinimumCostToMakeAtLeastOneValidPathInAGrid.swift */,
+				AD244FD02D8C67DA00EA36CF /* MinimumCostWalkInWeightedGraph.swift */,
 				AD3F2D852AB0909D00004550 /* MinimumDeletionsToMakeCharacterFrequenciesUnique.swift */,
 				AD3CE8DF2C5984B800A64691 /* MinimumDeletionsToMakeStringBalanced.swift */,
 				AD653F622A5C2EEB00C7CCE8 /* MinimumDepthOfBinaryTree.swift */,
@@ -3779,6 +3782,7 @@
 				AD8818402A03E86900282ED6 /* Dota2Senate.swift in Sources */,
 				ADB53A3C28BA4BB200C937F7 /* LongestRepeatingCharacterReplacement.swift in Sources */,
 				ADCBBD8429212779006787B4 /* TaskScheduler.swift in Sources */,
+				AD81A9102D8E259B00A4D9C9 /* FindAllPossibleRecipesFromGivenSupplies.swift in Sources */,
 				AD03871A2B08DAF700390BA2 /* FrequencyOfTheMostFrequentElement.swift in Sources */,
 				AD69BA132951D6EE00986792 /* AverageSalaryExcludingTheMinimumAndMaximumSalary.swift in Sources */,
 				AD29CAE92A6D69070046FB4F /* AllPossibleFullBinaryTrees.swift in Sources */,
