@@ -176,6 +176,7 @@
 		AD3326FF29B8A213006715FD /* KokoEatingBananas.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3326FE29B8A213006715FD /* KokoEatingBananas.swift */; };
 		AD3342F22CBBF4C000A196B6 /* SmallestRangeCoveringElementsFromKLists.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3342F12CBBF4C000A196B6 /* SmallestRangeCoveringElementsFromKLists.swift */; };
 		AD338AB12B23406B0031BF81 /* ConstructStringFromBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD338AB02B23406B0031BF81 /* ConstructStringFromBinaryTree.swift */; };
+		AD3391E82D900F4800800927 /* NumberOfWaysToArriveAtDestination.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3391E72D900F4800800927 /* NumberOfWaysToArriveAtDestination.swift */; };
 		AD339A0D297ABCFF00E3856D /* InsertDeleteGetRandom.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD339A0C297ABCFF00E3856D /* InsertDeleteGetRandom.swift */; };
 		AD339A0F297ABD3F00E3856D /* DesignCircularQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD339A0E297ABD3F00E3856D /* DesignCircularQueue.swift */; };
 		AD339A11297ABD9F00E3856D /* MyCalendarI.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD339A10297ABD9F00E3856D /* MyCalendarI.swift */; };
@@ -1107,6 +1108,7 @@
 		AD3326FE29B8A213006715FD /* KokoEatingBananas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KokoEatingBananas.swift; sourceTree = "<group>"; };
 		AD3342F12CBBF4C000A196B6 /* SmallestRangeCoveringElementsFromKLists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallestRangeCoveringElementsFromKLists.swift; sourceTree = "<group>"; };
 		AD338AB02B23406B0031BF81 /* ConstructStringFromBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstructStringFromBinaryTree.swift; sourceTree = "<group>"; };
+		AD3391E72D900F4800800927 /* NumberOfWaysToArriveAtDestination.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfWaysToArriveAtDestination.swift; sourceTree = "<group>"; };
 		AD339A0C297ABCFF00E3856D /* InsertDeleteGetRandom.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsertDeleteGetRandom.swift; sourceTree = "<group>"; };
 		AD339A0E297ABD3F00E3856D /* DesignCircularQueue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignCircularQueue.swift; sourceTree = "<group>"; };
 		AD339A10297ABD9F00E3856D /* MyCalendarI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCalendarI.swift; sourceTree = "<group>"; };
@@ -2549,6 +2551,7 @@
 				ADF1D2402A06874C00385B0E /* NumberOfSubsequencesThatSatisfyTheGivenSumCondition.swift */,
 				ADE421A62D808CD80081A0BF /* NumberOfSubstringsContainingAllThreeCharacters.swift */,
 				AD61AC3E29D70AA600A4C392 /* NumberOfWaysOfCuttingAPizza.swift */,
+				AD3391E72D900F4800800927 /* NumberOfWaysToArriveAtDestination.swift */,
 				AD63BB6E2B16169200C39209 /* NumberOfWaysToDivideALongCorridor.swift */,
 				AD20999129EC743300F6831C /* NumberOfWaysToFormATargetStringGivenADictionary.swift */,
 				AD7A41AA2A3C88BE0060703D /* NumberOfWaysToReorderArrayToGetSameBST.swift */,
@@ -3130,6 +3133,7 @@
 				AD649F282AC4539600AB0D45 /* DecodedStringAtIndex.swift in Sources */,
 				ADEEDDB72B406C1D0074DB7D /* RedistributeCharactersToMakeAllStringsEqual.swift in Sources */,
 				AD8FC9C42C5AEB2400ED473A /* FillingBookcaseShelves.swift in Sources */,
+				AD3391E82D900F4800800927 /* NumberOfWaysToArriveAtDestination.swift in Sources */,
 				ADF9806C28AC03CF004BB6EC /* FindPivotIndex.swift in Sources */,
 				AD03742C2CC0431B00C3CBC8 /* LongestHappyString.swift in Sources */,
 				AD6BF882290EBEF200C10525 /* JumpGame.swift in Sources */,
