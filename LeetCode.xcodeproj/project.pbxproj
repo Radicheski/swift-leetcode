@@ -123,6 +123,7 @@
 		AD2481F52A5832E800780C84 /* MaximizeTheConfusionOfAnExam.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2481F42A5832E800780C84 /* MaximizeTheConfusionOfAnExam.swift */; };
 		AD2565B12B555E3800E61E7D /* FindPlayersWithZeroOrOneLosses.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2565B02B555E3800E61E7D /* FindPlayersWithZeroOrOneLosses.swift */; };
 		AD2590C02A2629D700D3C838 /* DesignHashSet.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2590BF2A2629D700D3C838 /* DesignHashSet.swift */; };
+		AD261F722D91ABEA00F4590A /* CountDaysWithoutMeetings.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD261F712D91ABEA00F4590A /* CountDaysWithoutMeetings.swift */; };
 		AD264CB92AE5715D00F8D6E6 /* MaximumScoreOfAGoodSubarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD264CB82AE5715D00F8D6E6 /* MaximumScoreOfAGoodSubarray.swift */; };
 		AD26A1A12D2647890017C34E /* CountVowelStringsInRanges.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD26A1A02D2647890017C34E /* CountVowelStringsInRanges.swift */; };
 		AD26B46E2D04BF72006A4B19 /* MinimumLimitOfBallsInABag.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD26B46D2D04BF72006A4B19 /* MinimumLimitOfBallsInABag.swift */; };
@@ -1055,6 +1056,7 @@
 		AD2481F42A5832E800780C84 /* MaximizeTheConfusionOfAnExam.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximizeTheConfusionOfAnExam.swift; sourceTree = "<group>"; };
 		AD2565B02B555E3800E61E7D /* FindPlayersWithZeroOrOneLosses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindPlayersWithZeroOrOneLosses.swift; sourceTree = "<group>"; };
 		AD2590BF2A2629D700D3C838 /* DesignHashSet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignHashSet.swift; sourceTree = "<group>"; };
+		AD261F712D91ABEA00F4590A /* CountDaysWithoutMeetings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountDaysWithoutMeetings.swift; sourceTree = "<group>"; };
 		AD264CB82AE5715D00F8D6E6 /* MaximumScoreOfAGoodSubarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumScoreOfAGoodSubarray.swift; sourceTree = "<group>"; };
 		AD26A1A02D2647890017C34E /* CountVowelStringsInRanges.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountVowelStringsInRanges.swift; sourceTree = "<group>"; };
 		AD26B46D2D04BF72006A4B19 /* MinimumLimitOfBallsInABag.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumLimitOfBallsInABag.swift; sourceTree = "<group>"; };
@@ -2030,6 +2032,7 @@
 				AD95D5142972D00E000EEFF6 /* CopyListWithRandomPointer.swift */,
 				AD03A0692A486DA700F7270D /* CountAllPossibleRoutes.swift */,
 				ADCDE5D62AAE01910030B8F8 /* CountAllValidPickupAndDeliveryOptions.swift */,
+				AD261F712D91ABEA00F4590A /* CountDaysWithoutMeetings.swift */,
 				AD3C90C72B9B59BC001F115E /* CountElementsWithMaximumFrequency.swift */,
 				ADE2479F2AA2226A006CD210 /* CountingBits.swift */,
 				AD4F327D2D30511F00F19357 /* CountingWordsWithAGivenPrefix.swift */,
@@ -3809,6 +3812,7 @@
 				AD08C63729C87CDD0090A40C /* CanPlaceFlowers.swift in Sources */,
 				AD41B0162C26F60D00A53604 /* CountNumberOfNiceSubarrays.swift in Sources */,
 				AD69520C2A2380370060C92F /* MinimumCostToCutAStick.swift in Sources */,
+				AD261F722D91ABEA00F4590A /* CountDaysWithoutMeetings.swift in Sources */,
 				AD7CBBB72CAF2A9C00F92A01 /* MakeSumDivisibleByP.swift in Sources */,
 				AD8957252B6D16C900A314FF /* SequentialDigits.swift in Sources */,
 				AD1847FA2C542C77003A848D /* FindTheCityWithTheSmallestNumberOfNeighborsAtAThresholdDistance.swift in Sources */,
