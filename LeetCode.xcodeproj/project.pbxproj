@@ -858,6 +858,7 @@
 		ADEE310728B7A6BE00448525 /* ClimbingStairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEE310628B7A6BE00448525 /* ClimbingStairs.swift */; };
 		ADEEDDB72B406C1D0074DB7D /* RedistributeCharactersToMakeAllStringsEqual.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEEDDB62B406C1D0074DB7D /* RedistributeCharactersToMakeAllStringsEqual.swift */; };
 		ADEF265529966DC000F41404 /* CountNumberOfWaysToPlaceHouses.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEF265429966DC000F41404 /* CountNumberOfWaysToPlaceHouses.swift */; };
+		ADEF3B222D95F6AF00ECA3E2 /* MinimumIndexOfAValidSplit.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEF3B212D95F6AF00ECA3E2 /* MinimumIndexOfAValidSplit.swift */; };
 		ADEF81CC2CCC243F0098DFC8 /* RemoveSubFoldersFromTheFilesystem.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEF81CB2CCC243F0098DFC8 /* RemoveSubFoldersFromTheFilesystem.swift */; };
 		ADEFAB362950973500560F1D /* CombinationSum4.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEFAB352950973500560F1D /* CombinationSum4.swift */; };
 		ADEFAB38295097B000560F1D /* PerfectSquares.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEFAB37295097B000560F1D /* PerfectSquares.swift */; };
@@ -1794,6 +1795,7 @@
 		ADEE310628B7A6BE00448525 /* ClimbingStairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClimbingStairs.swift; sourceTree = "<group>"; };
 		ADEEDDB62B406C1D0074DB7D /* RedistributeCharactersToMakeAllStringsEqual.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RedistributeCharactersToMakeAllStringsEqual.swift; sourceTree = "<group>"; };
 		ADEF265429966DC000F41404 /* CountNumberOfWaysToPlaceHouses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountNumberOfWaysToPlaceHouses.swift; sourceTree = "<group>"; };
+		ADEF3B212D95F6AF00ECA3E2 /* MinimumIndexOfAValidSplit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumIndexOfAValidSplit.swift; sourceTree = "<group>"; };
 		ADEF81CB2CCC243F0098DFC8 /* RemoveSubFoldersFromTheFilesystem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveSubFoldersFromTheFilesystem.swift; sourceTree = "<group>"; };
 		ADEFAB352950973500560F1D /* CombinationSum4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombinationSum4.swift; sourceTree = "<group>"; };
 		ADEFAB37295097B000560F1D /* PerfectSquares.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerfectSquares.swift; sourceTree = "<group>"; };
@@ -1927,7 +1929,6 @@
 				AD4B182E2966FE7400262815 /* AddToArrayFormOfInteger.swift */,
 				ADA580D128F043B20039F9BF /* AddTwoNumbers.swift */,
 				ADF243C6297443210006F2A4 /* AddTwoNumbers2.swift */,
-				AD10415B2D945175000B0A67 /* MinimumOperationsToMakeAUniValueGrid.swift */,
 				AD4B7ED92C30341E00DFA06E /* AllAncestorsOfANodeInADirectedAcyclicGraph.swift */,
 				AD9BEA5C2A5D761F0041D02B /* AllNodesDistanceKInBinaryTree.swift */,
 				ADFEE2DB2CA9DAC700B0F3C7 /* AllOoneDataStructure.swift */,
@@ -2461,6 +2462,7 @@
 				AD4F6607298A8D230015FB4B /* MinimumGeneticMutation.swift */,
 				AD06A2892BD8045700151E4E /* MinimumHeightTrees.swift */,
 				ADB81A032C1CC314003C0ACD /* MinimumIncrementToMakeArrayUnique.swift */,
+				ADEF3B212D95F6AF00ECA3E2 /* MinimumIndexOfAValidSplit.swift */,
 				AD979E7B29F4178800850BE9 /* MinimumInsertionStepsToMakeAStringPalindrome.swift */,
 				AD7B3DAF29893EB700DB46E4 /* MinimumJumpsToReachHome.swift */,
 				ADC715B22B978F54004CDA8F /* MinimumLengthOfStringAfterDeletingSimilarEnds.swift */,
@@ -2486,6 +2488,7 @@
 				AD06B7462CF8F2590010584A /* MinimumObstacleRemovalToReachCorner.swift */,
 				ADCFF0D92B18B3FA0026EBA8 /* MinimumOneBitOperationsToMakeIntegersZero.swift */,
 				ADE7B2F62D5E46670039CAF3 /* MinimumOperationsToExceedThresholdValue2.swift */,
+				AD10415B2D945175000B0A67 /* MinimumOperationsToMakeAUniValueGrid.swift */,
 				AD5193C02D8B204D00A22349 /* MinimumOperationsToMakeBinaryArrayElementsEqualToOneI.swift */,
 				ADAF39092ABB629C00C9CAD1 /* MinimumOperationsToReduceXToZero.swift */,
 				AD86268D2949F0E700027B1A /* MinimumPathSum.swift */,
@@ -3535,6 +3538,7 @@
 				ADA5884C2A59BCF900DB623B /* PutMarblesInBags.swift in Sources */,
 				ADFBDBBB2AD89178000D4997 /* FindInMountainArray.swift in Sources */,
 				AD1A7E192D023D3900D0EFF8 /* MovePiecesToObtainAString.swift in Sources */,
+				ADEF3B222D95F6AF00ECA3E2 /* MinimumIndexOfAValidSplit.swift in Sources */,
 				ADF0631728D4902300546CCC /* MoveZeroes.swift in Sources */,
 				ADE5E9DC2B3C41DF00511842 /* MinimumTimeToMakeRopeColorful.swift in Sources */,
 				AD17DA472B2B23AF00AA83F5 /* DifferenceBetweenOnesAndZerosInRowAndColumn.swift in Sources */,
