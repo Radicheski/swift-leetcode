@@ -557,6 +557,7 @@
 		AD9FF2072BD568CD00E923A8 /* FindIfPathExistsInGraph.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9FF2062BD568CD00E923A8 /* FindIfPathExistsInGraph.swift */; };
 		ADA00C172B7FC56C001A58C4 /* LeastNumberOfUniqueIntegersAfterKRemovals.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA00C162B7FC56C001A58C4 /* LeastNumberOfUniqueIntegersAfterKRemovals.swift */; };
 		ADA017E12D03819F00A76A02 /* MaximumNumberOfIntegersToChooseFromARange1.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA017E02D03819F00A76A02 /* MaximumNumberOfIntegersToChooseFromARange1.swift */; };
+		ADA059652D988DFD00B27319 /* MaximumNumberOfPointsFromGridQueries.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA059642D988DFD00B27319 /* MaximumNumberOfPointsFromGridQueries.swift */; };
 		ADA08C5A28D5E8E700B816C2 /* ReverseString.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA08C5928D5E8E700B816C2 /* ReverseString.swift */; };
 		ADA08C5C28D5E99600B816C2 /* ReverseWordsInAString3.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA08C5B28D5E99600B816C2 /* ReverseWordsInAString3.swift */; };
 		ADA0D1BF2B50231700D96295 /* MaximumDifferenceBetweenNodeAndAncestor.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA0D1BE2B50231700D96295 /* MaximumDifferenceBetweenNodeAndAncestor.swift */; };
@@ -1493,6 +1494,7 @@
 		AD9FF2062BD568CD00E923A8 /* FindIfPathExistsInGraph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindIfPathExistsInGraph.swift; sourceTree = "<group>"; };
 		ADA00C162B7FC56C001A58C4 /* LeastNumberOfUniqueIntegersAfterKRemovals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeastNumberOfUniqueIntegersAfterKRemovals.swift; sourceTree = "<group>"; };
 		ADA017E02D03819F00A76A02 /* MaximumNumberOfIntegersToChooseFromARange1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumNumberOfIntegersToChooseFromARange1.swift; sourceTree = "<group>"; };
+		ADA059642D988DFD00B27319 /* MaximumNumberOfPointsFromGridQueries.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumNumberOfPointsFromGridQueries.swift; sourceTree = "<group>"; };
 		ADA08C5928D5E8E700B816C2 /* ReverseString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseString.swift; sourceTree = "<group>"; };
 		ADA08C5B28D5E99600B816C2 /* ReverseWordsInAString3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseWordsInAString3.swift; sourceTree = "<group>"; };
 		ADA0D1BE2B50231700D96295 /* MaximumDifferenceBetweenNodeAndAncestor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumDifferenceBetweenNodeAndAncestor.swift; sourceTree = "<group>"; };
@@ -2386,6 +2388,7 @@
 				ADA017E02D03819F00A76A02 /* MaximumNumberOfIntegersToChooseFromARange1.swift */,
 				AD032B422D16DFDF00548B53 /* MaximumNumberOfKDivisibleComponents.swift */,
 				ADC9D7ED2CD17AD5006F227A /* MaximumNumberOfMovesInAGrid.swift */,
+				ADA059642D988DFD00B27319 /* MaximumNumberOfPointsFromGridQueries.swift */,
 				ADFBD2932C70C452001819BD /* MaximumNumberOfPointsWithCost.swift */,
 				ADEC4C712A04870400976373 /* MaximumNumberOfVowelsInASubstringOfGivenLength.swift */,
 				ADDADA8D2B9164EE00306DE5 /* MaximumOddBinaryNumber.swift */,
@@ -3692,6 +3695,7 @@
 				AD5065612B1B60FA009455AE /* FindWordsThatCanBeFormedByCharacters.swift in Sources */,
 				ADC46DB028A922C7003B926E /* NumberOfStepsRoReduceANumberToZero.swift in Sources */,
 				AD34FA9E2B6543C2009EB0AB /* KInversePairsArray.swift in Sources */,
+				ADA059652D988DFD00B27319 /* MaximumNumberOfPointsFromGridQueries.swift in Sources */,
 				AD4437572D5A9D4000725ECF /* ClearDigits.swift in Sources */,
 				AD852695293BA3ED0096B9D2 /* MaximumSumCircularSubarray.swift in Sources */,
 				AD42FF3729D4AA1F00B569EB /* ReducingDishes.swift in Sources */,
