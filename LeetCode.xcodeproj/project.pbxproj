@@ -438,6 +438,7 @@
 		AD7D9CDD29A91C4C00E0D269 /* MinimizeDeviationInArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7D9CDC29A91C4C00E0D269 /* MinimizeDeviationInArray.swift */; };
 		AD7DC46428CE023F00631E4A /* InvertBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7DC46328CE023F00631E4A /* InvertBinaryTree.swift */; };
 		AD7DC46628CE02A600631E4A /* PathSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7DC46528CE02A600631E4A /* PathSum.swift */; };
+		AD7DFDAA2DAA7E060015DE2F /* FindTheCountOfGoodIntegers.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7DFDA92DAA7E060015DE2F /* FindTheCountOfGoodIntegers.swift */; };
 		AD7E429F2CB0AAB50016F390 /* DividePlayersIntoTeamsofEqualSkill.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7E429E2CB0AAB50016F390 /* DividePlayersIntoTeamsofEqualSkill.swift */; };
 		AD7E57A92B2737D50026B458 /* ElementAppearingMoreThan25InSortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7E57A82B2737D50026B458 /* ElementAppearingMoreThan25InSortedArray.swift */; };
 		AD7F8B642A11074B00213368 /* MaximizeScoreAfterNOperations.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7F8B632A11074B00213368 /* MaximizeScoreAfterNOperations.swift */; };
@@ -1380,6 +1381,7 @@
 		AD7D9CDC29A91C4C00E0D269 /* MinimizeDeviationInArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimizeDeviationInArray.swift; sourceTree = "<group>"; };
 		AD7DC46328CE023F00631E4A /* InvertBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InvertBinaryTree.swift; sourceTree = "<group>"; };
 		AD7DC46528CE02A600631E4A /* PathSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathSum.swift; sourceTree = "<group>"; };
+		AD7DFDA92DAA7E060015DE2F /* FindTheCountOfGoodIntegers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheCountOfGoodIntegers.swift; sourceTree = "<group>"; };
 		AD7E429E2CB0AAB50016F390 /* DividePlayersIntoTeamsofEqualSkill.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DividePlayersIntoTeamsofEqualSkill.swift; sourceTree = "<group>"; };
 		AD7E57A82B2737D50026B458 /* ElementAppearingMoreThan25InSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ElementAppearingMoreThan25InSortedArray.swift; sourceTree = "<group>"; };
 		AD7F8B632A11074B00213368 /* MaximizeScoreAfterNOperations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximizeScoreAfterNOperations.swift; sourceTree = "<group>"; };
@@ -2194,6 +2196,7 @@
 				ADBA5AF92A335484008934B2 /* FindSmallestLetterGreaterThanTarget.swift */,
 				AD1847F92C542C77003A848D /* FindTheCityWithTheSmallestNumberOfNeighborsAtAThresholdDistance.swift */,
 				AD4111842C7A207800AE0077 /* FindTheClosestPalindrome.swift */,
+				AD7DFDA92DAA7E060015DE2F /* FindTheCountOfGoodIntegers.swift */,
 				AD9A0D8D295B5DBE009B9BB5 /* FindTheDifference.swift */,
 				AD71F3262A02C0FF003F0668 /* FindTheDifferenceOfTwoArrays.swift */,
 				AD3DD0E52AB9215F00ABED04 /* FindTheDuplicateNumber.swift */,
@@ -3022,6 +3025,7 @@
 				ADBAE76629B4C33A0015CE87 /* JumpGame4.swift in Sources */,
 				ADB9AE9028FAD463008FBC6A /* SerializeAndDeserializeBinaryTree.swift in Sources */,
 				AD3C92F028F19E7F00E90724 /* IntersectionOfTwoLinkedLists.swift in Sources */,
+				AD7DFDAA2DAA7E060015DE2F /* FindTheCountOfGoodIntegers.swift in Sources */,
 				ADACED462D7654BC005390BE /* MergeTwo2DArraysBySummingValues.swift in Sources */,
 				AD743E862AB21D5A00B1D79A /* Candy.swift in Sources */,
 				ADEFCB5428E5B7E000F62033 /* DesignHashMap.swift in Sources */,
