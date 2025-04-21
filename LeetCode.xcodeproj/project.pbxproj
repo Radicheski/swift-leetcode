@@ -908,6 +908,7 @@
 		ADF58E1028C622D7000E08DB /* FirstUniqueCharacterInAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF58E0F28C622D7000E08DB /* FirstUniqueCharacterInAString.swift */; };
 		ADF58E1228C6236D000E08DB /* ValidAnagram.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF58E1128C6236D000E08DB /* ValidAnagram.swift */; };
 		ADF5BF6F28CF7A3F00668B2D /* ListNodeTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF5BF6E28CF7A3F00668B2D /* ListNodeTest.swift */; };
+		ADF5FE1A2DB65ABC00345068 /* CountTheHiddenSequences.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF5FE192DB65ABC00345068 /* CountTheHiddenSequences.swift */; };
 		ADF677AF2917E870007CB647 /* BitwiseANDOfNumbersRange.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF677AE2917E870007CB647 /* BitwiseANDOfNumbersRange.swift */; };
 		ADF6F0C42B0CD3F5007F93A6 /* CountNicePairsInAnArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF6F0C32B0CD3F5007F93A6 /* CountNicePairsInAnArray.swift */; };
 		ADF7A6E22AE7EA5E001BDE5C /* FindLargestValueInEachTreeRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF7A6E12AE7EA5E001BDE5C /* FindLargestValueInEachTreeRow.swift */; };
@@ -1855,6 +1856,7 @@
 		ADF58E0F28C622D7000E08DB /* FirstUniqueCharacterInAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstUniqueCharacterInAString.swift; sourceTree = "<group>"; };
 		ADF58E1128C6236D000E08DB /* ValidAnagram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidAnagram.swift; sourceTree = "<group>"; };
 		ADF5BF6E28CF7A3F00668B2D /* ListNodeTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListNodeTest.swift; sourceTree = "<group>"; };
+		ADF5FE192DB65ABC00345068 /* CountTheHiddenSequences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountTheHiddenSequences.swift; sourceTree = "<group>"; };
 		ADF677AE2917E870007CB647 /* BitwiseANDOfNumbersRange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BitwiseANDOfNumbersRange.swift; sourceTree = "<group>"; };
 		ADF6F0C32B0CD3F5007F93A6 /* CountNicePairsInAnArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountNicePairsInAnArray.swift; sourceTree = "<group>"; };
 		ADF7A6E12AE7EA5E001BDE5C /* FindLargestValueInEachTreeRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindLargestValueInEachTreeRow.swift; sourceTree = "<group>"; };
@@ -2084,6 +2086,7 @@
 				AD9A8EFB2BB773B7007A12CF /* CountSubarraysWhereMaxElementAppearsAtLeastKTimes.swift */,
 				AD63B81329B363D200E41605 /* CountSubarraysWithFixedBounds.swift */,
 				ADF7AF11297ECC9B000B34DA /* CountSubIslands.swift */,
+				ADF5FE192DB65ABC00345068 /* CountTheHiddenSequences.swift */,
 				AD81A9112D8ED31900A4D9C9 /* CountTheNumberOfCompleteComponents.swift */,
 				ADEC51E02C937E6C00C44930 /* CountTheNumberOfConsistentStrings.swift */,
 				ADD2DC562CE52B6600225BC2 /* CountTheNumberOfFairPairs.swift */,
@@ -3570,6 +3573,7 @@
 				AD1FCE0529095CD800A9B623 /* SurroundedRegions.swift in Sources */,
 				ADD11B8D2D44F7F700921432 /* MakeLexicographicallySmallestArrayBySwappingElements.swift in Sources */,
 				ADE4C5A62B04F21200EA154A /* MaximumElementAfterDecreasingAndRearranging.swift in Sources */,
+				ADF5FE1A2DB65ABC00345068 /* CountTheHiddenSequences.swift in Sources */,
 				ADA51D8F2B9DE4C500F0D836 /* IntersectionOfTwoArrays.swift in Sources */,
 				AD6000632AA8FBB900818D78 /* SplitLinkedListInParts.swift in Sources */,
 				ADA5884C2A59BCF900DB623B /* PutMarblesInBags.swift in Sources */,
