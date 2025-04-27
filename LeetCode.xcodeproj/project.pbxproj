@@ -323,6 +323,7 @@
 		AD57D27E2C90F3A10078A25F /* InsertGreatestCommonDivisorsInLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD57D27D2C90F3A10078A25F /* InsertGreatestCommonDivisorsInLinkedList.swift */; };
 		AD57D52E2ADEAFCC00EDED2F /* ValidateBinaryTreeNodes.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD57D52D2ADEAFCC00EDED2F /* ValidateBinaryTreeNodes.swift */; };
 		AD57DCB62BA5E07F0074DB7F /* ContiguousArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD57DCB52BA5E07F0074DB7F /* ContiguousArray.swift */; };
+		AD581E142DBE566B007C8164 /* CountSubarraysOfLengthThreeWithACondition.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD581E132DBE566B007C8164 /* CountSubarraysOfLengthThreeWithACondition.swift */; };
 		AD5932C42D2F083F0025A268 /* CountPrefixAndSuffixPairs1.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5932C32D2F083F0025A268 /* CountPrefixAndSuffixPairs1.swift */; };
 		AD59FDCE2A9D7076007CC7AC /* MinimumPenaltyForAShop.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD59FDCD2A9D7076007CC7AC /* MinimumPenaltyForAShop.swift */; };
 		AD5A193F2CAB3D5E00696827 /* DesignAStackWithIncrementOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5A193E2CAB3D5E00696827 /* DesignAStackWithIncrementOperation.swift */; };
@@ -1272,6 +1273,7 @@
 		AD57D27D2C90F3A10078A25F /* InsertGreatestCommonDivisorsInLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsertGreatestCommonDivisorsInLinkedList.swift; sourceTree = "<group>"; };
 		AD57D52D2ADEAFCC00EDED2F /* ValidateBinaryTreeNodes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidateBinaryTreeNodes.swift; sourceTree = "<group>"; };
 		AD57DCB52BA5E07F0074DB7F /* ContiguousArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContiguousArray.swift; sourceTree = "<group>"; };
+		AD581E132DBE566B007C8164 /* CountSubarraysOfLengthThreeWithACondition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountSubarraysOfLengthThreeWithACondition.swift; sourceTree = "<group>"; };
 		AD5932C32D2F083F0025A268 /* CountPrefixAndSuffixPairs1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountPrefixAndSuffixPairs1.swift; sourceTree = "<group>"; };
 		AD59FDCD2A9D7076007CC7AC /* MinimumPenaltyForAShop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumPenaltyForAShop.swift; sourceTree = "<group>"; };
 		AD5A193E2CAB3D5E00696827 /* DesignAStackWithIncrementOperation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignAStackWithIncrementOperation.swift; sourceTree = "<group>"; };
@@ -2089,6 +2091,7 @@
 				AD5932C32D2F083F0025A268 /* CountPrefixAndSuffixPairs1.swift */,
 				ADDB77B52D42E6C900491ECB /* CountServersThatCommunicate.swift */,
 				AD6A80B52CCE7B8C00755E00 /* CountSquareSubmatricesWithAllOnes.swift */,
+				AD581E132DBE566B007C8164 /* CountSubarraysOfLengthThreeWithACondition.swift */,
 				AD9A8EFB2BB773B7007A12CF /* CountSubarraysWhereMaxElementAppearsAtLeastKTimes.swift */,
 				AD63B81329B363D200E41605 /* CountSubarraysWithFixedBounds.swift */,
 				ADF7AF11297ECC9B000B34DA /* CountSubIslands.swift */,
@@ -3208,6 +3211,7 @@
 				ADFFEB1D2B34618000BB0DA4 /* WidestVerticalAreaBetweenTwoPointsContainingNoPoints.swift in Sources */,
 				AD7E57A92B2737D50026B458 /* ElementAppearingMoreThan25InSortedArray.swift in Sources */,
 				AD9F99242D3D0C1B0099401F /* TrappingRainWater2.swift in Sources */,
+				AD581E142DBE566B007C8164 /* CountSubarraysOfLengthThreeWithACondition.swift in Sources */,
 				AD2E56622C5DAE2B0005CCC2 /* MakeTwoArraysEqualByReversingSubarrays.swift in Sources */,
 				AD8E8C1B2CDAAA0E00E6F703 /* MinimumNumberOfChangesToMakeBinaryStringBeautiful.swift in Sources */,
 				AD3793202BB319330047D1E0 /* FirstMissingPositive.swift in Sources */,
