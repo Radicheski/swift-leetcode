@@ -80,6 +80,7 @@
 		AD1421F72B8B7DB20070BD74 /* GreatestCommonDivisorTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1421F62B8B7DB20070BD74 /* GreatestCommonDivisorTraversal.swift */; };
 		AD145BBD2B1DEE0100FADB38 /* Largest3SameDigitNumberInString.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD145BBC2B1DEE0100FADB38 /* Largest3SameDigitNumberInString.swift */; };
 		AD14D41F2C6FE0180071F091 /* MaximumDistanceInArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD14D41E2C6FE0180071F091 /* MaximumDistanceInArrays.swift */; };
+		AD15228A2DC01E07001E383D /* CountSubarraysWithScoreLessThanK.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1522892DC01E07001E383D /* CountSubarraysWithScoreLessThanK.swift */; };
 		AD1560082AEA9E9200018BDB /* BinaryTreesWithFactors.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1560072AEA9E9200018BDB /* BinaryTreesWithFactors.swift */; };
 		AD15817F2985A7330087B1BE /* DataStreamAsDisjointIntervals.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD15817E2985A7330087B1BE /* DataStreamAsDisjointIntervals.swift */; };
 		AD159C802BD14EBA0070FD96 /* IslandPerimeter.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD159C7F2BD14EBA0070FD96 /* IslandPerimeter.swift */; };
@@ -1030,6 +1031,7 @@
 		AD1421F62B8B7DB20070BD74 /* GreatestCommonDivisorTraversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GreatestCommonDivisorTraversal.swift; sourceTree = "<group>"; };
 		AD145BBC2B1DEE0100FADB38 /* Largest3SameDigitNumberInString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Largest3SameDigitNumberInString.swift; sourceTree = "<group>"; };
 		AD14D41E2C6FE0180071F091 /* MaximumDistanceInArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumDistanceInArrays.swift; sourceTree = "<group>"; };
+		AD1522892DC01E07001E383D /* CountSubarraysWithScoreLessThanK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountSubarraysWithScoreLessThanK.swift; sourceTree = "<group>"; };
 		AD1560072AEA9E9200018BDB /* BinaryTreesWithFactors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryTreesWithFactors.swift; sourceTree = "<group>"; };
 		AD15817E2985A7330087B1BE /* DataStreamAsDisjointIntervals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataStreamAsDisjointIntervals.swift; sourceTree = "<group>"; };
 		AD159C7F2BD14EBA0070FD96 /* IslandPerimeter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IslandPerimeter.swift; sourceTree = "<group>"; };
@@ -2094,6 +2096,7 @@
 				AD581E132DBE566B007C8164 /* CountSubarraysOfLengthThreeWithACondition.swift */,
 				AD9A8EFB2BB773B7007A12CF /* CountSubarraysWhereMaxElementAppearsAtLeastKTimes.swift */,
 				AD63B81329B363D200E41605 /* CountSubarraysWithFixedBounds.swift */,
+				AD1522892DC01E07001E383D /* CountSubarraysWithScoreLessThanK.swift */,
 				ADF7AF11297ECC9B000B34DA /* CountSubIslands.swift */,
 				ADF5FE192DB65ABC00345068 /* CountTheHiddenSequences.swift */,
 				AD81A9112D8ED31900A4D9C9 /* CountTheNumberOfCompleteComponents.swift */,
@@ -3579,6 +3582,7 @@
 				ADA9AB522BDAA5E600986D9B /* LongestIdealSubsequence.swift in Sources */,
 				AD933EF228E46CAA00B1B2DA /* ThreeSum.swift in Sources */,
 				ADCA990C2B0245A60024114F /* SortVowelsInAString.swift in Sources */,
+				AD15228A2DC01E07001E383D /* CountSubarraysWithScoreLessThanK.swift in Sources */,
 				ADB1FB752B063A2E0001D251 /* FindUniqueBinaryString.swift in Sources */,
 				AD9F7E1C2A8BB4EC007AC176 /* PartitionList.swift in Sources */,
 				AD34E3482A1F9D90006404A0 /* New21Game.swift in Sources */,
