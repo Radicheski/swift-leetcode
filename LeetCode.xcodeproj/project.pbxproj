@@ -164,6 +164,7 @@
 		AD2FF7A528B506F90027AFB6 /* ValidateBinarySearchTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2FF7A428B506F90027AFB6 /* ValidateBinarySearchTree.swift */; };
 		AD2FF7A728B50D3F0027AFB6 /* LowestCommonAncestorOfABinarySearchTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2FF7A628B50D3F0027AFB6 /* LowestCommonAncestorOfABinarySearchTree.swift */; };
 		AD3035E22AF3D9DA000D642D /* CountNodesEqualToAverageOfSubtree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3035E12AF3D9DA000D642D /* CountNodesEqualToAverageOfSubtree.swift */; };
+		AD3057602DC6352600406F2B /* MinimumDominoRotationsForEqualRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD30575F2DC6352600406F2B /* MinimumDominoRotationsForEqualRow.swift */; };
 		AD31D256290BF75B0030D330 /* Permutations2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD31D255290BF75B0030D330 /* Permutations2.swift */; };
 		AD31D258290BF9A10030D330 /* CombinationSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD31D257290BF9A10030D330 /* CombinationSum.swift */; };
 		AD31D25A290BFA770030D330 /* CombinationSum2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD31D259290BFA770030D330 /* CombinationSum2.swift */; };
@@ -1116,6 +1117,7 @@
 		AD2FF7A428B506F90027AFB6 /* ValidateBinarySearchTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidateBinarySearchTree.swift; sourceTree = "<group>"; };
 		AD2FF7A628B50D3F0027AFB6 /* LowestCommonAncestorOfABinarySearchTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LowestCommonAncestorOfABinarySearchTree.swift; sourceTree = "<group>"; };
 		AD3035E12AF3D9DA000D642D /* CountNodesEqualToAverageOfSubtree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountNodesEqualToAverageOfSubtree.swift; sourceTree = "<group>"; };
+		AD30575F2DC6352600406F2B /* MinimumDominoRotationsForEqualRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumDominoRotationsForEqualRow.swift; sourceTree = "<group>"; };
 		AD31D255290BF75B0030D330 /* Permutations2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Permutations2.swift; sourceTree = "<group>"; };
 		AD31D257290BF9A10030D330 /* CombinationSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombinationSum.swift; sourceTree = "<group>"; };
 		AD31D259290BFA770030D330 /* CombinationSum2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombinationSum2.swift; sourceTree = "<group>"; };
@@ -2500,6 +2502,7 @@
 				AD6CB3DB2C35D46F0011A382 /* MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.swift */,
 				ADCA48672B3F063D0046A40E /* MinimumDifficultyOfAJobSchedule.swift */,
 				ADBB49D5299FA5DC00634482 /* MinimumDistanceBetweenBSTNodes.swift */,
+				AD30575F2DC6352600406F2B /* MinimumDominoRotationsForEqualRow.swift */,
 				ADBA3B9E2946224500F9F52F /* MinimumFallingPathSum.swift */,
 				ADB0DA502BDBE85900059D53 /* MinimumFallingPathSum2.swift */,
 				ADC14A802A3102B300512188 /* MinimumFlipsToMakeAORBEqualToC.swift */,
@@ -3122,6 +3125,7 @@
 				AD31D258290BF9A10030D330 /* CombinationSum.swift in Sources */,
 				AD6DEDDF2B267980009D02D7 /* TransposeMatrix.swift in Sources */,
 				AD3C92F228F19F2600E90724 /* RemoveDuplicatesFromSortedList2.swift in Sources */,
+				AD3057602DC6352600406F2B /* MinimumDominoRotationsForEqualRow.swift in Sources */,
 				ADBED2682CF20BC2007BA267 /* RotatingTheBox.swift in Sources */,
 				AD33093829AF790400415596 /* SortAnArray.swift in Sources */,
 				AD15817F2985A7330087B1BE /* DataStreamAsDisjointIntervals.swift in Sources */,
