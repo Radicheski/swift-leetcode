@@ -674,6 +674,7 @@
 		ADBD218829980DED00ECD987 /* DesignAddAndSearchWordsDataStructure.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBD218729980DED00ECD987 /* DesignAddAndSearchWordsDataStructure.swift */; };
 		ADBD27A72C407519009C6503 /* ReverseSubstringsBetweenEachPairOfParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBD27A62C407519009C6503 /* ReverseSubstringsBetweenEachPairOfParentheses.swift */; };
 		ADBDCC6D2D10D04D001B1121 /* FinalArrayStateAfterKMultiplicationOperations1.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBDCC6C2D10D04D001B1121 /* FinalArrayStateAfterKMultiplicationOperations1.swift */; };
+		ADBDF4002DCF6EDB009E5692 /* MinimumEqualSumOfTwoArraysAfterReplacingZeros.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBDF3FF2DCF6EDA009E5692 /* MinimumEqualSumOfTwoArraysAfterReplacingZeros.swift */; };
 		ADBDF86D2CA34E7900C55865 /* FindTheLengthOfTheLongestCommonPrefix.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBDF86C2CA34E7900C55865 /* FindTheLengthOfTheLongestCommonPrefix.swift */; };
 		ADBE3D5F2AAF3473005494AA /* GroupThePeopleGivenTheGroupSizeTheyBelongTo.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBE3D5E2AAF3473005494AA /* GroupThePeopleGivenTheGroupSizeTheyBelongTo.swift */; };
 		ADBED2682CF20BC2007BA267 /* RotatingTheBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBED2672CF20BC2007BA267 /* RotatingTheBox.swift */; };
@@ -1629,6 +1630,7 @@
 		ADBD218729980DED00ECD987 /* DesignAddAndSearchWordsDataStructure.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignAddAndSearchWordsDataStructure.swift; sourceTree = "<group>"; };
 		ADBD27A62C407519009C6503 /* ReverseSubstringsBetweenEachPairOfParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseSubstringsBetweenEachPairOfParentheses.swift; sourceTree = "<group>"; };
 		ADBDCC6C2D10D04D001B1121 /* FinalArrayStateAfterKMultiplicationOperations1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinalArrayStateAfterKMultiplicationOperations1.swift; sourceTree = "<group>"; };
+		ADBDF3FF2DCF6EDA009E5692 /* MinimumEqualSumOfTwoArraysAfterReplacingZeros.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumEqualSumOfTwoArraysAfterReplacingZeros.swift; sourceTree = "<group>"; };
 		ADBDF86C2CA34E7900C55865 /* FindTheLengthOfTheLongestCommonPrefix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheLengthOfTheLongestCommonPrefix.swift; sourceTree = "<group>"; };
 		ADBE3D5E2AAF3473005494AA /* GroupThePeopleGivenTheGroupSizeTheyBelongTo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupThePeopleGivenTheGroupSizeTheyBelongTo.swift; sourceTree = "<group>"; };
 		ADBED2672CF20BC2007BA267 /* RotatingTheBox.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotatingTheBox.swift; sourceTree = "<group>"; };
@@ -2508,6 +2510,7 @@
 				ADCA48672B3F063D0046A40E /* MinimumDifficultyOfAJobSchedule.swift */,
 				ADBB49D5299FA5DC00634482 /* MinimumDistanceBetweenBSTNodes.swift */,
 				AD30575F2DC6352600406F2B /* MinimumDominoRotationsForEqualRow.swift */,
+				ADBDF3FF2DCF6EDA009E5692 /* MinimumEqualSumOfTwoArraysAfterReplacingZeros.swift */,
 				ADBA3B9E2946224500F9F52F /* MinimumFallingPathSum.swift */,
 				ADB0DA502BDBE85900059D53 /* MinimumFallingPathSum2.swift */,
 				ADC14A802A3102B300512188 /* MinimumFlipsToMakeAORBEqualToC.swift */,
@@ -3006,6 +3009,7 @@
 				AD3DD0E62AB9215F00ABED04 /* FindTheDuplicateNumber.swift in Sources */,
 				ADB7F8D72C2F3DDD00A973D9 /* MaximumTotalImportanceOfRoads.swift in Sources */,
 				ADBADD862BA08D160043E945 /* CustomSortString.swift in Sources */,
+				ADBDF4002DCF6EDB009E5692 /* MinimumEqualSumOfTwoArraysAfterReplacingZeros.swift in Sources */,
 				AD50CF942B90FBC0009DB72E /* EvenOddTree.swift in Sources */,
 				ADD51E832A12586C00B9ED49 /* SwappingNodesInALinkedList.swift in Sources */,
 				AD3830842CE7A4360034DB3E /* ShortestSubarrayToBeRemovedToMakeArraySorted.swift in Sources */,
