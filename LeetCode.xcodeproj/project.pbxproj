@@ -903,6 +903,7 @@
 		ADF22B84292BA5AC00DF8FCA /* MaximumProductSubarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF22B83292BA5AC00DF8FCA /* MaximumProductSubarray.swift */; };
 		ADF243C7297443210006F2A4 /* AddTwoNumbers2.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF243C6297443210006F2A4 /* AddTwoNumbers2.swift */; };
 		ADF243C9297456480006F2A4 /* NumberOfGoodPaths.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF243C8297456480006F2A4 /* NumberOfGoodPaths.swift */; };
+		ADF284502DD7DBF500C7ED03 /* LongestUnequalAdjacentGroupsSubsequenceII.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF2844F2DD7DBF500C7ED03 /* LongestUnequalAdjacentGroupsSubsequenceII.swift */; };
 		ADF290F629016CF700A8AA6D /* FindMinimumInRotatedSortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF290F529016CF700A8AA6D /* FindMinimumInRotatedSortedArray.swift */; };
 		ADF290F829016FDF00A8AA6D /* FindPeakElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF290F729016FDF00A8AA6D /* FindPeakElement.swift */; };
 		ADF2AC1A2A37411E007F465E /* SummaryRangesTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF2AC192A37411E007F465E /* SummaryRangesTest.swift */; };
@@ -1862,6 +1863,7 @@
 		ADF22B83292BA5AC00DF8FCA /* MaximumProductSubarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumProductSubarray.swift; sourceTree = "<group>"; };
 		ADF243C6297443210006F2A4 /* AddTwoNumbers2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddTwoNumbers2.swift; sourceTree = "<group>"; };
 		ADF243C8297456480006F2A4 /* NumberOfGoodPaths.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfGoodPaths.swift; sourceTree = "<group>"; };
+		ADF2844F2DD7DBF500C7ED03 /* LongestUnequalAdjacentGroupsSubsequenceII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestUnequalAdjacentGroupsSubsequenceII.swift; sourceTree = "<group>"; };
 		ADF290F529016CF700A8AA6D /* FindMinimumInRotatedSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindMinimumInRotatedSortedArray.swift; sourceTree = "<group>"; };
 		ADF290F729016FDF00A8AA6D /* FindPeakElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindPeakElement.swift; sourceTree = "<group>"; };
 		ADF2AC192A37411E007F465E /* SummaryRangesTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SummaryRangesTest.swift; sourceTree = "<group>"; };
@@ -2387,6 +2389,7 @@
 				ADCB1CE42A55D04B00B040F6 /* LongestSubarrayOfOnesAfterDeletingOneElement.swift */,
 				AD3F20742C96478900540703 /* LongestSubarrayWithMaximumBitwiseAND.swift */,
 				ADD6AF4228D882B500D74CFB /* LongestSubstringWithoutRepeatingCharacters.swift */,
+				ADF2844F2DD7DBF500C7ED03 /* LongestUnequalAdjacentGroupsSubsequenceII.swift */,
 				AD06B6C029F06799005BF5B8 /* LongestZigZagPathInABinaryTree.swift */,
 				AD2FF7A628B50D3F0027AFB6 /* LowestCommonAncestorOfABinarySearchTree.swift */,
 				ADB9AE8D28FAD19D008FBC6A /* LowestCommonAncestorOfABinaryTree.swift */,
@@ -3248,6 +3251,7 @@
 				ADE04C302C00D69900EC037A /* MaximumScoreWordsFormedByLetters.swift in Sources */,
 				ADBD218829980DED00ECD987 /* DesignAddAndSearchWordsDataStructure.swift in Sources */,
 				ADD5D3F328A3120A00BD5BCC /* RansomNote.swift in Sources */,
+				ADF284502DD7DBF500C7ED03 /* LongestUnequalAdjacentGroupsSubsequenceII.swift in Sources */,
 				AD0B81B12C62AC98009D7A18 /* MinimumNumberOfPushesToTypeWord2.swift in Sources */,
 				AD2565B12B555E3800E61E7D /* FindPlayersWithZeroOrOneLosses.swift in Sources */,
 				AD2590C02A2629D700D3C838 /* DesignHashSet.swift in Sources */,
