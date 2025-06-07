@@ -747,6 +747,7 @@
 		ADCFF0DA2B18B3FA0026EBA8 /* MinimumOneBitOperationsToMakeIntegersZero.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCFF0D92B18B3FA0026EBA8 /* MinimumOneBitOperationsToMakeIntegersZero.swift */; };
 		ADD06F722D4D77C300E2B1D2 /* MakingALargeIsland.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD06F712D4D77C300E2B1D2 /* MakingALargeIsland.swift */; };
 		ADD085CF2D7700FF00C93C61 /* CheckIfNumberIsASumOfPowersOfThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD085CE2D7700FF00C93C61 /* CheckIfNumberIsASumOfPowersOfThree.swift */; };
+		ADD0F1E72DF460F5006974D4 /* LexicographicallyMinimumStringAfterRemovingStars.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD0F1E62DF460F5006974D4 /* LexicographicallyMinimumStringAfterRemovingStars.swift */; };
 		ADD11B8D2D44F7F700921432 /* MakeLexicographicallySmallestArrayBySwappingElements.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD11B8C2D44F7F700921432 /* MakeLexicographicallySmallestArrayBySwappingElements.swift */; };
 		ADD124A6296EE14400E05EAB /* TimeNeededToInformAllEmployees.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD124A5296EE14400E05EAB /* TimeNeededToInformAllEmployees.swift */; };
 		ADD124A8296EE72500E05EAB /* MinimumTimeToCollectAllApplesInATree.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD124A7296EE72500E05EAB /* MinimumTimeToCollectAllApplesInATree.swift */; };
@@ -1713,6 +1714,7 @@
 		ADCFF0D92B18B3FA0026EBA8 /* MinimumOneBitOperationsToMakeIntegersZero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumOneBitOperationsToMakeIntegersZero.swift; sourceTree = "<group>"; };
 		ADD06F712D4D77C300E2B1D2 /* MakingALargeIsland.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakingALargeIsland.swift; sourceTree = "<group>"; };
 		ADD085CE2D7700FF00C93C61 /* CheckIfNumberIsASumOfPowersOfThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckIfNumberIsASumOfPowersOfThree.swift; sourceTree = "<group>"; };
+		ADD0F1E62DF460F5006974D4 /* LexicographicallyMinimumStringAfterRemovingStars.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LexicographicallyMinimumStringAfterRemovingStars.swift; sourceTree = "<group>"; };
 		ADD11B8C2D44F7F700921432 /* MakeLexicographicallySmallestArrayBySwappingElements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakeLexicographicallySmallestArrayBySwappingElements.swift; sourceTree = "<group>"; };
 		ADD124A5296EE14400E05EAB /* TimeNeededToInformAllEmployees.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeNeededToInformAllEmployees.swift; sourceTree = "<group>"; };
 		ADD124A7296EE72500E05EAB /* MinimumTimeToCollectAllApplesInATree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumTimeToCollectAllApplesInATree.swift; sourceTree = "<group>"; };
@@ -2376,6 +2378,7 @@
 				ADC482CF28DF217100EAE8CC /* LetterCasePermutation.swift */,
 				ADE79403290DA55D00D0D035 /* LetterCombinationsOfAPhoneNumber.swift */,
 				ADD5E50B2D638F2700869C9D /* LetterTilePossibilities.swift */,
+				ADD0F1E62DF460F5006974D4 /* LexicographicallyMinimumStringAfterRemovingStars.swift */,
 				AD95D5162972D47F000EEFF6 /* LexicographicallySmallestEquivalentString.swift */,
 				AD7D69F92C9F681200AEF314 /* LexicographicalNumbers.swift */,
 				AD0C4DD62986D4DA00D15379 /* LFUCacheProblem.swift */,
@@ -3170,6 +3173,7 @@
 				AD3057602DC6352600406F2B /* MinimumDominoRotationsForEqualRow.swift in Sources */,
 				ADBED2682CF20BC2007BA267 /* RotatingTheBox.swift in Sources */,
 				AD33093829AF790400415596 /* SortAnArray.swift in Sources */,
+				ADD0F1E72DF460F5006974D4 /* LexicographicallyMinimumStringAfterRemovingStars.swift in Sources */,
 				AD15817F2985A7330087B1BE /* DataStreamAsDisjointIntervals.swift in Sources */,
 				AD1CBDDD2CFB405600F887E3 /* ValidArrangementOfPairs.swift in Sources */,
 				ADF02F872D3BC4CB005EC69D /* NeighboringBitwiseXOR.swift in Sources */,
